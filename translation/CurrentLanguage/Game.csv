@@ -633,7 +633,7 @@ ID,Revision,Text,Location,Section,Context,Actor,Voice Actor,Old Revision,Old Tex
 2129,194283,Tough Nut,Data/Achievement.lua(00500),,Achievement Tough Nut display_name,,,,Tough Nut,Tough Nut,硬骨頭,,OK,,
 2130,194283,Reached 250 Armor,Data/Achievement.lua(00501),,Achievement Tough Nut description,,,,Reached 250 Armor,Reached 250 Armor,已達到250防禦,,OK,,
 2131,194283,Reach 250 Armor,Data/Achievement.lua(00502),,Achievement Tough Nut how_to,,,,Reach 250 Armor,Reach 250 Armor,達到250防禦,,OK,,
-2132,194283,Attacks & Weapons,Data/CodexEntry.lua(00005),,CodexEntry Hint_Attacking DisplayName,,,,Attacks & Weapons,Attacks & Weapons,,,OK,,
+2132,194283,Attacks & Weapons,Data/CodexEntry.lua(00005),,CodexEntry Hint_Attacking DisplayName,,,,Attacks & Weapons,Attacks & Weapons,攻擊與武器,,OK,,
 2133,198395,"Equipped weapons determine your available attacks. Each weapon has a basic attack (<Attack1>) and two special attacks (<Attack2> and <Attack3>). Special attacks are powerful but have short cooldowns.
 
 Victor Vran will execute attacks in the direction of the mouse cursor and will target foes directly under the mouse cursor.
@@ -652,13 +652,13 @@ Victor Vran will execute attacks in the direction of the mouse cursor and will t
 
 Level 3 unlocks a second weapon slot. You can switch between your weapons with <SwitchWeapon>.
 
-Each weapon offers a different play style to master. To learn more about the specific weapons and their attacks, check out the Weapons category in the Codex.","Equipped weapons determine your available attacks. Each weapon has a basic attack (<Attack1>) and two special attacks (<Attack2> and <Attack3>). Special attacks are powerful but have short cooldowns.
+Each weapon offers a different play style to master. To learn more about the specific weapons and their attacks, check out the Weapons category in the Codex.","裝備的武器決定了你可以進行的攻擊方式。每種武器都有一個基本攻擊（<Attack1>）和兩個特殊攻擊（<Attack2> 和 <Attack3>）。特殊攻擊更加強力，但需要短暫的冷卻。
 
-Victor Vran will execute attacks in the direction of the mouse cursor and will target foes directly under the mouse cursor.
+維克多．弗蘭會對滑鼠游標的方向進行攻擊，並會將游標指著的敵人作為目標。
 
-Level 4 unlocks a second weapon slot. You can switch between your weapons with <SwitchWeapon>.
+等級4時會解鎖第二個武器欄。你可以按 <SwitchWeapon> 切換武器。
 
-Each weapon offers a different play style to master. To learn more about the specific weapons and their attacks, check out the Weapons category in the Codex.",,OK,,
+每種武器都能帶來不同的玩法。想深入了解特定武器和攻擊方式，請查閱百科中的武器章節。",,OK,,
 2134,198395,"Equipped weapons determine your available attacks. Each weapon has a basic attack (<Attack1>) and two special attacks (<Attack2> and <Attack3>). Special attacks are powerful but have short cooldowns. Hold <ForceAttack> to attack at your current position.
 
 Level 4 unlocks a second weapon slot. You can switch between your weapons with <SwitchWeapon>.
@@ -671,11 +671,11 @@ Each weapon offers a different play style to master. To learn more about the spe
 
 Level 3 unlocks a second weapon slot. You can switch between your weapons with <SwitchWeapon>.
 
-Each weapon offers a different play style to master. To learn more about the specific weapons and their attacks, check out the Weapons category in the Codex.","Equipped weapons determine your available attacks. Each weapon has a basic attack (<Attack1>) and two special attacks (<Attack2> and <Attack3>). Special attacks are powerful but have short cooldowns. Hold <ForceAttack> to attack at your current position.
+Each weapon offers a different play style to master. To learn more about the specific weapons and their attacks, check out the Weapons category in the Codex.","裝備的武器決定了你可以進行的攻擊方式。每種武器都有一個基本攻擊（<Attack1>）和兩個特殊攻擊（<Attack2> 和 <Attack3>）。特殊攻擊更加強力，但需要短暫的冷卻。按住 <ForceAttack> 可在目前位置進行攻擊。
 
-Level 4 unlocks a second weapon slot. You can switch between your weapons with <SwitchWeapon>.
+等級4時會解鎖第二個武器欄。你可以按 <SwitchWeapon> 切換武器。
 
-Each weapon offers a different play style to master. To learn more about the specific weapons and their attacks, check out the Weapons category in the Codex.",,OK,,
+每種武器都能帶來不同的玩法。想深入了解特定武器和攻擊方式，請查閱百科中的武器章節。",,OK,,
 2135,198395,"Equipped weapons determine your available attacks. Each weapon has a basic attack (<X>) and two special attacks (<Y> and <B>). Special attacks are powerful but have short cooldowns.
 
 Level 4 unlocks a second weapon slot. You can switch between your weapons with <RB>.
@@ -688,42 +688,50 @@ Each weapon offers a different play style to master. To learn more about the spe
 
 Level 3 unlocks a second weapon slot. You can switch between your weapons with <RB>.
 
-Each weapon offers a different play style to master. To learn more about the specific weapons and their attacks, check out the Weapons category in the Codex.","Equipped weapons determine your available attacks. Each weapon has a basic attack (<X>) and two special attacks (<Y> and <B>). Special attacks are powerful but have short cooldowns.
+Each weapon offers a different play style to master. To learn more about the specific weapons and their attacks, check out the Weapons category in the Codex.","裝備的武器決定了你可以進行的攻擊方式。每種武器都有一個基本攻擊（<X>）和兩個特殊攻擊（<Y> 和 <B>）。特殊攻擊更加強力，但需要短暫的冷卻。
 
-Level 4 unlocks a second weapon slot. You can switch between your weapons with <RB>.
+等級4時會解鎖第二個武器欄。你可以按 <RB> 切換武器。
 
-Each weapon offers a different play style to master. To learn more about the specific weapons and their attacks, check out the Weapons category in the Codex.",,OK,,
-2136,194283,Legendary Weapons,Data/CodexEntry.lua(00013),,CodexEntry Hint_LegendaryWeapons DisplayName,,,,Legendary Weapons,Legendary Weapons,,,OK,,
+每種武器都能帶來不同的玩法。想深入了解特定武器和攻擊方式，請查閱百科中的武器章節。",,OK,,
+2136,194283,Legendary Weapons,Data/CodexEntry.lua(00013),,CodexEntry Hint_LegendaryWeapons DisplayName,,,,Legendary Weapons,Legendary Weapons,傳奇武器,,OK,,
 2137,194323,"Legendary weapons are some of the most powerful tools of the hunter's trade. Their stats are not randomized and they have unique effects and attacks that can't be found on any other weapon.
 
 The damage of all Legendary weapons scales as you level up.",Data/CodexEntry.lua(00014),,CodexEntry Hint_LegendaryWeapons Description,,,,"Legendary weapons are some of the most powerful tools of the hunter's trade. Their stats are not randomized and they have unique effects and attacks that can't be found on any other weapon.
 
 The damage of all Legendary weapons scales as you level up.","Legendary weapons are some of the most powerful tools of the hunter's trade. Their stats are not randomized and they have unique effects and attacks that can't be found on any other weapon.
 
-The damage of all Legendary weapons scales as you level up.",,,OK,,
-2138,194283,Consumables,Data/CodexEntry.lua(00019),,CodexEntry Hint_Potions DisplayName,,,,Consumables,Consumables,,,OK,,
+The damage of all Legendary weapons scales as you level up.","傳奇武器是獵人世界裡最強大的工具之一。它們的數據不是隨機的，每一把傳奇武器都有別於其它武器的獨特效果和攻擊方式。
+
+所有傳奇武器的傷害都會隨你的等級提升。",,OK,,
+2138,194283,Consumables,Data/CodexEntry.lua(00019),,CodexEntry Hint_Potions DisplayName,,,,Consumables,Consumables,消耗品,,OK,,
 2139,194283,"You can equip two stacks of Consumables that can be activated with <UseConsumable1> and <UseConsumable2>.
 
 Potions heal and grant beneficial effects. Bombs deal damage and apply different effects to all foes in a large area around the hero. Bombs have long cooldowns, so use them wisely.",Data/CodexEntry.lua(00020),,CodexEntry Hint_Potions Description,,,,"You can equip two stacks of Consumables that can be activated with <UseConsumable1> and <UseConsumable2>.
 
 Potions heal and grant beneficial effects. Bombs deal damage and apply different effects to all foes in a large area around the hero. Bombs have long cooldowns, so use them wisely.","You can equip two stacks of Consumables that can be activated with <UseConsumable1> and <UseConsumable2>.
 
-Potions heal and grant beneficial effects. Bombs deal damage and apply different effects to all foes in a large area around the hero. Bombs have long cooldowns, so use them wisely.",,,OK,,
+Potions heal and grant beneficial effects. Bombs deal damage and apply different effects to all foes in a large area around the hero. Bombs have long cooldowns, so use them wisely.","你可以裝備兩組消耗品，分別按 <UseConsumable1> 和 <UseConsumable2> 使用。
+
+藥劑可以治癒傷勢、強化能力。炸彈可以對玩家周圍大範圍的敵人造成傷害以及施加不同效果。炸彈的冷卻時間很長，請謹慎使用。",,OK,,
 2140,194283,"You can equip two stacks of Consumables that can be activated with <UseConsumable1> and <UseConsumable2>.
 
 Potions heal and grant beneficial effects. Bombs deal damage and apply different effects to all foes in a large area around the hero. Bombs have long cooldowns, so use them wisely.",Data/CodexEntry.lua(00021),,CodexEntry Hint_Potions MouseDescription,,,,"You can equip two stacks of Consumables that can be activated with <UseConsumable1> and <UseConsumable2>.
 
 Potions heal and grant beneficial effects. Bombs deal damage and apply different effects to all foes in a large area around the hero. Bombs have long cooldowns, so use them wisely.","You can equip two stacks of Consumables that can be activated with <UseConsumable1> and <UseConsumable2>.
 
-Potions heal and grant beneficial effects. Bombs deal damage and apply different effects to all foes in a large area around the hero. Bombs have long cooldowns, so use them wisely.",,,OK,,
+Potions heal and grant beneficial effects. Bombs deal damage and apply different effects to all foes in a large area around the hero. Bombs have long cooldowns, so use them wisely.","你可以裝備兩組消耗品，分別按 <UseConsumable1> 和 <UseConsumable2> 使用。
+
+藥劑可以治癒傷勢、強化能力。炸彈可以對玩家周圍大範圍的敵人造成傷害以及施加不同效果。炸彈的冷卻時間很長，請謹慎使用。",,OK,,
 2141,194283,"You can equip two stacks of Consumables that can be activated with <DPadLeft> and <DPadRight>.
 
 Potions heal and grant beneficial effects. Bombs deal damage and apply different effects to all foes in a large area around the hero. Bombs have long cooldowns, so use them wisely.",Data/CodexEntry.lua(00022),,CodexEntry Hint_Potions GamepadDescription,,,,"You can equip two stacks of Consumables that can be activated with <DPadLeft> and <DPadRight>.
 
 Potions heal and grant beneficial effects. Bombs deal damage and apply different effects to all foes in a large area around the hero. Bombs have long cooldowns, so use them wisely.","You can equip two stacks of Consumables that can be activated with <DPadLeft> and <DPadRight>.
 
-Potions heal and grant beneficial effects. Bombs deal damage and apply different effects to all foes in a large area around the hero. Bombs have long cooldowns, so use them wisely.",,,OK,,
-2142,194283,Overdrive,Data/CodexEntry.lua(00027),,CodexEntry Hint_Overdrive DisplayName,,,,Overdrive,Overdrive,,,OK,,
+Potions heal and grant beneficial effects. Bombs deal damage and apply different effects to all foes in a large area around the hero. Bombs have long cooldowns, so use them wisely.","你可以裝備兩組消耗品，分別按 <DPadLeft> 和 <DPadRight> 使用。
+
+藥劑可以治癒傷勢、強化能力。炸彈可以對玩家周圍大範圍的敵人造成傷害以及施加不同效果。炸彈的冷卻時間很長，請謹慎使用。",,OK,,
+2142,194283,Overdrive,Data/CodexEntry.lua(00027),,CodexEntry Hint_Overdrive DisplayName,,,,Overdrive,Overdrive,超能量,,OK,,
 2143,194283,"You gain Overdrive when attacking and killing monsters. Overdrive is indicated by the yellow bar next to your health. The more damage an attack makes, the more Overdrive it provides.
 
 Overdrive is spent to activate supernatural attacks called Demon Powers (<UseRune1> and <UseRune2>). You can hold the buttons to aim and target where the attack will land precisely.
@@ -736,7 +744,11 @@ Outfits modify the way Victor Vran gains or spends Overdrive. For example the st
 
 Overdrive is spent to activate supernatural attacks called Demon Powers (<UseRune1> and <UseRune2>). You can hold the buttons to aim and target where the attack will land precisely.
 
-Outfits modify the way Victor Vran gains or spends Overdrive. For example the starting Hunter's Outfit provides additional Overdrive when you take damage.",,,OK,,
+Outfits modify the way Victor Vran gains or spends Overdrive. For example the starting Hunter's Outfit provides additional Overdrive when you take damage.","你會在攻擊和擊殺怪物時獲得超能量。超能量顯示在生命值右邊的黃色條。攻擊造成的傷害越高，獲得的超能量就越多。
+
+超能量可以用來施展惡魔之力（<UseRune1> 和 <UseRune2>）。按住按鍵可以精確瞄準攻擊位置。
+
+服裝也會改變維克多．弗蘭獲得或使用超能量的方式。例如：初始的獵人服裝能使你在受到傷害時獲得額外的超能量。",,OK,,
 2144,194283,"You gain Overdrive when attacking and killing monsters. Overdrive is indicated by the yellow bar next to your health. The more damage an attack makes, the more Overdrive it provides.
 
 Overdrive is spent to activate supernatural attacks called Demon Powers (<LT> and <RT>). You can hold the buttons to aim and target where the attack will land precisely.
@@ -749,20 +761,24 @@ Outfits modify the way Victor Vran gains or spends Overdrive. For example the st
 
 Overdrive is spent to activate supernatural attacks called Demon Powers (<LT> and <RT>). You can hold the buttons to aim and target where the attack will land precisely.
 
-Outfits modify the way Victor Vran gains or spends Overdrive. For example the starting Hunter's Outfit provides additional Overdrive when you take damage.",,,OK,,
-2145,194283,Champions,Data/CodexEntry.lua(00034),,CodexEntry Hint_Champions DisplayName,,,,Champions,Champions,,,OK,,
-2146,194283,Champion foes are some of the more powerful monsters you'll face. They are tougher then other members of their kin and may have additional attributes. In addition each Champion monster will use a specific Demon Power against you. Slaying Champions gives you a chance to acquire their Demon Powers.,Data/CodexEntry.lua(00035),,CodexEntry Hint_Champions Description,,,,Champion foes are some of the more powerful monsters you'll face. They are tougher then other members of their kin and may have additional attributes. In addition each Champion monster will use a specific Demon Power against you. Slaying Champions gives you a chance to acquire their Demon Powers.,Champion foes are some of the more powerful monsters you'll face. They are tougher then other members of their kin and may have additional attributes. In addition each Champion monster will use a specific Demon Power against you. Slaying Champions gives you a chance to acquire their Demon Powers.,Champion foes are some of the more powerful monsters you'll face. They are tougher than other members of their kin and may have additional attributes. In addition each Champion monster will use a specific Demon Power against you. Slaying Champions gives you a chance to acquire their Demon Powers.,,OK,,
-2147,194283,Outfits,Data/CodexEntry.lua(00040),,CodexEntry Hint_Outfits DisplayName,,,,Outfits,Outfits,,,OK,,
+Outfits modify the way Victor Vran gains or spends Overdrive. For example the starting Hunter's Outfit provides additional Overdrive when you take damage.","你會在攻擊和擊殺怪物時獲得超能量。超能量顯示在生命值右邊的黃色條。攻擊造成的傷害越高，獲得的超能量就越多。
+
+超能量可以用來施展惡魔之力（<LT> 和 <RT>）。按住按鈕可以精確瞄準攻擊位置。
+
+服裝也會改變維克多．弗蘭獲得或使用超能量的方式。例如：初始的獵人服裝能使你在受到傷害時獲得額外的超能量。",,OK,,
+2145,194283,Champions,Data/CodexEntry.lua(00034),,CodexEntry Hint_Champions DisplayName,,,,Champions,Champions,戰魔,,OK,,
+2146,194283,Champion foes are some of the more powerful monsters you'll face. They are tougher then other members of their kin and may have additional attributes. In addition each Champion monster will use a specific Demon Power against you. Slaying Champions gives you a chance to acquire their Demon Powers.,Data/CodexEntry.lua(00035),,CodexEntry Hint_Champions Description,,,,Champion foes are some of the more powerful monsters you'll face. They are tougher then other members of their kin and may have additional attributes. In addition each Champion monster will use a specific Demon Power against you. Slaying Champions gives you a chance to acquire their Demon Powers.,Champion foes are some of the more powerful monsters you'll face. They are tougher then other members of their kin and may have additional attributes. In addition each Champion monster will use a specific Demon Power against you. Slaying Champions gives you a chance to acquire their Demon Powers.,戰魔是你會遇見的強大怪物。它們比同類的普通怪物更加棘手，可能還有額外的屬性。除此之外，每個戰魔都會使用獨特的惡魔之力，殺了它們可讓你有機會獲得其惡魔之力。,,OK,,
+2147,194283,Outfits,Data/CodexEntry.lua(00040),,CodexEntry Hint_Outfits DisplayName,,,,Outfits,Outfits,服裝,,OK,,
 2148,195189,"Outfits are items that change your outlook and the way you use Demon Powers and Overdrive. Some Outfits provide Armor and other bonuses.
 
 You may customize the color of your Outfit by transmuting it together with Dyes.",Data/CodexEntry.lua(00041),,CodexEntry Hint_Outfits Description,,,,"Outfits are items that change your outlook and the way you use Demon Powers and Overdrive. Some Outfits provide Armor and other bonuses.
 
 You may be unable to equip some Outfits the moment you pick them up, as they have requirements you have to fulfill.","Outfits are items that change your outlook and the way you use Demon Powers and Overdrive. Some Outfits provide Armor and other bonuses.
 
-You may be unable to equip some Outfits the moment you pick them up, as they have requirements you have to fulfill.","Outfits are items that change your outlook and the way you use Demon Powers and Overdrive. Some Outfits provide Armor and other bonuses.
+You may be unable to equip some Outfits the moment you pick them up, as they have requirements you have to fulfill.","服裝是能改變你的外觀和使用惡魔之力與超能量的物品。有些服裝會提供防禦和其它加成。
 
-You may customize the color of your Outfit by transmuting it together with Dyes.",,OK,,
-2149,194283,Destiny Cards,Data/CodexEntry.lua(00046),,CodexEntry Hint_DestinyCards DisplayName,,,,Destiny Cards,Destiny Cards,,,OK,,
+將服裝和染料一同煉化，可自訂服裝的顏色。",,OK,,
+2149,194283,Destiny Cards,Data/CodexEntry.lua(00046),,CodexEntry Hint_DestinyCards DisplayName,,,,Destiny Cards,Destiny Cards,命運牌,,OK,,
 2150,194283,"You can equip Destiny Cards to receive a variety of different passive abilities. To equip a card you'll need to both have a free slot and enough free Destiny Points. If a card is Unique you can never equip more than one copy of it.
 
 You begin the game with two slots for Destiny Cards and 4 Destiny Points. You will gain additional slots and points as you level up.
@@ -775,74 +791,88 @@ The majority of Destiny Card effects stack, either adding their bonuses together
 
 You begin the game with two slots for Destiny Cards and 4 Destiny Points. You will gain additional slots and points as you level up.
 
-The majority of Destiny Card effects stack, either adding their bonuses together or allowing the effect to trigger several times during the cooldown period.",,,OK,,
-2151,194283,Hexes,Data/CodexEntry.lua(00052),,CodexEntry Hint_Hexes DisplayName,,,,Hexes,Hexes,,,OK,,
+The majority of Destiny Card effects stack, either adding their bonuses together or allowing the effect to trigger several times during the cooldown period.","你可以裝備命運牌來獲得各式各樣的被動能力。要裝備命運牌，你需要有空的牌槽和足夠的命運點。如果卡牌是獨一無二的，那你最多只能裝備一張這樣的牌。
+
+開始遊戲時你會有兩個命運牌槽和四點命運點，隨著等級提升你會獲得更多的牌槽和點數。
+
+大多數命運牌的效果會疊加，不是提升整體加成，就是在冷卻期間能發動效果數次。",,OK,,
+2151,194283,Hexes,Data/CodexEntry.lua(00052),,CodexEntry Hint_Hexes DisplayName,,,,Hexes,Hexes,禁咒,,OK,,
 2152,196259,"Hexes are special items that allow you to challenge yourself and increase the difficulty of the game. You can activate Hexes from your inventory or the map screen.
 
 You will gain a 10% bonus to XP and you will find 5% more items for each active Hex. In addition each Hex tracks the number of monsters you've slain while under its effect and shows a star rating based on that number.",Data/CodexEntry.lua(00053),,CodexEntry Hint_Hexes Description,,,,"Hexes are special items that allow you to challenge yourself and increase the difficulty of the game. You can activate Hexes from your inventory or the map screen.
 
 You will gain a 10% bonus to XP for each active Hex. In addition each Hex tracks the number of monsters you've slain while under its effect and shows a star rating based on that number.","Hexes are special items that allow you to challenge yourself and increase the difficulty of the game. You can activate Hexes from your inventory or the map screen.
 
-You will gain a 10% bonus to XP for each active Hex. In addition each Hex tracks the number of monsters you've slain while under its effect and shows a star rating based on that number.","Hexes are special items that allow you to challenge yourself and increase the difficulty of the game. You can activate Hexes from your inventory or the map screen.
+You will gain a 10% bonus to XP for each active Hex. In addition each Hex tracks the number of monsters you've slain while under its effect and shows a star rating based on that number.","禁咒是讓你挑戰自己，提高遊戲難度的特殊物品。你可以在物品欄或地圖介面啟動禁咒。
 
-You will gain a 10% bonus to XP and you will find 5% more items for each active Hex. In addition each Hex tracks the number of monsters you've slain while under its effect and shows a star rating based on that number.",,OK,,
-2153,194283,Movement & Dodging,Data/CodexEntry.lua(00058),,CodexEntry Hint_Movement DisplayName,,,,Movement & Dodging,Movement & Dodging,,,OK,,
+每啟動一個禁咒都會獲得10%經驗加成和5%物品掉落。除此之外，每個禁咒都會記錄在它的作用下被擊殺的怪物數量，並依據其數量顯示星級排名。",,OK,,
+2153,194283,Movement & Dodging,Data/CodexEntry.lua(00058),,CodexEntry Hint_Movement DisplayName,,,,Movement & Dodging,Movement & Dodging,移動與閃避,,OK,,
 2154,194283,"Use the <Move_CameraForward>, <Move_CameraLeft>, <Move_CameraBackward>, <Move_CameraRight> keys to move.
 
 Double tap a direction key or press <Dodge> while moving to dodge away from attacks. You can disable double tap to dodge from the Options (Gameplay).",Data/CodexEntry.lua(00059),,CodexEntry Hint_Movement Description,,,,"Use the <Move_CameraForward>, <Move_CameraLeft>, <Move_CameraBackward>, <Move_CameraRight> keys to move.
 
 Double tap a direction key or press <Dodge> while moving to dodge away from attacks. You can disable double tap to dodge from the Options (Gameplay).","Use the <Move_CameraForward>, <Move_CameraLeft>, <Move_CameraBackward>, <Move_CameraRight> keys to move.
 
-Double tap a direction key or press <Dodge> while moving to dodge away from attacks. You can disable double tap to dodge from the Options (Gameplay).",,,OK,,
+Double tap a direction key or press <Dodge> while moving to dodge away from attacks. You can disable double tap to dodge from the Options (Gameplay).","按 <Move_CameraForward>，<Move_CameraLeft>，<Move_CameraBackward>，<Move_CameraRight> 移動。
+
+雙擊方向鍵或在移動時按 <Dodge> 閃避攻擊。你可以在選項（遊戲體驗）中關閉雙擊閃避。",,OK,,
 2155,195716,"Point and press <Attack1> to move to that point. Use <Goto> to force the character to move to a point even if there's a monster there.
 
 Use <Dodge_CursorForward> to dodge to pointer. Use <Dodge_CameraForward> to dodge forward (camera relative). Use <Dodge_CameraBackward> to dodge back (camera relative). Use dodge to avoid enemy attacks.",Data/CodexEntry.lua(00060),,CodexEntry Hint_Movement MouseDescription,,,,"Point and press <Attack1> to move to that point. Use <Goto> to force the character to move to a point even if there's a monster there.
 
 Use <Dodge_CameraForward> to dodge forward (camera relative). Use <Dodge_CameraBackward> to dodge back (camera relative). Use dodge to avoid enemy attacks.","Point and press <Attack1> to move to that point. Use <Goto> to force the character to move to a point even if there's a monster there.
 
-Use <Dodge_CameraForward> to dodge forward (camera relative). Use <Dodge_CameraBackward> to dodge back (camera relative). Use dodge to avoid enemy attacks.","Point and press <Attack1> to move to that point. Use <Goto> to force the character to move to a point even if there's a monster there.
+Use <Dodge_CameraForward> to dodge forward (camera relative). Use <Dodge_CameraBackward> to dodge back (camera relative). Use dodge to avoid enemy attacks.","指向某位置並按 <Attack1> 移動到該處。使用 <Goto> 強制讓角色移動到某位置，即使那裡有怪物。
 
-Use <Dodge_CursorForward> to dodge to pointer. Use <Dodge_CameraForward> to dodge forward (camera relative). Use <Dodge_CameraBackward> to dodge back (camera relative). Use dodge to avoid enemy attacks.",,OK,,
+按 <Dodge_CursorForward> 向游標位置閃避。按 <Dodge_CameraForward> 向前閃避（相對於鏡頭）。按 <Dodge_CameraBackward> 向後閃避（相對於鏡頭）。利用閃避來避開敵人的攻擊吧。",,OK,,
 2156,194283,"Use <LS> to move.
 
 Press <LB> while moving to dodge and avoid attacks.",Data/CodexEntry.lua(00061),,CodexEntry Hint_Movement GamepadDescription,,,,"Use <LS> to move.
 
 Press <LB> while moving to dodge and avoid attacks.","Use <LS> to move.
 
-Press <LB> while moving to dodge and avoid attacks.",,,OK,,
-2157,194283,Jumping,Data/CodexEntry.lua(00066),,CodexEntry Hint_Jump DisplayName,,,,Jumping,Jumping,,,OK,,
+Press <LB> while moving to dodge and avoid attacks.","使用 <LS> 移動。
+
+移動時按 <LB> 閃避攻擊。",,OK,,
+2157,194283,Jumping,Data/CodexEntry.lua(00066),,CodexEntry Hint_Jump DisplayName,,,,Jumping,Jumping,跳躍,,OK,,
 2158,194323,"Press <Jump> to jump.
 
 You can rebound off a wall by pressing <Jump> again. You can perform up to two wall jumps. Use wall jumping to climb up obstacles and discover hidden paths and secrets.",Data/CodexEntry.lua(00067),,CodexEntry Hint_Jump Description,,,,"Press <Jump> to jump.
 
 You can rebound off a wall by pressing <Jump> again. You can perform up to two wall jumps. Use wall jumping to climb up obstacles and discover hidden paths and secrets.","Press <Jump> to jump.
 
-You can rebound off a wall by pressing <Jump> again. You can perform up to two wall jumps. Use wall jumping to climb up obstacles and discover hidden paths and secrets.",,,OK,,
+You can rebound off a wall by pressing <Jump> again. You can perform up to two wall jumps. Use wall jumping to climb up obstacles and discover hidden paths and secrets.","按 <Jump> 跳躍。
+
+你可以再按一次 <Jump> 進行蹬牆跳，最多能進行兩次。利用蹬牆跳來翻越障礙、找出隱藏的小路和秘密吧。",,OK,,
 2159,195716,"Press <JumpCursor> to jump towards the mouse pointer. Use <Attack1> to move in mid-air.
 
 You can rebound off a wall by pressing <JumpCursor> again. You can perform up to two wall jumps. Use wall jumping to climb up obstacles and discover hidden paths and secrets.",Data/CodexEntry.lua(00068),,CodexEntry Hint_Jump MouseDescription,,,,"Press <JumpCursor> to jump towards the mouse pointer
 
 You can rebound off a wall by pressing <JumpCursor> again. You can perform up to two wall jumps. Use wall jumping to climb up obstacles and discover hidden paths and secrets.","Press <JumpCursor> to jump towards the mouse pointer
 
-You can rebound off a wall by pressing <JumpCursor> again. You can perform up to two wall jumps. Use wall jumping to climb up obstacles and discover hidden paths and secrets.","Press <JumpCursor> to jump towards the mouse pointer. Use <Attack1> to move in mid-air.
+You can rebound off a wall by pressing <JumpCursor> again. You can perform up to two wall jumps. Use wall jumping to climb up obstacles and discover hidden paths and secrets.","按 <JumpCursor> 向游標位置跳躍。使用 <Attack1> 在空中移動。
 
-You can rebound off a wall by pressing <JumpCursor> again. You can perform up to two wall jumps. Use wall jumping to climb up obstacles and discover hidden paths and secrets.",,OK,,
+你可以再按一次 <JumpCursor> 進行蹬牆跳，最多能進行兩次。利用蹬牆跳來翻越障礙、找出隱藏的小路和秘密吧。",,OK,,
 2160,194323,"Press <A>  to jump.
 
 You can rebound off a wall by pressing <A> again. You can perform up to two wall jumps. Use wall jumping to climb up obstacles and discover hidden paths and secrets.",Data/CodexEntry.lua(00069),,CodexEntry Hint_Jump GamepadDescription,,,,"Press <A>  to jump.
 
 You can rebound off a wall by pressing <A> again. You can perform up to two wall jumps. Use wall jumping to climb up obstacles and discover hidden paths and secrets.","Press <A>  to jump.
 
-You can rebound off a wall by pressing <A> again. You can perform up to two wall jumps. Use wall jumping to climb up obstacles and discover hidden paths and secrets.",,,OK,,
-2161,194283,Checkpoints,Data/CodexEntry.lua(00074),,CodexEntry Hint_Checkpoints DisplayName,,,,Checkpoints,Checkpoints,,,OK,,
+You can rebound off a wall by pressing <A> again. You can perform up to two wall jumps. Use wall jumping to climb up obstacles and discover hidden paths and secrets.","按 <A> 跳躍。
+
+你可以再按一次 <A> 進行蹬牆跳，最多能進行兩次。利用蹬牆跳來翻越障礙、找出隱藏的小路和秘密吧。",,OK,,
+2161,194283,Checkpoints,Data/CodexEntry.lua(00074),,CodexEntry Hint_Checkpoints DisplayName,,,,Checkpoints,Checkpoints,紀錄點,,OK,,
 2162,194283,"Checkpoints preserve your progress for the current play session. If you die, you will be able to revive at the last activated checkpoint or at the start of the zone if you haven't activated a Checkpoint yet.
 
 Returning to the HUB or exiting the game resets checkpoints, monsters and challenges in progress.",Data/CodexEntry.lua(00075),,CodexEntry Hint_Checkpoints Description,,,,"Checkpoints preserve your progress for the current play session. If you die, you will be able to revive at the last activated checkpoint or at the start of the zone if you haven't activated a Checkpoint yet.
 
 Returning to the HUB or exiting the game resets checkpoints, monsters and challenges in progress.","Checkpoints preserve your progress for the current play session. If you die, you will be able to revive at the last activated checkpoint or at the start of the zone if you haven't activated a Checkpoint yet.
 
-Returning to the HUB or exiting the game resets checkpoints, monsters and challenges in progress.",,,OK,,
-2163,194283,Item Stats,Data/CodexEntry.lua(00080),,CodexEntry Hint_ItemStats DisplayName,,,,Item Stats,Item Stats,,,OK,,
+Returning to the HUB or exiting the game resets checkpoints, monsters and challenges in progress.","紀錄點可以儲存你目前的遊戲進度。如果你死了，你可以在最後啟動的紀錄點復活；如果你尚未啟動紀錄點，你可以在區域入口處復活。
+
+返回主選單或離開遊戲會重置進度中的紀錄點、怪物和挑戰。",,OK,,
+2163,194283,Item Stats,Data/CodexEntry.lua(00080),,CodexEntry Hint_ItemStats DisplayName,,,,Item Stats,Item Stats,物品數據,,OK,,
 2164,197387,"Damage (<imagescale 40><image UI/Common/damage.tga>) - The range of damage this item or skill does
 
 Critical Chance (<imagescale 40><image UI/Common/critical_chance.tga>) - The chance that an attack will score a critical hit. Each weapon has its own Critical Chance
@@ -879,33 +909,33 @@ Armor (<imagescale 40><image UI/Common/armor.tga>) - Provides a chance to reduce
 
 Armor Penetration (<imagescale 40><image UI/Common/armor_penalty.tga>) - Allows you to ignore some of the enemy Armor
 
-Cooldown (<imagescale 40><image UI/Common/cooldown.tga>) - The duration of the skill's cooldown","Damage (<imagescale 40><image UI/Common/damage.tga>) - The range of damage this item or skill does
+Cooldown (<imagescale 40><image UI/Common/cooldown.tga>) - The duration of the skill's cooldown","傷害（<imagescale 40><image UI/Common/damage.tga>） - 物品或技能造成的傷害大小。
 
-Critical Chance (<imagescale 40><image UI/Common/critical_chance.tga>) - The chance that an attack will score a critical hit. Each weapon has its own Critical Chance
+暴擊率（<imagescale 40><image UI/Common/critical_chance.tga>） - 攻擊造成暴擊的機率。每種武器的暴擊率各不相同。
 
-Critical Damage (<imagescale 40><image UI/Common/critical_bonus.tga>) - The bonus damage that critical hits deal (based on weapon damage)
+暴擊傷害（<imagescale 40><image UI/Common/critical_bonus.tga>） - 暴擊造成的傷害（基於武器傷害）。
 
-Health (<imagescale 40><image UI/Common/Health.tga>) - The bonus to max health provided by the item
+生命（<imagescale 40><image UI/Common/Health.tga>） - 物品提供的最大生命加成。
 
-Armor (<imagescale 40><image UI/Common/armor.tga>) - Provides a chance to reduce incoming damage from an attack (but not any additional effects). Bombs and Demon Powers ignore Armor.
+防禦（<imagescale 40><image UI/Common/armor.tga>） - 可減少受到攻擊的傷害（但無法抵抗附加效果）。炸彈和惡魔之力能無視防禦。
 
-Armor Penetration (<imagescale 40><image UI/Common/armor_penalty.tga>) - Allows you to ignore some of the enemy Armor
+護甲穿透（<imagescale 40><image UI/Common/armor_penalty.tga>） - 無視敵人部分防禦。
 
-Cooldown (<imagescale 40><image UI/Common/cooldown.tga>) - The duration of the skill's cooldown",,OK,,
-4231,196977,Overkill,Data/CodexEntry.lua(00086),,CodexEntry Hint_Overkill DisplayName,,,,,,Overkill,,OK,,
-4232,196977,To overkill a monster inflict massive damage to it with the killing blow. Overkill is more likely to happen when a strong attack is used against a monster at low health.,Data/CodexEntry.lua(00087),,CodexEntry Hint_Overkill Description,,,,,,To overkill a monster inflict massive damage to it with the killing blow. Overkill is more likely to happen when a strong attack is used against a monster at low health.,,OK,,
-4273,197475,Bounties & Treasure Hunts,Data/CodexEntry.lua(00092),,CodexEntry Hint_Bounties DisplayName,,,,,,Bounties & Treasure Hunts,,OK,,
+冷卻時間（<imagescale 40><image UI/Common/cooldown.tga>） - 技能冷卻需要的時間。",,OK,,
+4231,196977,Overkill,Data/CodexEntry.lua(00086),,CodexEntry Hint_Overkill DisplayName,,,,,,絕殺,,OK,,
+4232,196977,To overkill a monster inflict massive damage to it with the killing blow. Overkill is more likely to happen when a strong attack is used against a monster at low health.,Data/CodexEntry.lua(00087),,CodexEntry Hint_Overkill Description,,,,,,想打出絕殺必須對怪物最後一擊時給予極大的傷害。在怪物的生命低下時使用強力攻擊更有機會打出絕殺。,,OK,,
+4273,197475,Bounties & Treasure Hunts,Data/CodexEntry.lua(00092),,CodexEntry Hint_Bounties DisplayName,,,,,,懸賞令與藏寶圖,,OK,,
 4274,197475,"Bounties and treasure hunts are special items that you can share with other hunters using their unique Treasure Codes. Each offers a list of locations that you must visit and explore. You can find them in the ""Other"" section of your inventory.
 
 Bounties are completed by slaying powerful Epic Monsters while Treasure Hunts require discovering Clues in each of the specified locations. There is one Epic Monster or Treasure Clue in each location, indicated by a special icon on your radar when you are close by. When you have accomplished your task in each location, you will be rewarded.
 
 You can destroy completed or expired bounties to free up space in your inventory.
-You can redeem shared treasure codes from the Options menu while playing Online.",Data/CodexEntry.lua(00093),,CodexEntry Hint_Bounties Description,,,,,,"Bounties and treasure hunts are special items that you can share with other hunters using their unique Treasure Codes. Each offers a list of locations that you must visit and explore. You can find them in the ""Other"" section of your inventory.
+You can redeem shared treasure codes from the Options menu while playing Online.",Data/CodexEntry.lua(00093),,CodexEntry Hint_Bounties Description,,,,,,"懸賞令與藏寶圖都是特殊物品，你可以與其他獵人通過使用獨特的藏寶密碼進行分享。每一件物品都會提供幾處你必須拜訪與探索的地點。你可以在物品欄的「其它」項中找到這些物品。
 
-Bounties are completed by slaying powerful Epic Monsters while Treasure Hunts require discovering Clues in each of the specified locations. There is one Epic Monster or Treasure Clue in each location, indicated by a special icon on your radar when you are close by. When you have accomplished your task in each location, you will be rewarded.
+懸賞令是藉由殺死強大的史詩怪物來完成，藏寶圖則需要在每個特定地點尋找線索。每個地點都只有一隻史詩怪物或藏寶線索，當你就在附近時，小地圖上會用特殊標記顯示。當完成每個地點的任務後，你將會獲得獎勵。
 
-You can destroy completed or expired bounties to free up space in your inventory.
-You can redeem shared treasure codes from the Options menu while playing Online.",,OK,,
+你可以摧毀已完成或過期的懸賞令，以清出物品欄空間。
+當進行連線時，你可以在選項選單中兌換分享的藏寶密碼。",,OK,,
 3517,194585,Prelude,Data/CodexEntry.lua(00099),,CodexEntry Journal_Entry1 DisplayName,,,,Prelude,,Prelude,,OK,,
 3518,194585,"I was walking to my grave.
 
