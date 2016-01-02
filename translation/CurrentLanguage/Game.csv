@@ -547,8 +547,8 @@ ID,Revision,Text,Location,Section,Context,Actor,Voice Actor,Old Revision,Old Tex
 2031,194283,Equipped a Legendary weapon,Data/Achievement.lua(00208),,Achievement Legendary description,,,,Equipped a Legendary weapon,Equipped a Legendary weapon,已裝備一件傳奇武器,,OK,,
 2032,194283,Equip a Legendary weapon,Data/Achievement.lua(00209),,Achievement Legendary how_to,,,,Equip a Legendary weapon,Equip a Legendary weapon,裝備一件傳奇武器,,OK,,
 3601,194913,Master Crafter,Data/Achievement.lua(00216),,Achievement Master Crafter display_name,,,,,,工匠大師,,OK,,
-3602,194913,Transmuted a perfect weapon,Data/Achievement.lua(00217),,Achievement Master Crafter description,,,,,,已煉化出一件完美武器,,OK,,
-3603,194913,Transmute a perfect weapon,Data/Achievement.lua(00218),,Achievement Master Crafter how_to,,,,,,煉化出一件完美武器,,OK,,
+3602,194913,Transmuted a perfect weapon,Data/Achievement.lua(00217),,Achievement Master Crafter description,,,,,,已合成出一件完美武器,,OK,,
+3603,194913,Transmute a perfect weapon,Data/Achievement.lua(00218),,Achievement Master Crafter how_to,,,,,,合成出一件完美武器,,OK,,
 2033,194283,The Host,Data/Achievement.lua(00227),,Achievement The Host display_name,,,,The Host,The Host,寄生體,,OK,,
 2034,194283,Defeated Rachnoss the Host,Data/Achievement.lua(00228),,Achievement The Host description,,,,Defeated Rachnoss the Host,Defeated Rachnoss the Host,已擊敗寄生體拉諾斯,,OK,,
 2035,194283,Defeat Rachnoss the Host,Data/Achievement.lua(00229),,Achievement The Host how_to,,,,Defeat Rachnoss the Host,Defeat Rachnoss the Host,擊敗寄生體拉諾斯,,OK,,
@@ -594,7 +594,7 @@ ID,Revision,Text,Location,Section,Context,Actor,Voice Actor,Old Revision,Old Tex
 2078,194283,Zagore Hold'em,Data/Achievement.lua(00369),,Achievement Zagore Hold'em display_name,,,,Zagore Hold'em,Zagore Hold'em,薩格爾之物,,OK,,
 2079,194283,Collected 25 different Destiny Cards,Data/Achievement.lua(00370),,Achievement Zagore Hold'em description,,,,Collected 25 different Destiny Cards,Collected 25 different Destiny Cards,已蒐集25張不同的命運牌,,OK,,
 2080,194283,Collect 25 different Destiny Cards,Data/Achievement.lua(00371),,Achievement Zagore Hold'em how_to,,,,Collect 25 different Destiny Cards,Collect 25 different Destiny Cards,蒐集25張不同的命運牌,,OK,,
-2081,194283,Tzar Bomba,Data/Achievement.lua(00379),,Achievement Tzar Bomba display_name,,,,Tzar Bomba,Tzar Bomba,超級轟炸,,OK,,
+2081,194283,Tzar Bomba,Data/Achievement.lua(00379),,Achievement Tzar Bomba display_name,,,,Tzar Bomba,Tzar Bomba,沙皇炸彈,,OK,,
 2082,194283,Inflicted 2500 damage with a single hit,Data/Achievement.lua(00380),,Achievement Tzar Bomba description,,,,Inflicted 2500 damage with a single hit,Inflicted 2500 damage with a single hit,已用一擊造成2500傷害,,OK,,
 2083,194283,Inflict 2500 damage with a single hit,Data/Achievement.lua(00381),,Achievement Tzar Bomba how_to,,,,Inflict 2500 damage with a single hit,Inflict 2500 damage with a single hit,用一擊造成2500傷害,,OK,,
 2084,194283,Steady Hand Vic,Data/Achievement.lua(00389),,Achievement Steady Hand Vic display_name,,,,Steady Hand Vic,Steady Hand Vic,穩定快手,,OK,,
@@ -777,7 +777,7 @@ You may be unable to equip some Outfits the moment you pick them up, as they hav
 
 You may be unable to equip some Outfits the moment you pick them up, as they have requirements you have to fulfill.","服裝是能改變你的外觀和使用惡魔之力與超能量的物品。有些服裝會提供防禦和其它加成。
 
-將服裝和染料一同煉化，可自訂服裝的顏色。",,OK,,
+將服裝和染料一同合成，可自訂服裝的顏色。",,OK,,
 2149,194283,Destiny Cards,Data/CodexEntry.lua(00046),,CodexEntry Hint_DestinyCards DisplayName,,,,Destiny Cards,Destiny Cards,命運牌,,OK,,
 2150,194283,"You can equip Destiny Cards to receive a variety of different passive abilities. To equip a card you'll need to both have a free slot and enough free Destiny Points. If a card is Unique you can never equip more than one copy of it.
 
@@ -936,7 +936,7 @@ You can redeem shared treasure codes from the Options menu while playing Online.
 
 你可以摧毀已完成或過期的懸賞令，以清出物品欄空間。
 當進行連線時，你可以在選項選單中兌換分享的藏寶密碼。",,OK,,
-3517,194585,Prelude,Data/CodexEntry.lua(00099),,CodexEntry Journal_Entry1 DisplayName,,,,Prelude,,Prelude,,OK,,
+3517,194585,Prelude,Data/CodexEntry.lua(00099),,CodexEntry Journal_Entry1 DisplayName,,,,Prelude,,序幕,,OK,,
 3518,194585,"I was walking to my grave.
 
 Or so I thought after I crawled out of the remains of the carriage that brought me to the outskirts of Zagoravia. Just before we entered the city it was crushed by a pile of rocks that fell upon us. My reflexes saved me so I was standing there, trying to catch my breath and planning my next move.
@@ -949,14 +949,14 @@ Or so I thought after I crawled out of the remains of the carriage that brought 
 
 From where I was standing the city seemed too quiet. But the accident that just happened proved the carriage-drivers were right to refuse even hearing about my offer to pay them drive me here. I was no fool, either - if it wasn't for Adrian's summons I would have never ventured into the beast's maw.
 
-What was done was done. I could only hope to survive Zagoravia long enough to find Adrian.",,"I was walking to my grave.
+What was done was done. I could only hope to survive Zagoravia long enough to find Adrian.",,"我正走向我的墳墓。
 
-Or so I thought after I crawled out of the remains of the carriage that brought me to the outskirts of Zagoravia. Just before we entered the city it was crushed by a pile of rocks that fell upon us. My reflexes saved me so I was standing there, trying to catch my breath and planning my next move.
+我一邊想著這件事，一邊爬出了馬車的殘骸。這輛馬車帶我來到了薩古拉維亞城郊──就在我們進城之前，它被從天而降的石堆砸爛了。我的反應救了我，所以我還站在這裡，喘口氣，計畫我的下一步。
 
-From where I was standing the city seemed too quiet. But the accident that just happened proved the carriage-drivers were right to refuse even hearing about my offer to pay them drive me here. I was no fool, either - if it wasn't for Adrian's summons I would have never ventured into the beast's maw.
+從我所站的地方看去，這座城太過安靜了。但剛剛發生的事故說明馬車伕是對的，一聽到要來這，他立刻拒絕我的出價。我也不是笨蛋──要不是因為艾德里安的召喚，我永遠也不會冒險進入這野獸的巢穴。
 
-What was done was done. I could only hope to survive Zagoravia long enough to find Adrian.",,OK,,
-3519,194585,Ominous Signs,Data/CodexEntry.lua(00108),,CodexEntry Journal_Entry2 DisplayName,,,,Ominous Signs,,Ominous Signs,,OK,,
+事已至此，我只能希望在薩古拉維亞城能活得夠久，讓我找到艾德里安。",,OK,,
+3519,194585,Ominous Signs,Data/CodexEntry.lua(00108),,CodexEntry Journal_Entry2 DisplayName,,,,Ominous Signs,,不祥之兆,,OK,,
 3520,194585,"This was no ordinary demon manifestation.
 
 I never saw a settlement this big completely deserted. I wished the citizens had the chance to flee but I knew that they were all dead. A few steps further down the street and I found what killed them. Spider demons. But they weren't the problem that made me feel shivers up my spine. It was the voice in my head.
@@ -965,12 +965,12 @@ The owner of the voice was clearly of the worst kind of monster - one that talks
 
 I never saw a settlement this big completely deserted. I wished the citizens had the chance to flee but I knew that they were all dead. A few steps further down the street and I found what killed them. Spider demons. But they weren't the problem that made me feel shivers up my spine. It was the voice in my head.
 
-The owner of the voice was clearly of the worst kind of monster - one that talks. Nothing good could come out from conversing with such a creature, so I decided to keep my mouth shut and ignore its taunts.",,"This was no ordinary demon manifestation.
+The owner of the voice was clearly of the worst kind of monster - one that talks. Nothing good could come out from conversing with such a creature, so I decided to keep my mouth shut and ignore its taunts.",,"這不是普通的惡魔顯威。
 
-I never saw a settlement this big completely deserted. I wished the citizens had the chance to flee but I knew that they were all dead. A few steps further down the street and I found what killed them. Spider demons. But they weren't the problem that made me feel shivers up my spine. It was the voice in my head.
+我從未見過居住區被摧毀的如此徹底。我希望居民們有機會能逃跑，但我知道他們全都死了。沿著街道走了幾步，我找到了兇手──蜘蛛惡魔。但讓我感到背脊發涼的不是它們，而是我腦海裡的聲音。
 
-The owner of the voice was clearly of the worst kind of monster - one that talks. Nothing good could come out from conversing with such a creature, so I decided to keep my mouth shut and ignore its taunts.",,OK,,
-3521,194585,Crawling Madness,Data/CodexEntry.lua(00116),,CodexEntry Journal_Entry3 DisplayName,,,,Crawling Madness,,Crawling Madness,,OK,,
+聲音的主人顯然是怪物中最棘手的那種──會說話的傢伙。與這種傢伙交談絕不會有什麼好事，所以我決定閉緊嘴巴，無視它的嘲諷。",,OK,,
+3521,194585,Crawling Madness,Data/CodexEntry.lua(00116),,CodexEntry Journal_Entry3 DisplayName,,,,Crawling Madness,,瘋狂蠢動,,OK,,
 3522,194585,"The queen had lost her mind.
 
 She still believed that she can win her impossible fight and that help is on the way. Poor soul. She was in a complete denial. The survivors gathered around her in the castle weren't doing her any favour, fuelling her confidence with the loyalty they expressed - the only reason any of them remained in Zagoravia, no matter whether they realized it or not.
@@ -979,12 +979,12 @@ But that didn't concern me. According to her words there were still surviving hu
 
 She still believed that she can win her impossible fight and that help is on the way. Poor soul. She was in a complete denial. The survivors gathered around her in the castle weren't doing her any favour, fuelling her confidence with the loyalty they expressed - the only reason any of them remained in Zagoravia, no matter whether they realized it or not.
 
-But that didn't concern me. According to her words there were still surviving hunters in the city. I hoped that Adrian is among them. Dead or alive, I was going to find you, my friend.",,"The queen had lost her mind.
+But that didn't concern me. According to her words there were still surviving hunters in the city. I hoped that Adrian is among them. Dead or alive, I was going to find you, my friend.",,"女王已經瘋了。
 
-She still believed that she can win her impossible fight and that help is on the way. Poor soul. She was in a complete denial. The survivors gathered around her in the castle weren't doing her any favour, fueling her confidence with the loyalty they expressed - the only reason any of them remained in Zagoravia, no matter whether they realized it or not.
+她還相信她能打贏這場毫無勝算的戰爭，相信援軍就在路上。可憐的人啊，她完全不能接受現實。城堡裡聚集在她身邊的倖存者，既無力幫她任何的忙，也無法用他們的忠誠激起她的信心。不管他們有沒有意識到，忠誠是他們仍留在薩古拉維亞城的唯一理由。
 
-But that didn't concern me. According to her words there were still surviving hunters in the city. I hoped that Adrian is among them. Dead or alive, I was going to find you, my friend.",,OK,,
-3523,194585,Ashes to Ashes,Data/CodexEntry.lua(00124),,CodexEntry Journal_Entry4 DisplayName,,,,Ashes to Ashes,,Ashes to Ashes,,OK,,
+但那不關我的事。據她所說，城裡還有倖存的獵人。希望艾德里安是其中一人。不管是死是活，我都會找到你的，我的朋友。",,OK,,
+3523,194585,Ashes to Ashes,Data/CodexEntry.lua(00124),,CodexEntry Journal_Entry4 DisplayName,,,,Ashes to Ashes,,塵歸塵,,OK,,
 3524,198395,"I still have nightmares about thrusting my blade through Adrian's chest.
 
 I knew I gave him what he craved - a release from his imprisonment. I saw it in his eyes - for a brief moment he was my friend again. As his body turned to ashes I felt overwhelmed with grief and anger.
@@ -997,12 +997,12 @@ But it wasn't the time for desperation. Adrian was used to lure me into Zagoravi
 
 I knew I gave him what he craved - a release from his imprisonment. I saw it in his eyes - for a brief moment he was my friend again. As his body turned to ashes I felt overwhelmed with grief and anger.
 
-But it wasn't the time for desperation. Adrian was used to lure me into Zagoravia. He was a mere puppet for the one who wanted me dead. Very well - I decided to satisfy the mastermind's desire and stay to make sure Adrian is avenged. But for this I needed help. Irene.","I still have nightmares about thrusting my blade through Adrian's chest.
+But it wasn't the time for desperation. Adrian was used to lure me into Zagoravia. He was a mere puppet for the one who wanted me dead. Very well - I decided to satisfy the mastermind's desire and stay to make sure Adrian is avenged. But for this I needed help. Irene.","我還做著噩夢，夢見我的劍刺穿了艾德里安的胸膛。
 
-I knew I gave him what he craved - a release from his imprisonment. I saw it in his eyes - for a brief moment he was my friend again. As his body turned to ashes I felt overwhelmed with grief and anger.
+我知道我給了他渴望的東西──從禁錮中解脫。在他眼中我看見──有那麼一瞬間，他又成了我的朋友。在他的身體化成灰燼時，我感到無盡的悲痛和憤怒。
 
-But it wasn't the time for desperation. Adrian was used to lure me into Zagoravia. He was a mere puppet for the one who wanted me dead. Very well - I decided to satisfy the mastermind's desire and stay to make sure Adrian is avenged. But for this I needed help. Irene.",,OK,,
-3525,194585,Dark Revelations,Data/CodexEntry.lua(00133),,CodexEntry Journal_Entry5 DisplayName,,,,Dark Revelations,,Dark Revelations,,OK,,
+但現在不是絕望的時候。艾德里安被利用來引誘我進到薩古拉維亞城，他只是向我索命的人所操控的傀儡。很好，我決定滿足這個幕後黑手的願望，留在這裡，為艾德里安報仇。但為此我需要找艾琳幫我。",,OK,,
+3525,194585,Dark Revelations,Data/CodexEntry.lua(00133),,CodexEntry Journal_Entry5 DisplayName,,,,Dark Revelations,,黑暗啟示,,OK,,
 3526,194585,"Another kingdom, same story. People dying because of their sovereign's hubris.
 
 It seems that the Queen's guilt was waiting all this time below the surface of a mask of self-destructive denial. When Irene and I cornered her, she confessed everything. A dark pact between her and an unknown demon sealed Zagoravia's fate.
@@ -1011,12 +1011,12 @@ When fighting otherworldly forces you often have to follow the paths of the supe
 
 It seems that the Queen's guilt was waiting all this time below the surface of a mask of self-destructive denial. When Irene and I cornered her, she confessed everything. A dark pact between her and an unknown demon sealed Zagoravia's fate.
 
-When fighting otherworldly forces you often have to follow the paths of the supernatural laws. The ghost of Tzar Borimir knew about the pact signed by the queen. I had to find his resting place and try to converse with him, hoping to discover the Gordian knot, the crux of the curse that befell Zagoravia.",,"Another kingdom, same story. People dying because of their sovereign's hubris.
+When fighting otherworldly forces you often have to follow the paths of the supernatural laws. The ghost of Tzar Borimir knew about the pact signed by the queen. I had to find his resting place and try to converse with him, hoping to discover the Gordian knot, the crux of the curse that befell Zagoravia.",,"不同的王國，相同的故事。人民因君主的傲慢而死。
 
-It seems that the Queen's guilt was waiting all this time below the surface of a mask of self-destructive denial. When Irene and I cornered her, she confessed everything. A dark pact between her and an unknown demon sealed Zagoravia's fate.
+看來女王的罪責就是在自毀否定的面具下等待這一切。當我和艾琳把女王逼至牆角，她坦承了一切。她與一個未知惡魔之間的黑暗契約，決定了薩古拉維亞城的命運。
 
-When fighting otherworldly forces you often have to follow the paths of the supernatural laws. The ghost of Tzar Borimir knew about the pact signed by the queen. I had to find his resting place and try to converse with him, hoping to discover the Gordian knot, the crux of the curse that befell Zagoravia.",,OK,,
-3527,194585,The Trial,Data/CodexEntry.lua(00142),,CodexEntry Journal_Entry6 DisplayName,,,,The Trial,The Trial,,,OK,,
+與非自然力量戰鬥時，你常常不得不循著超自然法則的道路前進。沙皇波利密爾的鬼魂知道女王簽訂的契約內容。我得找到他的長眠之所，試著與他交談，祈求能解開這個降臨於薩古拉維亞城詛咒的癥結。",,OK,,
+3527,194585,The Trial,Data/CodexEntry.lua(00142),,CodexEntry Journal_Entry6 DisplayName,,,,The Trial,The Trial,磨難,,OK,,
 3528,194585,"Fate had finally revealed the purpose it had in store for me.
 
 Years ago I obtained terrific demon powers through my own dark pact. I remembered how quickly the feeling of triumph they brought me was replaced by grief when the people I loved began paying the price for my bargain with their lives. I fled into exile and tried to atone my mistakes by fighting the very demons that cursed me. During all my life I viewed my unusual abilities as a taint.
@@ -1025,12 +1025,12 @@ But the ghost of Tzar Borimir showed me the way. It was my destiny to follow his
 
 Years ago I obtained terrific demon powers through my own dark pact. I remembered how quickly the feeling of triumph they brought me was replaced by grief when the people I loved began paying the price for my bargain with their lives. I fled into exile and tried to atone my mistakes by fighting the very demons that cursed me. During all my life I viewed my unusual abilities as a taint.
 
-But the ghost of Tzar Borimir showed me the way. It was my destiny to follow his legacy for he was the First Hunter who built the Order and this city to protect the Well of Worlds - the portal that connects our world and the countless alien dimensions where demons reside.",,"Fate had finally revealed the purpose it had in store for me.
+But the ghost of Tzar Borimir showed me the way. It was my destiny to follow his legacy for he was the First Hunter who built the Order and this city to protect the Well of Worlds - the portal that connects our world and the countless alien dimensions where demons reside.",,"命運終於揭露我即將面臨的使命。
 
-Years ago I obtained terrific demon powers through my own dark pact. I remembered how quickly the feeling of triumph they brought me was replaced by grief when the people I loved began paying the price for my bargain with their lives. I fled into exile and tried to atone my mistakes by fighting the very demons that cursed me. During all my life I viewed my unusual abilities as a taint.
+幾年前，我簽下黑暗契約，獲得了強大的惡魔之力。我記得，當我愛的人們，用生命為我的契約付出代價時，力量所帶來勝利的感覺是如何迅速地被悲傷取代。我到處流亡，並與那些詛咒我的惡魔奮戰，以彌補我的過錯。在我的一生中，我都把我的惡魔之力視作是污點。
 
-But the ghost of Tzar Borimir showed me the way. It was my destiny to follow his legacy for he was the First Hunter who built the Order and this city to protect the Well of Worlds - the portal that connects our world and the countless alien dimensions where demons reside.",,OK,,
-3529,194585,Into the Abyss,Data/CodexEntry.lua(00151),,CodexEntry Journal_Entry7 DisplayName,,,,Into the Abyss,,Into the Abyss,,OK,,
+但沙皇波利密爾的鬼魂給我指引了一條明路。我的命運是按照他的遺願行進的，因為他是第一位獵人，一手建立了獵人組織和這座城市來保衛異界之井──這個把我們世界和無數惡魔棲息的異界連結起來的傳送門。",,OK,,
+3529,194585,Into the Abyss,Data/CodexEntry.lua(00151),,CodexEntry Journal_Entry7 DisplayName,,,,Into the Abyss,,步入深淵,,OK,,
 3530,194585,"I was going to hell.
 
 To undo the curse that befell Zagoravia I had to physically destroy the contract that bound the word of Queen Katarina. The contract itself was within the possession of a powerful demon called The Solicitor, who happened to be of the worst kind - one that talks. I had to walk through the Well of Worlds and into the demon realm.
@@ -1039,12 +1039,12 @@ Was I afraid? Only a fool wouldn't be. But I was more than determined to make su
 
 To undo the curse that befell Zagoravia I had to physically destroy the contract that bound the word of Queen Katarina. The contract itself was within the possession of a powerful demon called The Solicitor, who happened to be of the worst kind - one that talks. I had to walk through the Well of Worlds and into the demon realm.
 
-Was I afraid? Only a fool wouldn't be. But I was more than determined to make sure that Adrian and all those unfortunate hunters didn't die in vain.",,"I was going to hell.
+Was I afraid? Only a fool wouldn't be. But I was more than determined to make sure that Adrian and all those unfortunate hunters didn't die in vain.",,"我正邁向地獄。
 
-To undo the curse that befell Zagoravia I had to physically destroy the contract that bound the word of Queen Katarina. The contract itself was within the possession of a powerful demon called The Solicitor, who happened to be of the worst kind - one that talks. I had to walk through the Well of Worlds and into the demon realm.
+為了解除降臨於薩古拉維亞城的詛咒，我必須摧毀卡特蓮娜女王的契約。契約被一個稱為司法官的強大惡魔占有，它碰巧也是那種最棘手的惡魔──會說話的傢伙。我必須穿過異界之井，進入惡魔的領土。
 
-Was I afraid? Only a fool wouldn't be. But I was more than determined to make sure that Adrian and all those unfortunate hunters didn't die in vain.",,OK,,
-3531,194585,Running Blood,Data/CodexEntry.lua(00159),,CodexEntry Journal_Entry8 DisplayName,,,,Running Blood,,Running Blood,,OK,,
+我害怕嗎？只有傻子才不怕。但我已決心不讓艾德里安，還有那些不幸的獵人白白死去。",,OK,,
+3531,194585,Running Blood,Data/CodexEntry.lua(00159),,CodexEntry Journal_Entry8 DisplayName,,,,Running Blood,,血液奔流,,OK,,
 3532,195390,"Gabriel had to die.
 
 Malevolently tricking the young, dying Katarina into signing a dark pact, he promised to hide her from retribution with a cloaking spell. It was all part of his plan to ensure that the dark bargain can never be fulfilled. This allowed the demon forces to invade Zagoravia in search of the life that was promised to them. Assured in the success of his grand scheme he bargained his soul for control over the events, creating one big, elaborate trap with the sole purpose of destroying any hunter who ventured inside. Unfortunately too many of my brethren answered the call of the desperate queen who feared for her kingdom.
@@ -1057,14 +1057,14 @@ Malevolently tricking the young, dying Katarina into signing a dark pact, he ass
 
 But Gabriel had to answer for one more crime. He was the one who pushed me towards accepting the demon taint as a gift, dooming my beloved family. My father had always supported the hunters' cause and so the vampire saw him as a threat. I bet Gabriel was laughing while watching me cry by his deathbed as he withered and died before my eyes.
 
-It is ironic that Gabriel made me become what he fears the most. Calling me into the city was a mistake that was going to cost him.",,"Gabriel had to die.
+It is ironic that Gabriel made me become what he fears the most. Calling me into the city was a mistake that was going to cost him.",,"加百列必須死。
 
-Malevolently tricking the young, dying Katarina into signing a dark pact, he promised to hide her from retribution with a cloaking spell. It was all part of his plan to ensure that the dark bargain can never be fulfilled. This allowed the demon forces to invade Zagoravia in search of the life that was promised to them. Assured in the success of his grand scheme he bargained his soul for control over the events, creating one big, elaborate trap with the sole purpose of destroying any hunter who ventured inside. Unfortunately too many of my brethren answered the call of the desperate queen who feared for her kingdom.
+惡意誘騙年輕、垂死的卡特蓮娜簽訂了黑暗契約，並承諾會用屏障法術讓她躲過報應。但讓黑暗契約無法完成也是他計畫中的一環。這讓惡魔得以入侵薩古拉維亞城，以尋找被承諾屬於它們的生命。為了確保這龐大的計畫成功，加百列出賣了自己的靈魂，以換取強大的掌控力，他建立了一個巨大複雜的陷阱，唯一的目的就是毀掉所有冒險進入的獵人。不幸的是，太多我的兄弟回應了絕望的女王為憂心王國安危而發出的號召。
 
-But Gabriel had to answer for one more crime. He was the one who pushed me towards accepting the demon taint as a gift, dooming my beloved family. My father had always supported the hunters' cause and so the vampire saw him as a threat. I bet Gabriel was laughing while watching me cry by his deathbed as he withered and died before my eyes.
+但加百列還得對另一樁罪行付出代價。他也是誘惑我接受惡魔之力作為禮物的人，給我摯愛的家人帶來了死亡。我的父親一直在援助獵人組織，所以這個吸血鬼一直視他為眼中釘。我打賭，在我親眼看著父親死去而哭喊時，加百列一定笑的很開心。
 
-It is ironic that Gabriel made me become what he fears the most. Calling me into the city was a mistake that was going to cost him.",,OK,,
-3533,194585,Heart of Darkness,Data/CodexEntry.lua(00168),,CodexEntry Journal_Entry9 DisplayName,,,,Heart of Darkness,,Heart of Darkness,,OK,,
+諷刺的是，加百列讓我成為了他最恐懼的東西。召喚我來這座城市是個錯誤，他一定會為此付出代價。",,OK,,
+3533,194585,Heart of Darkness,Data/CodexEntry.lua(00168),,CodexEntry Journal_Entry9 DisplayName,,,,Heart of Darkness,,黑暗之心,,OK,,
 3534,196977,"A different picture was unfolding.
 
 Hidden behind the constant smoke screen from the Steam Quarter, it was hard to tell exactly how overwhelmingly grand Gabriel's mansion was. But once I traversed up the black hills that deceitfully revealed as little as possible of the manor, its full splendour became relevant. Indeed, menacing in its size, the luxurious and unorthodox facades painted an entirely different picture of the power stage here in Zagoravia. 
@@ -1089,16 +1089,16 @@ Obviously expanded time and again over the years, the entire design of the mansi
 
 But once I got closer than any outsider was ever meant to, there was no longer hiding the absurd wealth and power that the owner, Gabriel, obviously wielded over Zagoravia. Of course, I was expected and none too soon did the ambushes begin.
 
-Vampires flocking to their death one after another, countless meaningless deaths, paving the way to the one that matters - Gabriel. He knew I was coming for him.","A different picture was unfolding.
+Vampires flocking to their death one after another, countless meaningless deaths, paving the way to the one that matters - Gabriel. He knew I was coming for him.","一幅截然不同的情景正展現開來。
 
-Hidden behind the constant smoke screen from the Steam Quarter, it was hard to tell exactly how overwhelmingly grand Gabriel's mansion was. But once I traversed up the black hills that deceitfully revealed as little as possible of the manor, its full splendour became relevant. Indeed, menacing in its size, the luxurious and unorthodox facades painted an entirely different picture of the power stage here in Zagoravia. 
+藏於蒸汽區的終年迷霧後面，無法看清加百列豪宅的壯闊。但當我爬上那遮掩豪宅身形的黑山之後，才看清豪宅的幅員遼闊。確實，除了大得嚇人的壓迫感，其奢華和奇特的外牆也描繪出薩古拉維亞權力舞台的另一面。
 
-Obviously expanded time and again over the years, the entire design of the mansion revolved around revealing as little as possible of its grandness to the city below, masterfully making use of the rough hills that lied beneath it.
+很明顯地，雖經持續擴建，但建築巧妙地運用腳下的粗獷山脈，將豪宅盡可能地隱藏起來，不讓山下的人看出建築的宏偉。
 
-But once I got closer than any outsider was ever meant to, there was no longer hiding the absurd wealth and power that the owner, Gabriel, obviously wielded over Zagoravia. Of course, I was expected and none too soon did the ambushes begin.
+但當我接近這個從未有人想接近的豪宅，那個無疑操弄薩古拉維亞城的加百列所掌控的金錢與權力都無所遁形了。當然了，我預期的伏擊也正巧開始。
 
-Vampires flocking to their death one after another, countless meaningless deaths, paving the way to the one that matters - Gabriel. He knew I was coming for him.",,OK,,
-3535,194585,The End?,Data/CodexEntry.lua(00176),,CodexEntry Journal_Entry10 DisplayName,,,,The End?,,The End?,,OK,,
+吸血鬼們一擁而上，卻一個個倒下，無數沒有意義的死亡，舖出了通往目標的道路──加百列。他知道我是來取他命的。",,OK,,
+3535,194585,The End?,Data/CodexEntry.lua(00176),,CodexEntry Journal_Entry10 DisplayName,,,,The End?,,結束了嗎？,,OK,,
 3536,194585,"Can evil ever be truly defeated? Or is it eternal, like a dark seed, always finding new ways to sprout and corrupt the world?
 
 The soul of the elder vampire now belongs to the Solicitor, bound by the pact signed with his own unholy blood. In the end, he fell victim to his own plot. Poetic justice, maybe? Some kind of justice, to be sure.
@@ -1115,16 +1115,16 @@ Queen Katarina's pact was destroyed in the final fight. A difficult task lied ah
 
 She was not the only one who has to rebuild. Even in death, Gabriel accomplished his goals, tilting the balance of powers in the world for the worse. The Family, our order of hunters, was all but vanquished. Bearing my curse, I was not the person to restore it.
 
-I knew the right hunter for the job, but this is a different story...",,"Can evil ever be truly defeated? Or is it eternal, like a dark seed, always finding new ways to sprout and corrupt the world?
+I knew the right hunter for the job, but this is a different story...",,"邪惡能被徹底打敗嗎？或者它是永恆的，就像一顆黑暗的種子，總能找到新的土壤發芽，然後腐化這個世界？
 
-The soul of the elder vampire now belongs to the Solicitor, bound by the pact signed with his own unholy blood. In the end, he fell victim to his own plot. Poetic justice, maybe? Some kind of justice, to be sure.
+這個古老吸血鬼的靈魂現在屬於司法官的了，被他自己的不純潔的血所簽訂的契約束縛。最終，他淪為了自己計畫的犧牲品。俗套的正義？或許吧，但仍是某種正義。
 
-Queen Katarina's pact was destroyed in the final fight. A difficult task lied ahead of her - rebuilding Zagoravia and dealing with the aftermath of all bad decisions in the past.
+卡特蓮娜女王的契約在決戰中被毀壞。她面臨一項艱巨的任務──重建薩古拉維亞城，設法彌補她過去的決定所帶來的後果。
 
-She was not the only one who has to rebuild. Even in death, Gabriel accomplished his goals, tilting the balance of powers in the world for the worse. The Family, our order of hunters, was all but vanquished. Bearing my curse, I was not the person to restore it.
+她不是唯一一個需要去重建的人。即使死了，加百列還是完成了他的目標，把世界力量的平衡向糟糕的方向傾斜。我們的家、獵人組織被擊垮了。背負詛咒的我，並不是適合去恢復組織的人。
 
-I knew the right hunter for the job, but this is a different story...",,OK,,
-3884,195189,Weapons,Data/CodexEntry.lua(00185),,CodexEntry Recipes_Weapons DisplayName,,,,,,Weapons,,OK,,
+我知道適合這份工作的獵人，但這是另一個故事了……",,OK,,
+3884,195189,Weapons,Data/CodexEntry.lua(00185),,CodexEntry Recipes_Weapons DisplayName,,,,,,武器,,OK,,
 3885,196097,"Increase Damage - Combine a weapon with 3 Weapons of the same or better rarity.
 
 Increase Critical Chance - Combine a weapon with 3 Destiny Cards of the same or better rarity.
@@ -1143,14 +1143,14 @@ Increase Critical Chance - Combine a weapon with 3 Destiny Cards of the same or 
 
 Add a Property - Combine a rare weapon with a specific combination of 3 legendary Demon Powers to add a Property the weapon does not have yet. Experiment to discover the combinations that create different Properties. Note: This will replace any Property added in a previous transmutation.
 
-Improve a Property - Combine a weapon with the combination of three Demon Powers associated with the Property. The Demon Powers do not have to be legendary, but the effect will be stronger when legendary Demon Powers are used.","Increase Damage - Combine a weapon with 3 Weapons of the same or better rarity.
+Improve a Property - Combine a weapon with the combination of three Demon Powers associated with the Property. The Demon Powers do not have to be legendary, but the effect will be stronger when legendary Demon Powers are used.","提升傷害 - 將1把武器與3把相同或更高稀有度的武器合成。
 
-Increase Critical Chance - Combine a weapon with 3 Destiny Cards of the same or better rarity.
+提升暴擊率 - 將1把武器與3張相同或更高稀有度的命運牌合成。
 
-Add a Property - Combine a rare or uncommon weapon with a specific combination of 3 legendary Demon Powers to add a Property the weapon does not have yet. Note: This will replace any Property added in a previous transmutation.
+添加屬性 - 將1把稀有或罕見的武器與特定的3個傳奇惡魔之力合成，可給武器添加沒有的屬性。注意：這會取代任何先前合成所添加的屬性。
 
-Improve a Property - Combine a weapon with the combination of three Demon Powers associated with the Property. The Demon Powers do not have to be legendary, but the effect will be stronger when legendary Demon Powers are used.",,OK,,
-4233,196977,Gambling,Data/CodexEntry.lua(00192),,CodexEntry Recipes_Gambling DisplayName,,,,,,Gambling,,OK,,
+增強屬性 - 將1把武器與3個屬性相關的惡魔之力合成。惡魔之力不必是傳奇的，但使用傳奇的惡魔之力效果更強。",,OK,,
+4233,196977,Gambling,Data/CodexEntry.lua(00192),,CodexEntry Recipes_Gambling DisplayName,,,,,,賭博,,OK,,
 4234,197507,"Transmute 3 common (white) weapons to create a new random uncommon (green) weapon.
 
 Transmute 3 uncommon (green) weapons to create a new random uncommon (green) or rare (yellow) weapon.
@@ -1169,24 +1169,24 @@ Transmute 3 uncommon (green) weapons to create a new random uncommon (green) or 
 
 Transmute 3 rare (yellow) weapons to create a new random rare (yellow) or a very small chance for a legendary (purple) weapon.
 
-Three weapons of a given type always create a new weapon of the same type. For example 3 common swords will transmute into a new uncommon sword.","Transmute 3 common (white) weapons to create a new random uncommon (green) weapon.
+Three weapons of a given type always create a new weapon of the same type. For example 3 common swords will transmute into a new uncommon sword.","將3把普通（白色）武器合成會得到新的隨機罕見（綠色）武器。
 
-Transmute 3 uncommon (green) weapons to create a new random uncommon (green) or rare (yellow) weapon.
+將3把罕見（綠色）武器合成會得到新的隨機罕見（綠色）或稀有（黃色）武器。
 
-Transmute 3 rare (yellow) weapons to create a new random rare (yellow) or a very small chance for a legendary (purple) weapon.
+將3把稀有（黃色）武器合成會得到新的隨機稀有（黃色）武器，有極小機率得到傳奇（紫色）武器。
 
-Three weapons of a given type always create a new weapon of the same type, except legendary weapons which are always of a random type. For example 3 common swords will transmute into a new uncommon sword.",,OK,,
-3886,195189,Outfits,Data/CodexEntry.lua(00199),,CodexEntry Recipes_Outfits DisplayName,,,,,,Outfits,,OK,,
+3把同種武器進行合成時，得到的新武器也會是同一種，只有傳奇武器得到的種類是隨機的。例如：3把普通長劍會合成為1把罕見長劍。",,OK,,
+3886,195189,Outfits,Data/CodexEntry.lua(00199),,CodexEntry Recipes_Outfits DisplayName,,,,,,服裝,,OK,,
 3887,195189,"Colorization - combine an outfit with a Dye or combination of Dyes. Not all Dye combinations are possible.
 
 Improve Armor - combine an Outfit with a legendary Demon Power.
 
-Improve special Property - combine an Outfit with a legendary Destiny Card.",Data/CodexEntry.lua(00200),,CodexEntry Recipes_Outfits Description,,,,,,"Colorization - combine an outfit with a Dye or combination of Dyes. Not all Dye combinations are possible.
+Improve special Property - combine an Outfit with a legendary Destiny Card.",Data/CodexEntry.lua(00200),,CodexEntry Recipes_Outfits Description,,,,,,"染色 - 將1件服裝與1種染料或多種染料合成。並非所有染料的組合都行得通。
 
-Improve Armor - combine an Outfit with a legendary Demon Power.
+增強防禦 - 將1件服裝與1個傳奇惡魔之力合成。
 
-Improve special Property - combine an Outfit with a legendary Destiny Card.",,OK,,
-3888,195189,Demon Powers,Data/CodexEntry.lua(00206),,CodexEntry Recipes_DemonPowers DisplayName,,,,,,Demon Powers,,OK,,
+增強特殊屬性 - 將1件服裝與1張傳奇命運牌合成。",,OK,,
+3888,195189,Demon Powers,Data/CodexEntry.lua(00206),,CodexEntry Recipes_DemonPowers DisplayName,,,,,,惡魔之力,,OK,,
 3889,199653,"Improve base Property - combine a Demon Power with three Demon Powers of the same type with the same or better rarity.
 
 Improve secondary Property - combine a Demon Power with three Demon Powers of other types with the same or better rarity.
@@ -1199,8 +1199,12 @@ Create a random Demon Power - combine 3 different Demon Powers to create a rando
 
 Improve secondary Property - combine a Demon Power with three Demon Powers of other types with the same or better rarity.
 
-Create a random Demon Power - combine 3 different Demon Powers to create a random Demon Power of the same rarity.",,,changed,,
-3890,195189,Destiny Cards,Data/CodexEntry.lua(00213),,CodexEntry Recipes_DestinyCards DisplayName,,,,,,Destiny Cards,,OK,,
+Create a random Demon Power - combine 3 different Demon Powers to create a random Demon Power of the same rarity.","增強基本屬性 - 將1個惡魔之力與3個同類且具有相同或更高稀有度的惡魔之力合成。
+
+增強第二屬性 - 將1個惡魔之力與3個不同類且具有相同或更高稀有度的惡魔之力合成。
+
+創造隨機的惡魔之力 - 將3個惡魔之力合成，可隨機創造1個相同稀有度的惡魔之力。",,changed,,
+3890,195189,Destiny Cards,Data/CodexEntry.lua(00213),,CodexEntry Recipes_DestinyCards DisplayName,,,,,,命運牌,,OK,,
 3891,196416,"Improve Rarity - three cards of the same rarity and type produce one card of the higher rarity, if it exists. If all cards are Divine or Wicked, the resulting card will also be Divine or Wicked.
 
 Make a card Divine or Wicked - combine a normal card with 3 Divine or 3 Wicked cards of the same or better rarity.
@@ -1219,23 +1223,23 @@ Make a card Divine or Wicked - combine a normal card with 3 Divine or 3 Wicked c
 
 Improve Divine Property - combine a Divine card with 3 Divine cards of the same or better rarity.
 
-Improve Wicked Property - combine a Wicked card with 3 Wicked cards of the same or better rarity.","Improve Rarity - three cards of the same rarity and type produce one card of the higher rarity, if it exists. If all cards are Divine or Wicked, the resulting card will also be Divine or Wicked.
+Improve Wicked Property - combine a Wicked card with 3 Wicked cards of the same or better rarity.","提高稀有度 - 3張同類且同稀有度的牌可以生成1張更高稀有度的牌（如果有的話）。如果所有牌都是神聖牌或邪惡牌，生成的牌也會是神聖牌或邪惡牌。
 
-Make a card Divine or Wicked - combine a normal card with 3 Divine or 3 Wicked cards of the same or better rarity.
+製作神聖牌或邪惡牌 - 將1張普通牌與3張相同或更高稀有度的神聖牌或邪惡牌合成。
 
-Improve Divine Property - combine a Divine card with 3 Divine cards.
+增強神聖屬性 - 將1張神聖牌與3張神聖牌合成。
 
-Improve Wicked Property - combine a Wicked card with 3 Wicked cards.",,OK,,
-4174,196097,Power Stones,Data/CodexEntry.lua(00220),,CodexEntry Recipes_PowerStones DisplayName,,,,,,Power Stones,,OK,,
+增強邪惡屬性 - 將1張邪惡牌與3張邪惡牌合成。",,OK,,
+4174,196097,Power Stones,Data/CodexEntry.lua(00220),,CodexEntry Recipes_PowerStones DisplayName,,,,,,力量石,,OK,,
 4175,196097,"Power Stones are used to directly upgrade an item. 
 
 Each Power Stone has a description of what the upgrade will be and what item is required as a base. 
 
-Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),,CodexEntry Recipes_PowerStones Description,,,,,,"Power Stones are used to directly upgrade an item. 
+Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),,CodexEntry Recipes_PowerStones Description,,,,,,"力量石是用來直接升級物品的。
 
-Each Power Stone has a description of what the upgrade will be and what item is required as a base. 
+每顆力量石都有描述升級的項目和需要滿足的條件。
 
-Only one Power Stone can be used per transmutation.",,OK,,
+每次合成只能使用一顆力量石。",,OK,,
 2305,194799,Awaken the Restless Dead in the Sarcophagi Across The Royal Crypt,Data/MapChallenges.lua(00030),,,,,,Awaken the Restless Dead in the Sarcophagi Across The Royal Crypt,Awaken the Restless Dead in the Sarcophagi Across The Royal Crypt (<progress>/<count>),Awaken the Restless Dead in the Sarcophagi Across The Royal Crypt,,OK,,
 2306,194283,Restless Dead Sarcophagi,Data/MapChallenges.lua(00032),,,,,,Restless Dead Sarcophagi,Restless Dead Sarcophagi,,,OK,,
 2307,194799,Cleanse Infested Grain Sacks scattered across the slums,Data/MapChallenges.lua(00058),,,,,,Cleanse Infested Grain Sacks scattered across the slums,Cleanse Infested Grain Sacks scattered across the slums (<progress>/<count>),Cleanse Infested Grain Sacks scattered across the slums,,OK,,
