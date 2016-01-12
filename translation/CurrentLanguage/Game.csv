@@ -372,7 +372,7 @@ ID,Revision,Text,Location,Section,Context,Actor,Voice Actor,Old Revision,Old Tex
 1000380,194283,Error connecting to server: <err>,CommonLua/UI/NetGameDlg.lua(00123),,,,,,,,連線到伺服器發生錯誤：<err>,,OK,,
 1000381,194283,Joining game <game>,CommonLua/UI/NetGameDlg.lua(00128),,,,,,,,正在加入遊戲<game>,,OK,,
 1000382,194283,Error joining game <game>: <error>,CommonLua/UI/NetGameDlg.lua(00131),,,,,,,,加入遊戲<game>時發生錯誤：<error>,,OK,,
-1000383,194283,Changing map to <map>,CommonLua/UI/NetGameDlg.lua(00138),,,,,,,,變更地圖到<map>,,OK,,
+1000383,194283,Changing map to <map>,CommonLua/UI/NetGameDlg.lua(00138),,,,,,,,正在變更地圖到<map>,,OK,,
 1000384,194283,Connection established,CommonLua/UI/NetGameDlg.lua(00143),,,,,,,,連線已建立,,OK,,
 1000385,194283,Pause,CommonLua/UI/PauseGameDialog.lua(00044),,PauseDlgDesigner,,,,,,暫停,,OK,,
 1000386,194283,OK,CommonLua/UI/UIDesignerData/InputTextDlgEx.lua(00021),,InputTextDlgEx,,,,,,確定,,OK,,
@@ -793,7 +793,7 @@ You begin the game with two slots for Destiny Cards and 4 Destiny Points. You wi
 
 The majority of Destiny Card effects stack, either adding their bonuses together or allowing the effect to trigger several times during the cooldown period.","你可以裝備命運牌來獲得各式各樣的被動能力。要裝備命運牌，你需要有空的牌槽和足夠的命運點。如果卡牌是獨一無二的，那你最多只能裝備一張一樣的牌。
 
-開始遊戲時你會有兩個命運牌槽和四點命運點，隨著等級提升你會獲得更多的牌槽和點數。
+開始遊戲時你會有2格命運牌槽和4點命運點，隨著等級提升你會獲得更多的牌槽和點數。
 
 大多數命運牌的效果會疊加，不是提升整體加成，就是在冷卻期間能發動效果數次。",,OK,,
 2151,194283,Hexes,Data/CodexEntry.lua(00052),,CodexEntry Hint_Hexes DisplayName,,,,Hexes,Hexes,禁咒,,OK,,
@@ -1870,10 +1870,10 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 121,194283,Checkpoint Activated,Lua/Checkpoint.lua(00052),,,,,,Checkpoint Activated,Checkpoint Activated,紀錄點已啟動,,OK,,
 122,194283,<control> - View,Lua/Codex.lua(00056),,,,,,<control> - View,<control> - View,<control> - 查看,,OK,,
 123,194283,New Codex Entry: <title><control_hint>,Lua/Codex.lua(00057),,,,,,New Codex Entry: <title><control_hint>,New Codex Entry: <title><control_hint>,新百科條目：<title><control_hint>,,OK,,
-124,194283,Equip a Potion or Bomb here,Lua/Consumable.lua(00009),,,,,,Equip a Potion or Bomb here,Equip a Potion or Bomb here,在這裡裝備藥劑或炸彈,,OK,,
+124,194283,Equip a Potion or Bomb here,Lua/Consumable.lua(00009),,,,,,Equip a Potion or Bomb here,Equip a Potion or Bomb here,在此裝備藥劑或炸彈,,OK,,
 125,194283,Immune!,Lua/Damage.lua(00099),,,,,,Immune!,Immune!,免疫！,,OK,,
 126,194283,Blocked!,Lua/Damage.lua(00104),,,,,,Blocked!,Blocked!,格擋！,,OK,,
-127,194283,Equip a Destiny Card here,Lua/DestinyCard.lua(00016),,,,,,Equip a Destiny Card here,Equip a Destiny Card here,在這裡裝備命運牌,,OK,,
+127,194283,Equip a Destiny Card here,Lua/DestinyCard.lua(00016),,,,,,Equip a Destiny Card here,Equip a Destiny Card here,在此裝備命運牌,,OK,,
 128,194283,"<effect1>
 
 <effect2>",Lua/DestinyCard.lua(00182),,,,,,"<effect1>
@@ -2121,7 +2121,7 @@ None - they are always stoned!","換一個燈泡需要多少石像鬼？
 322,194283,+<lightgreen><number>%</lightgreen> movement speed,Lua/Effects.lua(00291),,,,,,+<lightgreen><number>%</lightgreen> movement speed,+<lightgreen><number>%</lightgreen> movement speed,+<lightgreen><number>%</lightgreen>移動速度,,OK,,
 323,194283,<lightgreen><number>%</lightgreen> increased dodge distance,Lua/Effects.lua(00298),,,,,,<lightgreen><number>%</lightgreen> increased dodge distance,<lightgreen><number>%</lightgreen> increased dodge distance,提升<lightgreen><number>%</lightgreen>翻滾距離,,OK,,
 324,194283,Consumables have <lightgreen><number></lightgreen> more use,Lua/Effects.lua(00305),,,,,,Consumables have <lightgreen><number></lightgreen> more use,Consumables have <lightgreen><number></lightgreen> more use,消耗品能多使用<lightgreen><number></lightgreen>次,,OK,,
-325,194283,Increases Destiny Slots by <lightgreen><number></lightgreen>,Lua/Effects.lua(00312),,,,,,Increases Destiny Slots by <lightgreen><number></lightgreen>,Increases Destiny Slots by <lightgreen><number></lightgreen>,增加<lightgreen><number></lightgreen>個命運牌槽,,OK,,
+325,194283,Increases Destiny Slots by <lightgreen><number></lightgreen>,Lua/Effects.lua(00312),,,,,,Increases Destiny Slots by <lightgreen><number></lightgreen>,Increases Destiny Slots by <lightgreen><number></lightgreen>,增加<lightgreen><number></lightgreen>格命運牌槽,,OK,,
 326,194283,+<lightgreen><number></lightgreen> destiny points,Lua/Effects.lua(00319),,,,,,+<lightgreen><number></lightgreen> destiny points,+<lightgreen><number></lightgreen> destiny points,+<lightgreen><number></lightgreen>命運點,,OK,,
 327,194283,+<lightgreen><number>%</lightgreen> more gold from monsters,Lua/Effects.lua(00326),,,,,,+<lightgreen><number>%</lightgreen> more gold from monsters,+<lightgreen><number>%</lightgreen> more gold from monsters,+<lightgreen><number>%</lightgreen>敵人掉落金幣,,OK,,
 328,194283,Find better items from chests,Lua/Effects.lua(00339),,,,,,Find better items from chests,Find better items from chests,提升從箱子裡找到的物品品質,,OK,,
@@ -2979,82 +2979,82 @@ Tag <UseDefaultEmote> not present in original text",
 3853,195189,Weak <name>,Lua/MonsterData.lua(02635),,feminine,,,,,,弱小<name>,,OK,,
 3854,195189,Weak <name>,Lua/MonsterData.lua(02636),,neuter,,,,,,弱小<name>,,OK,,
 863,194283,-50% Health - -50% Damage,Lua/MonsterData.lua(02639),,,,,,-50% Health - -50% Damage,-50% Health - -50% Damage,-50%生命、-50%傷害,,OK,,
-868,194283,Talk,Lua/NPC.lua(00039),,,,,,Talk,Talk,,,OK,,
-869,194283,Talk,Lua/NPC.lua(00050),,,,,,Talk,Talk,,,OK,,
-870,194283,Trade,Lua/NPC.lua(00052),,,,,,Trade,Trade,,,OK,,
-871,194283,Stash,Lua/NPC.lua(00054),,,,,,Stash,Stash,,,OK,,
-864,194283,Joining game <game>,Lua/NetClientOverride.lua(00389),,,,,,Joining game <game>,Joining game <game>,,,OK,,
-865,194283,Error joining game <game>: <error>,Lua/NetClientOverride.lua(00392),,,,,,Error joining game <game>: <error>,Error joining game <game>: <error>,,,OK,,
-866,194283,Changing map to <map>,Lua/NetClientOverride.lua(00397),,,,,,Changing map to <map>,Changing map to <map>,,,OK,,
-867,194283,Connection established,Lua/NetClientOverride.lua(00401),,,,,,Connection established,Connection established,,,OK,,
-872,194283,Requierement,Lua/Outfit.lua(00005),,,,,,Requierement,Requierement,Requirement,,OK,,
-881,194283,Equip an Outfit here,Lua/Outfit.lua(00034),,,,,,Equip an Outfit here,Equip an Outfit here,,,OK,,
-882,194283,<clr><name></color>,Lua/Outfit.lua(00074),,,,,,<clr><name></color>,<clr><name></color>,,,OK,,
-883,194283,Hunter's Outfit,Lua/Outfit.lua(00268),,,,,,Hunter's Outfit,Hunter's Outfit,,,OK,,
-884,194959,Gain <lightgreen><value>%</lightgreen> of the damage taken as Overdrive,Lua/Outfit.lua(00269),,,,,,You gain additional Overdrive when you take damage,You gain additional Overdrive when you take damage,Gain <lightgreen><value>%</lightgreen> of the damage taken as Overdrive,,OK,,
+868,194283,Talk,Lua/NPC.lua(00039),,,,,,Talk,Talk,交談,,OK,,
+869,194283,Talk,Lua/NPC.lua(00050),,,,,,Talk,Talk,交談,,OK,,
+870,194283,Trade,Lua/NPC.lua(00052),,,,,,Trade,Trade,交易,,OK,,
+871,194283,Stash,Lua/NPC.lua(00054),,,,,,Stash,Stash,存放,,OK,,
+864,194283,Joining game <game>,Lua/NetClientOverride.lua(00389),,,,,,Joining game <game>,Joining game <game>,正在加入遊戲<game>,,OK,,
+865,194283,Error joining game <game>: <error>,Lua/NetClientOverride.lua(00392),,,,,,Error joining game <game>: <error>,Error joining game <game>: <error>,加入遊戲<game>時發生錯誤：<error>,,OK,,
+866,194283,Changing map to <map>,Lua/NetClientOverride.lua(00397),,,,,,Changing map to <map>,Changing map to <map>,正在變更地圖到<map>,,OK,,
+867,194283,Connection established,Lua/NetClientOverride.lua(00401),,,,,,Connection established,Connection established,連線已建立,,OK,,
+872,194283,Requierement,Lua/Outfit.lua(00005),,,,,,Requierement,Requierement,需要,,OK,,
+881,194283,Equip an Outfit here,Lua/Outfit.lua(00034),,,,,,Equip an Outfit here,Equip an Outfit here,在此裝備服裝,,OK,,
+882,194283,<clr><name></color>,Lua/Outfit.lua(00074),,,,,,<clr><name></color>,<clr><name></color>,<clr><name></color>,,OK,,
+883,194283,Hunter's Outfit,Lua/Outfit.lua(00268),,,,,,Hunter's Outfit,Hunter's Outfit,獵人服裝,,OK,,
+884,194959,Gain <lightgreen><value>%</lightgreen> of the damage taken as Overdrive,Lua/Outfit.lua(00269),,,,,,You gain additional Overdrive when you take damage,You gain additional Overdrive when you take damage,受到的<lightgreen><value>%</lightgreen>傷害轉化為超能。,,OK,,
 3609,199130,"Select this outfit if you favor a balanced playstyle or you like to be at your strongest in dire circumstances.
 
 The Hunter's Outfit's grants additional Overdrive when you suffer damage which allows you to use your demon powers more often in tough encounters. It offers a balanced playstyle and will serve you well in every situation.",Lua/Outfit.lua(00270),,,,,,"Select this outfit if you favor a balanced playstyle or you like to be at your strongest in dire circumstances.
 
 The Hunter's Outfit's grants additional Overdrive when you suffer damage which allows you to use your demonic powers more often in tough encounters. It offers a balanced playstyle and will serve you well in every situation.","Select this outfit if you favor a balanced playstyle or you like to be at your strongest in dire circumstances.
 
-The Hunter's Outfit's grants additional Overdrive when you suffer damage which allows you to use your demon powers more often in tough encounters. It offers a balanced playstyle and will serve you well in every situation.","Select this outfit if you favor a balanced playstyle or you like to be at your strongest in dire circumstances.
+The Hunter's Outfit's grants additional Overdrive when you suffer damage which allows you to use your demon powers more often in tough encounters. It offers a balanced playstyle and will serve you well in every situation.","如果你偏好平衡的遊戲風格或希望在危難時能保持最佳狀態，那就選擇這套服裝吧。
 
-The Hunter's Outfit's grants additional Overdrive when you suffer damage which allows you to use your demon powers more often in tough encounters. It offers a balanced playstyle and will serve you well in every situation.",,OK,,
-885,194283,Wanderer's Outfit,Lua/Outfit.lua(00293),,,,,,Wanderer's Outfit,Wanderer's Outfit,,,OK,,
+獵人服裝會在承受傷害時凝聚額外超能，可讓你在遭遇勁敵時更頻繁地施展惡魔之力。它提供一種平衡的遊戲風格，讓你能很好地應付各種狀況。",,OK,,
+885,194283,Wanderer's Outfit,Lua/Outfit.lua(00293),,,,,,Wanderer's Outfit,Wanderer's Outfit,浪人服裝,,OK,,
 886,196725,"You gain <lightgreen><value></lightgreen> Overdrive every second, but attacks no longer grant Overdrive.
 
 <white>This outfit forever signifies your support. Wear it proudly!</white>",Lua/Outfit.lua(00294),,,,,,"You gain <lightgreen><value></lightgreen> Overdrive every second, but attacks no longer grant Overdrive.
 
 <white>This outfit forever signifies your support of Victor Vran during the Early Access. Wear it proudly!</white>","You gain <lightgreen><value></lightgreen> Overdrive every second, but attacks no longer grant Overdrive.
 
-<white>This outfit forever signifies your support of Victor Vran during the Early Access. Wear it proudly!</white>","You gain <lightgreen><value></lightgreen> Overdrive every second, but attacks no longer grant Overdrive.
+<white>This outfit forever signifies your support of Victor Vran during the Early Access. Wear it proudly!</white>","每秒凝聚<lightgreen><value></lightgreen>超能，但攻擊無法凝聚超能。
 
-<white>This outfit forever signifies your support. Wear it proudly!</white>",,OK,,
+<white>這套服裝永遠彰顯您對我們的支持。自豪地穿出去吧！</white>",,OK,,
 3612,196977,"This outfit offers the same stats as the Cavalier's Outfit. It is our special gift to everyone who supported us!
 
 The Wanderer's Outfit grants Overdrive automatically over time, but your weapon attacks will not generate Overdrive. It will allow you to use Demon Powers reliably and start encounters at full Overdrive.",Lua/Outfit.lua(00295),,,,,,"This outfit offers the same stats as the Cavalier's Outfit. It is our special gift to everyone who supported us during Early Access!
 
 The Wanderer's Outfit grants Overdrive automatically over time, but your weapon attacks will not generate Overdrive. It will allow you to use Demon Powers reliably and start encounters at full Overdrive.","This outfit offers the same stats as the Cavalier's Outfit. It is our special gift to everyone who supported us during Early Access!
 
-The Wanderer's Outfit grants Overdrive automatically over time, but your weapon attacks will not generate Overdrive. It will allow you to use Demon Powers reliably and start encounters at full Overdrive.","This outfit offers the same stats as the Cavalier's Outfit. It is our special gift to everyone who supported us!
+The Wanderer's Outfit grants Overdrive automatically over time, but your weapon attacks will not generate Overdrive. It will allow you to use Demon Powers reliably and start encounters at full Overdrive.","這套服裝與紳士服裝的效果相同，是我們贈與所有支持者的小禮物！
 
-The Wanderer's Outfit grants Overdrive automatically over time, but your weapon attacks will not generate Overdrive. It will allow you to use Demon Powers reliably and start encounters at full Overdrive.",,OK,,
-887,194283,Zealot's Outfit,Lua/Outfit.lua(00337),,,,,,Zealot's Outfit,Zealot's Outfit,,,OK,,
-888,194959,High Armor. Increases Health by <lightgreen><value></lightgreen>,Lua/Outfit.lua(00338),,,,,,Gain health when you use a demon power,Gain health when you use a demon power,High Armor. Increases Health by <lightgreen><value></lightgreen>,,OK,,
-889,194283,Vanguard's Outfit,Lua/Outfit.lua(00354),,,,,,Vanguard's Outfit,Vanguard's Outfit,,,OK,,
-890,194959,High Armor. Increases maximum Overdrive by <max_overdrive_add>. Overdrive doesn't diminish outside of combat but Overdrive gain is decreased by <lightgreen><value>%</lightgreen>.,Lua/Outfit.lua(00355),,,,,,Your Overdrive bar is extended by 50% but you gain less Overdrive from attacks,Your Overdrive bar is extended by 50% but you gain less Overdrive from attacks,High Armor. Increases maximum Overdrive by <max_overdrive_add>. Overdrive doesn't diminish outside of combat but Overdrive gain is decreased by <lightgreen><value>%</lightgreen>.,,OK,,
-891,194283,Adventurer's Outfit,Lua/Outfit.lua(00379),,,,,,Adventurer's Outfit,Adventurer's Outfit,,,OK,,
+浪人服裝會隨時間自動凝聚超能，但武器攻擊將無法凝聚超能。它讓你能穩定地運用惡魔之力，而且在開始戰鬥時超能會聚滿。",,OK,,
+887,194283,Zealot's Outfit,Lua/Outfit.lua(00337),,,,,,Zealot's Outfit,Zealot's Outfit,狂徒服裝,,OK,,
+888,194959,High Armor. Increases Health by <lightgreen><value></lightgreen>,Lua/Outfit.lua(00338),,,,,,Gain health when you use a demon power,Gain health when you use a demon power,高防禦。提升<lightgreen><value></lightgreen>生命。,,OK,,
+889,194283,Vanguard's Outfit,Lua/Outfit.lua(00354),,,,,,Vanguard's Outfit,Vanguard's Outfit,先鋒者服裝,,OK,,
+890,194959,High Armor. Increases maximum Overdrive by <max_overdrive_add>. Overdrive doesn't diminish outside of combat but Overdrive gain is decreased by <lightgreen><value>%</lightgreen>.,Lua/Outfit.lua(00355),,,,,,Your Overdrive bar is extended by 50% but you gain less Overdrive from attacks,Your Overdrive bar is extended by 50% but you gain less Overdrive from attacks,高防禦。提升<max_overdrive_add>最大超能。超能不會在戰鬥後減少，但超能凝聚量降低<lightgreen><value>%</lightgreen>。,,OK,,
+891,194283,Adventurer's Outfit,Lua/Outfit.lua(00379),,,,,,Adventurer's Outfit,Adventurer's Outfit,探險家服裝,,OK,,
 892,194959,Increases the Destiny Slots by <destiny_slots>. Increases maximum Overdrive by <max_overdrive_add>. Increases Overdrive gain by <lightgreen><value>%</lightgreen>.,Lua/Outfit.lua(00380),,,,,,"Your Overdrive bar is extended by 100%
 
 You don't lose Overdrive over time","Your Overdrive bar is extended by 100%
 
-You don't lose Overdrive over time",Increases the Destiny Slots by <destiny_slots>. Increases maximum Overdrive by <max_overdrive_add>. Increases Overdrive gain by <lightgreen><value>%</lightgreen>.,,OK,,
-893,194283,Vigilante's Outfit,Lua/Outfit.lua(00406),,,,,,Vigilante's Outfit,Vigilante's Outfit,,,OK,,
-894,194959,Critical hits grant <lightgreen><value>%</lightgreen> more Overdrive. Normal attacks no longer grant Overdrive.,Lua/Outfit.lua(00407),,,,,,Gain double Overdrive from critical hits but no Overdrive from other attacks,Gain double Overdrive from critical hits but no Overdrive from other attacks,Critical hits grant <lightgreen><value>%</lightgreen> more Overdrive. Normal attacks no longer grant Overdrive.,,OK,,
+You don't lose Overdrive over time",增加<destiny_slots>格命運牌槽。提升<max_overdrive_add>最大超能。超能凝聚量提升<lightgreen><value>%</lightgreen>。,,OK,,
+893,194283,Vigilante's Outfit,Lua/Outfit.lua(00406),,,,,,Vigilante's Outfit,Vigilante's Outfit,警探服裝,,OK,,
+894,194959,Critical hits grant <lightgreen><value>%</lightgreen> more Overdrive. Normal attacks no longer grant Overdrive.,Lua/Outfit.lua(00407),,,,,,Gain double Overdrive from critical hits but no Overdrive from other attacks,Gain double Overdrive from critical hits but no Overdrive from other attacks,暴擊時會多凝聚<lightgreen><value>%</lightgreen>超能，但普通攻擊無法凝聚超能。,,OK,,
 3610,194959,"Select this outfit if you want to create a specialized build focused on precision and critical strikes.
 
-The Vigilante's Outfit grants Overdrive only when you score critical hits against your enemies. The Armor provided by the outfit will reduce the damage of some of the attacks that you suffer.",Lua/Outfit.lua(00408),,,,,,,,"Select this outfit if you want to create a specialized build focused on precision and critical strikes.
+The Vigilante's Outfit grants Overdrive only when you score critical hits against your enemies. The Armor provided by the outfit will reduce the damage of some of the attacks that you suffer.",Lua/Outfit.lua(00408),,,,,,,,"如果你想創造一個專精於精準和暴擊的角色，那就選擇這套服裝吧。
 
-The Vigilante's Outfit grants Overdrive only when you score critical hits against your enemies. The Armor provided by the outfit will reduce the damage of some of the attacks that you suffer.",,OK,,
-895,194283,Cavalier's Outfit,Lua/Outfit.lua(00433),,,,,,Cavalier's Outfit,Cavalier's Outfit,,,OK,,
-896,194959,"You gain <lightgreen><value></lightgreen> Overdrive every second, but attacks no longer grant Overdrive",Lua/Outfit.lua(00434),,,,,,"You gain Overdrive over time, but attacks no longer grant Overdrive","You gain Overdrive over time, but attacks no longer grant Overdrive","You gain <lightgreen><value></lightgreen> Overdrive every second, but attacks no longer grant Overdrive",,OK,,
+警探服裝只在對敵人造成暴擊時凝聚超能。服裝提供的防禦也會降低你所受的一些攻擊傷害。",,OK,,
+895,194283,Cavalier's Outfit,Lua/Outfit.lua(00433),,,,,,Cavalier's Outfit,Cavalier's Outfit,紳士服裝,,OK,,
+896,194959,"You gain <lightgreen><value></lightgreen> Overdrive every second, but attacks no longer grant Overdrive",Lua/Outfit.lua(00434),,,,,,"You gain Overdrive over time, but attacks no longer grant Overdrive","You gain Overdrive over time, but attacks no longer grant Overdrive",每秒凝聚<lightgreen><value></lightgreen>超能，但攻擊無法凝聚超能。,,OK,,
 3611,194959,"Select this outfit if you favor playing a 'caster' hero.
 
-The Cavalier's Outfit grants Overdrive automatically over time, but your weapon attacks will not generate Overdrive. It will allow you to use Demon Powers reliably and start encounters at full Overdrive.",Lua/Outfit.lua(00435),,,,,,,,"Select this outfit if you favor playing a 'caster' hero.
+The Cavalier's Outfit grants Overdrive automatically over time, but your weapon attacks will not generate Overdrive. It will allow you to use Demon Powers reliably and start encounters at full Overdrive.",Lua/Outfit.lua(00435),,,,,,,,"如果你偏好「法師系」角色，那就選擇這套服裝吧。
 
-The Cavalier's Outfit grants Overdrive automatically over time, but your weapon attacks will not generate Overdrive. It will allow you to use Demon Powers reliably and start encounters at full Overdrive.",,OK,,
+紳士服裝會隨時間自動凝聚超能，但武器攻擊將無法凝聚超能。它讓你能穩定地運用惡魔之力，而且在開始戰鬥時超能會聚滿。",,OK,,
 4387,198395,"You gain <lightgreen><value></lightgreen> Overdrive when you use a weapon special attack, but attacks no longer grant Overdrive.
 
-Reduces weapon cooldowns by <cooldown_reduction>%",Lua/Outfit.lua(00446),,,,,,,,"You gain <lightgreen><value></lightgreen> Overdrive when you use a weapon special attack, but attacks no longer grant Overdrive.
+Reduces weapon cooldowns by <cooldown_reduction>%",Lua/Outfit.lua(00446),,,,,,,,"使用特殊攻擊時會凝聚<lightgreen><value></lightgreen>超能，但普通攻擊無法凝聚超能。
 
-Reduces weapon cooldowns by <cooldown_reduction>%",,OK,,
-4388,198395,Select this outfit if you don't want to lose your head.,Lua/Outfit.lua(00447),,,,,,,,Select this outfit if you don't want to lose your head.,,OK,,
-4251,197294,Highlander's Outfit,Lua/Outfit.lua(00523),,,,,,,,Highlander's Outfit,,OK,,
-4626,199653,Player 1,Lua/PlayerProfile.lua(00446),,,,,0,,,,,new,,
-4627,199653,Player 2,Lua/PlayerProfile.lua(00447),,,,,0,,,,,new,,
-897,194283,+<number> XP,Lua/PlayerProfile.lua(01103),,,,,,+<number> XP,+<number> XP,,,OK,,
-898,194283,+<gold> Gold,Lua/PlayerProfile.lua(01131),,,,,,+<gold> Gold,+<gold> Gold,,,OK,,
+攻擊冷卻時間縮短<cooldown_reduction>%。",,OK,,
+4388,198395,Select this outfit if you don't want to lose your head.,Lua/Outfit.lua(00447),,,,,,,,如果還想保住你的頭，那就選擇這套服裝吧。,,OK,,
+4251,197294,Highlander's Outfit,Lua/Outfit.lua(00523),,,,,,,,高地人服裝,,OK,,
+4626,199653,Player 1,Lua/PlayerProfile.lua(00446),,,,,0,,,玩家1,,new,,
+4627,199653,Player 2,Lua/PlayerProfile.lua(00447),,,,,0,,,玩家2,,new,,
+897,194283,+<number> XP,Lua/PlayerProfile.lua(01103),,,,,,+<number> XP,+<number> XP,+<number>經驗,,OK,,
+898,194283,+<gold> Gold,Lua/PlayerProfile.lua(01131),,,,,,+<gold> Gold,+<gold> Gold,+<gold>金幣,,OK,,
 899,194283,Healing Potion,Lua/Potion.lua(00073),,,,,,Healing Potion,Healing Potion,,,OK,,
 900,194283,Ambrosia,Lua/Potion.lua(00094),,,,,,Ambrosia,Ambrosia,,,OK,,
 901,196259,Restores 100% health and refreshes the cooldowns of all attacks and Demon Powers,Lua/Potion.lua(00120),,,,,,Restores 100% health and refreshes all cooldowns,Restores 100% health and refreshes all cooldowns,Restores 100% health and refreshes the cooldowns of all attacks and Demon Powers,,OK,,
