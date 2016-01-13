@@ -3008,7 +3008,7 @@ The Hunter's Outfit's grants additional Overdrive when you suffer damage which a
 
 <white>This outfit forever signifies your support of Victor Vran during the Early Access. Wear it proudly!</white>","You gain <lightgreen><value></lightgreen> Overdrive every second, but attacks no longer grant Overdrive.
 
-<white>This outfit forever signifies your support of Victor Vran during the Early Access. Wear it proudly!</white>","每秒凝聚<lightgreen><value></lightgreen>超能，但攻擊無法凝聚超能。
+<white>This outfit forever signifies your support of Victor Vran during the Early Access. Wear it proudly!</white>","每秒凝聚<lightgreen><value></lightgreen>超能，但攻擊不會凝聚超能。
 
 <white>這套服裝永遠彰顯您對我們的支持。自豪地穿出去吧！</white>",,OK,,
 3612,196977,"This outfit offers the same stats as the Cavalier's Outfit. It is our special gift to everyone who supported us!
@@ -3019,7 +3019,7 @@ The Wanderer's Outfit grants Overdrive automatically over time, but your weapon 
 
 The Wanderer's Outfit grants Overdrive automatically over time, but your weapon attacks will not generate Overdrive. It will allow you to use Demon Powers reliably and start encounters at full Overdrive.","這套服裝與紳士服裝的效果相同，是我們贈與所有支持者的小禮物！
 
-浪人服裝會隨時間自動凝聚超能，但武器攻擊將無法凝聚超能。它讓你能穩定地運用惡魔之力，而且在開始戰鬥時超能會聚滿。",,OK,,
+浪人服裝會隨時間自動凝聚超能，但武器攻擊將不會凝聚超能。它讓你能穩定地運用惡魔之力，而且在開始戰鬥時超能會聚滿。",,OK,,
 887,194283,Zealot's Outfit,Lua/Outfit.lua(00337),,,,,,Zealot's Outfit,Zealot's Outfit,狂徒服裝,,OK,,
 888,194959,High Armor. Increases Health by <lightgreen><value></lightgreen>,Lua/Outfit.lua(00338),,,,,,Gain health when you use a demon power,Gain health when you use a demon power,高防禦。提升<lightgreen><value></lightgreen>生命。,,OK,,
 889,194283,Vanguard's Outfit,Lua/Outfit.lua(00354),,,,,,Vanguard's Outfit,Vanguard's Outfit,先鋒者服裝,,OK,,
@@ -3031,22 +3031,22 @@ You don't lose Overdrive over time","Your Overdrive bar is extended by 100%
 
 You don't lose Overdrive over time",增加<destiny_slots>格命運牌槽。提升<max_overdrive_add>最大超能。超能凝聚量提升<lightgreen><value>%</lightgreen>。,,OK,,
 893,194283,Vigilante's Outfit,Lua/Outfit.lua(00406),,,,,,Vigilante's Outfit,Vigilante's Outfit,警探服裝,,OK,,
-894,194959,Critical hits grant <lightgreen><value>%</lightgreen> more Overdrive. Normal attacks no longer grant Overdrive.,Lua/Outfit.lua(00407),,,,,,Gain double Overdrive from critical hits but no Overdrive from other attacks,Gain double Overdrive from critical hits but no Overdrive from other attacks,暴擊時會多凝聚<lightgreen><value>%</lightgreen>超能，但普通攻擊無法凝聚超能。,,OK,,
+894,194959,Critical hits grant <lightgreen><value>%</lightgreen> more Overdrive. Normal attacks no longer grant Overdrive.,Lua/Outfit.lua(00407),,,,,,Gain double Overdrive from critical hits but no Overdrive from other attacks,Gain double Overdrive from critical hits but no Overdrive from other attacks,暴擊時會多凝聚<lightgreen><value>%</lightgreen>超能，但普通攻擊不會凝聚超能。,,OK,,
 3610,194959,"Select this outfit if you want to create a specialized build focused on precision and critical strikes.
 
 The Vigilante's Outfit grants Overdrive only when you score critical hits against your enemies. The Armor provided by the outfit will reduce the damage of some of the attacks that you suffer.",Lua/Outfit.lua(00408),,,,,,,,"如果你想創造一個專精於精準和暴擊的角色，那就選擇這套服裝吧。
 
 警探服裝只在對敵人造成暴擊時凝聚超能。服裝提供的防禦也會降低你所受的一些攻擊傷害。",,OK,,
 895,194283,Cavalier's Outfit,Lua/Outfit.lua(00433),,,,,,Cavalier's Outfit,Cavalier's Outfit,紳士服裝,,OK,,
-896,194959,"You gain <lightgreen><value></lightgreen> Overdrive every second, but attacks no longer grant Overdrive",Lua/Outfit.lua(00434),,,,,,"You gain Overdrive over time, but attacks no longer grant Overdrive","You gain Overdrive over time, but attacks no longer grant Overdrive",每秒凝聚<lightgreen><value></lightgreen>超能，但攻擊無法凝聚超能。,,OK,,
+896,194959,"You gain <lightgreen><value></lightgreen> Overdrive every second, but attacks no longer grant Overdrive",Lua/Outfit.lua(00434),,,,,,"You gain Overdrive over time, but attacks no longer grant Overdrive","You gain Overdrive over time, but attacks no longer grant Overdrive",每秒凝聚<lightgreen><value></lightgreen>超能，但攻擊不會凝聚超能。,,OK,,
 3611,194959,"Select this outfit if you favor playing a 'caster' hero.
 
 The Cavalier's Outfit grants Overdrive automatically over time, but your weapon attacks will not generate Overdrive. It will allow you to use Demon Powers reliably and start encounters at full Overdrive.",Lua/Outfit.lua(00435),,,,,,,,"如果你偏好「法師系」角色，那就選擇這套服裝吧。
 
-紳士服裝會隨時間自動凝聚超能，但武器攻擊將無法凝聚超能。它讓你能穩定地運用惡魔之力，而且在開始戰鬥時超能會聚滿。",,OK,,
+紳士服裝會隨時間自動凝聚超能，但武器攻擊將不會凝聚超能。它讓你能穩定地運用惡魔之力，而且在開始戰鬥時超能會聚滿。",,OK,,
 4387,198395,"You gain <lightgreen><value></lightgreen> Overdrive when you use a weapon special attack, but attacks no longer grant Overdrive.
 
-Reduces weapon cooldowns by <cooldown_reduction>%",Lua/Outfit.lua(00446),,,,,,,,"使用特殊攻擊時會凝聚<lightgreen><value></lightgreen>超能，但普通攻擊無法凝聚超能。
+Reduces weapon cooldowns by <cooldown_reduction>%",Lua/Outfit.lua(00446),,,,,,,,"使用特殊攻擊時會凝聚<lightgreen><value></lightgreen>超能，但普通攻擊不會凝聚超能。
 
 攻擊冷卻時間縮短<cooldown_reduction>%。",,OK,,
 4388,198395,Select this outfit if you don't want to lose your head.,Lua/Outfit.lua(00447),,,,,,,,如果還想保住你的頭，那就選擇這套服裝吧。,,OK,,
@@ -3259,28 +3259,28 @@ Red <team1_score>  ---  Blue <team2_score>",<newline>紅隊：<team1_score>分  
 1026,194283,Find <number> Secrets,Lua/QuestTypes.lua(01356),,,,,,Find <number> Secrets,Find <number> Secrets,找到<number>個秘密,,OK,,
 1027,194283,Find Secrets,Lua/QuestTypes.lua(01360),,,,,,Find Secrets,Find Secrets,找到所有秘密,,OK,,
 1028,194283,Find Secrets,Lua/QuestTypes.lua(01362),,,,,,Find Secrets,Find Secrets,找到所有秘密,,OK,,
-1030,194283,<name> (Common),Lua/Rune.lua(00028),,,,,,<name> (Common),<name> (Common),,,OK,,
-1031,194283,<name> (Uncommon),Lua/Rune.lua(00029),,,,,,<name> (Uncommon),<name> (Uncommon),,,OK,,
-1032,194283,<name> (Rare),Lua/Rune.lua(00030),,,,,,<name> (Rare),<name> (Rare),,,OK,,
-3855,195189,<name> (Legendary),Lua/Rune.lua(00031),,,,,,,,<name> (Legendary),,OK,,
-1033,194283,Equip a Demon Power here,Lua/Rune.lua(00034),,,,,,Equip a Demon Power here,Equip a Demon Power here,,,OK,,
-1035,194283,Blink,Lua/RuneTypes.lua(00006),,,,,,Blink,Blink,,,OK,,
+1030,194283,<name> (Common),Lua/Rune.lua(00028),,,,,,<name> (Common),<name> (Common),<name>（普通）,,OK,,
+1031,194283,<name> (Uncommon),Lua/Rune.lua(00029),,,,,,<name> (Uncommon),<name> (Uncommon),<name>（罕見）,,OK,,
+1032,194283,<name> (Rare),Lua/Rune.lua(00030),,,,,,<name> (Rare),<name> (Rare),<name>（稀有）,,OK,,
+3855,195189,<name> (Legendary),Lua/Rune.lua(00031),,,,,,,,<name>（傳奇）,,OK,,
+1033,194283,Equip a Demon Power here,Lua/Rune.lua(00034),,,,,,Equip a Demon Power here,Equip a Demon Power here,在此裝備惡魔之力,,OK,,
+1035,194283,Blink,Lua/RuneTypes.lua(00006),,,,,,Blink,Blink,瞬身,,OK,,
 1036,195390,"Teleport next to the target dealing damage and applying the <lightgreen2><condition_name></lightgreen2> condition to it. Also, gain speed for several seconds.
 
 Damage: <lightgreen><min_damage> - <max_damage></lightgreen>
-Accelerated speed: <lightgreen2><buff_duration_s>.<buff_duration_d></lightgreen2> sec<condition_description>",Lua/RuneTypes.lua(00011),,,,,,Teleport next to the target and deal <lightgreen><min_damage> - <max_damage></lightgreen> damage to it. Also applies the <lightgreen2><condition_name></lightgreen2> condition to the target.<condition_description>,Teleport next to the target and deal <lightgreen><min_damage> - <max_damage></lightgreen> damage to it. Also applies the <lightgreen2><condition_name></lightgreen2> condition to the target.<condition_description>,"Teleport next to the target dealing damage and applying the <lightgreen2><condition_name></lightgreen2> condition to it. Also, gain speed for several seconds.
+Accelerated speed: <lightgreen2><buff_duration_s>.<buff_duration_d></lightgreen2> sec<condition_description>",Lua/RuneTypes.lua(00011),,,,,,Teleport next to the target and deal <lightgreen><min_damage> - <max_damage></lightgreen> damage to it. Also applies the <lightgreen2><condition_name></lightgreen2> condition to the target.<condition_description>,Teleport next to the target and deal <lightgreen><min_damage> - <max_damage></lightgreen> damage to it. Also applies the <lightgreen2><condition_name></lightgreen2> condition to the target.<condition_description>,"瞬移到目標身邊造成傷害，並給目標附加<lightgreen2><condition_name></lightgreen2>狀態。同時獲得加速，持續數秒。
 
-Damage: <lightgreen><min_damage> - <max_damage></lightgreen>
-Accelerated speed: <lightgreen2><buff_duration_s>.<buff_duration_d></lightgreen2> sec<condition_description>",,OK,,
-1037,194283,Diamond,Lua/RuneTypes.lua(00124),,,,,,Diamond,Diamond,,,OK,,
+傷害：<lightgreen><min_damage> - <max_damage></lightgreen>
+加速：<lightgreen2><buff_duration_s>.<buff_duration_d></lightgreen2>秒<condition_description>",,OK,,
+1037,194283,Diamond,Lua/RuneTypes.lua(00124),,,,,,Diamond,Diamond,鑽石,,OK,,
 1038,195390,"Summon a magical shield that absorbs damage and reflects ranged attacks. The shield slowly decays over time. You don't gain Overdrive while this Demon Power is active.
 
 Absorbed Damage: <lightgreen><points></lightgreen>
-Chance to Reflect Projectiles: <lightgreen><deflect_chance>%</lightgreen>",Lua/RuneTypes.lua(00127),,,,,,Summon a magical shield that absorbs up to <lightgreen><points></lightgreen> damage. The shield slowly decays over time. You don't gain Overdrive while this Demon Power is active.,Summon a magical shield that absorbs up to <lightgreen><points></lightgreen> damage. The shield slowly decays over time. You don't gain Overdrive while this Demon Power is active.,"Summon a magical shield that absorbs damage and reflects ranged attacks. The shield slowly decays over time. You don't gain Overdrive while this Demon Power is active.
+Chance to Reflect Projectiles: <lightgreen><deflect_chance>%</lightgreen>",Lua/RuneTypes.lua(00127),,,,,,Summon a magical shield that absorbs up to <lightgreen><points></lightgreen> damage. The shield slowly decays over time. You don't gain Overdrive while this Demon Power is active.,Summon a magical shield that absorbs up to <lightgreen><points></lightgreen> damage. The shield slowly decays over time. You don't gain Overdrive while this Demon Power is active.,"召喚一個魔法盾，吸收傷害並反彈遠程攻擊。護盾會隨時間逐漸消失。此惡魔之力作用時不會凝聚超能。
 
-Absorbed Damage: <lightgreen><points></lightgreen>
-Chance to Reflect Projectiles: <lightgreen><deflect_chance>%</lightgreen>",,OK,,
-1039,194283,Berserk Aura,Lua/RuneTypes.lua(00238),,,,,,Berserk Aura,Berserk Aura,,,OK,,
+吸收傷害：<lightgreen><points></lightgreen>
+反彈投射物機率：<lightgreen><deflect_chance>%</lightgreen>",,OK,,
+1039,194283,Berserk Aura,Lua/RuneTypes.lua(00238),,,,,,Berserk Aura,Berserk Aura,狂暴氣場,,OK,,
 1040,196259,"Create an aura that increases the damage dealt by all enemies and allies inside. Gain <lightgreen2><condition_name></lightgreen2> for <lightgreen><duration_s>.<duration_d></lightgreen> sec. You don't gain Overdrive while this Demon Power is active.
 
 Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec
@@ -3293,28 +3293,28 @@ Enemies: +<lightgreen><enemy_damage>%</lightgreen> more damage<condition_descrip
 
 Rune Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec
 Allies: +<lightgreen><ally_damage>%</lightgreen> more damage
-Enemies: +<lightgreen><enemy_damage>%</lightgreen> more damage<condition_description>","Create an aura that increases the damage dealt by all enemies and allies inside. Gain <lightgreen2><condition_name></lightgreen2> for <lightgreen><duration_s>.<duration_d></lightgreen> sec. You don't gain Overdrive while this Demon Power is active.
+Enemies: +<lightgreen><enemy_damage>%</lightgreen> more damage<condition_description>","產生一圈氣場，提升範圍內所有敵人和戰友的輸出傷害。獲得<lightgreen2><condition_name></lightgreen2>，持續<lightgreen><duration_s>.<duration_d></lightgreen>秒。此惡魔之力作用時不會凝聚超能。
 
-Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec
-Allies: +<lightgreen><ally_damage>%</lightgreen> more damage
-Enemies: +<lightgreen><enemy_damage>%</lightgreen> more damage<condition_description>",,OK,,
-1041,194283,Boomerang,Lua/RuneTypes.lua(00377),,,,,,Boomerang,Boomerang,,,OK,,
+持續時間：<lightgreen><duration_s>.<duration_d></lightgreen>秒
+戰友：+<lightgreen><ally_damage>%</lightgreen>傷害
+敵人：+<lightgreen><enemy_damage>%</lightgreen>傷害<condition_description>",,OK,,
+1041,194283,Boomerang,Lua/RuneTypes.lua(00377),,,,,,Boomerang,Boomerang,迴旋鏢,,OK,,
 1042,195716,"Hurl a boomerang that deals damage to each enemy on its path.
 
 Damage per Second: <lightgreen><min_damage> - <max_damage></lightgreen>
-Boomerang Radius: <lightgreen><radius_m>.<radius_cm></lightgreen> m",Lua/RuneTypes.lua(00382),,,,,,Hurl a boomerang that deals <lightgreen><min_damage> - <max_damage></lightgreen> damage per second to each enemy in <lightgreen><radius_m>.<radius_d></lightgreen> m radius of its path.,Hurl a boomerang that deals <lightgreen><min_damage> - <max_damage></lightgreen> damage per second to each enemy in <lightgreen><radius_m>.<radius_d></lightgreen> m radius of its path.,"Hurl a boomerang that deals damage to each enemy on its path.
+Boomerang Radius: <lightgreen><radius_m>.<radius_cm></lightgreen> m",Lua/RuneTypes.lua(00382),,,,,,Hurl a boomerang that deals <lightgreen><min_damage> - <max_damage></lightgreen> damage per second to each enemy in <lightgreen><radius_m>.<radius_d></lightgreen> m radius of its path.,Hurl a boomerang that deals <lightgreen><min_damage> - <max_damage></lightgreen> damage per second to each enemy in <lightgreen><radius_m>.<radius_d></lightgreen> m radius of its path.,"投出一支迴旋鏢，對路徑上的所有敵人造成傷害。
 
-Damage per Second: <lightgreen><min_damage> - <max_damage></lightgreen>
-Boomerang Radius: <lightgreen><radius_m>.<radius_cm></lightgreen> m",,OK,,
-1043,194283,Meteor,Lua/RuneTypes.lua(00512),,,,,,Meteor,Meteor,,,OK,,
+每秒傷害：<lightgreen><min_damage> - <max_damage></lightgreen>
+迴旋鏢半徑：<lightgreen><radius_m>.<radius_cm></lightgreen>公尺",,OK,,
+1043,194283,Meteor,Lua/RuneTypes.lua(00512),,,,,,Meteor,Meteor,隕石,,OK,,
 1044,195716,"Call for a number of meteors to strike an area ahead of you. Each meteor deals damage to all enemies in <radius_m>.<radius_cm> m radius.
 
 Damage per Meteor: <lightgreen><min_damage> - <max_damage></lightgreen>
-Number of Meteors: <lightgreen><num_projectiles></lightgreen>",Lua/RuneTypes.lua(00517),,,,,,Call for <lightgreen><number></lightgreen> meteors to strike an area ahead of you. Each meteor deals <min_damage> - <max_damage> damage to all enemies in <radius_m>.<radius_d> m radius.,Call for <lightgreen><number></lightgreen> meteors to strike an area ahead of you. Each meteor deals <min_damage> - <max_damage> damage to all enemies in <radius_m>.<radius_d> m radius.,"Call for a number of meteors to strike an area ahead of you. Each meteor deals damage to all enemies in <radius_m>.<radius_cm> m radius.
+Number of Meteors: <lightgreen><num_projectiles></lightgreen>",Lua/RuneTypes.lua(00517),,,,,,Call for <lightgreen><number></lightgreen> meteors to strike an area ahead of you. Each meteor deals <min_damage> - <max_damage> damage to all enemies in <radius_m>.<radius_d> m radius.,Call for <lightgreen><number></lightgreen> meteors to strike an area ahead of you. Each meteor deals <min_damage> - <max_damage> damage to all enemies in <radius_m>.<radius_d> m radius.,"召喚數顆隕石攻擊指定區域。每顆隕石會對<radius_m>.<radius_cm>公尺半徑內的所有敵人造成傷害。
 
-Damage per Meteor: <lightgreen><min_damage> - <max_damage></lightgreen>
-Number of Meteors: <lightgreen><num_projectiles></lightgreen>",,OK,,
-1045,194283,Shockwave,Lua/RuneTypes.lua(00617),,,,,,Shockwave,Shockwave,,,OK,,
+每顆隕石傷害：<lightgreen><min_damage> - <max_damage></lightgreen>
+隕石數量：<lightgreen><num_projectiles></lightgreen>",,OK,,
+1045,194283,Shockwave,Lua/RuneTypes.lua(00617),,,,,,Shockwave,Shockwave,震盪波,,OK,,
 1046,196645,"Unleash 3 consecutive shockwaves that push back all enemies dealing damage and <lightgreen2>Crippling</lightgreen2> them for <buff_duration> seconds.
 
 Damage per Shockwave: <lightgreen><min_damage> - <max_damage></lightgreen>
@@ -3324,11 +3324,11 @@ Damage per Shockwave: <lightgreen><min_damage> - <max_damage></lightgreen>
 Shockwave Radius: <lightgreen><radius_m>.<radius_cm></lightgreen> m<condition_description>","Unleash a series of shockwaves that pushes back all enemies dealing damage and <lightgreen2>Crippling</lightgreen2> them for <buff_duration> seconds.
 
 Damage per Shockwave: <lightgreen><min_damage> - <max_damage></lightgreen>
-Shockwave Radius: <lightgreen><radius_m>.<radius_cm></lightgreen> m<condition_description>","Unleash 3 consecutive shockwaves that push back all enemies dealing damage and <lightgreen2>Crippling</lightgreen2> them for <buff_duration> seconds.
+Shockwave Radius: <lightgreen><radius_m>.<radius_cm></lightgreen> m<condition_description>","釋放三道連續的衝擊波震退敵人，造成傷害並導致敵人<lightgreen2>癱瘓</lightgreen2><buff_duration>秒。
 
-Damage per Shockwave: <lightgreen><min_damage> - <max_damage></lightgreen>
-Shockwave Radius: <lightgreen><radius_m>.<radius_cm></lightgreen> m<condition_description>",,OK,,
-1047,194283,Time Bubble,Lua/RuneTypes.lua(00750),,,,,,Time Bubble,Time Bubble,,,OK,,
+每道衝擊波傷害：<lightgreen><min_damage> - <max_damage></lightgreen>
+衝擊波半徑：<lightgreen><radius_m>.<radius_cm></lightgreen>公尺<condition_description>",,OK,,
+1047,194283,Time Bubble,Lua/RuneTypes.lua(00750),,,,,,Time Bubble,Time Bubble,緩速氣泡,,OK,,
 1048,196259,"Initiate a time dilation bubble that slows all enemies and projectiles inside with <speed_mul>% of their base speed.
 
 Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec
@@ -3338,11 +3338,11 @@ Rune Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec
 Time Bubble Radius: <lightgreen><radius_m>.<radius_cm></lightgreen> m","Initiate a time dilation bubble that slows all enemies and projectiles inside with <speed_mul>% of their base speed.
 
 Rune Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec
-Time Bubble Radius: <lightgreen><radius_m>.<radius_cm></lightgreen> m","Initiate a time dilation bubble that slows all enemies and projectiles inside with <speed_mul>% of their base speed.
+Time Bubble Radius: <lightgreen><radius_m>.<radius_cm></lightgreen> m","創造一顆時間膨脹氣泡，降低範圍內所有敵人和投射物的<speed_mul>%速度。
 
-Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec
-Time Bubble Radius: <lightgreen><radius_m>.<radius_cm></lightgreen> m",,OK,,
-1049,194283,Purging Flame,Lua/RuneTypes.lua(00902),,,,,,Purging Flame,Purging Flame,,,OK,,
+持續時間：<lightgreen><duration_s>.<duration_d></lightgreen>秒
+緩速氣泡半徑：<lightgreen><radius_m>.<radius_cm></lightgreen>公尺",,OK,,
+1049,194283,Purging Flame,Lua/RuneTypes.lua(00902),,,,,,Purging Flame,Purging Flame,淨化之焰,,OK,,
 1050,196259,"Create a moving pillar of flames that deals damage to all enemies in its radius. You can't use skills while this Demon Power is active.
 
 Damage per Second: <lightgreen><min_damage> - <max_damage></lightgreen>
@@ -3352,12 +3352,12 @@ Damage per Second: <lightgreen><min_damage> - <max_damage></lightgreen>
 Rune Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec","Create a moving pillar of flames that deals damage to all enemies in its radius. You can't use skills while this Demon Power is active.
 
 Damage per Second: <lightgreen><min_damage> - <max_damage></lightgreen>
-Rune Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec","Create a moving pillar of flames that deals damage to all enemies in its radius. You can't use skills while this Demon Power is active.
+Rune Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec","產生一條移動火柱，對範圍內的所有敵人造成傷害。此惡魔之力作用時無法使用特殊攻擊。
 
-Damage per Second: <lightgreen><min_damage> - <max_damage></lightgreen>
-Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec",,OK,,
-1051,194283,Dismiss Purging Flames,Lua/RuneTypes.lua(00934),,,,,,Dismiss Purging Flames,Dismiss Purging Flames,,,OK,,
-1052,194283,Sunray,Lua/RuneTypes.lua(01085),,,,,,Sunray,Sunray,,,OK,,
+每秒傷害：<lightgreen><min_damage> - <max_damage></lightgreen>
+持續時間：<lightgreen><duration_s>.<duration_d></lightgreen>秒",,OK,,
+1051,194283,Dismiss Purging Flames,Lua/RuneTypes.lua(00934),,,,,,Dismiss Purging Flames,Dismiss Purging Flames,驅散淨化之焰,,OK,,
+1052,194283,Sunray,Lua/RuneTypes.lua(01085),,,,,,Sunray,Sunray,陽光,,OK,,
 1053,196259,"Emit a ray of blazing sunlight that burns all enemies along its path dealing damage.
 
 Damage per Second: <lightgreen><min_damage> - <max_damage></lightgreen>
@@ -3367,11 +3367,11 @@ Damage per Second: <lightgreen><min_damage> - <max_damage></lightgreen>
 Rune Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec","Emit a ray of blazing sunlight that burns all enemies along its path dealing damage.
 
 Damage per Second: <lightgreen><min_damage> - <max_damage></lightgreen>
-Rune Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec","Emit a ray of blazing sunlight that burns all enemies along its path dealing damage.
+Rune Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec","發出一道烈日射線，灼傷它路徑上的所有敵人。
 
-Damage per Second: <lightgreen><min_damage> - <max_damage></lightgreen>
-Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec",,OK,,
-1054,194283,Sanguine Aura,Lua/RuneTypes.lua(01203),,,,,,Sanguine Aura,Sanguine Aura,,,OK,,
+每秒傷害：<lightgreen><min_damage> - <max_damage></lightgreen>
+持續時間：<lightgreen><duration_s>.<duration_d></lightgreen>秒",,OK,,
+1054,194283,Sanguine Aura,Lua/RuneTypes.lua(01203),,,,,,Sanguine Aura,Sanguine Aura,血紅氣場,,OK,,
 1055,196259,"Create a healing aura around you and gain <lightgreen2><condition_name></lightgreen2> for <lightgreen><duration_s>.<duration_d></lightgreen> sec. The aura restores health to you and every ally below 50% health inside the aura. You don't gain Overdrive while this Demon Power is active.
 
 Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec
@@ -3381,27 +3381,27 @@ Rune Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec
 Health per Second: <lightgreen><hps>%</lightgreen><condition_description>","Create a healing aura around you and gain <lightgreen2><condition_name></lightgreen2> for <lightgreen><duration_s>.<duration_d></lightgreen> sec. The aura restores health to you and every ally below 50% health inside the aura. You don't gain Overdrive while this Demon Power is active.
 
 Rune Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec
-Health per Second: <lightgreen><hps>%</lightgreen><condition_description>","Create a healing aura around you and gain <lightgreen2><condition_name></lightgreen2> for <lightgreen><duration_s>.<duration_d></lightgreen> sec. The aura restores health to you and every ally below 50% health inside the aura. You don't gain Overdrive while this Demon Power is active.
+Health per Second: <lightgreen><hps>%</lightgreen><condition_description>","產生一個圍繞自己的治癒氣場，獲得<lightgreen2><condition_name></lightgreen2>，持續<lightgreen><duration_s>.<duration_d></lightgreen>秒。氣場會治癒你和範圍內所有生命低於50%的戰友。此惡魔之力作用時不會凝聚超能。
 
-Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec
-Health per Second: <lightgreen><hps>%</lightgreen><condition_description>",,OK,,
-1056,194283,Pull,Lua/RuneTypes.lua(01304),,,,,,Pull,Pull,,,OK,,
+持續時間：<lightgreen><duration_s>.<duration_d></lightgreen>秒
+每秒恢復生命：<lightgreen><hps>%</lightgreen><condition_description>",,OK,,
+1056,194283,Pull,Lua/RuneTypes.lua(01304),,,,,,Pull,Pull,引力,,OK,,
 1057,195716,"Fire a number of seeking projectiles in a target direction. Hit enemies are immediately pulled towards you and <lightgreen2>Dazed</lightgreen2> for several seconds.
 
 Daze Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec
-Seeking Projectiles: <lightgreen><num_projectiles></lightgreen><condition_description>",Lua/RuneTypes.lua(01307),,,,,,Fire <lightgreen><number2></lightgreen> seeking projectiles in a target direction. Hit enemies are immediately pulled towards you and <lightgreen2>Dazed</lightgreen2> for <lightgreen><number></lightgreen> sec.<condition_description>,Fire <lightgreen><number2></lightgreen> seeking projectiles in a target direction. Hit enemies are immediately pulled towards you and <lightgreen2>Dazed</lightgreen2> for <lightgreen><number></lightgreen> sec.<condition_description>,"Fire a number of seeking projectiles in a target direction. Hit enemies are immediately pulled towards you and <lightgreen2>Dazed</lightgreen2> for several seconds.
+Seeking Projectiles: <lightgreen><num_projectiles></lightgreen><condition_description>",Lua/RuneTypes.lua(01307),,,,,,Fire <lightgreen><number2></lightgreen> seeking projectiles in a target direction. Hit enemies are immediately pulled towards you and <lightgreen2>Dazed</lightgreen2> for <lightgreen><number></lightgreen> sec.<condition_description>,Fire <lightgreen><number2></lightgreen> seeking projectiles in a target direction. Hit enemies are immediately pulled towards you and <lightgreen2>Dazed</lightgreen2> for <lightgreen><number></lightgreen> sec.<condition_description>,"朝目標方向射出數枚追蹤彈。擊中的敵人會被立即拉向你，同時<lightgreen2>暈眩</lightgreen2>數秒。
 
-Daze Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec
-Seeking Projectiles: <lightgreen><num_projectiles></lightgreen><condition_description>",,OK,,
-1060,194283,Dark Mist,Lua/RuneTypes.lua(01458),,,,,,Dark Mist,Dark Mist,,,OK,,
+暈眩持續時間：<lightgreen><duration_s>.<duration_d></lightgreen>秒
+追蹤彈數量：<lightgreen><num_projectiles></lightgreen><condition_description>",,OK,,
+1060,194283,Dark Mist,Lua/RuneTypes.lua(01458),,,,,,Dark Mist,Dark Mist,黑霧,,OK,,
 1061,195716,"Turn into a cloud of poisonous dark mist dealing damage to all enemies inside. Affected enemies take <lightgreen2><condition_name></lightgreen2> for <buff_duration> sec. You don't gain Overdrive and can't use skills while this Demon Power is active.
 
 Damage per Second: <lightgreen><min_damage> - <max_damage></lightgreen>
-Rune Duration: <lightgreen><rune_duration_s>.<rune_duration_d></lightgreen> sec<condition_description>",Lua/RuneTypes.lua(01461),,,,,,Turn into a cloud of poisonous dark mist for <number1> sec. dealing <lightgreen><min_damage> - <max_damage></lightgreen> damage per second. Affected enemies take <lightgreen2><condition_name></lightgreen2> for <number2> sec. You don't gain Overdrive and can't use skills while this Demon Power is active.<condition_description>,Turn into a cloud of poisonous dark mist for <number1> sec. dealing <lightgreen><min_damage> - <max_damage></lightgreen> damage per second. Affected enemies take <lightgreen2><condition_name></lightgreen2> for <number2> sec. You don't gain Overdrive and can't use skills while this Demon Power is active.<condition_description>,"Turn into a cloud of poisonous dark mist dealing damage to all enemies inside. Affected enemies take <lightgreen2><condition_name></lightgreen2> for <buff_duration> sec. You don't gain Overdrive and can't use skills while this Demon Power is active.
+Rune Duration: <lightgreen><rune_duration_s>.<rune_duration_d></lightgreen> sec<condition_description>",Lua/RuneTypes.lua(01461),,,,,,Turn into a cloud of poisonous dark mist for <number1> sec. dealing <lightgreen><min_damage> - <max_damage></lightgreen> damage per second. Affected enemies take <lightgreen2><condition_name></lightgreen2> for <number2> sec. You don't gain Overdrive and can't use skills while this Demon Power is active.<condition_description>,Turn into a cloud of poisonous dark mist for <number1> sec. dealing <lightgreen><min_damage> - <max_damage></lightgreen> damage per second. Affected enemies take <lightgreen2><condition_name></lightgreen2> for <number2> sec. You don't gain Overdrive and can't use skills while this Demon Power is active.<condition_description>,"變成一團黑色毒霧對範圍內的所有敵人造成傷害。使敵人<lightgreen2><condition_name></lightgreen2>，持續<buff_duration>秒。此惡魔之力作用時不會凝聚超能，也無法使用特殊攻擊。
 
-Damage per Second: <lightgreen><min_damage> - <max_damage></lightgreen>
-Rune Duration: <lightgreen><rune_duration_s>.<rune_duration_d></lightgreen> sec<condition_description>",,OK,,
-1062,194283,New Secret <progress>/<total>!,Lua/Secret.lua(00105),,,,,,New Secret <progress>/<total>!,New Secret <progress>/<total>!,,,OK,,
+每秒傷害：<lightgreen><min_damage> - <max_damage></lightgreen>
+持續時間：<lightgreen><rune_duration_s>.<rune_duration_d></lightgreen>秒<condition_description>",,OK,,
+1062,194283,New Secret <progress>/<total>!,Lua/Secret.lua(00105),,,,,,New Secret <progress>/<total>!,New Secret <progress>/<total>!,新秘密<progress>/<total>！,,OK,,
 4016,195716,This feature will be unlocked in an upcoming update,Lua/SequenceActions.lua(00914),,,,,,,,This feature will be unlocked in an upcoming update,,OK,,
 4164,196097,<cooldown_icon><hours> hours,Lua/ServerSideDrop.lua(00064),,,,,,,,<cooldown_icon><hours> hours,,OK,,
 4201,196416,Empty,Lua/ServerSideDrop.lua(00082),,,,,,,,Empty,,OK,,
