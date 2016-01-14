@@ -924,18 +924,18 @@ Cooldown (<imagescale 40><image UI/Common/cooldown.tga>) - The duration of the s
 冷卻時間（<imagescale 40><image UI/Common/cooldown.tga>） - 技能冷卻需要的時間。",,OK,,
 4231,196977,Overkill,Data/CodexEntry.lua(00086),,CodexEntry Hint_Overkill DisplayName,,,,,,絕殺,,OK,,
 4232,196977,To overkill a monster inflict massive damage to it with the killing blow. Overkill is more likely to happen when a strong attack is used against a monster at low health.,Data/CodexEntry.lua(00087),,CodexEntry Hint_Overkill Description,,,,,,想打出絕殺必須對怪物最後一擊時給予極大的傷害。在怪物的生命低下時使用強力攻擊更有機會打出絕殺。,,OK,,
-4273,197475,Bounties & Treasure Hunts,Data/CodexEntry.lua(00092),,CodexEntry Hint_Bounties DisplayName,,,,,,懸賞令與藏寶圖,,OK,,
+4273,197475,Bounties & Treasure Hunts,Data/CodexEntry.lua(00092),,CodexEntry Hint_Bounties DisplayName,,,,,,懸賞令與尋寶圖,,OK,,
 4274,197475,"Bounties and treasure hunts are special items that you can share with other hunters using their unique Treasure Codes. Each offers a list of locations that you must visit and explore. You can find them in the ""Other"" section of your inventory.
 
 Bounties are completed by slaying powerful Epic Monsters while Treasure Hunts require discovering Clues in each of the specified locations. There is one Epic Monster or Treasure Clue in each location, indicated by a special icon on your radar when you are close by. When you have accomplished your task in each location, you will be rewarded.
 
 You can destroy completed or expired bounties to free up space in your inventory.
-You can redeem shared treasure codes from the Options menu while playing Online.",Data/CodexEntry.lua(00093),,CodexEntry Hint_Bounties Description,,,,,,"懸賞令與藏寶圖都是特殊物品，你可以與其他獵人通過使用獨特的藏寶密碼進行分享。每一件物品都會提供幾處你必須拜訪與探索的地點。你可以在物品欄的「其它」項中找到這些物品。
+You can redeem shared treasure codes from the Options menu while playing Online.",Data/CodexEntry.lua(00093),,CodexEntry Hint_Bounties Description,,,,,,"懸賞令與尋寶圖都是特殊物品，你可以與其他獵人通過使用獨特的尋寶密碼進行分享。每一件物品都會提供幾處你必須拜訪與探索的地點。你可以在物品欄的「其它」項中找到這些物品。
 
-懸賞令是藉由殺死強大的史詩怪物來完成，藏寶圖則需要在每個特定地點尋找線索。每個地點都只有一隻史詩怪物或藏寶線索，當你就在附近時，小地圖上會用特殊標記顯示。當完成每個地點的任務後，你將會獲得獎賞。
+懸賞令是藉由殺死強大的史詩怪物來完成，尋寶圖則需要在每個特定地點尋找線索。每個地點都只有一隻史詩怪物或尋寶線索，當你就在附近時，小地圖上會用特殊標記顯示。當完成每個地點的任務後，你將會獲得獎賞。
 
 你可以摧毀已完成或過期的懸賞令，以清出物品欄空間。
-當進行連線時，你可以在選項選單中兌換分享的藏寶密碼。",,OK,,
+當進行連線時，你可以在選項選單中兌換分享的尋寶密碼。",,OK,,
 3517,194585,Prelude,Data/CodexEntry.lua(00099),,CodexEntry Journal_Entry1 DisplayName,,,,Prelude,,序曲,,OK,,
 3518,194585,"I was walking to my grave.
 
@@ -2457,25 +2457,25 @@ Combine with other Gift Boxes in Transmutation to get better items",Lua/Item.lua
 4456,198919,No one hears you,Lua/LocalizationTexts.lua(00011),,,,,,,,沒人聽到,,OK,,
 3951,195716,Show chat messages: <show_chat>,Lua/LocalizationTexts.lua(00015),,,,,,,,顯示聊天訊息：<show_chat>,,OK,,
 3952,195716,Large chat messages: <large_chat>,Lua/LocalizationTexts.lua(00016),,,,,,,,大型聊天訊息：<large_chat>,,OK,,
-4147,196097,Unable to redeem treasure key. Error code: <error>,Lua/LocalizationTexts.lua(00028),,,,,,,,無法兌換藏寶密碼。錯誤代碼：<error>,,OK,,
+4147,196097,Unable to redeem treasure key. Error code: <error>,Lua/LocalizationTexts.lua(00028),,,,,,,,無法兌換尋寶密碼。錯誤代碼：<error>,,OK,,
 4189,196416,Player Name (Level),Lua/LocalizationTexts.lua(00039),,,,,,,,玩家名稱（等級）,,OK,,
 1313,194283,Serial number,Lua/LocalizationTexts.lua(00046),,,,,,Serial number,Serial number,序號,,OK,,
 1314,194283,Change password,Lua/LocalizationTexts.lua(00047),,,,,,Change password,Change password,變更密碼,,OK,,
 3953,195716,Error (Invalid Code),Lua/LocalizationTexts.lua(00051),,,,,,,,錯誤（無效密碼）,,OK,,
-3954,195716,Invalid Treasure Key. Please make sure that you have entered the code correctly.,Lua/LocalizationTexts.lua(00052),,,,,,,,無效的藏寶密碼。請確保你已經輸入正確的密碼。,,OK,,
+3954,195716,Invalid Treasure Key. Please make sure that you have entered the code correctly.,Lua/LocalizationTexts.lua(00052),,,,,,,,無效的尋寶密碼。請確保你已經輸入正確的密碼。,,OK,,
 3955,195716,Error (Time Limit),Lua/LocalizationTexts.lua(00053),,,,,,,,錯誤（時間限制）,,OK,,
-3956,195716,Unable to redeem code. The Treasure Key has expired.,Lua/LocalizationTexts.lua(00054),,,,,,,,無法兌換密碼。藏寶密碼已過期。,,OK,,
+3956,195716,Unable to redeem code. The Treasure Key has expired.,Lua/LocalizationTexts.lua(00054),,,,,,,,無法兌換密碼。尋寶密碼已過期。,,OK,,
 3957,195716,Error (Use Limit),Lua/LocalizationTexts.lua(00055),,,,,,,,錯誤（使用上限）,,OK,,
-3958,195716,Unable to redeem code. Treasure Key use limit has been reached.,Lua/LocalizationTexts.lua(00056),,,,,,,,無法兌換密碼。藏寶密碼已達使用上限。,,OK,,
+3958,195716,Unable to redeem code. Treasure Key use limit has been reached.,Lua/LocalizationTexts.lua(00056),,,,,,,,無法兌換密碼。尋寶密碼已達使用上限。,,OK,,
 3959,195716,Error (Already Used),Lua/LocalizationTexts.lua(00057),,,,,,,,錯誤（已經使用）,,OK,,
-3960,195716,Unable to redeem code. Your account has already redeemed this Treasure Key.,Lua/LocalizationTexts.lua(00058),,,,,,,,無法兌換密碼。你的帳號已經兌換過這個藏寶密碼。,,OK,,
+3960,195716,Unable to redeem code. Your account has already redeemed this Treasure Key.,Lua/LocalizationTexts.lua(00058),,,,,,,,無法兌換密碼。你的帳號已經兌換過這個尋寶密碼。,,OK,,
 3961,195716,Error (General),Lua/LocalizationTexts.lua(00059),,,,,,,,錯誤,,OK,,
 3496,194585,Victor Vran,Lua/LocalizationTexts.lua(00074),,,,,,Victor Vran,Victor Vran,《獵魔奇俠》,,OK,,
 4594,198927,Victor Vran Platinum trophy,Lua/LocalizationTexts.lua(00079),,,,,,,,《獵魔奇俠》白金獎盃,,OK,,
 4595,198927,Collected all other Victor Vran trophies,Lua/LocalizationTexts.lua(00080),,,,,,,,已收集所有《獵魔奇俠》獎盃,,OK,,
 4600,199130,Victor Vran base game,Lua/LocalizationTexts.lua(00087),,,,,,,,《獵魔奇俠》主遊戲,,OK,,
 4593,198927,Trophy set for Victor Vran,Lua/LocalizationTexts.lua(00088),,,,,,,,《獵魔奇俠》獎盃組,,OK,,
-4148,196097,Treasure Clue,Lua/LocalizationTexts.lua(00091),,,,,,,,藏寶線索,,OK,,
+4148,196097,Treasure Clue,Lua/LocalizationTexts.lua(00091),,,,,,,,尋寶線索,,OK,,
 4149,196097,Gamepad Rumble,Lua/LocalizationTexts.lua(00095),,,,,,,,手把震動,,OK,,
 4227,196977,FPS Cap,Lua/LocalizationTexts.lua(00096),,,,,,,,幀數鎖定,,OK,,
 4228,196977,Unlimited,Lua/LocalizationTexts.lua(00097),,FPS Cap value,,,,,,無限制,,OK,,
@@ -3381,7 +3381,7 @@ Rune Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec
 Health per Second: <lightgreen><hps>%</lightgreen><condition_description>","Create a healing aura around you and gain <lightgreen2><condition_name></lightgreen2> for <lightgreen><duration_s>.<duration_d></lightgreen> sec. The aura restores health to you and every ally below 50% health inside the aura. You don't gain Overdrive while this Demon Power is active.
 
 Rune Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec
-Health per Second: <lightgreen><hps>%</lightgreen><condition_description>","產生一個圍繞自己的治癒氣場，獲得<lightgreen2><condition_name></lightgreen2>，持續<lightgreen><duration_s>.<duration_d></lightgreen>秒。氣場會治癒你和範圍內所有生命低於50%的戰友。此惡魔之力作用時不會凝聚超能。
+Health per Second: <lightgreen><hps>%</lightgreen><condition_description>","產生一個圍繞自己的治療氣場，獲得<lightgreen2><condition_name></lightgreen2>，持續<lightgreen><duration_s>.<duration_d></lightgreen>秒。氣場會治療你和範圍內所有生命低於50%的戰友。此惡魔之力作用時不會凝聚超能。
 
 持續時間：<lightgreen><duration_s>.<duration_d></lightgreen>秒
 每秒恢復生命：<lightgreen><hps>%</lightgreen><condition_description>",,OK,,
@@ -3402,215 +3402,217 @@ Rune Duration: <lightgreen><rune_duration_s>.<rune_duration_d></lightgreen> sec<
 每秒傷害：<lightgreen><min_damage> - <max_damage></lightgreen>
 持續時間：<lightgreen><rune_duration_s>.<rune_duration_d></lightgreen>秒<condition_description>",,OK,,
 1062,194283,New Secret <progress>/<total>!,Lua/Secret.lua(00105),,,,,,New Secret <progress>/<total>!,New Secret <progress>/<total>!,新秘密<progress>/<total>！,,OK,,
-4016,195716,This feature will be unlocked in an upcoming update,Lua/SequenceActions.lua(00914),,,,,,,,This feature will be unlocked in an upcoming update,,OK,,
-4164,196097,<cooldown_icon><hours> hours,Lua/ServerSideDrop.lua(00064),,,,,,,,<cooldown_icon><hours> hours,,OK,,
-4201,196416,Empty,Lua/ServerSideDrop.lua(00082),,,,,,,,Empty,,OK,,
-4252,197294,<grey><name> (DONE)</grey>,Lua/ServerSideDrop.lua(00106),,,,,,,,<grey><name> (DONE)</grey>,,OK,,
+4016,195716,This feature will be unlocked in an upcoming update,Lua/SequenceActions.lua(00914),,,,,,,,本功能將在後續更新中開放,,OK,,
+4164,196097,<cooldown_icon><hours> hours,Lua/ServerSideDrop.lua(00064),,,,,,,,<cooldown_icon><hours>小時,,OK,,
+4201,196416,Empty,Lua/ServerSideDrop.lua(00082),,,,,,,,空的,,OK,,
+4252,197294,<grey><name> (DONE)</grey>,Lua/ServerSideDrop.lua(00106),,,,,,,,<grey><name>（完成）</grey>,,OK,,
 4235,197009,<lightgreen2><name></lightgreen2>,Lua/ServerSideDrop.lua(00108),,,,,,,,<lightgreen2><name></lightgreen2>,,OK,,
-4259,197333,Completed: Bounty,Lua/ServerSideDrop.lua(00149),,,,,,,,Completed: Bounty,,OK,,
-4260,198919,Epic monster slain. Seek more epic monsters on other maps,Lua/ServerSideDrop.lua(00152),,,,,,Epic monster slayed. Seek more epic monsters on other maps,Epic monster slain. Seek more epic monsters on other maps,Epic monster slain. Seek more epic monsters on other maps,,OK,,
-4261,197333,Completed: Treasure Hunt,Lua/ServerSideDrop.lua(00156),,,,,,,,Completed: Treasure Hunt,,OK,,
-4262,197333,Treasure clue found. Seek more clues on other maps,Lua/ServerSideDrop.lua(00159),,,,,,,,Treasure clue found. Seek more clues on other maps,,OK,,
-3990,197306,Slay epic monsters in the following locations:<newline>,Lua/ServerSideDrop.lua(00190),,,,,,Slay the dangerous beasts in the following locations:,Slay the dangerous beasts in the following locations:,Slay epic monsters in the following locations:<newline>,,OK,,
-4051,196416,This bounty has been completed on <month>/<day>/<year>.,Lua/ServerSideDrop.lua(00197),,,,,,This bounty has been completed on <date>.,This bounty has been completed on <date>.,This bounty has been completed on <month>/<day>/<year>.,,OK,,
-4202,196416,This bounty has expired on <month>/<day>/<year>.,Lua/ServerSideDrop.lua(00203),,,,,,,,This bounty has expired on <month>/<day>/<year>.,,OK,,
-3991,195716,Bounty,Lua/ServerSideDrop.lua(00207),,,,,,,,Bounty,,OK,,
-3992,195716,Bounty <bounty_name>,Lua/ServerSideDrop.lua(00207),,,,,,,,Bounty <bounty_name>,,OK,,
-4052,196015,Search,Lua/ServerSideDrop.lua(00293),,,,,,(design) Treasure Hunt,Search,Search,,OK,,
-3993,197306,Seek treasure clues in the following locations:<newline>,Lua/ServerSideDrop.lua(00389),,,,,,Seek buried treasure in the following locations:,Seek buried treasure in the following locations:,Seek treasure clues in the following locations:<newline>,,OK,,
-4053,196416,This treasure hunt has been completed on <month>/<day>/<year>.,Lua/ServerSideDrop.lua(00394),,,,,,This treasure hunt has been completed on <date>.,This treasure hunt has been completed on <date>.,This treasure hunt has been completed on <month>/<day>/<year>.,,OK,,
-4203,196416,This treasure hunt has expired on <month>/<day>/<year>.,Lua/ServerSideDrop.lua(00400),,,,,,,,This treasure hunt has expired on <month>/<day>/<year>.,,OK,,
-3994,195716,Treasure Hunt,Lua/ServerSideDrop.lua(00404),,,,,,,,Treasure Hunt,,OK,,
-3995,195716,Treasure Hunt <treasure_hunt_name>,Lua/ServerSideDrop.lua(00404),,,,,,,,Treasure Hunt <treasure_hunt_name>,,OK,,
-4601,199130,Legendary Tome,Lua/ServerSideDrop.lua(00711),,,,,,,,Legendary Tome,,OK,,
-1065,194283,Use,Lua/Shrine.lua(00034),,,,,,Use,Use,,,OK,,
-1066,194283,Use (Heal),Lua/Shrine.lua(00146),,,,,,Use (Heal),Use (Heal),,,OK,,
-1067,194283,Use (Overdrive),Lua/Shrine.lua(00169),,,,,,Use (Overdrive),Use (Overdrive),,,OK,,
-1068,194283,Use (Double Damage),Lua/Shrine.lua(00182),,,,,,Use (Double Damage),Use (Double Damage),,,OK,,
-4054,195942,Devastating,Lua/Transmutation.lua(00204),,,,,,,,Devastating,,OK,,
+4259,197333,Completed: Bounty,Lua/ServerSideDrop.lua(00149),,,,,,,,完成：懸賞令,,OK,,
+4260,198919,Epic monster slain. Seek more epic monsters on other maps,Lua/ServerSideDrop.lua(00152),,,,,,Epic monster slayed. Seek more epic monsters on other maps,Epic monster slain. Seek more epic monsters on other maps,已殺死史詩怪物。在其它地圖上尋找更多史詩怪物。,,OK,,
+4261,197333,Completed: Treasure Hunt,Lua/ServerSideDrop.lua(00156),,,,,,,,完成：尋寶圖,,OK,,
+4262,197333,Treasure clue found. Seek more clues on other maps,Lua/ServerSideDrop.lua(00159),,,,,,,,已找到尋寶線索。在其它地圖上尋找更多線索。,,OK,,
+3990,197306,Slay epic monsters in the following locations:<newline>,Lua/ServerSideDrop.lua(00190),,,,,,Slay the dangerous beasts in the following locations:,Slay the dangerous beasts in the following locations:,殺死下列地點的史詩怪物：<newline>,,OK,,
+4051,196416,This bounty has been completed on <month>/<day>/<year>.,Lua/ServerSideDrop.lua(00197),,,,,,This bounty has been completed on <date>.,This bounty has been completed on <date>.,此懸賞令已於<year>/<month>/<day>完成。,,OK,,
+4202,196416,This bounty has expired on <month>/<day>/<year>.,Lua/ServerSideDrop.lua(00203),,,,,,,,此懸賞令已於<year>/<month>/<day>過期。,,OK,,
+3991,195716,Bounty,Lua/ServerSideDrop.lua(00207),,,,,,,,懸賞令,,OK,,
+3992,195716,Bounty <bounty_name>,Lua/ServerSideDrop.lua(00207),,,,,,,,懸賞令．<bounty_name>,,OK,,
+4052,196015,Search,Lua/ServerSideDrop.lua(00293),,,,,,(design) Treasure Hunt,Search,搜索,,OK,,
+3993,197306,Seek treasure clues in the following locations:<newline>,Lua/ServerSideDrop.lua(00389),,,,,,Seek buried treasure in the following locations:,Seek buried treasure in the following locations:,找到下列地點的尋寶線索：<newline>,,OK,,
+4053,196416,This treasure hunt has been completed on <month>/<day>/<year>.,Lua/ServerSideDrop.lua(00394),,,,,,This treasure hunt has been completed on <date>.,This treasure hunt has been completed on <date>.,此尋寶圖已於<year>/<month>/<day>完成。,,OK,,
+4203,196416,This treasure hunt has expired on <month>/<day>/<year>.,Lua/ServerSideDrop.lua(00400),,,,,,,,此尋寶圖已於<year>/<month>/<day>過期。,,OK,,
+3994,195716,Treasure Hunt,Lua/ServerSideDrop.lua(00404),,,,,,,,尋寶圖,,OK,,
+3995,195716,Treasure Hunt <treasure_hunt_name>,Lua/ServerSideDrop.lua(00404),,,,,,,,尋寶圖．<treasure_hunt_name>,,OK,,
+4601,199130,Legendary Tome,Lua/ServerSideDrop.lua(00711),,,,,,,,傳奇法典,,OK,,
+1065,194283,Use,Lua/Shrine.lua(00034),,,,,,Use,Use,使用,,OK,,
+1066,194283,Use (Heal),Lua/Shrine.lua(00146),,,,,,Use (Heal),Use (Heal),使用（治療）,,OK,,
+1067,194283,Use (Overdrive),Lua/Shrine.lua(00169),,,,,,Use (Overdrive),Use (Overdrive),使用（超能）,,OK,,
+1068,194283,Use (Double Damage),Lua/Shrine.lua(00182),,,,,,Use (Double Damage),Use (Double Damage),使用（雙倍傷害）,,OK,,
+4054,195942,Devastating,Lua/Transmutation.lua(00204),,,,,,,,毀滅,,OK,,
 4055,195942,"Increases damage
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00204),,,,,,,,"Increases damage
+Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00204),,,,,,,,"提升傷害。
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
-4056,195942,Zealous,Lua/Transmutation.lua(00205),,,,,,,,Zealous,,OK,,
+配方：<rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
+4056,195942,Zealous,Lua/Transmutation.lua(00205),,,,,,,,狂熱,,OK,,
 4057,196416,"Overdrive meter fills faster
 
 Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00205),,,,,,"Overcharge meter fills faster
 
 Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>","Overcharge meter fills faster
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>","Overdrive meter fills faster
+Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>","超能凝聚速度加快。
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
-4058,195942,Efficient,Lua/Transmutation.lua(00206),,,,,,,,Efficient,,OK,,
+配方：<rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
+4058,195942,Efficient,Lua/Transmutation.lua(00206),,,,,,,,極效,,OK,,
 4059,195942,"Faster weapon skill cooldowns
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00206),,,,,,,,"Faster weapon skill cooldowns
+Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00206),,,,,,,,"武器技能冷卻時間加快。
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
-4060,195942,Greedy,Lua/Transmutation.lua(00207),,,,,,,,Greedy,,OK,,
+配方：<rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
+4060,195942,Greedy,Lua/Transmutation.lua(00207),,,,,,,,貪婪,,OK,,
 4061,195942,"Killed monsters drop extra gold
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00207),,,,,,,,"Killed monsters drop extra gold
+Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00207),,,,,,,,"擊殺怪物掉落更多金幣。
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
-4062,195942,Vicious,Lua/Transmutation.lua(00208),,,,,,,,Vicious,,OK,,
+配方：<rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
+4062,195942,Vicious,Lua/Transmutation.lua(00208),,,,,,,,兇暴,,OK,,
 4063,195942,"Increases critical damage
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00208),,,,,,,,"Increases critical damage
+Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00208),,,,,,,,"提升暴擊傷害。
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
-4064,195942,Piercing,Lua/Transmutation.lua(00209),,,,,,,,Piercing,,OK,,
+配方：<rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
+4064,195942,Piercing,Lua/Transmutation.lua(00209),,,,,,,,穿刺,,OK,,
 4065,195942,"Adds armor penetration
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00209),,,,,,,,"Adds armor penetration
+Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00209),,,,,,,,"提升護甲穿透。
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
-4066,195942,Dancing,Lua/Transmutation.lua(00210),,,,,,,,Dancing,,OK,,
+配方：<rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
+4066,195942,Dancing,Lua/Transmutation.lua(00210),,,,,,,,舞蹈,,OK,,
 4067,195942,"Increases attack speed
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00210),,,,,,,,"Increases attack speed
+Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00210),,,,,,,,"提升攻擊速度。
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
-4068,195942,Elder,Lua/Transmutation.lua(00211),,,,,,,,Elder,,OK,,
+配方：<rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
+4068,195942,Elder,Lua/Transmutation.lua(00211),,,,,,,,長者,,OK,,
 4069,195942,"Gain more experience points
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00211),,,,,,,,"Gain more experience points
+Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00211),,,,,,,,"獲得更多經驗。
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
-4070,195942,Inquisitor,Lua/Transmutation.lua(00212),,,,,,,,Inquisitor,,OK,,
+配方：<rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
+4070,195942,Inquisitor,Lua/Transmutation.lua(00212),,,,,,,,審判者,,OK,,
 4071,195942,"Increases damage when overdrive meter is full
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00212),,,,,,,,"Increases damage when overdrive meter is full
+Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00212),,,,,,,,"超能聚滿時提升傷害。
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
-4072,195942,Survivor,Lua/Transmutation.lua(00213),,,,,,,,Survivor,,OK,,
+配方：<rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
+4072,195942,Survivor,Lua/Transmutation.lua(00213),,,,,,,,倖存者,,OK,,
 4073,195942,"Improves damage when health is below 50%
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00213),,,,,,,,"Improves damage when health is below 50%
+Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00213),,,,,,,,"生命低於50%時提升傷害。
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
-4074,195942,Executioner,Lua/Transmutation.lua(00214),,,,,,,,Executioner,,OK,,
+配方：<rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
+4074,195942,Executioner,Lua/Transmutation.lua(00214),,,,,,,,行刑者,,OK,,
 4075,196416,"Increases damage when health is above 90%
 
 Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00214),,,,,,"Increases damage when health is aboce 90%
 
 Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>","Increases damage when health is aboce 90%
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>","Increases damage when health is above 90%
+Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>","生命高於90%時提升傷害。
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
-4076,195942,Cursed,Lua/Transmutation.lua(00215),,,,,,,,Cursed,,OK,,
+配方：<rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
+4076,195942,Cursed,Lua/Transmutation.lua(00215),,,,,,,,詛咒,,OK,,
 4077,199653,"Significantly increases damage but decreases gold drops
 
 Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00215),,,,,198395,"Significantly increases damage but decreases max health
 
 Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>","Significantly increases damage but decreases max health
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",,,changed,,
-4078,195942,Vampirism,Lua/Transmutation.lua(00218),,,,,,,,Vampirism,,OK,,
+Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>","顯著提升傷害，但降低金幣掉落。
+
+配方：<rune_icon_1><rune_icon_2><rune_icon_3>",,changed,,
+4078,195942,Vampirism,Lua/Transmutation.lua(00218),,,,,,,,吸血,,OK,,
 4079,195942,"Gain health on hit
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00218),,,,,,,,"Gain health on hit
+Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00218),,,,,,,,"攻擊時恢復生命。
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
-4080,195942,Mauling,Lua/Transmutation.lua(00219),,,,,,,,Mauling,,OK,,
+配方：<rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
+4080,195942,Mauling,Lua/Transmutation.lua(00219),,,,,,,,鈍擊,,OK,,
 4081,195942,"Gives a chance to knock back enemies
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00219),,,,,,,,"Gives a chance to knock back enemies
+Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00219),,,,,,,,"有機率震退敵人。
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
-4082,195942,Assassin,Lua/Transmutation.lua(00220),,,,,,,,Assassin,,OK,,
+配方：<rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
+4082,195942,Assassin,Lua/Transmutation.lua(00220),,,,,,,,刺客,,OK,,
 4083,195942,"Increases critical chance
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00220),,,,,,,,"Increases critical chance
+Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00220),,,,,,,,"提升暴擊率。
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
-4084,195942,Bear,Lua/Transmutation.lua(00221),,,,,,,,Bear,,OK,,
+配方：<rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
+4084,195942,Bear,Lua/Transmutation.lua(00221),,,,,,,,暴熊,,OK,,
 4085,195942,"Knock back enemies on critical hit (has cooldown)
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00221),,,,,,,,"Knock back enemies on critical hit (has cooldown)
+Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00221),,,,,,,,"暴擊時震退敵人（有冷卻時間）。
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
-4086,195942,Leech,Lua/Transmutation.lua(00222),,,,,,,,Leech,,OK,,
+配方：<rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
+4086,195942,Leech,Lua/Transmutation.lua(00222),,,,,,,,水蛭,,OK,,
 4087,195942,"Gain a lot of health on critical hit (has cooldown)
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00222),,,,,,,,"Gain a lot of health on critical hit (has cooldown)
+Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00222),,,,,,,,"暴擊時恢復大量生命（有冷卻時間）。
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
-4088,195942,Wolf,Lua/Transmutation.lua(00223),,,,,,,,Wolf,,OK,,
+配方：<rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
+4088,195942,Wolf,Lua/Transmutation.lua(00223),,,,,,,,蒼狼,,OK,,
 4089,195942,"Gives a chance to inflict Vulnerable condition
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00223),,,,,,,,"Gives a chance to inflict Vulnerable condition
+Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00223),,,,,,,,"有機率造成弱點鎖定。
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
-4090,195942,Ram,Lua/Transmutation.lua(00224),,,,,,,,Ram,,OK,,
+配方：<rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
+4090,195942,Ram,Lua/Transmutation.lua(00224),,,,,,,,公羊,,OK,,
 4091,195942,"Inflict Daze on critical hit (has cooldown)
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00224),,,,,,,,"Inflict Daze on critical hit (has cooldown)
+Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00224),,,,,,,,"暴擊時造成暈眩（有冷卻時間）。
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
-4092,195942,Fox,Lua/Transmutation.lua(00225),,,,,,,,Fox,,OK,,
+配方：<rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
+4092,195942,Fox,Lua/Transmutation.lua(00225),,,,,,,,狐狸,,OK,,
 4093,195942,"Reduces weapon cooldowns on overkill (has cooldown)
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00225),,,,,,,,"Reduces weapon cooldowns on overkill (has cooldown)
+Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00225),,,,,,,,"絕殺時縮短武器冷卻時間（有冷卻時間）。
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
-4094,195942,Vulture,Lua/Transmutation.lua(00226),,,,,,,,Vulture,,OK,,
+配方：<rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
+4094,195942,Vulture,Lua/Transmutation.lua(00226),,,,,,,,禿鷹,,OK,,
 4095,195942,"Gain a lot of health on overkill (has cooldown)
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00226),,,,,,,,"Gain a lot of health on overkill (has cooldown)
+Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00226),,,,,,,,"絕殺時恢復大量生命（有冷卻時間）。
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
-4096,195942,Luck,Lua/Transmutation.lua(00227),,,,,,,,Luck,,OK,,
+配方：<rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
+4096,195942,Luck,Lua/Transmutation.lua(00227),,,,,,,,幸運,,OK,,
 4097,195942,"Increases amount of dropped items
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00227),,,,,,,,"Increases amount of dropped items
+Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00227),,,,,,,,"掉落更多物品。
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
-4098,195942,Spider Slayer,Lua/Transmutation.lua(00231),,,,,,,,Spider Slayer,,OK,,
+配方：<rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
+4098,195942,Spider Slayer,Lua/Transmutation.lua(00231),,,,,,,,蜘蛛殺手,,OK,,
 4099,195942,"Increases damage against spiders
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00231),,,,,,,,"Increases damage against spiders
+Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00231),,,,,,,,"提升對蜘蛛的傷害。
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
-4100,195942,Skeleton Slayer,Lua/Transmutation.lua(00232),,,,,,,,Skeleton Slayer,,OK,,
+配方：<rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
+4100,195942,Skeleton Slayer,Lua/Transmutation.lua(00232),,,,,,,,骷髏殺手,,OK,,
 4101,195942,"Increases damage against skeletons
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00232),,,,,,,,"Increases damage against skeletons
+Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00232),,,,,,,,"提升對骷髏的傷害。
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
-4102,195942,Vampire Slayer,Lua/Transmutation.lua(00233),,,,,,,,Vampire Slayer,,OK,,
+配方：<rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
+4102,195942,Vampire Slayer,Lua/Transmutation.lua(00233),,,,,,,,吸血鬼殺手,,OK,,
 4103,195942,"Increases damage against vampires
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00233),,,,,,,,"Increases damage against vampires
+Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00233),,,,,,,,"提升對吸血鬼的傷害。
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
-4104,195942,Gargoyle Slayer,Lua/Transmutation.lua(00234),,,,,,,,Gargoyle Slayer,,OK,,
+配方：<rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
+4104,195942,Gargoyle Slayer,Lua/Transmutation.lua(00234),,,,,,,,石像鬼殺手,,OK,,
 4105,195942,"Increases damage against gargoyles
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00234),,,,,,,,"Increases damage against gargoyles
+Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00234),,,,,,,,"提升對石像鬼的傷害。
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
-4106,196645,Wraith Slayer,Lua/Transmutation.lua(00235),,,,,,Banshee Slayer,Banshee Slayer,Wraith Slayer,,OK,,
+配方：<rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
+4106,196645,Wraith Slayer,Lua/Transmutation.lua(00235),,,,,,Banshee Slayer,Banshee Slayer,怨靈殺手,,OK,,
 4107,196645,"Increases damage against wraiths
 
 Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00235),,,,,,"Increases damage against banshees
 
 Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>","Increases damage against banshees
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>","Increases damage against wraiths
+Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>","提升對怨靈的傷害。
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
-4108,195942,Essence Slayer,Lua/Transmutation.lua(00236),,,,,,,,Essence Slayer,,OK,,
+配方：<rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
+4108,195942,Essence Slayer,Lua/Transmutation.lua(00236),,,,,,,,元素殺手,,OK,,
 4109,195942,"Increases damage against essences
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00236),,,,,,,,"Increases damage against essences
+Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00236),,,,,,,,"提升對元素的傷害。
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
-100364,29744,Transmutation,Lua/TransmutationInteractable.lua(00012),,,,,,,,Transmutation,,OK,,
-733,194283,Required Level: <number>,Lua/TransmutationInteractable.lua(00043),,,,,,Required Level: <number>,Required Level: <number>,,,OK,,
+配方：<rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
+100364,29744,Transmutation,Lua/TransmutationInteractable.lua(00012),,,,,,,,合成,,OK,,
+733,194283,Required Level: <number>,Lua/TransmutationInteractable.lua(00043),,,,,,Required Level: <number>,Required Level: <number>,需求等級：<number>,,OK,,
 4204,196416,This is a secret achievement,Lua/UI/Achievements.lua(00053),,,,,,,This is a secret achievement,This is a secret achievement,,OK,,
 4188,196645,Next round starts in <time>,Lua/UI/ArenaRanking.lua(00030),,,,,,Next round starts in <minutes>:<seconds>,Next round starts in <minutes>:<seconds>,Next round starts in <time>,,OK,,
 4187,196416,Ranking,Lua/UI/ArenaRanking.lua(00039),,,,,,This is a secret achievement,This is a secret achievement,Ranking,,OK,,
