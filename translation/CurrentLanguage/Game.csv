@@ -3716,114 +3716,114 @@ Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00236),,,
 1138,194283,Activate,Lua/UI/BaseInventory.lua(01156),,,,,,Activate,Activate,啟動,,OK,,
 1139,194283,Deactivate,Lua/UI/BaseInventory.lua(01157),,,,,,Deactivate,Deactivate,關閉,,OK,,
 4674,199933,Eat it,Lua/UI/BaseInventory.lua(01159),,,,,0,,,吃掉,,new,,
-1140,194283,<name> travelled to <map_name>,Lua/UI/ChatDlg.lua(00448),,,,,,<name> travelled to <map_name>,<name> travelled to <map_name>,,,OK,,
-1141,194283,Player <name> joined the game,Lua/UI/ChatDlg.lua(00457),,,,,,Player <name> joined the game,Player <name> joined the game,,,OK,,
-1142,194283,Friend invitation from <name> ,Lua/UI/ChatDlg.lua(00464),,,,,,Friend invitation from <name> ,Friend invitation from <name> ,,,OK,,
-4470,198919,Friend Invitation,Lua/UI/ChatDlg.lua(00471),,,,,,,,Friend Invitation,,OK,,
-4471,199653,Are you sure you want to accept the friend invitation from <name>?,Lua/UI/ChatDlg.lua(00471),,,,,198919,Are you sure you want to want to accept the friend invitation from <name>?,Are you sure you want to want to accept the friend invitation from <name>?,,,changed,,
-1143,194283,Game invitation from <name>,Lua/UI/ChatDlg.lua(00482),,,,,,Game invitation from <name>,Game invitation from <name>,,,OK,,
-4472,198919,Game Invitation,Lua/UI/ChatDlg.lua(00487),,,,,,,,Game Invitation,,OK,,
-4473,199653,Are you sure you want to accept the game invitation from <name>?,Lua/UI/ChatDlg.lua(00487),,,,,198919,Are you sure you want to want to accept the game invitation from <name>?,Are you sure you want to want to accept the game invitation from <name>?,,,changed,,
-1144,194283,Player <name> left the game,Lua/UI/ChatDlg.lua(00495),,,,,,Player <name> left the game,Player <name> left the game,,,OK,,
-1145,194283,<name> joined the room,Lua/UI/ChatDlg.lua(00519),,,,,,<name> joined the room,<name> joined the room,,,OK,,
-1146,194283,<name> left the room,Lua/UI/ChatDlg.lua(00523),,,,,,<name> left the room,<name> left the room,,,OK,,
-1147,194283,<chat_red><player> was eaten by a grue</chat_red>,Lua/UI/ChatDlg.lua(00598),,,,,,<chat_red><player> was eaten by a grue</chat_red>,<chat_red><player> was eaten by a grue</chat_red>,,,OK,,
-1148,194283,<chat_red><player> was killed by <mob></chat_red>,Lua/UI/ChatDlg.lua(00600),,,,,,<chat_red><player> was killed by <mob></chat_red>,<chat_red><player> was killed by <mob></chat_red>,,,OK,,
-3922,195390,<chat_red><player> was killed by another player</chat_red>,Lua/UI/ChatDlg.lua(00618),,,,,,,,<chat_red><player> was killed by another player</chat_red>,,OK,,
-3923,195390,<chat_red><player> was killed by <killer></chat_red>,Lua/UI/ChatDlg.lua(00620),,,,,,,,<chat_red><player> was killed by <killer></chat_red>,,OK,,
-1149,194283,<chat_red><player> was eaten by a grue</chat_red>,Lua/UI/ChatDlg.lua(00624),,,,,,<chat_red><player> was eaten by a grue</chat_red>,<chat_red><player> was eaten by a grue</chat_red>,,,OK,,
-1151,194283,<chat_red><player> was killed by <mob></chat_red>,Lua/UI/ChatDlg.lua(00627),,,,,,<chat_red><player> was killed by <mob></chat_red>,<chat_red><player> was killed by <mob></chat_red>,,,OK,,
-4474,198919,"The command ""<command>"" does not work on yourself",Lua/UI/ChatDlg.lua(00809),,,,,,,,"The command ""<command>"" does not work on yourself",,OK,,
-1152,194283,No such player,Lua/UI/ChatDlg.lua(00843),,,,,,No such player,No such player,,,OK,,
-4475,198919,Game invitation sent to <name>,Lua/UI/ChatDlg.lua(00845),,,,,,,,Game invitation sent to <name>,,OK,,
-1153,194283,Close,Lua/UI/ChatDlg.lua(01062),,,,,,Close,Close,,,OK,,
-1154,194283,Accept,Lua/UI/ChatDlg.lua(01092),,,,,,Accept,Accept,,,OK,,
-4476,198919,Keyboard,Lua/UI/ChatDlg.lua(01106),,,,,,,,Keyboard,,OK,,
-1155,194283,Send,Lua/UI/ChatDlg.lua(01118),,,,,,Send,Send,,,OK,,
-1156,194283,Up,Lua/UI/ChatDlg.lua(01128),,,,,,Up,Up,,,OK,,
-1157,194283,Down,Lua/UI/ChatDlg.lua(01138),,,,,,Down,Down,,,OK,,
-4373,198395,Type a message...,Lua/UI/ChatDlg.lua(01153),,,,,,,,Type a message...,,OK,,
-4477,198919,Steam virtual keyboard requires Steam Big Picture Mode to be enabled. Please restart the game from Big Picture Mode in order to use the Steam virtual keyboard.,Lua/UI/ChatDlg.lua(01156),,,,,,,,Steam virtual keyboard requires Steam Big Picture Mode to be enabled. Please restart the game from Big Picture Mode in order to use the Steam virtual keyboard.,,OK,,
-4478,198919,<clr_pref>to <name><clr_suff>: <chat_log><msg></chat_log>,Lua/UI/ChatDlg.lua(01247),,,,,,,,<clr_pref>to <name><clr_suff>: <chat_log><msg></chat_log>,,OK,,
-4479,198919,<clr_pref>from <name><clr_suff>: <chat_log><msg></chat_log>,Lua/UI/ChatDlg.lua(01249),,,,,,,,<clr_pref>from <name><clr_suff>: <chat_log><msg></chat_log>,,OK,,
-1158,198919,<chat_color><name></chat_color>: <chat_color><msg></chat_color>,Lua/UI/ChatDlg.lua(01252),,,,,,<chat_color><name>: <msg></chat_color>,<chat_color><name>: <msg></chat_color>,<chat_color><name></chat_color>: <chat_color><msg></chat_color>,,OK,,
-1159,194283,<clr><name></color>: <chat_log><msg></chat_log>,Lua/UI/ChatDlg.lua(01255),,,,,,<clr><name></color>: <chat_log><msg></chat_log>,<clr><name></color>: <chat_log><msg></chat_log>,,,OK,,
-1160,194283,<chat_color><msg></chat_color>,Lua/UI/ChatDlg.lua(01259),,,,,,<chat_color><msg></chat_color>,<chat_color><msg></chat_color>,,,OK,,
-1161,194283,<chat_system><msg></chat_system>,Lua/UI/ChatDlg.lua(01261),,,,,,<chat_system><msg></chat_system>,<chat_system><msg></chat_system>,,,OK,,
-1162,194283,Weapons,Lua/UI/CodexDlg.lua(00106),,,,,,Weapons,Weapons,,,OK,,
-1163,194283,Strategy Tip,Lua/UI/CodexDlg.lua(00113),,,,,,Strategy Tip,Strategy Tip,,,OK,,
-1165,194283,View,Lua/UI/CodexDlg.lua(00203),,,,,,View,View,,,OK,,
-1166,194283,Info,Lua/UI/CodexDlg.lua(00216),,,,,,Info,Info,,,OK,,
-1167,194283,Bestiary,Lua/UI/CodexDlg.lua(00271),,,,,,Bestiary,Bestiary,,,OK,,
-1169,196015,Close,Lua/UI/CodexDlg.lua(00299),,,,,,<font CodexMenuEntry>Close</font>,<font CodexMenuEntry>Close</font>,Close,,OK,,
-1170,196015,Back,Lua/UI/CodexDlg.lua(00326),,,,,,<font CodexMenuEntry>Back</font>,<font CodexMenuEntry>Back</font>,Back,,OK,,
-1171,194283,Stories,Lua/UI/CodexDlg.lua(00380),,,,,,Stories,Stories,,,OK,,
-1172,194283,Hints,Lua/UI/CodexDlg.lua(00381),,,,,,Hints,Hints,,,OK,,
-3857,195189,Recipes,Lua/UI/CodexDlg.lua(00381),,,,,,,,Recipes,,OK,,
-4110,195942,Weapon Properties,Lua/UI/CodexDlg.lua(00381),,,,,,,,Weapon Properties,,OK,,
-4111,195942,Weapon Properties (<count>),Lua/UI/CodexDlg.lua(00415),,,,,,,,Weapon Properties (<count>),,OK,,
-4112,195942,Weapon Properties,Lua/UI/CodexDlg.lua(00416),,,,,,,,Weapon Properties,,OK,,
+1140,194283,<name> travelled to <map_name>,Lua/UI/ChatDlg.lua(00448),,,,,,<name> travelled to <map_name>,<name> travelled to <map_name>,<name>已前往<map_name>,,OK,,
+1141,194283,Player <name> joined the game,Lua/UI/ChatDlg.lua(00457),,,,,,Player <name> joined the game,Player <name> joined the game,玩家<name>已加入遊戲,,OK,,
+1142,194283,Friend invitation from <name> ,Lua/UI/ChatDlg.lua(00464),,,,,,Friend invitation from <name> ,Friend invitation from <name> ,來自<name>的好友邀請,,OK,,
+4470,198919,Friend Invitation,Lua/UI/ChatDlg.lua(00471),,,,,,,,好友邀請,,OK,,
+4471,199653,Are you sure you want to accept the friend invitation from <name>?,Lua/UI/ChatDlg.lua(00471),,,,,198919,Are you sure you want to want to accept the friend invitation from <name>?,Are you sure you want to want to accept the friend invitation from <name>?,你確定要接受<name>的好友邀請嗎？,,changed,,
+1143,194283,Game invitation from <name>,Lua/UI/ChatDlg.lua(00482),,,,,,Game invitation from <name>,Game invitation from <name>,來自<name>的遊戲邀請,,OK,,
+4472,198919,Game Invitation,Lua/UI/ChatDlg.lua(00487),,,,,,,,遊戲邀請,,OK,,
+4473,199653,Are you sure you want to accept the game invitation from <name>?,Lua/UI/ChatDlg.lua(00487),,,,,198919,Are you sure you want to want to accept the game invitation from <name>?,Are you sure you want to want to accept the game invitation from <name>?,你確定要接受<name>的遊戲邀請嗎？,,changed,,
+1144,194283,Player <name> left the game,Lua/UI/ChatDlg.lua(00495),,,,,,Player <name> left the game,Player <name> left the game,玩家<name>已離開遊戲,,OK,,
+1145,194283,<name> joined the room,Lua/UI/ChatDlg.lua(00519),,,,,,<name> joined the room,<name> joined the room,<name>已加入房間,,OK,,
+1146,194283,<name> left the room,Lua/UI/ChatDlg.lua(00523),,,,,,<name> left the room,<name> left the room,<name>已離開房間,,OK,,
+1147,194283,<chat_red><player> was eaten by a grue</chat_red>,Lua/UI/ChatDlg.lua(00598),,,,,,<chat_red><player> was eaten by a grue</chat_red>,<chat_red><player> was eaten by a grue</chat_red>,<chat_red><player>被顫慄吞噬了</chat_red>,,OK,,
+1148,194283,<chat_red><player> was killed by <mob></chat_red>,Lua/UI/ChatDlg.lua(00600),,,,,,<chat_red><player> was killed by <mob></chat_red>,<chat_red><player> was killed by <mob></chat_red>,<chat_red><player>被<mob>殺死了</chat_red>,,OK,,
+3922,195390,<chat_red><player> was killed by another player</chat_red>,Lua/UI/ChatDlg.lua(00618),,,,,,,,<chat_red><player>被另一位玩家殺死了</chat_red>,,OK,,
+3923,195390,<chat_red><player> was killed by <killer></chat_red>,Lua/UI/ChatDlg.lua(00620),,,,,,,,<chat_red><player>被<killer>殺死了</chat_red>,,OK,,
+1149,194283,<chat_red><player> was eaten by a grue</chat_red>,Lua/UI/ChatDlg.lua(00624),,,,,,<chat_red><player> was eaten by a grue</chat_red>,<chat_red><player> was eaten by a grue</chat_red>,<chat_red><player>被顫慄吞噬了</chat_red>,,OK,,
+1151,194283,<chat_red><player> was killed by <mob></chat_red>,Lua/UI/ChatDlg.lua(00627),,,,,,<chat_red><player> was killed by <mob></chat_red>,<chat_red><player> was killed by <mob></chat_red>,<chat_red><player>被<mob>殺死了</chat_red>,,OK,,
+4474,198919,"The command ""<command>"" does not work on yourself",Lua/UI/ChatDlg.lua(00809),,,,,,,,「<command>」指令對自己沒有作用,,OK,,
+1152,194283,No such player,Lua/UI/ChatDlg.lua(00843),,,,,,No such player,No such player,沒有這個玩家,,OK,,
+4475,198919,Game invitation sent to <name>,Lua/UI/ChatDlg.lua(00845),,,,,,,,遊戲邀請已寄給<name>,,OK,,
+1153,194283,Close,Lua/UI/ChatDlg.lua(01062),,,,,,Close,Close,關閉,,OK,,
+1154,194283,Accept,Lua/UI/ChatDlg.lua(01092),,,,,,Accept,Accept,接受,,OK,,
+4476,198919,Keyboard,Lua/UI/ChatDlg.lua(01106),,,,,,,,鍵盤,,OK,,
+1155,194283,Send,Lua/UI/ChatDlg.lua(01118),,,,,,Send,Send,發送,,OK,,
+1156,194283,Up,Lua/UI/ChatDlg.lua(01128),,,,,,Up,Up,上,,OK,,
+1157,194283,Down,Lua/UI/ChatDlg.lua(01138),,,,,,Down,Down,下,,OK,,
+4373,198395,Type a message...,Lua/UI/ChatDlg.lua(01153),,,,,,,,輸入訊息……,,OK,,
+4477,198919,Steam virtual keyboard requires Steam Big Picture Mode to be enabled. Please restart the game from Big Picture Mode in order to use the Steam virtual keyboard.,Lua/UI/ChatDlg.lua(01156),,,,,,,,Steam虛擬鍵盤需要Big Picture模式才能啟用。請使用Big Picture模式重啟遊戲以啟用Steam虛擬鍵盤。,,OK,,
+4478,198919,<clr_pref>to <name><clr_suff>: <chat_log><msg></chat_log>,Lua/UI/ChatDlg.lua(01247),,,,,,,,<clr_pref>收件者<name><clr_suff>：<chat_log><msg></chat_log>,,OK,,
+4479,198919,<clr_pref>from <name><clr_suff>: <chat_log><msg></chat_log>,Lua/UI/ChatDlg.lua(01249),,,,,,,,<clr_pref>寄件者<name><clr_suff>：<chat_log><msg></chat_log>,,OK,,
+1158,198919,<chat_color><name></chat_color>: <chat_color><msg></chat_color>,Lua/UI/ChatDlg.lua(01252),,,,,,<chat_color><name>: <msg></chat_color>,<chat_color><name>: <msg></chat_color>,<chat_color><name></chat_color>：<chat_color><msg></chat_color>,,OK,,
+1159,194283,<clr><name></color>: <chat_log><msg></chat_log>,Lua/UI/ChatDlg.lua(01255),,,,,,<clr><name></color>: <chat_log><msg></chat_log>,<clr><name></color>: <chat_log><msg></chat_log>,<clr><name></color>：<chat_log><msg></chat_log>,,OK,,
+1160,194283,<chat_color><msg></chat_color>,Lua/UI/ChatDlg.lua(01259),,,,,,<chat_color><msg></chat_color>,<chat_color><msg></chat_color>,<chat_color><msg></chat_color>,,OK,,
+1161,194283,<chat_system><msg></chat_system>,Lua/UI/ChatDlg.lua(01261),,,,,,<chat_system><msg></chat_system>,<chat_system><msg></chat_system>,<chat_system><msg></chat_system>,,OK,,
+1162,194283,Weapons,Lua/UI/CodexDlg.lua(00106),,,,,,Weapons,Weapons,武器,,OK,,
+1163,194283,Strategy Tip,Lua/UI/CodexDlg.lua(00113),,,,,,Strategy Tip,Strategy Tip,戰略提示,,OK,,
+1165,194283,View,Lua/UI/CodexDlg.lua(00203),,,,,,View,View,查看,,OK,,
+1166,194283,Info,Lua/UI/CodexDlg.lua(00216),,,,,,Info,Info,資訊,,OK,,
+1167,194283,Bestiary,Lua/UI/CodexDlg.lua(00271),,,,,,Bestiary,Bestiary,怪物圖鑑,,OK,,
+1169,196015,Close,Lua/UI/CodexDlg.lua(00299),,,,,,<font CodexMenuEntry>Close</font>,<font CodexMenuEntry>Close</font>,關閉,,OK,,
+1170,196015,Back,Lua/UI/CodexDlg.lua(00326),,,,,,<font CodexMenuEntry>Back</font>,<font CodexMenuEntry>Back</font>,返回,,OK,,
+1171,194283,Stories,Lua/UI/CodexDlg.lua(00380),,,,,,Stories,Stories,故事,,OK,,
+1172,194283,Hints,Lua/UI/CodexDlg.lua(00381),,,,,,Hints,Hints,提示,,OK,,
+3857,195189,Recipes,Lua/UI/CodexDlg.lua(00381),,,,,,,,配方,,OK,,
+4110,195942,Weapon Properties,Lua/UI/CodexDlg.lua(00381),,,,,,,,武器屬性,,OK,,
+4111,195942,Weapon Properties (<count>),Lua/UI/CodexDlg.lua(00415),,,,,,,,武器屬性（<count>）,,OK,,
+4112,195942,Weapon Properties,Lua/UI/CodexDlg.lua(00416),,,,,,,,武器屬性,,OK,,
 4113,195942,"Weapon properties are created by using 3 specific Legendary Demon Powers in any order.
 
-To improve a property, you must craft its recipe again, although this time you can use Demon Powers of any rarity.",Lua/UI/CodexDlg.lua(00416),,,,,,,,"Weapon properties are created by using 3 specific Legendary Demon Powers in any order.
+To improve a property, you must craft its recipe again, although this time you can use Demon Powers of any rarity.",Lua/UI/CodexDlg.lua(00416),,,,,,,,"武器屬性是用3個任意順序的特定傳奇惡魔之力附加的。
 
-To improve a property, you must craft its recipe again, although this time you can use Demon Powers of any rarity.",,OK,,
-4000,195716,Close,Lua/UI/CodexDlg.lua(00501),,,,,,,,Close,,OK,,
-1174,196015,Story,Lua/UI/CodexDlg.lua(00528),,,,,,<font CodexMenuEntry>Story</font>,<font CodexMenuEntry>Story</font>,Story,,OK,,
-1175,196015,Hints,Lua/UI/CodexDlg.lua(00540),,,,,,<font CodexMenuEntry>Hints</font>,<font CodexMenuEntry>Hints</font>,Hints,,OK,,
-1176,196015,Weapons,Lua/UI/CodexDlg.lua(00551),,,,,,<font CodexMenuEntry>Weapons</font>,<font CodexMenuEntry>Weapons</font>,Weapons,,OK,,
-1177,196015,Monsters,Lua/UI/CodexDlg.lua(00562),,,,,,<font CodexMenuEntry>Monsters</font>,<font CodexMenuEntry>Monsters</font>,Monsters,,OK,,
-1178,196015,Conditions,Lua/UI/CodexDlg.lua(00573),,,,,,<font CodexMenuEntry>Conditions</font>,<font CodexMenuEntry>Conditions</font>,Conditions,,OK,,
-3858,196015,Recipes,Lua/UI/CodexDlg.lua(00580),,,,,,<font CodexMenuEntry>Recipes</font>,<font CodexMenuEntry>Recipes</font>,Recipes,,OK,,
-4186,196416,Cutscenes,Lua/UI/CodexDlg.lua(00591),,,,,,,,Cutscenes,,OK,,
-1179,196015,Close,Lua/UI/CodexDlg.lua(00608),,,,,,<font CodexMenuEntry>Close</font>,<font CodexMenuEntry>Close</font>,Close,,OK,,
+要提升屬性，你必須再一次合成配方，不過這次你可以使用任意稀有度的惡魔之力。",,OK,,
+4000,195716,Close,Lua/UI/CodexDlg.lua(00501),,,,,,,,關閉,,OK,,
+1174,196015,Story,Lua/UI/CodexDlg.lua(00528),,,,,,<font CodexMenuEntry>Story</font>,<font CodexMenuEntry>Story</font>,故事,,OK,,
+1175,196015,Hints,Lua/UI/CodexDlg.lua(00540),,,,,,<font CodexMenuEntry>Hints</font>,<font CodexMenuEntry>Hints</font>,提示,,OK,,
+1176,196015,Weapons,Lua/UI/CodexDlg.lua(00551),,,,,,<font CodexMenuEntry>Weapons</font>,<font CodexMenuEntry>Weapons</font>,武器,,OK,,
+1177,196015,Monsters,Lua/UI/CodexDlg.lua(00562),,,,,,<font CodexMenuEntry>Monsters</font>,<font CodexMenuEntry>Monsters</font>,怪物,,OK,,
+1178,196015,Conditions,Lua/UI/CodexDlg.lua(00573),,,,,,<font CodexMenuEntry>Conditions</font>,<font CodexMenuEntry>Conditions</font>,狀態,,OK,,
+3858,196015,Recipes,Lua/UI/CodexDlg.lua(00580),,,,,,<font CodexMenuEntry>Recipes</font>,<font CodexMenuEntry>Recipes</font>,配方,,OK,,
+4186,196416,Cutscenes,Lua/UI/CodexDlg.lua(00591),,,,,,,,過場動畫,,OK,,
+1179,196015,Close,Lua/UI/CodexDlg.lua(00608),,,,,,<font CodexMenuEntry>Close</font>,<font CodexMenuEntry>Close</font>,關閉,,OK,,
 4480,198919,"You have selected <outfit>, <difficulty> and <mode>.
-Are you sure you want to continue?",Lua/UI/CodexDlg.lua(00642),,,,,,,,"You have selected <outfit>, <difficulty> and <mode>.
-Are you sure you want to continue?",,OK,,
-4333,198395,Hardcore,Lua/UI/CodexDlg.lua(00654),,,,,,,,Hardcore,,OK,,
-4329,198395,Normal Character,Lua/UI/CodexDlg.lua(00658),,,,,,,,Normal Character,,OK,,
-4331,198395,Normal characters suffer no penalties when they die,Lua/UI/CodexDlg.lua(00663),,,,,,,,Normal characters suffer no penalties when they die,,OK,,
-4330,198395,Hardcore Character,Lua/UI/CodexDlg.lua(00667),,,,,,,,Hardcore Character,,OK,,
-4332,198395,Hardcore characters become normal characters when they die for the first time,Lua/UI/CodexDlg.lua(00672),,,,,,,,Hardcore characters become normal characters when they die for the first time,,OK,,
+Are you sure you want to continue?",Lua/UI/CodexDlg.lua(00642),,,,,,,,"你選擇了<outfit>、<difficulty>和<mode>。
+你確定要繼續嗎？",,OK,,
+4333,198395,Hardcore,Lua/UI/CodexDlg.lua(00654),,,,,,,,專家模式,,OK,,
+4329,198395,Normal Character,Lua/UI/CodexDlg.lua(00658),,,,,,,,普通角色,,OK,,
+4331,198395,Normal characters suffer no penalties when they die,Lua/UI/CodexDlg.lua(00663),,,,,,,,普通角色死亡時不會受到懲罰,,OK,,
+4330,198395,Hardcore Character,Lua/UI/CodexDlg.lua(00667),,,,,,,,專家角色,,OK,,
+4332,198395,Hardcore characters become normal characters when they die for the first time,Lua/UI/CodexDlg.lua(00672),,,,,,,,專家角色在第一次死亡後會變成普通角色,,OK,,
 4185,196416,"You have selected <outfit> and <difficulty>.
-Are you sure you want to continue?",Lua/UI/CodexDlg.lua(00725),,,,,,,,"You have selected <outfit> and <difficulty>.
-Are you sure you want to continue?",,OK,,
+Are you sure you want to continue?",Lua/UI/CodexDlg.lua(00725),,,,,,,,"你選擇了<outfit>和<difficulty>。
+你確定要繼續嗎？",,OK,,
 4481,198919,"Recommended for players who are new to aRPGs or want a more relaxed gameplay experience. Loot drops are reduced in Casual mode.
 
- Note: You will be able to change between Casual and Normal Mode at will.",Lua/UI/CodexDlg.lua(00743),,,,,,,,"Recommended for players who are new to aRPGs or want a more relaxed gameplay experience. Loot drops are reduced in Casual mode.
+ Note: You will be able to change between Casual and Normal Mode at will.",Lua/UI/CodexDlg.lua(00743),,,,,,,,"推薦給動作角色扮演遊戲的新手，或想要輕鬆遊玩的玩家。在休閒模式下物品掉落機率會降低。
 
- Note: You will be able to change between Casual and Normal Mode at will.",,OK,,
-3924,195390,Select Difficulty,Lua/UI/CodexDlg.lua(00841),,,,,,,,Select Difficulty,,OK,,
-4279,197852,Casual Mode,Lua/UI/CodexDlg.lua(00845),,,,,,,,Casual Mode,,OK,,
+注意：你之後可以隨時切換普通或休閒模式。",,OK,,
+3924,195390,Select Difficulty,Lua/UI/CodexDlg.lua(00841),,,,,,,,選擇難度,,OK,,
+4279,197852,Casual Mode,Lua/UI/CodexDlg.lua(00845),,,,,,,,休閒模式,,OK,,
 4282,197852,"Recommended for players who are new to aRPGs or want a more relaxed gameplay experience.
 
- Note: You will be able to change between Casual and Normal Mode at will.",Lua/UI/CodexDlg.lua(00849),,,,,,,,"Recommended for players who are new to aRPGs or want a more relaxed gameplay experience.
+ Note: You will be able to change between Casual and Normal Mode at will.",Lua/UI/CodexDlg.lua(00849),,,,,,,,"推薦給動作角色扮演遊戲的新手，或想要輕鬆遊玩的玩家。
 
- Note: You will be able to change between Casual and Normal Mode at will.",,OK,,
+注意：你之後可以隨時切換普通或休閒模式。",,OK,,
 4002,198395,"The standard game difficulty, strongly recommended for your first game.
 
-Note: You will be able to adjust the game difficulty later, by switching Hexes on and off.",Lua/UI/CodexDlg.lua(00861),,,,,,,,"The standard game difficulty, strongly recommended for your first game.
+Note: You will be able to adjust the game difficulty later, by switching Hexes on and off.",Lua/UI/CodexDlg.lua(00861),,,,,,,,"標準遊戲難度，第一次遊玩強烈推薦此難度。
 
-Note: You will be able to adjust the game difficulty later, by switching Hexes on and off.",,OK,,
+注意：你之後可以通過啟動或關閉禁咒來調整遊戲難度。",,OK,,
 4283,197852,"The standard game difficulty, recommended for players that have some experience with aRPGs.
 
-Note: You will be able to adjust the game difficulty later, by switching Hexes on and off.",Lua/UI/CodexDlg.lua(00862),,,,,,,,"The standard game difficulty, recommended for players that have some experience with aRPGs.
+Note: You will be able to adjust the game difficulty later, by switching Hexes on and off.",Lua/UI/CodexDlg.lua(00862),,,,,,,,"標準遊戲難度，推薦給有玩過動作角色扮演遊戲的玩家。
 
-Note: You will be able to adjust the game difficulty later, by switching Hexes on and off.",,OK,,
-3925,195716,Normal Mode,Lua/UI/CodexDlg.lua(00863),,,,,,,,Normal Mode,,OK,,
-3608,195716,Hard Mode,Lua/UI/CodexDlg.lua(00871),,,,,,,,Hard Mode,,OK,,
+注意：你之後可以通過啟動或關閉禁咒來調整遊戲難度。",,OK,,
+3925,195716,Normal Mode,Lua/UI/CodexDlg.lua(00863),,,,,,,,普通模式,,OK,,
+3608,195716,Hard Mode,Lua/UI/CodexDlg.lua(00871),,,,,,,,困難模式,,OK,,
 3604,196645,"Select this option if you want to test yourself against the most challenging enemies and encounters. Selecting this mode will make all monsters stronger and activate five Hexes that raise the difficulty of the game. You will not be able to turn Hexes off while playing on Hard Mode.
 
 Note: Playing in Hard Mode is not recommended for your first character.",Lua/UI/CodexDlg.lua(00875),,,,,,"Select this option if you want to test yourself against the most challenging enemies and encounters. Selecting this mode will activate five Hexes that raise the difficulty of the game. You will not be able to turn Hexes off while playing on Hard Mode.
 
 Note: Playing in Hard Mode is not recommended for your first character.","Select this option if you want to test yourself against the most challenging enemies and encounters. Selecting this mode will activate five Hexes that raise the difficulty of the game. You will not be able to turn Hexes off while playing on Hard Mode.
 
-Note: Playing in Hard Mode is not recommended for your first character.","Select this option if you want to test yourself against the most challenging enemies and encounters. Selecting this mode will make all monsters stronger and activate five Hexes that raise the difficulty of the game. You will not be able to turn Hexes off while playing on Hard Mode.
+Note: Playing in Hard Mode is not recommended for your first character.","如果你想考驗自己的能耐，對抗最具挑戰性的敵人和戰鬥的話，那就選擇這個模式吧。選擇這個模式會使所有怪物更加強大，還會啟動5個禁咒提高遊戲難度。玩困難模式時無法關閉禁咒。
 
-Note: Playing in Hard Mode is not recommended for your first character.",,OK,,
-3926,195390,Select your outfit,Lua/UI/CodexDlg.lua(00921),,,,,,,,Select your outfit,,OK,,
-4004,195716,Conditions,Lua/UI/CodexDlg.lua(00968),,,,,,,,Conditions,,OK,,
-1164,196015,Close,Lua/UI/CodexDlg.lua(00987),,,,,,<font CodexMenuEntry>Close</font>,<font CodexMenuEntry>Close</font>,Close,,OK,,
+注意：第一個角色不推薦玩困難模式。",,OK,,
+3926,195390,Select your outfit,Lua/UI/CodexDlg.lua(00921),,,,,,,,選擇服裝,,OK,,
+4004,195716,Conditions,Lua/UI/CodexDlg.lua(00968),,,,,,,,狀態,,OK,,
+1164,196015,Close,Lua/UI/CodexDlg.lua(00987),,,,,,<font CodexMenuEntry>Close</font>,<font CodexMenuEntry>Close</font>,關閉,,OK,,
 1180,194283,Page <current_page> of <total_pages>,Lua/UI/ControlInterpolations.lua(00360),,,,,,Page <current_page> of <total_pages>,Page <current_page> of <total_pages>,,,OK,,
 1181,194283,Previous,Lua/UI/Conversation.lua(00017),,,,,,Previous,Previous,,,OK,,
 1182,194283,Next,Lua/UI/Conversation.lua(00025),,,,,,Next,Next,,,OK,,
