@@ -1884,7 +1884,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 
 <effect2>",,OK,,
 4208,198919,<teal>(</teal><lightgreen>+<diff></lightgreen><teal>)</teal>,Lua/DestinyCard.lua(00233),,,,,,<teal>(+</teal><diff><teal>)</teal>,<teal>(+</teal><diff><teal>)</teal>,<teal>（</teal><lightgreen>+<diff></lightgreen><teal>）</teal>,,OK,,
-129,194283,No empty slots,Lua/DestinyCard.lua(00291),,,,,,No empty slots,No empty slots,沒有空槽,,OK,,
+129,194283,No empty slots,Lua/DestinyCard.lua(00291),,,,,,No empty slots,No empty slots,沒有空牌槽,,OK,,
 130,194283,Need <more_points> more DP to activate,Lua/DestinyCard.lua(00295),,,,,,Need <more_points> more DP to activate,Need <more_points> more DP to activate,還缺<more_points>命運點,,OK,,
 131,194283,You already have equipped a copy of this card.,Lua/DestinyCard.lua(00304),,,,,,You already have equipped a copy of this card.,You already have equipped a copy of this card.,你已經裝備了一張一樣的牌。,,OK,,
 132,194283,Unique. You can't equip more than 1 copy of this card,Lua/DestinyCard.lua(00381),,,,,,Unique. You can't equip more than 1 copy of this card,Unique. You can't equip more than 1 copy of this card,獨一無二，這種牌只能裝備一張。,,OK,,
@@ -2325,13 +2325,13 @@ None - they are always stoned!","換一個燈泡需要多少石像鬼？
 514,195030,<orange><monster_name></orange>,Lua/Hero.lua(00720),,,,,,<color 255 156 0><monster_name></color>,<color 255 156 0><monster_name></color>,<orange><monster_name></orange>,,OK,,
 513,194283,Victor Vran,Lua/Hero.lua(02469),,,,,,Victor Vran,Victor Vran,維克多．弗蘭,,OK,,
 516,194283,<name> <damage_icon> <damage>,Lua/HeroAction.lua(00034),,,,,,<name> <damage_icon> <damage>,<name> <damage_icon> <damage>,<name> <damage_icon> <damage>,,OK,,
-517,194283,<name> <damage_icon> <damage_min> - <damage_max>,Lua/HeroAction.lua(00036),,,,,,<name> <damage_icon> <damage_min> - <damage_max>,<name> <damage_icon> <damage_min> - <damage_max>,<name> <damage_icon> <damage_min> - <damage_max>,,OK,,
+517,194283,<name> <damage_icon> <damage_min> - <damage_max>,Lua/HeroAction.lua(00036),,,,,,<name> <damage_icon> <damage_min> - <damage_max>,<name> <damage_icon> <damage_min> - <damage_max>,<name> <damage_icon> <damage_min>-<damage_max>,,OK,,
 518,194283,<name> <damage>,Lua/HeroAction.lua(00040),,,,,,<name> <damage>,<name> <damage>,<name> <damage>,,OK,,
-519,194283,<name> <damage_min> - <damage_max>,Lua/HeroAction.lua(00042),,,,,,<name> <damage_min> - <damage_max>,<name> <damage_min> - <damage_max>,<name> <damage_min> - <damage_max>,,OK,,
+519,194283,<name> <damage_min> - <damage_max>,Lua/HeroAction.lua(00042),,,,,,<name> <damage_min> - <damage_max>,<name> <damage_min> - <damage_max>,<name> <damage_min>-<damage_max>,,OK,,
 520,194283,<damage_icon> <damage>,Lua/HeroAction.lua(00055),,,,,,<damage_icon> <damage>,<damage_icon> <damage>,<damage_icon> <damage>,,OK,,
-521,194283,<damage_icon> <damage_min> - <damage_max>,Lua/HeroAction.lua(00057),,,,,,<damage_icon> <damage_min> - <damage_max>,<damage_icon> <damage_min> - <damage_max>,<damage_icon> <damage_min> - <damage_max>,,OK,,
+521,194283,<damage_icon> <damage_min> - <damage_max>,Lua/HeroAction.lua(00057),,,,,,<damage_icon> <damage_min> - <damage_max>,<damage_icon> <damage_min> - <damage_max>,<damage_icon> <damage_min>-<damage_max>,,OK,,
 522,194283,<damage>,Lua/HeroAction.lua(00061),,,,,,<damage>,<damage>,<damage>,,OK,,
-523,194283,<damage_min> - <damage_max>,Lua/HeroAction.lua(00063),,,,,,<damage_min> - <damage_max>,<damage_min> - <damage_max>,<damage_min> - <damage_max>,,OK,,
+523,194283,<damage_min> - <damage_max>,Lua/HeroAction.lua(00063),,,,,,<damage_min> - <damage_max>,<damage_min> - <damage_max>,<damage_min>-<damage_max>,,OK,,
 524,194283,Activated <hex>,Lua/Hex.lua(00254),,,,,,Activated <hex>,Activated <hex>,已啟動<hex>,,OK,,
 525,196259,"<description>
 
@@ -3270,7 +3270,7 @@ Red <team1_score>  ---  Blue <team2_score>",<newline>紅隊：<team1_score>分  
 Damage: <lightgreen><min_damage> - <max_damage></lightgreen>
 Accelerated speed: <lightgreen2><buff_duration_s>.<buff_duration_d></lightgreen2> sec<condition_description>",Lua/RuneTypes.lua(00011),,,,,,Teleport next to the target and deal <lightgreen><min_damage> - <max_damage></lightgreen> damage to it. Also applies the <lightgreen2><condition_name></lightgreen2> condition to the target.<condition_description>,Teleport next to the target and deal <lightgreen><min_damage> - <max_damage></lightgreen> damage to it. Also applies the <lightgreen2><condition_name></lightgreen2> condition to the target.<condition_description>,"瞬移到目標身邊造成傷害，並給目標附加<lightgreen2><condition_name></lightgreen2>狀態。同時獲得加速，持續數秒。
 
-傷害：<lightgreen><min_damage> - <max_damage></lightgreen>
+傷害：<lightgreen><min_damage>-<max_damage></lightgreen>
 加速：<lightgreen2><buff_duration_s>.<buff_duration_d></lightgreen2>秒<condition_description>",,OK,,
 1037,194283,Diamond,Lua/RuneTypes.lua(00124),,,,,,Diamond,Diamond,鑽石,,OK,,
 1038,195390,"Summon a magical shield that absorbs damage and reflects ranged attacks. The shield slowly decays over time. You don't gain Overdrive while this Demon Power is active.
@@ -3304,7 +3304,7 @@ Enemies: +<lightgreen><enemy_damage>%</lightgreen> more damage<condition_descrip
 Damage per Second: <lightgreen><min_damage> - <max_damage></lightgreen>
 Boomerang Radius: <lightgreen><radius_m>.<radius_cm></lightgreen> m",Lua/RuneTypes.lua(00382),,,,,,Hurl a boomerang that deals <lightgreen><min_damage> - <max_damage></lightgreen> damage per second to each enemy in <lightgreen><radius_m>.<radius_d></lightgreen> m radius of its path.,Hurl a boomerang that deals <lightgreen><min_damage> - <max_damage></lightgreen> damage per second to each enemy in <lightgreen><radius_m>.<radius_d></lightgreen> m radius of its path.,"投出一支迴旋鏢，對路徑上的所有敵人造成傷害。
 
-每秒傷害：<lightgreen><min_damage> - <max_damage></lightgreen>
+每秒傷害：<lightgreen><min_damage>-<max_damage></lightgreen>
 迴旋鏢半徑：<lightgreen><radius_m>.<radius_cm></lightgreen>公尺",,OK,,
 1043,194283,Meteor,Lua/RuneTypes.lua(00512),,,,,,Meteor,Meteor,隕石,,OK,,
 1044,195716,"Call for a number of meteors to strike an area ahead of you. Each meteor deals damage to all enemies in <radius_m>.<radius_cm> m radius.
@@ -3312,7 +3312,7 @@ Boomerang Radius: <lightgreen><radius_m>.<radius_cm></lightgreen> m",Lua/RuneTyp
 Damage per Meteor: <lightgreen><min_damage> - <max_damage></lightgreen>
 Number of Meteors: <lightgreen><num_projectiles></lightgreen>",Lua/RuneTypes.lua(00517),,,,,,Call for <lightgreen><number></lightgreen> meteors to strike an area ahead of you. Each meteor deals <min_damage> - <max_damage> damage to all enemies in <radius_m>.<radius_d> m radius.,Call for <lightgreen><number></lightgreen> meteors to strike an area ahead of you. Each meteor deals <min_damage> - <max_damage> damage to all enemies in <radius_m>.<radius_d> m radius.,"召喚數顆隕石攻擊指定區域。每顆隕石會對<radius_m>.<radius_cm>公尺半徑內的所有敵人造成傷害。
 
-每顆隕石傷害：<lightgreen><min_damage> - <max_damage></lightgreen>
+每顆隕石傷害：<lightgreen><min_damage>-<max_damage></lightgreen>
 隕石數量：<lightgreen><num_projectiles></lightgreen>",,OK,,
 1045,194283,Shockwave,Lua/RuneTypes.lua(00617),,,,,,Shockwave,Shockwave,震盪波,,OK,,
 1046,196645,"Unleash 3 consecutive shockwaves that push back all enemies dealing damage and <lightgreen2>Crippling</lightgreen2> them for <buff_duration> seconds.
@@ -3326,7 +3326,7 @@ Shockwave Radius: <lightgreen><radius_m>.<radius_cm></lightgreen> m<condition_de
 Damage per Shockwave: <lightgreen><min_damage> - <max_damage></lightgreen>
 Shockwave Radius: <lightgreen><radius_m>.<radius_cm></lightgreen> m<condition_description>","釋放三道連續的衝擊波震退敵人，造成傷害並導致敵人<lightgreen2>癱瘓</lightgreen2><buff_duration>秒。
 
-每道衝擊波傷害：<lightgreen><min_damage> - <max_damage></lightgreen>
+每道衝擊波傷害：<lightgreen><min_damage>-<max_damage></lightgreen>
 衝擊波半徑：<lightgreen><radius_m>.<radius_cm></lightgreen>公尺<condition_description>",,OK,,
 1047,194283,Time Bubble,Lua/RuneTypes.lua(00750),,,,,,Time Bubble,Time Bubble,緩速氣泡,,OK,,
 1048,196259,"Initiate a time dilation bubble that slows all enemies and projectiles inside with <speed_mul>% of their base speed.
@@ -3354,7 +3354,7 @@ Rune Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec","Create a
 Damage per Second: <lightgreen><min_damage> - <max_damage></lightgreen>
 Rune Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec","產生一條移動火柱，對範圍內的所有敵人造成傷害。此惡魔之力作用時無法使用特殊攻擊。
 
-每秒傷害：<lightgreen><min_damage> - <max_damage></lightgreen>
+每秒傷害：<lightgreen><min_damage>-<max_damage></lightgreen>
 持續時間：<lightgreen><duration_s>.<duration_d></lightgreen>秒",,OK,,
 1051,194283,Dismiss Purging Flames,Lua/RuneTypes.lua(00934),,,,,,Dismiss Purging Flames,Dismiss Purging Flames,驅散淨化之焰,,OK,,
 1052,194283,Sunray,Lua/RuneTypes.lua(01085),,,,,,Sunray,Sunray,陽光,,OK,,
@@ -3369,7 +3369,7 @@ Rune Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec","Emit a r
 Damage per Second: <lightgreen><min_damage> - <max_damage></lightgreen>
 Rune Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec","發出一道烈日射線，灼傷射線路徑上的所有敵人。
 
-每秒傷害：<lightgreen><min_damage> - <max_damage></lightgreen>
+每秒傷害：<lightgreen><min_damage>-<max_damage></lightgreen>
 持續時間：<lightgreen><duration_s>.<duration_d></lightgreen>秒",,OK,,
 1054,194283,Sanguine Aura,Lua/RuneTypes.lua(01203),,,,,,Sanguine Aura,Sanguine Aura,血紅氣場,,OK,,
 1055,196259,"Create a healing aura around you and gain <lightgreen2><condition_name></lightgreen2> for <lightgreen><duration_s>.<duration_d></lightgreen> sec. The aura restores health to you and every ally below 50% health inside the aura. You don't gain Overdrive while this Demon Power is active.
@@ -3399,7 +3399,7 @@ Seeking Projectiles: <lightgreen><num_projectiles></lightgreen><condition_descri
 Damage per Second: <lightgreen><min_damage> - <max_damage></lightgreen>
 Rune Duration: <lightgreen><rune_duration_s>.<rune_duration_d></lightgreen> sec<condition_description>",Lua/RuneTypes.lua(01461),,,,,,Turn into a cloud of poisonous dark mist for <number1> sec. dealing <lightgreen><min_damage> - <max_damage></lightgreen> damage per second. Affected enemies take <lightgreen2><condition_name></lightgreen2> for <number2> sec. You don't gain Overdrive and can't use skills while this Demon Power is active.<condition_description>,Turn into a cloud of poisonous dark mist for <number1> sec. dealing <lightgreen><min_damage> - <max_damage></lightgreen> damage per second. Affected enemies take <lightgreen2><condition_name></lightgreen2> for <number2> sec. You don't gain Overdrive and can't use skills while this Demon Power is active.<condition_description>,"變成一團黑色毒霧對範圍內的所有敵人造成傷害。使敵人<lightgreen2><condition_name></lightgreen2>，持續<buff_duration>秒。此惡魔之力作用時不會凝聚超能，也無法使用特殊攻擊。
 
-每秒傷害：<lightgreen><min_damage> - <max_damage></lightgreen>
+每秒傷害：<lightgreen><min_damage>-<max_damage></lightgreen>
 持續時間：<lightgreen><rune_duration_s>.<rune_duration_d></lightgreen>秒<condition_description>",,OK,,
 1062,194283,New Secret <progress>/<total>!,Lua/Secret.lua(00105),,,,,,New Secret <progress>/<total>!,New Secret <progress>/<total>!,新秘密<progress>/<total>！,,OK,,
 4016,195716,This feature will be unlocked in an upcoming update,Lua/SequenceActions.lua(00914),,,,,,,,本功能將在後續更新中開放,,OK,,
@@ -3636,7 +3636,7 @@ Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00236),,,
 4264,197333,Sort by rarity,Lua/UI/BaseInventory.lua(00206),,,,,,,,依稀有度排序,,OK,,
 4265,197333,Sort by destiny points,Lua/UI/BaseInventory.lua(00218),,,,,,,,依命運點排序,,OK,,
 4266,197333,Sort by cost,Lua/UI/BaseInventory.lua(00220),,,,,,,,依價格排序,,OK,,
-3998,195716,Compact the <tab_title> tab,Lua/UI/BaseInventory.lua(00234),,,,,,,,整理<tab_title>,,OK,,
+3998,195716,Compact the <tab_title> tab,Lua/UI/BaseInventory.lua(00234),,,,,,,,堆壓<tab_title>,,OK,,
 3999,195716,Back,Lua/UI/BaseInventory.lua(00243),,,,,,,,返回,,OK,,
 1084,194283,Close,Lua/UI/BaseInventory.lua(00669),,,,,,Close,Close,關閉,,OK,,
 1085,194283,Destroy Item,Lua/UI/BaseInventory.lua(00694),,,,,,Destroy Item,Destroy Item,銷毀物品,,OK,,
@@ -3892,7 +3892,7 @@ Note: Playing in Hard Mode is not recommended for your first character.","如果
 4487,198919,Loot drops are reduced in Casual mode.,Lua/UI/InGameMainMenu.lua(00376),,,,,,,,在休閒模式下物品掉落數會降低。,,OK,,
 4488,198919,Switch to <game_mode>,Lua/UI/InGameMainMenu.lua(00379),,,,,,,,切換到<game_mode>,,OK,,
 4269,197333,Sort by destiny points,Lua/UI/Inventory.lua(00099),,,,,,,,依命運點排序,,OK,,
-1229,194283,Compact the inventory tab,Lua/UI/Inventory.lua(00105),,,,,,Compact the inventory tab,Compact the inventory tab,整理物品欄,,OK,,
+1229,194283,Compact the inventory tab,Lua/UI/Inventory.lua(00105),,,,,,Compact the inventory tab,Compact the inventory tab,堆壓物品欄,,OK,,
 1230,194283,Close,Lua/UI/Inventory.lua(00111),,,,,,Close,Close,關閉,,OK,,
 4008,195716,Menu,Lua/UI/Inventory.lua(00122),,,,,,,,選單,,OK,,
 4258,197333,Here is a treasure key you can redeem: <key>,Lua/UI/Inventory.lua(00447),,,,,,,,這是可以兌換的尋寶密碼：<key>,,OK,,
@@ -3901,14 +3901,14 @@ Note: Playing in Hard Mode is not recommended for your first character.","如果
 1233,194283,You don't have enough gold for this item,Lua/UI/Inventory.lua(00719),,,,,,You don't have enough gold for this item,You don't have enough gold for this item,你沒有足夠的金幣購買這個物品,,OK,,
 1234,194283,You don't meet the requirements of this outfit,Lua/UI/Inventory.lua(00728),,,,,,You don't meet the requirements of this outfit,You don't meet the requirements of this outfit,你尚未達到服裝需求,,OK,,
 1235,194283,You do not have <hex_name> yet,Lua/UI/Inventory.lua(00746),,,,,,You do not have <hex_name> yet,You do not have <hex_name> yet,你尚未擁有<hex_name>,,OK,,
-3927,195716,Empty Slot,Lua/UI/ItemsRollover.lua(00041),,,,,,,,空槽,,OK,,
+3927,195716,Empty Slot,Lua/UI/ItemsRollover.lua(00041),,,,,,,,空欄,,OK,,
 4602,199130,<red><modifier></red>,Lua/UI/ItemsRollover.lua(00052),,,,,,,,<red><modifier></red>,,OK,,
 1237,194283,Unlock at level <level>.,Lua/UI/ItemsRollover.lua(00064),,,,,,Unlock at level <level>.,Unlock at level <level>.,<level>級解鎖。,,OK,,
 4603,199130,<red><modifier></red>,Lua/UI/ItemsRollover.lua(00064),,,,,,,,<red><modifier></red>,,OK,,
 1238,194283,<hex> (Active),Lua/UI/ItemsRollover.lua(00084),,,,,,<hex> (Active),<hex> (Active),<hex>（啟動）,,OK,,
 1239,194283,<hex>,Lua/UI/ItemsRollover.lua(00086),,,,,,<hex>,<hex>,<hex>,,OK,,
 1240,194283,Monster Kills: <count>,Lua/UI/ItemsRollover.lua(00090),,,,,,Monster Kills: <count>,Monster Kills: <count>,怪物擊殺數：<count>,,OK,,
-1241,194283,<damage_min>-<damage_max>,Lua/UI/ItemsRollover.lua(00145),,,,,,<damage_min>-<damage_max>,<damage_min>-<damage_max>,<damage_min> - <damage_max>,,OK,,
+1241,194283,<damage_min>-<damage_max>,Lua/UI/ItemsRollover.lua(00145),,,,,,<damage_min>-<damage_max>,<damage_min>-<damage_max>,<damage_min>-<damage_max>,,OK,,
 1242,194283,<critical_damage>%,Lua/UI/ItemsRollover.lua(00146),,,,,,<critical_damage>%,<critical_damage>%,<critical_damage>%,,OK,,
 1243,194283,<critical_chance>%,Lua/UI/ItemsRollover.lua(00147),,,,,,<critical_chance>%,<critical_chance>%,<critical_chance>%,,OK,,
 1244,194283,<armor_penetration>,Lua/UI/ItemsRollover.lua(00148),,,,,,<armor_penetration>,<armor_penetration>,<armor_penetration>,,OK,,
@@ -4195,7 +4195,7 @@ Code ""<err>""","抱歉，伺服器回傳一個錯誤。
 1439,194283,Do you want to rebind <key> from <old_action> to <new_action>?,Lua/UI/Options.lua(01654),,,,,,Do you want to rebind <key> from <old_action> to <new_action>?,Do you want to rebind <key> from <old_action> to <new_action>?,你確定要把<key>從<old_action>重新指定到<new_action>嗎？,,OK,,
 3507,194585,this action,Lua/UI/Options.lua(01654),,,,,,this action,,這個動作,,OK,,
 1440,194283,Gamepad,Lua/UI/Options.lua(01861),,,,,,Gamepad,Gamepad,手把,,OK,,
-1441,194283,Action,Lua/UI/Options.lua(01863),,,,,,Action,Action,鍵盤,,OK,,
+1441,194283,Action,Lua/UI/Options.lua(01863),,,,,,Action,Action,鍵盤/滑鼠,,OK,,
 1442,194283,Mouse Move,Lua/UI/Options.lua(01864),,,,,,Mouse Move,Mouse Move,滑鼠,,OK,,
 1446,194283,Control Set,Lua/UI/Options.lua(01874),,,,,,Control Set,Control Set,操作方式,,OK,,
 1447,194283,Control Set,Lua/UI/Options.lua(01874),,options dialog tooltip,,,,Control Set,Control Set,操作方式,,OK,,
@@ -4241,86 +4241,86 @@ Code ""<err>""","抱歉，伺服器回傳一個錯誤。
 1487,194283,<color 236 236 236>On</color>,Lua/UI/Options.lua(01949),,,,,,<color 236 236 236>On</color>,<color 236 236 236>On</color>,<color 236 236 236>開啟</color>,,OK,,
 1488,194283,<color 146 146 146>On</color>,Lua/UI/Options.lua(01950),,,,,,<color 146 146 146>On</color>,<color 146 146 146>On</color>,<color 146 146 146>開啟</color>,,OK,,
 1489,194283,<font MenuOptionsListItem><left><label>:<right><state></font>,Lua/UI/Options.lua(01967),,,,,,<font MenuOptionsListItem><left><label>:<right><state></font>,<font MenuOptionsListItem><left><label>:<right><state></font>,<font MenuOptionsListItem><left><label>：<right><state></font>,,OK,,
-4165,196097,<h>:<m1><m2>:<s1><s2>,Lua/UI/PreGameMenu.lua(00016),,,,,,,,<h>:<m1><m2>:<s1><s2>,,OK,,
-1490,194283,News,Lua/UI/PreGameMenu.lua(00102),,,,,,News,News,,,OK,,
-1492,196015,#<slot> Empty slot,Lua/UI/PreGameMenu.lua(00257),,,,,,New Character,New Character,#<slot> Empty slot,,OK,,
-1491,196015,"#<slot> Level <level>, Time <time>",Lua/UI/PreGameMenu.lua(00259),,,,,,Level <level>,Level <level>,"#<slot> Level <level>, Time <time>",,OK,,
-4237,197009,#<slot> Warning: Cannot load.,Lua/UI/PreGameMenu.lua(00261),,,,,,,,#<slot> Warning: Cannot load.,,OK,,
-1497,196015,<A> Start a new game,Lua/UI/PreGameMenu.lua(00285),,,,,,<A> Create a new character,<A> Create a new character,<A> Start a new game,,OK,,
-1498,196015,Start a new game,Lua/UI/PreGameMenu.lua(00285),,,,,,Select this option to create a new character,Select this option to create a new character,Start a new game,,OK,,
-4238,197009,The save file is corrupt or is locked by another application.,Lua/UI/PreGameMenu.lua(00287),,,,,,,,The save file is corrupt or is locked by another application.,,OK,,
-515,194283,Renown Level <level>,Lua/UI/PreGameMenu.lua(00290),,,,,,Renown Level <level>,Renown Level <level>,,,OK,,
-880,194283,Level <level>,Lua/UI/PreGameMenu.lua(00292),,,,,,Level <level>,Level <level>,,,OK,,
-1495,196015,Time <time>,Lua/UI/PreGameMenu.lua(00295),,,,,,<name> Level <level> <center><main_quest>,<name> Level <level> <center><main_quest>,Time <time>,,OK,,
-4334,198395,<red>Hardcore</red>,Lua/UI/PreGameMenu.lua(00298),,,,,,,,<red>Hardcore</red>,,OK,,
-4191,196416,Deaths,Lua/UI/PreGameMenu.lua(00300),,,,,,,,Deaths,,OK,,
-1095,194283,Renown <level>,Lua/UI/PreGameMenu.lua(00304),,,,,,Renown <level>,Renown <level>,,,OK,,
-4335,198395,First Death,Lua/UI/PreGameMenu.lua(00306),,,,,,,,First Death,,OK,,
-4336,198395,Level <number>,Lua/UI/PreGameMenu.lua(00306),,,,,,,,Level <number>,,OK,,
-1494,194283,None,Lua/UI/PreGameMenu.lua(00310),,,,,,None,None,,,OK,,
-4166,196097,Quest: <main_quest>,Lua/UI/PreGameMenu.lua(00310),,,,,,,,Quest: <main_quest>,,OK,,
-4167,196097,Challenges <completed>/<total>,Lua/UI/PreGameMenu.lua(00312),,,,,,,,Challenges <completed>/<total>,,OK,,
-4168,196097,", Elite <completed>/<total>",Lua/UI/PreGameMenu.lua(00315),,,,,,,,", Elite <completed>/<total>",,OK,,
-1500,194283,Press <Y> to delete ,Lua/UI/PreGameMenu.lua(00317),,,,,,Press <Y> to delete ,Press <Y> to delete ,,,OK,,
-1501,194283,Press Del to delete ,Lua/UI/PreGameMenu.lua(00317),,,,,,Press Del to delete ,Press Del to delete ,,,OK,,
-1499,196725,Save Slot #<slot>,Lua/UI/PreGameMenu.lua(00320),,,,,,<font MenuListItem>Save Slot #<slot></font><newline>,<font MenuListItem>Save Slot #<slot></font><newline>,Save Slot #<slot>,,OK,,
-1502,194283,Yes,Lua/UI/PreGameMenu.lua(00337),,,,,,Yes,Yes,,,OK,,
-1503,194283,No,Lua/UI/PreGameMenu.lua(00338),,,,,,No,No,,,OK,,
-3657,195030,Action (Default),Lua/UI/PreGameMenu.lua(00345),,,,,,,,Action (Default),,OK,,
-3660,195030,The character movement is directional and keyboard-controlled. Attacks are targeted with the mouse.,Lua/UI/PreGameMenu.lua(00345),,,,,,,,The character movement is directional and keyboard-controlled. Attacks are targeted with the mouse.,,OK,,
-3658,195030,Gamepad,Lua/UI/PreGameMenu.lua(00346),,,,,,,,Gamepad,,OK,,
-3661,195030,Both the character movement and the attacks are gamepad-controlled. All menus may be navigated with gamepad.,Lua/UI/PreGameMenu.lua(00346),,,,,,,,Both the character movement and the attacks are gamepad-controlled. All menus may be navigated with gamepad.,,OK,,
-3659,195030,Mouse-move,Lua/UI/PreGameMenu.lua(00351),,,,,,,,Mouse-move,,OK,,
-3662,196259,Both the character movement and the attacks targeting are mouse-controlled.,Lua/UI/PreGameMenu.lua(00351),,,,,,Both the character movement and the attacks tagetting are mouse-controlled.,Both the character movement and the attacks tagetting are mouse-controlled.,Both the character movement and the attacks targeting are mouse-controlled.,,OK,,
-1504,196015,Delete save game?,Lua/UI/PreGameMenu.lua(00368),,,,,,Delete character?,Delete character?,Delete save game?,,OK,,
-3932,196015,Delete,Lua/UI/PreGameMenu.lua(00410),,,,,,Delete Character,Delete Character,Delete,,OK,,
-3933,196015,Choose Save Slot,Lua/UI/PreGameMenu.lua(00424),,,,,,Change Character,Change Character,Choose Save Slot,,OK,,
-1505,194283,Back,Lua/UI/PreGameMenu.lua(00439),,,,,,Back,Back,,,OK,,
-3934,196015,Delete Save Game,Lua/UI/PreGameMenu.lua(00446),,,,,,Delete Character,Delete Character,Delete Save Game,,OK,,
-3655,195030,Choose your control scheme,Lua/UI/PreGameMenu.lua(00470),,,,,,,,Choose your control scheme,,OK,,
-1513,194283,Exit game?,Lua/UI/PreGameMenu.lua(00478),,,,,,Exit game?,Exit game?,,,OK,,
-1506,194283,Play,Lua/UI/PreGameMenu.lua(00586),,,,,,Play,Play,,,OK,,
-1507,194283,Online,Lua/UI/PreGameMenu.lua(00603),,,,,,Online,Online,,,OK,,
-3935,196015,Save Slot,Lua/UI/PreGameMenu.lua(00612),,,,,,Change Character,Change Character,Save Slot,,OK,,
-1508,194283,Achievements,Lua/UI/PreGameMenu.lua(00620),,,,,,Achievements,Achievements,,,OK,,
-1510,194283,Options,Lua/UI/PreGameMenu.lua(00628),,,,,,Options,Options,,,OK,,
-4633,199653,Store,Lua/UI/PreGameMenu.lua(00635),,,,,0,,,,,new,,
-4634,199653,Store,Lua/UI/PreGameMenu.lua(00654),,,,,0,,,,,new,,
-4635,199653,You can access your purchase after you have downloaded it and restarted the game.,Lua/UI/PreGameMenu.lua(00654),,,,,0,,,,,new,,
-1512,194283,Exit,Lua/UI/PreGameMenu.lua(00676),,,,,,Exit,Exit,,,OK,,
-4229,196977,Steam Not Available,Lua/UI/PreGameMenu.lua(00810),,,,,,,,Steam Not Available,,OK,,
-4230,196977,You will not be able to access your Steam characters or play online. Please check your network connection and restart the Steam client.,Lua/UI/PreGameMenu.lua(00811),,,,,,,,You will not be able to access your Steam characters or play online. Please check your network connection and restart the Steam client.,,OK,,
-1516,194283,<sec>.<dec>,Lua/UI/RolloverHUD.lua(00004),,,,,,<sec>.<dec>,<sec>.<dec>,,,OK,,
-1517,194283,<sec>,Lua/UI/RolloverHUD.lua(00004),,,,,,<sec>,<sec>,,,OK,,
-1518,194283, <cooldown_icon> <time> sec,Lua/UI/RolloverHUD.lua(00006),,,,,, <cooldown_icon> <time> sec, <cooldown_icon> <time> sec,,,OK,,
-1519,194283, <time> sec,Lua/UI/RolloverHUD.lua(00008),,,,,, <time> sec, <time> sec,,,OK,,
-4267,197333,Sort by type,Lua/UI/Stash.lua(00007),,,,,,,,Sort by type,,OK,,
-4268,197333,Sort by rarity,Lua/UI/Stash.lua(00013),,,,,,,,Sort by rarity,,OK,,
-4270,197333,Sort by cost,Lua/UI/Stash.lua(00019),,,,,,,,Sort by cost,,OK,,
-4276,197602,Compact the Stash,Lua/UI/Stash.lua(00025),,,,,,,,Compact the Stash,,OK,,
-4503,198919,Hardcore Stash,Lua/UI/Stash.lua(00270),,,,,,,,Hardcore Stash,,OK,,
-4012,195716,Menu,Lua/UI/Stash.lua(00406),,,,,,,,Menu,,OK,,
-1520,194283,Stash,Lua/UI/Stash.lua(00418),,,,,,Stash,Stash,,,OK,,
-1521,194283,Victor Vran,Lua/UI/Stash.lua(00425),,,,,,Victor Vran,Victor Vran,,,OK,,
-1523,194283,Switch sides,Lua/UI/Stash.lua(00444),,,,,,Switch sides,Switch sides,,,OK,,
-1524,194283,Switch sides,Lua/UI/Stash.lua(00452),,,,,,Switch sides,Switch sides,,,OK,,
-1525,194283,You can't stash this item,Lua/UI/Stash.lua(00718),,,,,,You can't stash this item,You can't stash this item,,,OK,,
-3937,195716,Place item here to transmute,Lua/UI/TransmutationDlg.lua(00530),,,,,,,,Place item here to transmute,,OK,,
-3938,195716,Add recipe ingradients here.,Lua/UI/TransmutationDlg.lua(00669),,,,,,,,Add recipe ingredients here.,,OK,,
-4420,198395,Wicked,Lua/UI/TransmutationDlg.lua(00965),,,,,,,,Wicked,,OK,,
-4421,198395,Divine,Lua/UI/TransmutationDlg.lua(00967),,,,,,,,Divine,,OK,,
-1076,194283,Weapon,Lua/UI/TransmutationDlg.lua(00972),,,,,,Weapon,Weapon,,,OK,,
-1236,194283,Destiny Card,Lua/UI/TransmutationDlg.lua(00974),,,,,,Destiny Card,Destiny Card,,,OK,,
-4422,199130,Other <rarity> Demon Power,Lua/UI/TransmutationDlg.lua(00977),,,,,,Other <rarity> Demonic Power,Other <rarity> Demon Power,Other <rarity> Demon Power,,OK,,
-4423,199130,Other Demon Power,Lua/UI/TransmutationDlg.lua(00977),,,,,,Other Demonic Power,Other Demon Power,Other Demon Power,,OK,,
-4424,199130,Any <rarity> Demon Power,Lua/UI/TransmutationDlg.lua(00979),,,,,,Any <rarity> Demonic Power,Any <rarity> Demon Power,Any <rarity> Demon Power,,OK,,
-4425,199130,Any Demon Power,Lua/UI/TransmutationDlg.lua(00979),,,,,,Any Demonic Power,Any Demon Power,Any Demon Power,,OK,,
-3869,195189,Transmute (<gold> Gold),Lua/UI/TransmutationDlg.lua(00993),,,,,,,,Transmute (<gold> Gold),,OK,,
-4169,196097,Maximum attribute reached.,Lua/UI/TransmutationDlg.lua(01001),,,,,,,,Maximum attribute reached.,,OK,,
-4013,196015,Add items to transmute,Lua/UI/TransmutationDlg.lua(01003),,,,,,<red>Maximum attribute reached.</red>,<red>Maximum attribute reached.</red>,Add items to transmute,,OK,,
-4014,196015,No changes.,Lua/UI/TransmutationDlg.lua(01005),,,,,,<red>No changes.</red>,<red>No changes.</red>,No changes.,,OK,,
-3870,196015,Not a valid recipe.,Lua/UI/TransmutationDlg.lua(01015),,,,,,<red>Not a valid recipe.</red>,<red>Not a valid recipe.</red>,Not a valid recipe.,,OK,,
-3871,196015,Not enough gold.,Lua/UI/TransmutationDlg.lua(01018),,,,,,<red>Not enough gold.</red>,<red>Not enough gold.</red>,Not enough gold.,,OK,,
+4165,196097,<h>:<m1><m2>:<s1><s2>,Lua/UI/PreGameMenu.lua(00016),,,,,,,,<h>：<m1><m2>：<s1><s2>,,OK,,
+1490,194283,News,Lua/UI/PreGameMenu.lua(00102),,,,,,News,News,新消息,,OK,,
+1492,196015,#<slot> Empty slot,Lua/UI/PreGameMenu.lua(00257),,,,,,New Character,New Character,#<slot> 空白存檔,,OK,,
+1491,196015,"#<slot> Level <level>, Time <time>",Lua/UI/PreGameMenu.lua(00259),,,,,,Level <level>,Level <level>,#<slot> 等級<level>，遊戲時間<time>,,OK,,
+4237,197009,#<slot> Warning: Cannot load.,Lua/UI/PreGameMenu.lua(00261),,,,,,,,#<slot> 警告：無法讀取。,,OK,,
+1497,196015,<A> Start a new game,Lua/UI/PreGameMenu.lua(00285),,,,,,<A> Create a new character,<A> Create a new character,<A> 開始新遊戲,,OK,,
+1498,196015,Start a new game,Lua/UI/PreGameMenu.lua(00285),,,,,,Select this option to create a new character,Select this option to create a new character,開始新遊戲,,OK,,
+4238,197009,The save file is corrupt or is locked by another application.,Lua/UI/PreGameMenu.lua(00287),,,,,,,,存檔已損毀，或被其它應用程式鎖住。,,OK,,
+515,194283,Renown Level <level>,Lua/UI/PreGameMenu.lua(00290),,,,,,Renown Level <level>,Renown Level <level>,聲望等級<level>,,OK,,
+880,194283,Level <level>,Lua/UI/PreGameMenu.lua(00292),,,,,,Level <level>,Level <level>,等級<level>,,OK,,
+1495,196015,Time <time>,Lua/UI/PreGameMenu.lua(00295),,,,,,<name> Level <level> <center><main_quest>,<name> Level <level> <center><main_quest>,遊戲時間<time>,,OK,,
+4334,198395,<red>Hardcore</red>,Lua/UI/PreGameMenu.lua(00298),,,,,,,,<red>硬派模式</red>,,OK,,
+4191,196416,Deaths,Lua/UI/PreGameMenu.lua(00300),,,,,,,,死亡數,,OK,,
+1095,194283,Renown <level>,Lua/UI/PreGameMenu.lua(00304),,,,,,Renown <level>,Renown <level>,聲望<level>,,OK,,
+4335,198395,First Death,Lua/UI/PreGameMenu.lua(00306),,,,,,,,第一次死亡,,OK,,
+4336,198395,Level <number>,Lua/UI/PreGameMenu.lua(00306),,,,,,,,等級<number>,,OK,,
+1494,194283,None,Lua/UI/PreGameMenu.lua(00310),,,,,,None,None,無,,OK,,
+4166,196097,Quest: <main_quest>,Lua/UI/PreGameMenu.lua(00310),,,,,,,,任務：<main_quest>,,OK,,
+4167,196097,Challenges <completed>/<total>,Lua/UI/PreGameMenu.lua(00312),,,,,,,,挑戰<completed>/<total>,,OK,,
+4168,196097,", Elite <completed>/<total>",Lua/UI/PreGameMenu.lua(00315),,,,,,,,精英<completed>/<total>,,OK,,
+1500,194283,Press <Y> to delete ,Lua/UI/PreGameMenu.lua(00317),,,,,,Press <Y> to delete ,Press <Y> to delete ,按 <Y> 刪除,,OK,,
+1501,194283,Press Del to delete ,Lua/UI/PreGameMenu.lua(00317),,,,,,Press Del to delete ,Press Del to delete ,按 Del 刪除,,OK,,
+1499,196725,Save Slot #<slot>,Lua/UI/PreGameMenu.lua(00320),,,,,,<font MenuListItem>Save Slot #<slot></font><newline>,<font MenuListItem>Save Slot #<slot></font><newline>,存檔 #<slot>,,OK,,
+1502,194283,Yes,Lua/UI/PreGameMenu.lua(00337),,,,,,Yes,Yes,是,,OK,,
+1503,194283,No,Lua/UI/PreGameMenu.lua(00338),,,,,,No,No,否,,OK,,
+3657,195030,Action (Default),Lua/UI/PreGameMenu.lua(00345),,,,,,,,鍵盤/滑鼠（預設）,,OK,,
+3660,195030,The character movement is directional and keyboard-controlled. Attacks are targeted with the mouse.,Lua/UI/PreGameMenu.lua(00345),,,,,,,,角色的移動是用鍵盤控制方向，攻擊是用滑鼠瞄準目標。,,OK,,
+3658,195030,Gamepad,Lua/UI/PreGameMenu.lua(00346),,,,,,,,手把,,OK,,
+3661,195030,Both the character movement and the attacks are gamepad-controlled. All menus may be navigated with gamepad.,Lua/UI/PreGameMenu.lua(00346),,,,,,,,角色的移動和攻擊都是用手把控制的。所有的選單都可以用手把導覽。,,OK,,
+3659,195030,Mouse-move,Lua/UI/PreGameMenu.lua(00351),,,,,,,,滑鼠,,OK,,
+3662,196259,Both the character movement and the attacks targeting are mouse-controlled.,Lua/UI/PreGameMenu.lua(00351),,,,,,Both the character movement and the attacks tagetting are mouse-controlled.,Both the character movement and the attacks tagetting are mouse-controlled.,角色的移動和攻擊都是用滑鼠控制的。,,OK,,
+1504,196015,Delete save game?,Lua/UI/PreGameMenu.lua(00368),,,,,,Delete character?,Delete character?,刪除存檔？,,OK,,
+3932,196015,Delete,Lua/UI/PreGameMenu.lua(00410),,,,,,Delete Character,Delete Character,刪除,,OK,,
+3933,196015,Choose Save Slot,Lua/UI/PreGameMenu.lua(00424),,,,,,Change Character,Change Character,選擇存檔,,OK,,
+1505,194283,Back,Lua/UI/PreGameMenu.lua(00439),,,,,,Back,Back,返回,,OK,,
+3934,196015,Delete Save Game,Lua/UI/PreGameMenu.lua(00446),,,,,,Delete Character,Delete Character,刪除存檔,,OK,,
+3655,195030,Choose your control scheme,Lua/UI/PreGameMenu.lua(00470),,,,,,,,選擇你的操作方式,,OK,,
+1513,194283,Exit game?,Lua/UI/PreGameMenu.lua(00478),,,,,,Exit game?,Exit game?,離開遊戲？,,OK,,
+1506,194283,Play,Lua/UI/PreGameMenu.lua(00586),,,,,,Play,Play,開始遊戲,,OK,,
+1507,194283,Online,Lua/UI/PreGameMenu.lua(00603),,,,,,Online,Online,線上,,OK,,
+3935,196015,Save Slot,Lua/UI/PreGameMenu.lua(00612),,,,,,Change Character,Change Character,存檔,,OK,,
+1508,194283,Achievements,Lua/UI/PreGameMenu.lua(00620),,,,,,Achievements,Achievements,成就,,OK,,
+1510,194283,Options,Lua/UI/PreGameMenu.lua(00628),,,,,,Options,Options,選項,,OK,,
+4633,199653,Store,Lua/UI/PreGameMenu.lua(00635),,,,,0,,,商店,,new,,
+4634,199653,Store,Lua/UI/PreGameMenu.lua(00654),,,,,0,,,商店,,new,,
+4635,199653,You can access your purchase after you have downloaded it and restarted the game.,Lua/UI/PreGameMenu.lua(00654),,,,,0,,,購買的物品必須下載並重啟遊戲後才能使用。,,new,,
+1512,194283,Exit,Lua/UI/PreGameMenu.lua(00676),,,,,,Exit,Exit,離開,,OK,,
+4229,196977,Steam Not Available,Lua/UI/PreGameMenu.lua(00810),,,,,,,,Steam無法存取,,OK,,
+4230,196977,You will not be able to access your Steam characters or play online. Please check your network connection and restart the Steam client.,Lua/UI/PreGameMenu.lua(00811),,,,,,,,你將無法使用Steam角色或線上功能。請檢查你的網路連線，然後重啟Steam用戶端。,,OK,,
+1516,194283,<sec>.<dec>,Lua/UI/RolloverHUD.lua(00004),,,,,,<sec>.<dec>,<sec>.<dec>,<sec>.<dec>,,OK,,
+1517,194283,<sec>,Lua/UI/RolloverHUD.lua(00004),,,,,,<sec>,<sec>,<sec>,,OK,,
+1518,194283, <cooldown_icon> <time> sec,Lua/UI/RolloverHUD.lua(00006),,,,,, <cooldown_icon> <time> sec, <cooldown_icon> <time> sec,<cooldown_icon><time>秒,,OK,,
+1519,194283, <time> sec,Lua/UI/RolloverHUD.lua(00008),,,,,, <time> sec, <time> sec,<time>秒,,OK,,
+4267,197333,Sort by type,Lua/UI/Stash.lua(00007),,,,,,,,依類型排序,,OK,,
+4268,197333,Sort by rarity,Lua/UI/Stash.lua(00013),,,,,,,,依稀有度排序,,OK,,
+4270,197333,Sort by cost,Lua/UI/Stash.lua(00019),,,,,,,,依價格排序,,OK,,
+4276,197602,Compact the Stash,Lua/UI/Stash.lua(00025),,,,,,,,堆壓倉庫,,OK,,
+4503,198919,Hardcore Stash,Lua/UI/Stash.lua(00270),,,,,,,,斯戴許硬漢,,OK,,
+4012,195716,Menu,Lua/UI/Stash.lua(00406),,,,,,,,選單,,OK,,
+1520,194283,Stash,Lua/UI/Stash.lua(00418),,,,,,Stash,Stash,斯戴許,,OK,,
+1521,194283,Victor Vran,Lua/UI/Stash.lua(00425),,,,,,Victor Vran,Victor Vran,維克多．弗蘭,,OK,,
+1523,194283,Switch sides,Lua/UI/Stash.lua(00444),,,,,,Switch sides,Switch sides,切換到左側,,OK,,
+1524,194283,Switch sides,Lua/UI/Stash.lua(00452),,,,,,Switch sides,Switch sides,切換到右側,,OK,,
+1525,194283,You can't stash this item,Lua/UI/Stash.lua(00718),,,,,,You can't stash this item,You can't stash this item,你不能存入這個物品,,OK,,
+3937,195716,Place item here to transmute,Lua/UI/TransmutationDlg.lua(00530),,,,,,,,在此放置物品以進行合成。,,OK,,
+3938,195716,Add recipe ingradients here.,Lua/UI/TransmutationDlg.lua(00669),,,,,,,,在此加入配方原料。,,OK,,
+4420,198395,Wicked,Lua/UI/TransmutationDlg.lua(00965),,,,,,,,邪惡,,OK,,
+4421,198395,Divine,Lua/UI/TransmutationDlg.lua(00967),,,,,,,,神聖,,OK,,
+1076,194283,Weapon,Lua/UI/TransmutationDlg.lua(00972),,,,,,Weapon,Weapon,武器,,OK,,
+1236,194283,Destiny Card,Lua/UI/TransmutationDlg.lua(00974),,,,,,Destiny Card,Destiny Card,命運牌,,OK,,
+4422,199130,Other <rarity> Demon Power,Lua/UI/TransmutationDlg.lua(00977),,,,,,Other <rarity> Demonic Power,Other <rarity> Demon Power,其它<rarity>惡魔之力,,OK,,
+4423,199130,Other Demon Power,Lua/UI/TransmutationDlg.lua(00977),,,,,,Other Demonic Power,Other Demon Power,其它惡魔之力,,OK,,
+4424,199130,Any <rarity> Demon Power,Lua/UI/TransmutationDlg.lua(00979),,,,,,Any <rarity> Demonic Power,Any <rarity> Demon Power,任意<rarity>惡魔之力,,OK,,
+4425,199130,Any Demon Power,Lua/UI/TransmutationDlg.lua(00979),,,,,,Any Demonic Power,Any Demon Power,任意惡魔之力,,OK,,
+3869,195189,Transmute (<gold> Gold),Lua/UI/TransmutationDlg.lua(00993),,,,,,,,合成（<gold>金幣）,,OK,,
+4169,196097,Maximum attribute reached.,Lua/UI/TransmutationDlg.lua(01001),,,,,,,,達到屬性上限。,,OK,,
+4013,196015,Add items to transmute,Lua/UI/TransmutationDlg.lua(01003),,,,,,<red>Maximum attribute reached.</red>,<red>Maximum attribute reached.</red>,加入物品以進行合成。,,OK,,
+4014,196015,No changes.,Lua/UI/TransmutationDlg.lua(01005),,,,,,<red>No changes.</red>,<red>No changes.</red>,沒有變化。,,OK,,
+3870,196015,Not a valid recipe.,Lua/UI/TransmutationDlg.lua(01015),,,,,,<red>Not a valid recipe.</red>,<red>Not a valid recipe.</red>,不是有效配方。,,OK,,
+3871,196015,Not enough gold.,Lua/UI/TransmutationDlg.lua(01018),,,,,,<red>Not enough gold.</red>,<red>Not enough gold.</red>,金幣不足。,,OK,,
 3872,197294,"Transmutation allows you to create new items and improve your existing items.
 
 To improve an existing item put it in the top slot and combine it with up to 3 ingredients in the bottom slots.
@@ -4339,30 +4339,30 @@ To improve an existing item put in the top slot and combine it with up to 3 ingr
 
 To create a new item, combine the ingredients in the bottom slots and leave the top slot empty.
 
-Check your Codex to see the standard recipes. Some recipes are secret and will not be shown in the Codex.","Transmutation allows you to create new items and improve your existing items.
+Check your Codex to see the standard recipes. Some recipes are secret and will not be shown in the Codex.","合成讓你能創造新物品，或強化已有物品。
 
-To improve an existing item put it in the top slot and combine it with up to 3 ingredients in the bottom slots.
+若要強化已有物品，將其放入頂欄，然後在底欄放入最多3個原料進行合成。
 
-To create a new item, combine the ingredients in the bottom slots and leave the top slot empty.
+若要創造新物品，將頂欄留空，然後在底欄放入原料進行合成。
 
-Check your Codex to see the standard recipes. Some recipes are secret and will not be shown in the Codex.",,OK,,
-3873,195189,Weapon level: <level>,Lua/UI/TransmutationDlg.lua(01076),,,,,,,,Weapon level: <level>,,OK,,
-4170,198919,<damage_min>-<damage_max> (<clr><sign><diff></color>),Lua/UI/TransmutationDlg.lua(01084),,,,,,<damage_min>-<damage_max> <teal>(+</teal><diff><teal>)</teal>,<damage_min>-<damage_max> <teal>(+</teal><diff><teal>)</teal>,<damage_min>-<damage_max> (<clr><sign><diff></color>),,OK,,
+在百科中可以查看普通配方。某些配方秘而不宣，未被收錄在百科內",,OK,,
+3873,195189,Weapon level: <level>,Lua/UI/TransmutationDlg.lua(01076),,,,,,,,武器等級：<level>,,OK,,
+4170,198919,<damage_min>-<damage_max> (<clr><sign><diff></color>),Lua/UI/TransmutationDlg.lua(01084),,,,,,<damage_min>-<damage_max> <teal>(+</teal><diff><teal>)</teal>,<damage_min>-<damage_max> <teal>(+</teal><diff><teal>)</teal>,<damage_min>-<damage_max>（<clr><sign><diff></color>）,,OK,,
 3874,195189,<damage_min>-<damage_max>,Lua/UI/TransmutationDlg.lua(01089),,,,,,,,<damage_min>-<damage_max>,,OK,,
 3875,195189,<critical_chance>%,Lua/UI/TransmutationDlg.lua(01105),,,,,,,,<critical_chance>%,,OK,,
-4171,198919,<critical_chance>% (<lightgreen>+<dchance></lightgreen>%),Lua/UI/TransmutationDlg.lua(01107),,,,,,<critical_chance>% <teal>(+</teal><dchance>%<teal>)</teal>,<critical_chance>% <teal>(+</teal><dchance>%<teal>)</teal>,<critical_chance>% (<lightgreen>+<dchance></lightgreen>%),,OK,,
-3876,195189,Base Property,Lua/UI/TransmutationDlg.lua(01175),,,,,,,,Base Property,,OK,,
-4221,198919,<teal>(</teal><lightgreen>+<diff></lightgreen><teal>)</teal>,Lua/UI/TransmutationDlg.lua(01175),,,,,,<teal>(+</teal><diff><teal>)</teal>,<teal>(+</teal><diff><teal>)</teal>,<teal>(</teal><lightgreen>+<diff></lightgreen><teal>)</teal>,,OK,,
-3877,195189,Secondary Property,Lua/UI/TransmutationDlg.lua(01186),,,,,,,,Secondary Property,,OK,,
-3878,195189,Armor,Lua/UI/TransmutationDlg.lua(01201),,,,,,,,Armor,,OK,,
-4223,198919,<teal>(</teal><lightgreen>+<diff></lightgreen><teal>)</teal>,Lua/UI/TransmutationDlg.lua(01201),,,,,,<teal>(+</teal><diff><teal>)</teal>,<teal>(+</teal><diff><teal>)</teal>,<teal>(</teal><lightgreen>+<diff></lightgreen><teal>)</teal>,,OK,,
-3879,195189,Special property,Lua/UI/TransmutationDlg.lua(01211),,,,,,,,Special property,,OK,,
-4224,198919,<teal>(</teal><lightgreen>+<diff></lightgreen><teal>)</teal>,Lua/UI/TransmutationDlg.lua(01211),,,,,,<teal>(+</teal><diff><teal>)</teal>,<teal>(+</teal><diff><teal>)</teal>,<teal>(</teal><lightgreen>+<diff></lightgreen><teal>)</teal>,,OK,,
-4015,195716,Menu,Lua/UI/TransmutationDlg.lua(01264),,,,,,,,Menu,,OK,,
-1522,194283,Close,Lua/UI/TransmutationDlg.lua(01276),,,,,,Close,Close,,,OK,,
-3584,196015,Recipes,Lua/UI/TransmutationDlg.lua(01287),,,,,,View Codex,View Codex,Recipes,,OK,,
-4172,196097,Transmute,Lua/UI/TransmutationDlg.lua(01295),,,,,,,,Transmute,,OK,,
-3585,194913,Equipment,Lua/UI/TransmutationDlg.lua(01736),,,,,,,,Equipment,,OK,,
+4171,198919,<critical_chance>% (<lightgreen>+<dchance></lightgreen>%),Lua/UI/TransmutationDlg.lua(01107),,,,,,<critical_chance>% <teal>(+</teal><dchance>%<teal>)</teal>,<critical_chance>% <teal>(+</teal><dchance>%<teal>)</teal>,<critical_chance>%（<lightgreen>+<dchance></lightgreen>%）,,OK,,
+3876,195189,Base Property,Lua/UI/TransmutationDlg.lua(01175),,,,,,,,基本屬性,,OK,,
+4221,198919,<teal>(</teal><lightgreen>+<diff></lightgreen><teal>)</teal>,Lua/UI/TransmutationDlg.lua(01175),,,,,,<teal>(+</teal><diff><teal>)</teal>,<teal>(+</teal><diff><teal>)</teal>,<teal>（</teal><lightgreen>+<diff></lightgreen><teal>）</teal>,,OK,,
+3877,195189,Secondary Property,Lua/UI/TransmutationDlg.lua(01186),,,,,,,,第二屬性,,OK,,
+3878,195189,Armor,Lua/UI/TransmutationDlg.lua(01201),,,,,,,,防禦,,OK,,
+4223,198919,<teal>(</teal><lightgreen>+<diff></lightgreen><teal>)</teal>,Lua/UI/TransmutationDlg.lua(01201),,,,,,<teal>(+</teal><diff><teal>)</teal>,<teal>(+</teal><diff><teal>)</teal>,<teal>（</teal><lightgreen>+<diff></lightgreen><teal>）</teal>,,OK,,
+3879,195189,Special property,Lua/UI/TransmutationDlg.lua(01211),,,,,,,,特殊屬性,,OK,,
+4224,198919,<teal>(</teal><lightgreen>+<diff></lightgreen><teal>)</teal>,Lua/UI/TransmutationDlg.lua(01211),,,,,,<teal>(+</teal><diff><teal>)</teal>,<teal>(+</teal><diff><teal>)</teal>,<teal>（</teal><lightgreen>+<diff></lightgreen><teal>）</teal>,,OK,,
+4015,195716,Menu,Lua/UI/TransmutationDlg.lua(01264),,,,,,,,選單,,OK,,
+1522,194283,Close,Lua/UI/TransmutationDlg.lua(01276),,,,,,Close,Close,關閉,,OK,,
+3584,196015,Recipes,Lua/UI/TransmutationDlg.lua(01287),,,,,,View Codex,View Codex,配方,,OK,,
+4172,196097,Transmute,Lua/UI/TransmutationDlg.lua(01295),,,,,,,,合成,,OK,,
+3585,194913,Equipment,Lua/UI/TransmutationDlg.lua(01736),,,,,,,,裝備,,OK,,
 3615,194959,Login,Lua/UI/TreasureKeyHandler.lua(00040),,,,,,,,Login,,OK,,
 4139,196097,You need to go online to redeem a Treasure Key,Lua/UI/TreasureKeyHandler.lua(00040),,,,,,,,You need to go online to redeem a Treasure Key,,OK,,
 4140,196097,Redeem a treasure key,Lua/UI/TreasureKeyHandler.lua(00075),,,,,,,,Redeem a treasure key,,OK,,
