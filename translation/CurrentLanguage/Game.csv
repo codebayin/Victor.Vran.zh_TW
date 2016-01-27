@@ -658,7 +658,7 @@ Each weapon offers a different play style to master. To learn more about the spe
 
 等級4時會解鎖第二欄武器。你可以按 <SwitchWeapon> 切換武器。
 
-每種武器都能帶來不同的玩法。想深入了解特定武器和攻擊方式，請查閱百科中的武器章節。",,OK,,
+每種武器都能帶來不同的玩法。想深入了解特定武器和攻擊方式，請查閱百科全書中的武器章節。",,OK,,
 2134,198395,"Equipped weapons determine your available attacks. Each weapon has a basic attack (<Attack1>) and two special attacks (<Attack2> and <Attack3>). Special attacks are powerful but have short cooldowns. Hold <ForceAttack> to attack at your current position.
 
 Level 4 unlocks a second weapon slot. You can switch between your weapons with <SwitchWeapon>.
@@ -675,7 +675,7 @@ Each weapon offers a different play style to master. To learn more about the spe
 
 等級4時會解鎖第二欄武器。你可以按 <SwitchWeapon> 切換武器。
 
-每種武器都能帶來不同的玩法。想深入了解特定武器和攻擊方式，請查閱百科中的武器章節。",,OK,,
+每種武器都能帶來不同的玩法。想深入了解特定武器和攻擊方式，請查閱百科全書中的武器章節。",,OK,,
 2135,198395,"Equipped weapons determine your available attacks. Each weapon has a basic attack (<X>) and two special attacks (<Y> and <B>). Special attacks are powerful but have short cooldowns.
 
 Level 4 unlocks a second weapon slot. You can switch between your weapons with <RB>.
@@ -692,7 +692,7 @@ Each weapon offers a different play style to master. To learn more about the spe
 
 等級4時會解鎖第二欄武器。你可以按 <RB> 切換武器。
 
-每種武器都能帶來不同的玩法。想深入了解特定武器和攻擊方式，請查閱百科中的武器章節。",,OK,,
+每種武器都能帶來不同的玩法。想深入了解特定武器和攻擊方式，請查閱百科全書中的武器章節。",,OK,,
 2136,194283,Legendary Weapons,Data/CodexEntry.lua(00013),,CodexEntry Hint_LegendaryWeapons DisplayName,,,,Legendary Weapons,Legendary Weapons,傳奇武器,,OK,,
 2137,194323,"Legendary weapons are some of the most powerful tools of the hunter's trade. Their stats are not randomized and they have unique effects and attacks that can't be found on any other weapon.
 
@@ -1869,7 +1869,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 120,194283,Checkpoint,Lua/Checkpoint.lua(00015),,,,,,Checkpoint,Checkpoint,紀錄點,,OK,,
 121,194283,Checkpoint Activated,Lua/Checkpoint.lua(00052),,,,,,Checkpoint Activated,Checkpoint Activated,紀錄點已啟動,,OK,,
 122,194283,<control> - View,Lua/Codex.lua(00056),,,,,,<control> - View,<control> - View,<control> - 查看,,OK,,
-123,194283,New Codex Entry: <title><control_hint>,Lua/Codex.lua(00057),,,,,,New Codex Entry: <title><control_hint>,New Codex Entry: <title><control_hint>,新百科紀錄：<title><control_hint>,,OK,,
+123,194283,New Codex Entry: <title><control_hint>,Lua/Codex.lua(00057),,,,,,New Codex Entry: <title><control_hint>,New Codex Entry: <title><control_hint>,新百科全書紀錄：<title><control_hint>,,OK,,
 124,194283,Equip a Potion or Bomb here,Lua/Consumable.lua(00009),,,,,,Equip a Potion or Bomb here,Equip a Potion or Bomb here,在此裝備藥劑或炸彈,,OK,,
 125,194283,Immune!,Lua/Damage.lua(00099),,,,,,Immune!,Immune!,免疫！,,OK,,
 126,194283,Blocked!,Lua/Damage.lua(00104),,,,,,Blocked!,Blocked!,格擋！,,OK,,
@@ -2309,7 +2309,7 @@ None - they are always stoned!","換一個燈泡需要多少石像鬼？
 498,194283,Dodge Right,Lua/GameControls.lua(00214),,,,,,Dodge Right,Dodge Right,向右翻滾,,OK,,
 499,194283,Level Up,Lua/GameControls.lua(00215),,,,,,Level Up,Level Up,升級,,OK,,
 500,194283,Inventory,Lua/GameControls.lua(00216),,,,,,Inventory,Inventory,物品欄,,OK,,
-501,194283,Codex,Lua/GameControls.lua(00217),,,,,,Codex,Codex,百科,,OK,,
+501,194283,Codex,Lua/GameControls.lua(00217),,,,,,Codex,Codex,百科全書,,OK,,
 502,194283,Destiny Cards,Lua/GameControls.lua(00218),,,,,,Destiny Cards,Destiny Cards,命運牌,,OK,,
 503,194283,Map,Lua/GameControls.lua(00219),,,,,,Map,Map,地圖,,OK,,
 504,194283,Move To Point,Lua/GameControls.lua(00221),,,,,,Move To Point,Move To Point,移動到指定地點,,OK,,
@@ -2395,7 +2395,7 @@ Combine with other Gift Boxes in Transmutation to get better items",Lua/Item.lua
 560,194283,Second Demon Power,Lua/LevelRewards.lua(00157),,,,,,Second Demon Power,Second Demon Power,第二欄惡魔之力,,OK,,
 561,194283,You can now equip and use a second Demon Power. Demon Powers deplete your Overdrive on use. Deal damage to monsters to increase your Overdrive.,Lua/LevelRewards.lua(00158),,,,,,You can now equip and use a second Demon Power. Demon Powers deplete your Overdrive on use. Deal damage to monsters to increase your Overdrive.,You can now equip and use a second Demon Power. Demon Powers deplete your Overdrive on use. Deal damage to monsters to increase your Overdrive.,你現在可以裝備並使用第二欄惡魔之力了。施展惡魔之力會消耗超能。對怪物造成傷害可凝聚超能。,,OK,,
 3579,194913,Transmutation,Lua/LevelRewards.lua(00204),,,,,,,,合成,,OK,,
-3580,194913,Transmutation allows you to upgrade your items or create new items by combining what you have. You can transmute your items in the Hub. Don't forget to check out the basic transmutation recipes in the Codex.,Lua/LevelRewards.lua(00205),,,,,,,,合成能讓你融合已有的物品來升級物品或創造新物品。你可以在總部進行合成。別忘了查看百科裡的基礎合成配方。,,OK,,
+3580,194913,Transmutation allows you to upgrade your items or create new items by combining what you have. You can transmute your items in the Hub. Don't forget to check out the basic transmutation recipes in the Codex.,Lua/LevelRewards.lua(00205),,,,,,,,合成能讓你融合已有的物品來升級物品或創造新物品。你可以在總部進行合成。別忘了查看百科全書裡的基礎合成配方。,,OK,,
 562,194283,Outfits,Lua/LevelRewards.lua(00331),,,,,,Outfits,Outfits,服裝,,OK,,
 563,196645,Outfits affect the way you gain Overdrive and use Demon Powers. You can inspect the Outfits from your Inventory.,Lua/LevelRewards.lua(00332),,,,,,Outfits affect the way you gain Overdrive and use Demon Powers. Every Outfit has specific unlock requirements. You can inspect the Outfits from your Inventory.,Outfits affect the way you gain Overdrive and use Demon Powers. Every Outfit has specific unlock requirements. You can inspect the Outfits from your Inventory.,服裝能影響你凝聚超能和使用惡魔之力。你可以從物品欄查看服裝。,,OK,,
 568,194283,New Destiny Slot,Lua/LevelRewards.lua(00388),,,,,,New Destiny Slot,New Destiny Slot,新命運牌槽,,OK,,
@@ -3864,7 +3864,7 @@ Note: Playing in Hard Mode is not recommended for your first character.","如果
 4184,196416,"If you want to play with keyboard and mouse, you can change the control scheme from the Options menu.",Lua/UI/InGameInterface.lua(00120),,,,,,,,如果想用鍵盤和滑鼠遊玩，你可以在選項選單中變更操作方式。,,OK,,
 1209,194283,Inventory,Lua/UI/InGameMainMenu.lua(00022),,,,,,Inventory,Inventory,物品欄,,OK,,
 1210,194283,Map & Challenges,Lua/UI/InGameMainMenu.lua(00031),,,,,,Map & Challenges,Map & Challenges,地圖與挑戰,,OK,,
-1211,194283,Codex,Lua/UI/InGameMainMenu.lua(00039),,,,,,Codex,Codex,百科,,OK,,
+1211,194283,Codex,Lua/UI/InGameMainMenu.lua(00039),,,,,,Codex,Codex,百科全書,,OK,,
 1212,194283,Online,Lua/UI/InGameMainMenu.lua(00046),,,,,,Online,Online,線上,,OK,,
 4483,198919,Switch to <game_mode>,Lua/UI/InGameMainMenu.lua(00053),,,,,,,,切換到<game_mode>,,OK,,
 4484,198919,Switch to <game_mode>,Lua/UI/InGameMainMenu.lua(00064),,,,,,,,切換到<game_mode>,,OK,,
@@ -3885,7 +3885,7 @@ Note: Playing in Hard Mode is not recommended for your first character.","如果
 1223,194283,Cancel,Lua/UI/InGameMainMenu.lua(00184),,,,,,Cancel,Cancel,取消,,OK,,
 1225,194283,Close,Lua/UI/InGameMainMenu.lua(00201),,,,,,Close,Close,關閉,,OK,,
 1226,194283,News,Lua/UI/InGameMainMenu.lua(00268),,,,,,News,News,新消息,,OK,,
-1227,194283,Codex,Lua/UI/InGameMainMenu.lua(00348),,,,,,Codex,Codex,百科,,OK,,
+1227,194283,Codex,Lua/UI/InGameMainMenu.lua(00348),,,,,,Codex,Codex,百科全書,,OK,,
 3860,198395,Deactivate,Lua/UI/InGameMainMenu.lua(00364),,,,,,,,解除,,OK,,
 3606,194959,This will deactivate Hard Mode and turn off your Hexes. You will not be able to activate Hard Mode again on this character. Are you sure you want to turn it off forever?,Lua/UI/InGameMainMenu.lua(00365),,,,,,,,這將會解除困難模式並關閉你的禁咒。你將會無法用這個角色再次啟動困難模式。你確定要永遠解除嗎？,,OK,,
 4486,198919,Are you sure you want to switch to <game_mode>? You can freely switch between Casual Mode and Normal Mode.,Lua/UI/InGameMainMenu.lua(00374),,,,,,,,你確定要切換到<game_mode>嗎？你可以隨時切換普通或休閒模式。,,OK,,
@@ -4135,7 +4135,7 @@ Code ""<err>""","抱歉，伺服器回傳一個錯誤。
 1379,194283,Move To Point,Lua/UI/Options.lua(00563),,,,,,Move To Point,Move To Point,移動到指定地點,,OK,,
 1380,194283,Level Up,Lua/UI/Options.lua(00572),,,,,,Level Up,Level Up,升級,,OK,,
 1381,194283,Inventory,Lua/UI/Options.lua(00581),,,,,,Inventory,Inventory,物品欄,,OK,,
-1382,194283,Codex,Lua/UI/Options.lua(00599),,,,,,Codex,Codex,百科,,OK,,
+1382,194283,Codex,Lua/UI/Options.lua(00599),,,,,,Codex,Codex,百科全書,,OK,,
 1383,194283,Toggle Map,Lua/UI/Options.lua(00608),,,,,,Toggle Map,Toggle Map,地圖,,OK,,
 1384,194283,Controls,Lua/UI/Options.lua(00624),,,,,,Controls,Controls,操作,,OK,,
 1385,194283,Move Up,Lua/UI/Options.lua(00631),,,,,,Move Up,Move Up,向前移動,,OK,,
@@ -4157,7 +4157,7 @@ Code ""<err>""","抱歉，伺服器回傳一個錯誤。
 1401,194283,Move To Point,Lua/UI/Options.lua(00759),,,,,,Move To Point,Move To Point,移動到指定地點,,OK,,
 1402,194283,Level Up,Lua/UI/Options.lua(00767),,,,,,Level Up,Level Up,升級,,OK,,
 1403,194283,Inventory,Lua/UI/Options.lua(00775),,,,,,Inventory,Inventory,物品欄,,OK,,
-1404,194283,Codex,Lua/UI/Options.lua(00791),,,,,,Codex,Codex,百科,,OK,,
+1404,194283,Codex,Lua/UI/Options.lua(00791),,,,,,Codex,Codex,百科全書,,OK,,
 1405,194283,Toggle Map,Lua/UI/Options.lua(00799),,,,,,Toggle Map,Toggle Map,地圖,,OK,,
 4356,198395,Default Emote,Lua/UI/Options.lua(00807),,,,,,,,預設表情,,OK,,
 1406,196015,Back,Lua/UI/Options.lua(00822),,,,,,<font OptionsMenuEntry>Back</font>,<font OptionsMenuEntry>Back</font>,上一頁,,OK,,
@@ -4211,8 +4211,8 @@ Code ""<err>""","抱歉，伺服器回傳一個錯誤。
 1457,194283,Display Critical Text,Lua/UI/Options.lua(01889),,options dialog tooltip,,,,Display Critical Text,Display Critical Text,顯示暴擊文字,,OK,,
 1458,194283,Display Conditions,Lua/UI/Options.lua(01892),,,,,,Display Conditions,Display Conditions,顯示狀態,,OK,,
 1459,194283,Display Conditions,Lua/UI/Options.lua(01892),,options dialog tooltip,,,,Display Conditions,Display Conditions,顯示狀態,,OK,,
-3930,195390,Display Codex Entries,Lua/UI/Options.lua(01895),,,,,,,,顯示百科紀錄,,OK,,
-3931,195390,Display Codex Entries,Lua/UI/Options.lua(01895),,options dialog tooltip,,,,,,顯示百科紀錄,,OK,,
+3930,195390,Display Codex Entries,Lua/UI/Options.lua(01895),,,,,,,,顯示百科全書紀錄,,OK,,
+3931,195390,Display Codex Entries,Lua/UI/Options.lua(01895),,options dialog tooltip,,,,,,顯示百科全書紀錄,,OK,,
 1460,194283,Show Quest Messages,Lua/UI/Options.lua(01898),,,,,,Show Quest Messages,Show Quest Messages,顯示任務訊息,,OK,,
 1461,194283,Show Quest Messages,Lua/UI/Options.lua(01898),,options dialog tooltip,,,,Show Quest Messages,Show Quest Messages,顯示任務訊息,,OK,,
 1462,194283,Show Notifications,Lua/UI/Options.lua(01901),,,,,,Show Notifications,Show Notifications,顯示通知,,OK,,
@@ -4345,7 +4345,7 @@ Check your Codex to see the standard recipes. Some recipes are secret and will n
 
 若要創造新物品，將頂欄留空，然後在底欄放入原料進行合成。
 
-在百科中可以查看普通配方。某些配方秘而不宣，未被收錄在百科內",,OK,,
+在百科全書中可以查看普通配方。某些配方秘而不宣，未被收錄在百科全書內",,OK,,
 3873,195189,Weapon level: <level>,Lua/UI/TransmutationDlg.lua(01076),,,,,,,,武器等級：<level>,,OK,,
 4170,198919,<damage_min>-<damage_max> (<clr><sign><diff></color>),Lua/UI/TransmutationDlg.lua(01084),,,,,,<damage_min>-<damage_max> <teal>(+</teal><diff><teal>)</teal>,<damage_min>-<damage_max> <teal>(+</teal><diff><teal>)</teal>,<damage_min>-<damage_max>（<clr><sign><diff></color>）,,OK,,
 3874,195189,<damage_min>-<damage_max>,Lua/UI/TransmutationDlg.lua(01089),,,,,,,,<damage_min>-<damage_max>,,OK,,
