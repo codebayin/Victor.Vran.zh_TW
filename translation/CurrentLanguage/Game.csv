@@ -652,7 +652,7 @@ Victor Vran will execute attacks in the direction of the mouse cursor and will t
 
 Level 3 unlocks a second weapon slot. You can switch between your weapons with <SwitchWeapon>.
 
-Each weapon offers a different play style to master. To learn more about the specific weapons and their attacks, check out the Weapons category in the Codex.","裝備的武器決定了你可以進行的攻擊方式。每種武器都有一個基本攻擊（<Attack1>）和兩個特殊攻擊（<Attack2> 和 <Attack3>）。特殊攻擊更加強力，但需要短暫的冷卻。
+Each weapon offers a different play style to master. To learn more about the specific weapons and their attacks, check out the Weapons category in the Codex.","裝備的武器決定了你可以進行的攻擊方式。每種武器都有一個基本攻擊（<Attack1>）和兩個招式（<Attack2> 和 <Attack3>）。招式的威力更強，但需要短暫的冷卻。
 
 維克多．弗蘭會向游標方向進行攻擊，並會將游標指著的敵人作為目標。
 
@@ -671,7 +671,7 @@ Each weapon offers a different play style to master. To learn more about the spe
 
 Level 3 unlocks a second weapon slot. You can switch between your weapons with <SwitchWeapon>.
 
-Each weapon offers a different play style to master. To learn more about the specific weapons and their attacks, check out the Weapons category in the Codex.","裝備的武器決定了你可以進行的攻擊方式。每種武器都有一個基本攻擊（<Attack1>）和兩個特殊攻擊（<Attack2> 和 <Attack3>）。特殊攻擊更加強力，但需要短暫的冷卻。按住 <ForceAttack> 可在原地進行攻擊。
+Each weapon offers a different play style to master. To learn more about the specific weapons and their attacks, check out the Weapons category in the Codex.","裝備的武器決定了你可以進行的攻擊方式。每種武器都有一個基本攻擊（<Attack1>）和兩個招式（<Attack2> 和 <Attack3>）。招式的威力更強，但需要短暫的冷卻。按住 <ForceAttack> 可在原地進行攻擊。
 
 等級4時會解鎖第二欄武器。你可以按 <SwitchWeapon> 切換武器。
 
@@ -688,7 +688,7 @@ Each weapon offers a different play style to master. To learn more about the spe
 
 Level 3 unlocks a second weapon slot. You can switch between your weapons with <RB>.
 
-Each weapon offers a different play style to master. To learn more about the specific weapons and their attacks, check out the Weapons category in the Codex.","裝備的武器決定了你可以進行的攻擊方式。每種武器都有一個基本攻擊（<X>）和兩個特殊攻擊（<Y> 和 <B>）。特殊攻擊更加強力，但需要短暫的冷卻。
+Each weapon offers a different play style to master. To learn more about the specific weapons and their attacks, check out the Weapons category in the Codex.","裝備的武器決定了你可以進行的攻擊方式。每種武器都有一個基本攻擊（<X>）和兩個招式（<Y> 和 <B>）。招式的威力更強，但需要短暫的冷卻。
 
 等級4時會解鎖第二欄武器。你可以按 <RB> 切換武器。
 
@@ -1507,8 +1507,8 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 2651,194283,Find your way through the keep,Data/Quest.lua(00187),,,,,,Find your way through the keep,Find your way through the keep,穿過堡壘,,OK,,
 2652,194283,Explore the Keep to find another exit to the city,Data/Quest.lua(00188),,,,,,Explore the Keep to find another exit to the city,Explore the Keep to find another exit to the city,探索堡壘，找到通往城市的出口,,OK,,
 2653,194283,Dummy Test,Data/Quest.lua(00200),,,,,,Dummy Test,Dummy Test,假人測試,,OK,,
-2654,194283,Hit the dummies with special attacks (<progress>/<count>),Data/Quest.lua(00201),,,,,,Hit the dummies with special attacks (<progress>/<count>),Hit the dummies with special attacks (<progress>/<count>),使用特殊攻擊劈砍假人（<progress>/<count>）,,OK,,
-2655,194283,Hit the dummies with special attacks (<progress>/<count>),Data/Quest.lua(00202),,,,,,Hit the dummies with special attacks (<progress>/<count>),Hit the dummies with special attacks (<progress>/<count>),使用特殊攻擊劈砍假人（<progress>/<count>）,,OK,,
+2654,194283,Hit the dummies with special attacks (<progress>/<count>),Data/Quest.lua(00201),,,,,,Hit the dummies with special attacks (<progress>/<count>),Hit the dummies with special attacks (<progress>/<count>),使用招式劈砍假人（<progress>/<count>）,,OK,,
+2655,194283,Hit the dummies with special attacks (<progress>/<count>),Data/Quest.lua(00202),,,,,,Hit the dummies with special attacks (<progress>/<count>),Hit the dummies with special attacks (<progress>/<count>),使用招式劈砍假人（<progress>/<count>）,,OK,,
 2656,194283,Healing Potions,Data/Quest.lua(00214),,,,,,Healing Potions,Healing Potions,治療藥水,,OK,,
 2657,194283,Looks like you took some damage. Drink a healing potion!,Data/Quest.lua(00215),,,,,,Looks like you took some damage. Drink a healing potion!,Looks like you took some damage. Drink a healing potion!,你似乎受了點傷。喝下治療藥水吧！,,OK,,
 2658,194283,Drink a healing potion!,Data/Quest.lua(00216),,,,,,Drink a healing potion!,Drink a healing potion!,喝下治療藥水！,,OK,,
@@ -1525,8 +1525,8 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 2669,194283,Collect your reward from the green chest,Data/Quest.lua(00279),,,,,,Collect your reward from the green chest,Collect your reward from the green chest,領取綠色寶箱裡的獎勵,,OK,,
 2670,194283,Collect your reward from the green chest,Data/Quest.lua(00280),,,,,,Collect your reward from the green chest,Collect your reward from the green chest,領取綠色寶箱裡的獎勵,,OK,,
 2671,194283,Test Out Your New Shotgun,Data/Quest.lua(00292),,,,,,Test Out Your New Shotgun,Test Out Your New Shotgun,測試霰彈槍的性能,,OK,,
-2672,194283,Hit the dummies with shotgun special attacks (<progress>/<count>),Data/Quest.lua(00293),,,,,,Hit the dummies with shotgun special attacks (<progress>/<count>),Hit the dummies with shotgun special attacks (<progress>/<count>),使用霰彈槍的特殊攻擊射擊假人（<progress>/<count>）,,OK,,
-2673,194283,Hit the dummies with shotgun special attacks (<progress>/<count>),Data/Quest.lua(00294),,,,,,Hit the dummies with shotgun special attacks (<progress>/<count>),Hit the dummies with shotgun special attacks (<progress>/<count>),使用霰彈槍的特殊攻擊射擊假人（<progress>/<count>）,,OK,,
+2672,194283,Hit the dummies with shotgun special attacks (<progress>/<count>),Data/Quest.lua(00293),,,,,,Hit the dummies with shotgun special attacks (<progress>/<count>),Hit the dummies with shotgun special attacks (<progress>/<count>),使用霰彈槍的招式射擊假人（<progress>/<count>）,,OK,,
+2673,194283,Hit the dummies with shotgun special attacks (<progress>/<count>),Data/Quest.lua(00294),,,,,,Hit the dummies with shotgun special attacks (<progress>/<count>),Hit the dummies with shotgun special attacks (<progress>/<count>),使用霰彈槍的招式射擊假人（<progress>/<count>）,,OK,,
 2677,194283,Meet the GebaN,Data/Quest.lua(00306),,,,,,Meet the GebaN,Meet the GebaN,與格邦會面,,OK,,
 2678,194283,Meet the GebaN,Data/Quest.lua(00307),,,,,,Meet the GebaN,Meet the GebaN,與格邦會面,,OK,,
 2679,194283,Meet the GebaN,Data/Quest.lua(00308),,,,,,Meet the GebaN,Meet the GebaN,與格邦會面,,OK,,
@@ -1770,7 +1770,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 39,194283,Fear,Lua/Buff.lua(00857),,,,,,Fear,Fear,恐懼,,OK,,
 40,194283,Retreating; unable to attack,Lua/Buff.lua(00859),,,,,,Retreating; unable to attack,Retreating; unable to attack,逃跑，無法攻擊。,,OK,,
 41,194283,Bleeding,Lua/Buff.lua(00907),,,,,,Bleeding,Bleeding,流血,,OK,,
-42,195390,Deals <hps>% of the maximum health but no more than <max_dmg> damage every second. Bleeding can't kill the target,Lua/Buff.lua(00909),,,,,,Deals <number1>% of the maximum health but no more than <number3> damage every second. Bleeding can't kill the target,Deals <number1>% of the maximum health but no more than <number3> damage every second. Bleeding can't kill the target,每秒造成最大生命<hps>%傷害，但不超過<max_dmg>。流血不會使目標死亡。,,OK,,
+42,195390,Deals <hps>% of the maximum health but no more than <max_dmg> damage every second. Bleeding can't kill the target,Lua/Buff.lua(00909),,,,,,Deals <number1>% of the maximum health but no more than <number3> damage every second. Bleeding can't kill the target,Deals <number1>% of the maximum health but no more than <number3> damage every second. Bleeding can't kill the target,每秒造成最大生命<hps>%傷害，但不超過<red></red><max_dmg>。流血不會使目標死亡。,,OK,,
 43,194283,Speed,Lua/Buff.lua(00931),,,,,,Speed,Speed,加速,,OK,,
 44,194283,Movement and attack speeds are increased by <number>%,Lua/Buff.lua(00932),,,,,,Movement and attack speeds are increased by <number>%,Movement and attack speeds are increased by <number>%,提升<number>%移動和攻擊速度。,,OK,,
 45,194283,Quickness,Lua/Buff.lua(00943),,,,,,Quickness,Quickness,快手,,OK,,
@@ -1780,7 +1780,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 49,194283,Frost,Lua/Buff.lua(00966),,,,,,Frost,Frost,結霜,,OK,,
 50,200080,Movement and attack speeds are decreased by <number>%,Lua/Buff.lua(00968),,,,,,Movement speed is decreased by <number>%,Movement speed is decreased by <number>%,降低<number>%移動和攻擊速度。,,changed,,
 51,194283,Frostburn,Lua/Buff.lua(00979),,,,,,Frostburn,Frostburn,凍傷,,OK,,
-52,194283,Deals <number1> damage every second. Movement and attack speeds are decreased by <number2>%,Lua/Buff.lua(00981),,,,,,Deals <number1> damage every second. Movement and attack speeds are decreased by <number2>%,Deals <number1> damage every second. Movement and attack speeds are decreased by <number2>%,每秒造成<number1>傷害。降低<number2>%移動和攻擊速度。,,OK,,
+52,194283,Deals <number1> damage every second. Movement and attack speeds are decreased by <number2>%,Lua/Buff.lua(00981),,,,,,Deals <number1> damage every second. Movement and attack speeds are decreased by <number2>%,Deals <number1> damage every second. Movement and attack speeds are decreased by <number2>%,每秒造成<number1>傷害。降低<number2>%移動和攻擊<red></red>速度。,,OK,,
 53,194283,Burning,Lua/Buff.lua(00999),,,,,,Burning,Burning,燒傷,,OK,,
 54,194283,Deals <number> damage every second,Lua/Buff.lua(01001),,,,,,Deals <number> damage every second,Deals <number> damage every second,每秒造成<number>傷害。,,OK,,
 55,194283,Slow,Lua/Buff.lua(01034),,,,,,Slow,Slow,遲鈍,,OK,,
@@ -1790,7 +1790,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 59,194283,Slowed,Lua/Buff.lua(01060),,,,,,Slowed,Slowed,緩速,,OK,,
 60,194283,Movement and attack speeds are decreased by <number>%,Lua/Buff.lua(01062),,,,,,Movement and attack speeds are decreased by <number>%,Movement and attack speeds are decreased by <number>%,降低<number>%移動和攻擊速度。,,OK,,
 61,194283,Thorns,Lua/Buff.lua(01075),,,,,,Thorns,Thorns,荊棘,,OK,,
-62,198395,Reflects <number>% of any melee damage back to its source. Reflected damage is calculated before Armor and also ignores enemy Armor.,Lua/Buff.lua(01076),,,,,,Reflects <number>% of any melee damage back to its source,Reflects <number>% of any melee damage back to its source,反彈<number>%近戰傷害，反彈的傷害會無視敵人的防禦。,,OK,,
+62,198395,Reflects <number>% of any melee damage back to its source. Reflected damage is calculated before Armor and also ignores enemy Armor.,Lua/Buff.lua(01076),,,,,,Reflects <number>% of any melee damage back to its source,Reflects <number>% of any melee damage back to its source,反彈<number>%近戰傷害，反彈的傷害會無視敵人的<red></red>防禦。,,OK,,
 63,194283,Hard Skin,Lua/Buff.lua(01085),,,,,,Hard Skin,Hard Skin,硬皮,,OK,,
 64,194283,Incoming damage is decreased by <number>%,Lua/Buff.lua(01086),,,,,,Incoming damage is decreased by <number>%,Incoming damage is decreased by <number>%,降低<number>%所受傷害。,,OK,,
 65,194283,Weakness,Lua/Buff.lua(01093),,,,,,Weakness,Weakness,力竭,,OK,,
@@ -1807,7 +1807,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 76,194283,Invisibility,Lua/Buff.lua(01166),,,,,,Invisibility,Invisibility,隱形,,OK,,
 77,194283,Invisible for enemies; cannot be attacked,Lua/Buff.lua(01168),,,,,,Invisible for enemies; cannot be attacked,Invisible for enemies; cannot be attacked,敵人看不到，不會被攻擊。,,OK,,
 78,194283,Curse,Lua/Buff.lua(01205),,,,,,Curse,Curse,詛咒,,OK,,
-79,194283,"Deals damage every second (<number1> + <number2>% of the maximum health). When a cursed enemy dies, nearby enemies regain <number3>% of their health",Lua/Buff.lua(01207),,,,,,"Deals damage every second (<number1> + <number2>% of the maximum health). When a cursed enemy dies, nearby enemies regain <number3>% of their health","Deals damage every second (<number1> + <number2>% of the maximum health). When a cursed enemy dies, nearby enemies regain <number3>% of their health",每秒造成傷害（<number1> + 最大生命<number2>%）。當一個被詛咒的敵人死亡時，附近的敵人會恢復自身生命<number3>%。,,OK,,
+79,194283,"Deals damage every second (<number1> + <number2>% of the maximum health). When a cursed enemy dies, nearby enemies regain <number3>% of their health",Lua/Buff.lua(01207),,,,,,"Deals damage every second (<number1> + <number2>% of the maximum health). When a cursed enemy dies, nearby enemies regain <number3>% of their health","Deals damage every second (<number1> + <number2>% of the maximum health). When a cursed enemy dies, nearby enemies regain <number3>% of their health",每秒造成傷害（<number1> + 最大生命<number2>%）。當一個<red></red>被<red></red>詛咒的敵人死亡時，附近的敵人會恢復自身生命<number3>%。,,OK,,
 80,194283,Deadly Curse,Lua/Buff.lua(01245),,,,,,Deadly Curse,Deadly Curse,死咒,,OK,,
 81,194283,Death in <number> seconds,Lua/Buff.lua(01247),,,,,,Death in <number> seconds,Death in <number> seconds,<number>秒後必死。,,OK,,
 82,194283,Berserk,Lua/Buff.lua(01258),,,,,,Berserk,Berserk,狂暴,,OK,,
@@ -1835,9 +1835,9 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 3941,195716,Aether Charge,Lua/Buff.lua(01451),,,,,,,,以太聚能,,OK,,
 3942,198919,Stack 10 charges to unleash powerful effects from legendary weapons,Lua/Buff.lua(01453),,,,,,Stack 15 chrages to unleash powerful effects from legenedary weapons,Stack 10 charges to unleash powerful effects from legendary weapons,累積10次聚能後可釋放傳奇武器強大的力量。,,OK,,
 102,194283,Soul Shard,Lua/Buff.lua(01539),,,,,,Soul Shard,Soul Shard,靈魂碎片,,OK,,
-103,194283,"The scythe's cursed blade rips a piece of the enemy soul with each hit, empowering the next special attack",Lua/Buff.lua(01541),,,,,,"The scythe's cursed blade rips a piece of the enemy soul with each hit, empowering the next special attack","The scythe's cursed blade rips a piece of the enemy soul with each hit, empowering the next special attack",鐮刀受詛咒的刀刃每一擊都會扯下一片敵人的靈魂，為下一次特殊攻擊提供力量。,,OK,,
+103,194283,"The scythe's cursed blade rips a piece of the enemy soul with each hit, empowering the next special attack",Lua/Buff.lua(01541),,,,,,"The scythe's cursed blade rips a piece of the enemy soul with each hit, empowering the next special attack","The scythe's cursed blade rips a piece of the enemy soul with each hit, empowering the next special attack",鐮刀受詛咒的刀刃每一擊都會扯下一<red></red>片敵人的靈魂，為下一發招式提供力量。,,OK,,
 104,194283,Arcane Power,Lua/Buff.lua(01566),,,,,,Arcane Power,Arcane Power,祕能,,OK,,
-105,198919,Use Arcane Power stacks to recharge Tome attacks instantly,Lua/Buff.lua(01568),,,,,,Use Arcane Power stacks to recharge Tome attacks istantly,Use Arcane Power stacks to recharge Tome attacks instantly,累積的祕能可立即冷卻法典的特殊攻擊。,,OK,,
+105,198919,Use Arcane Power stacks to recharge Tome attacks instantly,Lua/Buff.lua(01568),,,,,,Use Arcane Power stacks to recharge Tome attacks istantly,Use Arcane Power stacks to recharge Tome attacks instantly,累積的祕能可立即冷卻法典招式。,,OK,,
 106,194283,Blocked Overdrive,Lua/Buff.lua(01579),,,,,,Blocked Overdrive,Blocked Overdrive,封鎖超能,,OK,,
 107,194283,Overdrive is not gained from any sources.,Lua/Buff.lua(01580),,,,,,Overdrive is not gained from any sources.,Overdrive is not gained from any sources.,無法以任何方式凝聚超能。,,OK,,
 108,194913,Sanguine Aura,Lua/Buff.lua(01605),,,,,,Guardian Aura,Guardian Aura,血紅氣場,,OK,,
@@ -2286,8 +2286,8 @@ None - they are always stoned!","換一個燈泡需要多少石像鬼？
 4181,196416,"Kelvingrove, 14, aa",Lua/FontStyles.lua(00157),,SkipHint,,,,,,"Kelvingrove, 14, aa",,OK,,
 478,196416,"Kelvingrove, 16, aa",Lua/FontStyles.lua(00158),,CutsceneSubtitles,,,,"Kelvingrove, 14, aa","Kelvingrove, 14, aa","Kelvingrove, 16, aa",,OK,,
 479,194283,Basic Attack,Lua/GameControls.lua(00191),,,,,,Basic Attack,Basic Attack,基本攻擊,,OK,,
-480,194283,Special Attack 1,Lua/GameControls.lua(00192),,,,,,Special Attack 1,Special Attack 1,特殊攻擊1,,OK,,
-481,194283,Special Attack 2,Lua/GameControls.lua(00193),,,,,,Special Attack 2,Special Attack 2,特殊攻擊2,,OK,,
+480,194283,Special Attack 1,Lua/GameControls.lua(00192),,,,,,Special Attack 1,Special Attack 1,招式1,,OK,,
+481,194283,Special Attack 2,Lua/GameControls.lua(00193),,,,,,Special Attack 2,Special Attack 2,招式2,,OK,,
 482,194283,Switch Weapon,Lua/GameControls.lua(00194),,,,,,Switch Weapon,Switch Weapon,切換武器,,OK,,
 483,194283,Use Demon Power 1,Lua/GameControls.lua(00195),,,,,,Use Demon Power 1,Use Demon Power 1,使用惡魔之力1,,OK,,
 484,194283,Use Demon Power 2,Lua/GameControls.lua(00196),,,,,,Use Demon Power 2,Use Demon Power 2,使用惡魔之力2,,OK,,
@@ -2342,8 +2342,8 @@ find <drop>% more items",Lua/Hex.lua(00309),,,,,,"<description>
 
 <xp>% increased XP gain","<description>
 
-提升<xp>%經驗獲得量
-提升<drop>%物品掉落數",,OK,,
+提升<xp>%經驗獲得量。
+提升<drop>%物品掉落數。",,OK,,
 526,194283,Hex of Tenacity,Lua/Hex.lua(00346),,,,,,Hex of Tenacity,Hex of Tenacity,堅韌禁咒,,OK,,
 527,194283,Monsters gain <number> armor and Regeneration,Lua/Hex.lua(00347),,,,,,Monsters gain <number> armor and Regeneration,Monsters gain <number> armor and Regeneration,怪物獲得<number>防禦和生命再生。,,OK,,
 528,194283,Hex of Malice,Lua/Hex.lua(00369),,,,,,Hex of Malice,Hex of Malice,殺意禁咒,,OK,,
@@ -2374,9 +2374,9 @@ Slay all monsters in the vicinity",<text>（鎖住）,,OK,,
 4182,196645,Gift Box,Lua/Item.lua(00332),,,,,,Loot Box,Loot Box,禮物箱,,OK,,
 4197,196645,"Contains a random piece of equipment
 
-Combine with other Gift Boxes in Transmutation to get better items",Lua/Item.lua(00356),,,,,,Contains a random piece of equipment,Contains a random piece of equipment,"內含一件隨機的裝備
+Combine with other Gift Boxes in Transmutation to get better items",Lua/Item.lua(00356),,,,,,Contains a random piece of equipment,Contains a random piece of equipment,"內含一件隨機的裝備。
 
-與其它禮物箱合成可獲得更好的物品",,OK,,
+與其它禮物箱合成可獲得更好的物品。",,OK,,
 4667,199933,Pumpkin Pie,Lua/Item.lua(00371),,,,,0,,,南瓜派,,new,,
 4673,199933,Eat the whole pie or leave some for later?,Lua/Item.lua(00395),,,,,0,,,吃掉整片派，還是留下一些待會吃？,,new,,
 4675,199933,Leave some,Lua/Item.lua(00397),,,,,0,,,留下一些,,new,,
@@ -2423,12 +2423,12 @@ Combine with other Gift Boxes in Transmutation to get better items",Lua/Item.lua
 602,194283,You can jump or dodge to cancel your attacks,Lua/LoadingTips.lua(00035),,,,,,You can jump or dodge to cancel your attacks,You can jump or dodge to cancel your attacks,你可以用跳躍或翻滾來取消攻擊。,,OK,,
 603,194283,Hold <ForceAttack> to force attack,Lua/LoadingTips.lua(00036),,,,,,Hold <ForceAttack> to force attack,Hold <ForceAttack> to force attack,按住 <ForceAttack> 強制攻擊。,,OK,,
 604,194283,All Rapiers have high Armor Penetration,Lua/LoadingTips.lua(00038),,,,,,All Rapiers have high Armor Penetration,All Rapiers have high Armor Penetration,細劍具有高護甲穿透。,,OK,,
-605,194283,The special attacks of the Sword have additional effects on crit,Lua/LoadingTips.lua(00040),,,,,,The special attacks of the Sword have additional effects on crit,The special attacks of the Sword have additional effects on crit,長劍的特殊攻擊暴擊時會附加狀態。,,OK,,
+605,194283,The special attacks of the Sword have additional effects on crit,Lua/LoadingTips.lua(00040),,,,,,The special attacks of the Sword have additional effects on crit,The special attacks of the Sword have additional effects on crit,長劍的招式暴擊時會附加狀態。,,OK,,
 606,194283,The Hammer's Smash special attack grants you Life Steal,Lua/LoadingTips.lua(00041),,,,,,The Hammer's Smash special attack grants you Life Steal,The Hammer's Smash special attack grants you Life Steal,戰鎚的粉碎擊具有生命竊取效果。,,OK,,
-3495,194585,Use the Hand Mortar's special Explosive Jump attack to reach higher ground,Lua/LoadingTips.lua(00042),,,,,,Use the Hand Mortar's special Explosive Jump attack to reach higher ground,,使用迫擊炮的特殊攻擊爆炸跳可前往更高處。,,OK,,
+3495,194585,Use the Hand Mortar's special Explosive Jump attack to reach higher ground,Lua/LoadingTips.lua(00042),,,,,,Use the Hand Mortar's special Explosive Jump attack to reach higher ground,,使用迫擊炮的爆炸跳可前往更高處。,,OK,,
 607,194283,Split timing the Shotgun attacks will cause enemies to become Vulnerable,Lua/LoadingTips.lua(00043),,,,,,Split timing the Shotgun attacks will cause enemies to become Vulnerable,Split timing the Shotgun attacks will cause enemies to become Vulnerable,霰彈槍的間段攻擊可造成敵人脆化。,,OK,,
 608,194283,Lightning Gun attacks jump between Electrocuted enemies,Lua/LoadingTips.lua(00044),,,,,,Lightning Gun attacks jump between Electrocuted enemies,Lightning Gun attacks jump between Electrocuted enemies,閃電槍的攻擊會在觸電的敵人之間傳導。,,OK,,
-609,194283,Scythe attacks grant Soul Shards that increase the effect of its special attacks,Lua/LoadingTips.lua(00045),,,,,,Scythe attacks grant Soul Shards that increase the effect of its special attacks,Scythe attacks grant Soul Shards that increase the effect of its special attacks,鐮刀的攻擊會獲得靈魂碎片，可增強鐮刀的特殊攻擊。,,OK,,
+609,194283,Scythe attacks grant Soul Shards that increase the effect of its special attacks,Lua/LoadingTips.lua(00045),,,,,,Scythe attacks grant Soul Shards that increase the effect of its special attacks,Scythe attacks grant Soul Shards that increase the effect of its special attacks,鐮刀的攻擊會獲得靈魂碎片，可增強鐮刀招式。,,OK,,
 610,198919,Split timing the Scythe basic attack will cause enemies to become Vulnerable,Lua/LoadingTips.lua(00046),,,,,,Split time the Scythe basic attack to lower the cooldowns of its special attacks,Split time the Scythe basic attack to lower the cooldowns of its special attacks,鐮刀的間段攻擊可造成敵人脆化。,,OK,,
 611,194283,Overkill skeletons to prevent them from rising again,Lua/LoadingTips.lua(00048),,,,,,Overkill skeletons to prevent them from rising again,Overkill skeletons to prevent them from rising again,絕殺骷髏可防止其重生。,,OK,,
 612,194283,Wraiths conjure magic circles which apply effects to heroes standing inside ,Lua/LoadingTips.lua(00049),,,,,,Wraiths conjure magic circles which apply effects to heroes standing inside ,Wraiths conjure magic circles which apply effects to heroes standing inside ,怨靈會召喚出魔法陣，其內的玩家會被附加狀態。,,OK,,
@@ -3031,7 +3031,7 @@ You don't lose Overdrive over time","Your Overdrive bar is extended by 100%
 
 You don't lose Overdrive over time",增加<destiny_slots>格命運牌槽。提升<max_overdrive_add>最大超能。超能凝聚量提升<lightgreen><value>%</lightgreen>。,,OK,,
 893,194283,Vigilante's Outfit,Lua/Outfit.lua(00406),,,,,,Vigilante's Outfit,Vigilante's Outfit,警探服裝,,OK,,
-894,194959,Critical hits grant <lightgreen><value>%</lightgreen> more Overdrive. Normal attacks no longer grant Overdrive.,Lua/Outfit.lua(00407),,,,,,Gain double Overdrive from critical hits but no Overdrive from other attacks,Gain double Overdrive from critical hits but no Overdrive from other attacks,暴擊時會多凝聚<lightgreen><value>%</lightgreen>超能，但普通攻擊不會凝聚超能。,,OK,,
+894,194959,Critical hits grant <lightgreen><value>%</lightgreen> more Overdrive. Normal attacks no longer grant Overdrive.,Lua/Outfit.lua(00407),,,,,,Gain double Overdrive from critical hits but no Overdrive from other attacks,Gain double Overdrive from critical hits but no Overdrive from other attacks,暴擊時會多凝聚<lightgreen><value>%</lightgreen>超能，但其它攻擊不會凝聚超能。,,OK,,
 3610,194959,"Select this outfit if you want to create a specialized build focused on precision and critical strikes.
 
 The Vigilante's Outfit grants Overdrive only when you score critical hits against your enemies. The Armor provided by the outfit will reduce the damage of some of the attacks that you suffer.",Lua/Outfit.lua(00408),,,,,,,,"如果你想創造一個專精於精準和暴擊的角色，那就選擇這套服裝吧。
@@ -3046,7 +3046,7 @@ The Cavalier's Outfit grants Overdrive automatically over time, but your weapon 
 紳士服裝會隨時間自動凝聚超能，但武器攻擊將不會凝聚超能。它讓你能穩定地運用惡魔之力，而且在開始戰鬥時超能會聚滿。",,OK,,
 4387,198395,"You gain <lightgreen><value></lightgreen> Overdrive when you use a weapon special attack, but attacks no longer grant Overdrive.
 
-Reduces weapon cooldowns by <cooldown_reduction>%",Lua/Outfit.lua(00446),,,,,,,,"使用特殊攻擊時會凝聚<lightgreen><value></lightgreen>超能，但普通攻擊不會凝聚超能。
+Reduces weapon cooldowns by <cooldown_reduction>%",Lua/Outfit.lua(00446),,,,,,,,"使用招式時會凝聚<lightgreen><value></lightgreen>超能，但基本攻擊不會凝聚超能。
 
 攻擊冷卻時間縮短<cooldown_reduction>%。",,OK,,
 4388,198395,Select this outfit if you don't want to lose your head.,Lua/Outfit.lua(00447),,,,,,,,如果還想保住你的頭，那就選擇這套服裝吧。,,OK,,
@@ -3234,8 +3234,8 @@ Red <team1_score>  ---  Blue <team2_score>",<newline>紅隊：<team1_score>分  
 1001,194283,Deliver Critical Hits with <weapon>,Lua/QuestTypes.lua(00613),,,,,,Deliver Critical Hits with <weapon>,Deliver Critical Hits with <weapon>,使用<weapon>造成暴擊,,OK,,
 1002,194283,Deliver Critical Hits <number> times,Lua/QuestTypes.lua(00617),,,,,,Deliver Critical Hits <number> times,Deliver Critical Hits <number> times,造成<number>次暴擊,,OK,,
 1003,194283,Critical hit,Lua/QuestTypes.lua(00619),,,,,,Critical hit,Critical hit,暴擊,,OK,,
-1004,194283,Deliver <number> special attacks with <weapon>,Lua/QuestTypes.lua(00682),,,,,,Deliver <number> special attacks with <weapon>,Deliver <number> special attacks with <weapon>,使用<weapon>施展<number>次特殊攻擊,,OK,,
-1005,194283,Deliver <number> special attacks,Lua/QuestTypes.lua(00684),,,,,,Deliver <number> special attacks,Deliver <number> special attacks,施展<number>次特殊攻擊,,OK,,
+1004,194283,Deliver <number> special attacks with <weapon>,Lua/QuestTypes.lua(00682),,,,,,Deliver <number> special attacks with <weapon>,Deliver <number> special attacks with <weapon>,使用<weapon>施展<number>次招式,,OK,,
+1005,194283,Deliver <number> special attacks,Lua/QuestTypes.lua(00684),,,,,,Deliver <number> special attacks,Deliver <number> special attacks,施展<number>次招式,,OK,,
 1006,194283,Equip <item>,Lua/QuestTypes.lua(00744),,,,,,Equip <item>,Equip <item>,裝備<item>,,OK,,
 1007,194283,Survive <time> seconds in battle,Lua/QuestTypes.lua(00782),,,,,,Survive <time> seconds in battle,Survive <time> seconds in battle,在戰鬥中生存<time>秒,,OK,,
 1008,194283,Survive <damage> damage in a single battle,Lua/QuestTypes.lua(00828),,,,,,Survive <damage> damage in a single battle,Survive <damage> damage in a single battle,在一次戰鬥中承受<damage>傷害,,OK,,
@@ -3352,7 +3352,7 @@ Damage per Second: <lightgreen><min_damage> - <max_damage></lightgreen>
 Rune Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec","Create a moving pillar of flames that deals damage to all enemies in its radius. You can't use skills while this Demon Power is active.
 
 Damage per Second: <lightgreen><min_damage> - <max_damage></lightgreen>
-Rune Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec","產生一條移動火柱，對範圍內的所有敵人造成傷害。此惡魔之力作用時無法使用特殊攻擊。
+Rune Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec","產生一條移動火柱，對範圍內的所有敵人造成傷害。此惡魔之力作用時無法使用其它攻擊。
 
 每秒傷害：<lightgreen><min_damage>-<max_damage></lightgreen>
 持續時間：<lightgreen><duration_s>.<duration_d></lightgreen>秒",,OK,,
@@ -3397,7 +3397,7 @@ Seeking Projectiles: <lightgreen><num_projectiles></lightgreen><condition_descri
 1061,195716,"Turn into a cloud of poisonous dark mist dealing damage to all enemies inside. Affected enemies take <lightgreen2><condition_name></lightgreen2> for <buff_duration> sec. You don't gain Overdrive and can't use skills while this Demon Power is active.
 
 Damage per Second: <lightgreen><min_damage> - <max_damage></lightgreen>
-Rune Duration: <lightgreen><rune_duration_s>.<rune_duration_d></lightgreen> sec<condition_description>",Lua/RuneTypes.lua(01461),,,,,,Turn into a cloud of poisonous dark mist for <number1> sec. dealing <lightgreen><min_damage> - <max_damage></lightgreen> damage per second. Affected enemies take <lightgreen2><condition_name></lightgreen2> for <number2> sec. You don't gain Overdrive and can't use skills while this Demon Power is active.<condition_description>,Turn into a cloud of poisonous dark mist for <number1> sec. dealing <lightgreen><min_damage> - <max_damage></lightgreen> damage per second. Affected enemies take <lightgreen2><condition_name></lightgreen2> for <number2> sec. You don't gain Overdrive and can't use skills while this Demon Power is active.<condition_description>,"變成一團黑色毒霧對範圍內的所有敵人造成傷害。使敵人<lightgreen2><condition_name></lightgreen2>，持續<buff_duration>秒。此惡魔之力作用時不會凝聚超能，也無法使用特殊攻擊。
+Rune Duration: <lightgreen><rune_duration_s>.<rune_duration_d></lightgreen> sec<condition_description>",Lua/RuneTypes.lua(01461),,,,,,Turn into a cloud of poisonous dark mist for <number1> sec. dealing <lightgreen><min_damage> - <max_damage></lightgreen> damage per second. Affected enemies take <lightgreen2><condition_name></lightgreen2> for <number2> sec. You don't gain Overdrive and can't use skills while this Demon Power is active.<condition_description>,Turn into a cloud of poisonous dark mist for <number1> sec. dealing <lightgreen><min_damage> - <max_damage></lightgreen> damage per second. Affected enemies take <lightgreen2><condition_name></lightgreen2> for <number2> sec. You don't gain Overdrive and can't use skills while this Demon Power is active.<condition_description>,"變成一團黑色毒霧對範圍內的所有敵人造成傷害。使敵人<lightgreen2><condition_name></lightgreen2>，持續<buff_duration>秒。此惡魔之力作用時不會凝聚超能，也無法使用其它攻擊。
 
 每秒傷害：<lightgreen><min_damage>-<max_damage></lightgreen>
 持續時間：<lightgreen><rune_duration_s>.<rune_duration_d></lightgreen>秒<condition_description>",,OK,,
@@ -4116,8 +4116,8 @@ Code ""<err>""","抱歉，伺服器回傳一個錯誤。
 1361,196015,Close,Lua/UI/Options.lua(00392),,,,,,<font OptionsMenuEntry>Close</font>,<font OptionsMenuEntry>Close</font>,關閉,,OK,,
 1362,194283,Controls,Lua/UI/Options.lua(00402),,,,,,Controls,Controls,操作,,OK,,
 1363,194283,Attack / Move,Lua/UI/Options.lua(00410),,,,,,Attack / Move,Attack / Move,攻擊/移動,,OK,,
-1364,194283,Special Attack 1,Lua/UI/Options.lua(00419),,,,,,Special Attack 1,Special Attack 1,特殊攻擊1,,OK,,
-1365,194283,Special Attack 2,Lua/UI/Options.lua(00428),,,,,,Special Attack 2,Special Attack 2,特殊攻擊2,,OK,,
+1364,194283,Special Attack 1,Lua/UI/Options.lua(00419),,,,,,Special Attack 1,Special Attack 1,招式1,,OK,,
+1365,194283,Special Attack 2,Lua/UI/Options.lua(00428),,,,,,Special Attack 2,Special Attack 2,招式2,,OK,,
 1366,194283,Jump,Lua/UI/Options.lua(00437),,,,,,Jump,Jump,跳躍,,OK,,
 1367,194283,Force Attack,Lua/UI/Options.lua(00446),,,,,,Force Attack,Force Attack,強制攻擊,,OK,,
 1368,194283,Dodge Forward,Lua/UI/Options.lua(00455),,,,,,Dodge Forward,Dodge Forward,向前翻滾,,OK,,
@@ -4145,8 +4145,8 @@ Code ""<err>""","抱歉，伺服器回傳一個錯誤。
 1389,194283,Dodge,Lua/UI/Options.lua(00663),,,,,,Dodge,Dodge,翻滾,,OK,,
 1390,194283,Jump,Lua/UI/Options.lua(00671),,,,,,Jump,Jump,跳躍,,OK,,
 1391,194283,Basic Attack,Lua/UI/Options.lua(00679),,,,,,Basic Attack,Basic Attack,基本攻擊,,OK,,
-1392,194283,Special Attack 1,Lua/UI/Options.lua(00687),,,,,,Special Attack 1,Special Attack 1,特殊攻擊1,,OK,,
-1393,194283,Special Attack 2,Lua/UI/Options.lua(00695),,,,,,Special Attack 2,Special Attack 2,特殊攻擊2,,OK,,
+1392,194283,Special Attack 1,Lua/UI/Options.lua(00687),,,,,,Special Attack 1,Special Attack 1,招式1,,OK,,
+1393,194283,Special Attack 2,Lua/UI/Options.lua(00695),,,,,,Special Attack 2,Special Attack 2,招式2,,OK,,
 1394,194283,Use Item 1,Lua/UI/Options.lua(00703),,,,,,Use Item 1,Use Item 1,使用消耗品1,,OK,,
 1395,194283,Use Item 2,Lua/UI/Options.lua(00711),,,,,,Use Item 2,Use Item 2,使用消耗品2,,OK,,
 1396,194283,Use Power 1,Lua/UI/Options.lua(00719),,,,,,Use Power 1,Use Power 1,使用惡魔之力1,,OK,,
@@ -4407,10 +4407,10 @@ Check your Codex to see the standard recipes. Some recipes are secret and will n
 1556,194283,You have been defeated.,Lua/UIDesignerData/HeroDeathDlg.lua(00102),,default,,,,You have been defeated.,You have been defeated.,你被擊敗了。,,OK,,
 1557,194283,<current_page> / <total_pages>,Lua/UIDesignerData/Inventory.lua(00109),,inventory,,,,<current_page> / <total_pages>,<current_page> / <total_pages>,<current_page>/<total_pages>,,OK,,
 1558,194283,9999999,Lua/UIDesignerData/Inventory.lua(00181),,default_up,,,,9999999,9999999,9999999,,OK,,
-4116,195942,Special Attack 1,Lua/UIDesignerData/Inventory.lua(00538),,layoutsub,,,,,,特殊攻擊1,,OK,,
+4116,195942,Special Attack 1,Lua/UIDesignerData/Inventory.lua(00538),,layoutsub,,,,,,招式1,,OK,,
 4117,195942,Switch Active Weapon,Lua/UIDesignerData/Inventory.lua(00552),,layoutsub,,,,,,切換武器,,OK,,
 4118,195942,Basic Attack,Lua/UIDesignerData/Inventory.lua(00566),,layoutsub,,,,,,基本攻擊,,OK,,
-4119,195942,Special Attack 2,Lua/UIDesignerData/Inventory.lua(00580),,layoutsub,,,,,,特殊攻擊2,,OK,,
+4119,195942,Special Attack 2,Lua/UIDesignerData/Inventory.lua(00580),,layoutsub,,,,,,招式2,,OK,,
 4120,195942,Jump/Interact,Lua/UIDesignerData/Inventory.lua(00594),,layoutsub,,,,,,跳躍/互動,,OK,,
 4121,195942,Open Main Menu,Lua/UIDesignerData/Inventory.lua(00608),,layoutsub,,,,,,打開主選單,,OK,,
 4122,195942,"Rotate Camera, (tap) Map",Lua/UIDesignerData/Inventory.lua(00622),,layoutsub,,,,,,旋轉鏡頭，（輕按）地圖,,OK,,
@@ -4779,7 +4779,7 @@ Check your Codex to see the standard recipes. Some recipes are secret and will n
 
 <lightgreen2><condition></lightgreen2>: <description>","Deals high damage and applies the <lightgreen2><condition></lightgreen2> condition in an area. Hold the button to increase the damage dealt by the attack.
 
-<lightgreen2><condition></lightgreen2>: <description>","造成極高傷害，並在範圍內施放<lightgreen2><condition></lightgreen2>狀態。按住按鍵可提升攻擊造成的傷害。完全蓄力後可獲得護甲穿透效果。
+<lightgreen2><condition></lightgreen2>: <description>","造成極高傷害，並在範圍內施放<lightgreen2><condition></lightgreen2>狀態。按住<red></red>按鍵可提升攻擊造成的傷害。完全蓄力後可獲得護甲穿透效果。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1893,194283,Smash,Lua/Weapons/Hammer.lua(00336),,,,,,Smash,Smash,粉碎擊,,OK,,
@@ -4804,7 +4804,7 @@ Check your Codex to see the standard recipes. Some recipes are secret and will n
 
 <lightgreen2><condition></lightgreen2>: <description>","Fires a grenade that creates an area of liquid fire that damages enemies inside it. Lasts <number1> sec and has a radius of <number2>m. Units caught in the initial blast get the <lightgreen2><condition></lightgreen2> condition.
 
-<lightgreen2><condition></lightgreen2>: <description>","射出一枚可產生一灘液態火焰的榴彈，對範圍內的敵人造成傷害。持續時間<number1>秒，半徑範圍<number2>公尺。受到初始爆炸衝擊的敵人會造成<lightgreen2><condition></lightgreen2>。
+<lightgreen2><condition></lightgreen2>: <description>","射出一枚可產生一灘液態火焰的榴彈，對範圍內的敵人造成傷害。持續時間<number1>秒，半徑範圍<number2>公<red></red>尺。受到初始爆炸衝擊的敵人會造成<lightgreen2><condition></lightgreen2>。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1902,194283,Explosive Jump,Lua/Weapons/HandMortar.lua(00316),,,,,,Explosive Jump,Explosive Jump,爆炸跳,,OK,,
@@ -4835,7 +4835,7 @@ Recharge <number> ms.",射出三枚可造成範圍傷害的榴彈。按住攻擊
 4129,195942,Oil Spill,Lua/Weapons/HandMortar.lua(00628),,,,,,,,潑油彈,,OK,,
 4019,195942,"Fires a grenade that creates a pool of oil that that Cripples enemies inside it and can be ignited by other mortar attacks. The area lasts for <number1> sec. Units caught in the initial blast are affected by <lightgreen2><condition></lightgreen2>.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/HandMortar.lua(00629),,,,,,,,"射出一枚可產生一灘汽油的榴彈，汽油可使範圍內的敵人癱瘓，也可被其它炮擊點燃。汽油持續時間<number1>秒。受到初始爆炸衝擊的敵人會造成<lightgreen2><condition></lightgreen2>。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/HandMortar.lua(00629),,,,,,,,"射出一枚可產生一灘汽油的榴彈，汽油可使範圍內的敵人癱瘓，也可被其它炮擊點燃。汽油持續時間<number1>秒。受到初始爆炸衝擊的敵人會<red></red>造成<red></red><lightgreen2><condition></lightgreen2><red></red>。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1908,194283,Lightning Gun,Lua/Weapons/LightningGun.lua(00003),,|gender,,,,Lightning Gun,Lightning Gun,閃電槍,M,OK,,
@@ -4844,11 +4844,11 @@ Recharge <number> ms.",射出三枚可造成範圍傷害的榴彈。按住攻擊
 1911,194283,Shock,Lua/Weapons/LightningGun.lua(00061),,,,,,Shock,Shock,電擊,,OK,,
 4130,195942,"Single target. Hold the attack button to continue attacking. Enemies hit by this attack become <lightgreen2><condition></lightgreen2>. The attack chains to other <lightgreen2><condition></lightgreen2> enemies. In its last phase the attack deals additional damage.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/LightningGun.lua(00062),,,,,,,,"單一目標。按住攻擊鍵以持續進行電擊。受到電擊的敵人會造成<lightgreen2><condition></lightgreen2>。電擊會傳導給其他<lightgreen2><condition></lightgreen2>的敵人。電擊的最後階段會造成更大傷害。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/LightningGun.lua(00062),,,,,,,,"單一目標。按住攻擊鍵以持續進行電擊。受到電擊的敵人會造成<lightgreen2><condition></lightgreen2>。電擊會傳導給其他<lightgreen2><condition></lightgreen2>的<red></red>敵人。電擊的最後階段會造成更大傷害。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1913,194283,Ball Lightning,Lua/Weapons/LightningGun.lua(00434),,,,,,Ball Lightning,Ball Lightning,電光球,,OK,,
-1914,194283,Fire a tracking ball lighting that bounces between <lightgreen2><condition></lightgreen2> targets. This attack can hit you and your allies.,Lua/Weapons/LightningGun.lua(00435),,,,,,Fire a tracking ball lighting that bounces between <lightgreen2><condition></lightgreen2> targets. This attack can hit you and your allies.,Fire a tracking ball lighting that bounces between <lightgreen2><condition></lightgreen2> targets. This attack can hit you and your allies.,射出一顆會追蹤的電光球，這顆球會在<lightgreen2><condition></lightgreen2>的目標之間來回反彈。此招也會對自己和隊友造成傷害。,,OK,,
+1914,194283,Fire a tracking ball lighting that bounces between <lightgreen2><condition></lightgreen2> targets. This attack can hit you and your allies.,Lua/Weapons/LightningGun.lua(00435),,,,,,Fire a tracking ball lighting that bounces between <lightgreen2><condition></lightgreen2> targets. This attack can hit you and your allies.,Fire a tracking ball lighting that bounces between <lightgreen2><condition></lightgreen2> targets. This attack can hit you and your allies.,射出一顆會追蹤的電光球，這顆球會在<lightgreen2><condition></lightgreen2>的目<red></red>標之間來回反彈。此招也會對自己和隊友造成傷害。,,OK,,
 1915,194283,Lightning Trap,Lua/Weapons/LightningGun.lua(00467),,,,,,Lightning Trap,Lightning Trap,雷電網,,OK,,
 4131,198395,"Fire a slow ball lightning that transforms into a Lighting Trap in several seconds. The Lightning Trap deals damage and inflicts <lightgreen2><condition></lightgreen2> to all enemies in its radius every <number>.<number2> seconds, then explodes. Hold the button to increase the ball's initial speed. The explosion can hit you.
 
@@ -4856,7 +4856,7 @@ Recharge <number> ms.",射出三枚可造成範圍傷害的榴彈。按住攻擊
 
 <lightgreen2><condition></lightgreen2>: <description>","Fire a slow ball lightning that explodes shortly after fired. All targets in its blast area get damage and become <lightgreen2><condition></lightgreen2>. Hold the button to increase its initial speed. This attack can hit you.
 
-<lightgreen2><condition></lightgreen2>: <description>","射出一顆慢速電光球並在幾秒後轉變成雷電網。雷電網每<number>.<number2>秒會對範圍內的所有敵人造成傷害並使其<lightgreen2><condition></lightgreen2>，最後還會產生爆炸。按住按鍵可提升電光球的初始速度。爆炸也會對自己造成傷害。
+<lightgreen2><condition></lightgreen2>: <description>","射出一顆慢速電光球並在幾秒後轉變成雷電網。雷電網每<number>.<number2>秒會對範圍內的所有敵人造成傷害<red></red>並使其<lightgreen2><condition></lightgreen2>，最後還會爆炸。按住按鍵可提<red></red>升電<red></red>光球的初始速度。爆炸也會對自己造成傷害。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 4020,195716,"Single target. Hold the attack button to create a beautiful rainbow that damages everyone that it passes through. Enemies hit by this attack become <lightgreen2><condition></lightgreen2>.
@@ -4870,7 +4870,7 @@ Recharge <number> ms.",射出三枚可造成範圍傷害的榴彈。按住攻擊
 
 <lightgreen2><condition></lightgreen2>: <description>","Single target. Hold the attack button to continue attacking. Enemies hit by this attack become <lightgreen2><condition></lightgreen2>. The attack chains to other <lightgreen2><condition></lightgreen2> enemies. In its last phase the attack deals additional damage.
 
-<lightgreen2><condition></lightgreen2>: <description>","單一目標。按住攻擊鍵以持續進行電擊並把目標敵人拉近。受到電擊的敵人會造成<lightgreen2><condition></lightgreen2>。電擊會傳導給其他<lightgreen2><condition></lightgreen2>的敵人。電擊的最後階段會造成更大傷害。
+<lightgreen2><condition></lightgreen2>: <description>","單一目標。按住攻擊鍵以持續進行電擊並把目標敵人拉近。受到電擊的敵人會造成<lightgreen2><condition></lightgreen2>。電擊會<red></red>傳導給其他<lightgreen2><condition></lightgreen2>的敵人。電擊的最後階段會<red></red>造成<red></red>更大傷害。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1916,195942,"Fire a slow ball lightning that explodes shortly after fired pulling all nearby enemies to its epicenter. All targets in its blast area get damage and become <lightgreen2><condition></lightgreen2>. Hold the button to increase its initial speed. This attack can hit you.
@@ -4879,7 +4879,7 @@ Recharge <number> ms.",射出三枚可造成範圍傷害的榴彈。按住攻擊
 
 <lightgreen2><condition></lightgreen2>: <description>","Fire a slow ball lightning that explodes shortly after fired. All targets in its blast area get damage and become <lightgreen2><condition></lightgreen2>. Hold the button to increase its initial speed. This attack can hit you.
 
-<lightgreen2><condition></lightgreen2>: <description>","射出一顆短時間內會爆炸，並將附近所有敵人拉至爆炸中心的電光球。所有在爆炸範圍內的目標都會受到傷害並造成<lightgreen2><condition></lightgreen2>。按住按鈕可提升其初始速度。此招也會對自己造成傷害。
+<lightgreen2><condition></lightgreen2>: <description>","射出一顆短時間內會爆炸，並將附近所有敵人拉至爆炸中心的電光球。所有在爆炸範圍內的目標都會受到傷害並造成<lightgreen2><condition></lightgreen2>。按住按鈕可提升<red></red>其初<red></red>始速度。此招也會對自己造成傷害。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1917,194283,Rapier,Lua/Weapons/Rapier.lua(00003),,|gender,,,,Rapier,Rapier,細劍,M,OK,,
@@ -4904,7 +4904,7 @@ Recharge <number> ms.",射出三枚可造成範圍傷害的榴彈。按住攻擊
 
 <lightgreen2><condition></lightgreen2>: <description>","Single target high damage melee attack that causes <lightgreen2><condition></lightgreen2>. On kill this attack resets the cooldown of the Rapier Charge ability.
 
-<lightgreen2><condition></lightgreen2>: <description>","可造成<lightgreen2><condition></lightgreen2>的單一目標高傷害近戰攻擊。擊殺時會重置衝鋒刺的冷卻時間。
+<lightgreen2><condition></lightgreen2>: <description>","可造成<lightgreen2><condition></lightgreen2>的單一目標高傷害近戰攻擊。擊殺時<red></red>會重置衝鋒刺的冷卻時間。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1926,194283,Scythe,Lua/Weapons/Scythe.lua(00003),,|gender,,,,Scythe,Scythe,鐮刀,M,OK,,
@@ -4922,7 +4922,7 @@ Split Timing - time the rhythm of your attacks to lower the cooldown of your spe
 
 Split Timing - time the rhythm of your attacks to lower the cooldown of your special attacks.
 
-<lightgreen2><condition></lightgreen2>: <description>","一連串可傷害多個敵人的攻擊。每攻擊一名敵人會獲得一片<lightgreen2><condition></lightgreen2>（最多10片）。抓準攻擊節奏可對目標造成<lightgreen2><condition2></lightgreen2>。
+<lightgreen2><condition></lightgreen2>: <description>","一連串可傷害多個敵人的攻擊。每攻擊一名敵人會獲得一片<lightgreen2><condition></lightgreen2>（最多10片）。抓準攻擊節<red></red>奏可對目標造成<lightgreen2><condition2></lightgreen2>。
 
 <lightgreen2><condition></lightgreen2>：<description>
 <lightgreen2><condition2></lightgreen2>：<description2>",,OK,,
@@ -4938,8 +4938,8 @@ This attack spends all Soul Shards. <lightgreen2><condition></lightgreen2> durat
 
 This attack spends all Soul Shards. <lightgreen2><condition></lightgreen2> duration is increased based on the number of Soul Shards spent.
 
-<lightgreen2><condition></lightgreen2>: <description>","釋放一股會造成<lightgreen2><condition></lightgreen2>的衝擊波，但不會造成任何傷害。此攻擊會消耗所有靈魂碎片。<lightgreen2><condition></lightgreen2>的持續時間會依據消耗的靈魂碎片數而延長。
-劈風斬浪──擊中最少5個敵人可縮短衝擊波的冷卻時間。
+<lightgreen2><condition></lightgreen2>: <description>","釋放一股會造成<lightgreen2><condition></lightgreen2>的衝擊波，但不會造成任何<red></red>傷害。此攻擊會消耗所有靈魂碎片。<lightgreen2><condition></lightgreen2>的持續<red></red>時間會依據消耗的靈魂碎片數而延長。
+劈風斬浪──擊中最少5個敵人可縮短衝擊波的<red></red>冷卻時間。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1933,194283,Whirlwind,Lua/Weapons/Scythe.lua(00249),,,,,,Whirlwind,Whirlwind,旋風斬,,OK,,
@@ -4954,8 +4954,8 @@ This attack spends all Soul Shards. Duration of the Whirlwild is increased based
 
 This attack spends all Soul Shards. Duration of the Whirlwind is increased based on the number of Soul Shards spent.
 
-<lightgreen2><condition></lightgreen2>: <description>","開始旋轉，獲得<lightgreen2><condition></lightgreen2>加持並對周圍的敵人造成傷害。你可以控制旋風斬的移動方向。此攻擊會消耗所有靈魂碎片。旋風斬的持續時間會依據消耗的靈魂碎片數而延長。
-劈風斬浪──擊中最少5個敵人可縮短旋風斬的冷卻時間。
+<lightgreen2><condition></lightgreen2>: <description>","開始旋轉，獲得<lightgreen2><condition></lightgreen2>加持並對周圍的敵人造成傷<red></red>害。你可以控制旋風斬的移動方向。此攻擊會消<red></red>耗所有靈魂碎片。旋風斬的持續時間會依據<red></red>消耗<red></red>的靈魂碎片數而延長。
+劈風斬浪──擊中最少5個敵人可縮短旋風斬的<red></red>冷卻時間。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 4132,198395,"Begin to spin, gaining <lightgreen2><condition></lightgreen2> and damaging all enemies near you while shooting fast moving, low damage projectiles. You can move the Whirlwind via the movement buttons.
@@ -4971,10 +4971,10 @@ This attack spends all Soul Shards. Duration of the Whirlwind is increased based
 
 This attack spends all Soul Shards. Duration of the Whirlwind is increased based on the number of Soul Shards spent.
 
-<lightgreen2><condition></lightgreen2>: <description>","開始旋轉，獲得<lightgreen2><condition></lightgreen2>加持並對周圍的敵人造成傷害，同時射出快速、低傷害的投射物。你可以控制旋風斬的移動方向。
+<lightgreen2><condition></lightgreen2>: <description>","開始旋轉，獲得<lightgreen2><condition></lightgreen2>加持並對周圍的敵人造成傷<red></red>害，同時射出快速、低傷害的投射物。你可以控<red></red>制旋風斬的移動方向。
 
-此攻擊會消耗所有靈魂碎片。旋風斬的持續時間會依據消耗的靈魂碎片數而延長。
-劈風斬浪──擊中最少5個敵人可縮短旋風斬的冷卻時間。
+此攻擊會消耗所有靈魂碎片。旋風斬的持續時間<red></red>會依據消耗的靈魂碎片數而延長。
+劈風斬浪──擊中最少5個敵人可縮短旋風斬的<red></red>冷卻時間。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 4133,198395,"Send out a circular wave of force that inflicts <lightgreen2><condition></lightgreen2> and <lightgreen2><condition2></lightgreen2> but doesn't deal any damage.
@@ -4995,8 +4995,8 @@ This attack spends all Soul Shards. The duration of both conditions is increased
 <lightgreen2><condition></lightgreen2>: <description>
 <lightgreen2><condition2></lightgreen2>: <description2>","釋放一圈會造成<lightgreen2><condition></lightgreen2>和<lightgreen2><condition2></lightgreen2>的衝擊波，但不會造成任何傷害。
 
-此攻擊會消耗所有靈魂碎片。兩種狀態的持續時間會依據消耗的靈魂碎片數而延長。
-劈風斬浪──擊中最少5個敵人可縮短衝擊波的冷卻時間。
+此攻擊會消耗所有靈魂碎片。兩種狀態的持續時<red></red>間會依據消耗的靈魂碎片數而延長。
+劈風斬浪──擊中最少5個敵人可縮短衝擊波的<red></red>冷卻時間。
 
 <lightgreen2><condition></lightgreen2>：<description>
 <lightgreen2><condition2></lightgreen2>：<description2>",,OK,,
@@ -5014,7 +5014,7 @@ This attack spends all Soul Shards. The duration of both conditions is increased
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1940,194283,Aimed Shot,Lua/Weapons/Shotgun.lua(00224),,,,,,Aimed Shot,Aimed Shot,瞄準射擊,,OK,,
-1941,194283,Single target. Recharges whenever an enemy is killed with the Shotgun.,Lua/Weapons/Shotgun.lua(00225),,,,,,Single target. Recharges whenever an enemy is killed with the Shotgun.,Single target. Recharges whenever an enemy is killed with the Shotgun.,單一目標。以霰彈槍射殺敵人時會立即冷卻。,,OK,,
+1941,194283,Single target. Recharges whenever an enemy is killed with the Shotgun.,Lua/Weapons/Shotgun.lua(00225),,,,,,Single target. Recharges whenever an enemy is killed with the Shotgun.,Single target. Recharges whenever an enemy is killed with the Shotgun.,單一目標。射殺敵人時會立即冷卻。,,OK,,
 1942,194283,Point-Blank Shot,Lua/Weapons/Shotgun.lua(00261),,,,,,Point-Blank Shot,Point-Blank Shot,近程射擊,,OK,,
 1943,194283,"Multiple targets. Short range attack. Knocks back all enemies infront of you and applies the <lightgreen2><condition></lightgreen2> buff.
 
@@ -5032,7 +5032,7 @@ This attack spends all Soul Shards. The duration of both conditions is increased
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 4022,195942,"Single target attack that inflicts <lightgreen2><condition></lightgreen2>. Recharges whenever an enemy is killed with the Shotgun.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Shotgun.lua(00428),,,,,,,,"可造成<lightgreen2><condition></lightgreen2>的單一目標射擊。以霰彈槍射殺敵人時會立即冷卻。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Shotgun.lua(00428),,,,,,,,"可造成<lightgreen2><condition></lightgreen2>的單一目標射擊。射殺敵人時會<red></red>立即<red></red>冷卻。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 4023,195716,"A basic attack that pierces targets, hitting all enemis in a line. Time the attacks correctly to inflict the <lightgreen2><condition></lightgreen2> condition to the target.
@@ -5040,9 +5040,9 @@ This attack spends all Soul Shards. The duration of both conditions is increased
 <lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Shotgun.lua(00442),,,,,,,,"穿透目標的基本射擊，可對直線上的所有敵人造成傷害。抓準攻擊節奏可對目標造成<lightgreen2><condition></lightgreen2>。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
-4024,195716,Piercing attack. Recharges whenever an enemy is killed with the Shotgun.,Lua/Weapons/Shotgun.lua(00449),,,,,,,,穿透射擊。以霰彈槍射殺敵人時會立即冷卻。,,OK,,
+4024,195716,Piercing attack. Recharges whenever an enemy is killed with the Shotgun.,Lua/Weapons/Shotgun.lua(00449),,,,,,,,穿透射擊。射殺敵人時會立即冷卻。,,OK,,
 1944,194283,Sword,Lua/Weapons/Sword.lua(00003),,|gender,,,,Sword,Sword,長劍,M,OK,,
-1945,194283,The Sword is a fast melee weapon focused on critical hits. Its special attacks have additional effects on crit,Lua/Weapons/Sword.lua(00012),,,,,,The Sword is a fast melee weapon focused on critical hits. Its special attacks have additional effects on crit,The Sword is a fast melee weapon focused on critical hits. Its special attacks have additional effects on crit,長劍是一種快速近戰武器，攻擊重點在於暴擊。它的特殊攻擊在暴擊時會有額外效果。,,OK,,
+1945,194283,The Sword is a fast melee weapon focused on critical hits. Its special attacks have additional effects on crit,Lua/Weapons/Sword.lua(00012),,,,,,The Sword is a fast melee weapon focused on critical hits. Its special attacks have additional effects on crit,The Sword is a fast melee weapon focused on critical hits. Its special attacks have additional effects on crit,長劍是一種快速近戰武器，攻擊重點在於暴擊。它的招式在暴擊時會有額外效果。,,OK,,
 1946,194283,Use the third Sword Hack attack to inflict the Vulnerable condition to multiple enemies. Hit Vulnerable enemies with Slash or Dash to trigger the on-crit effects of these attacks,Lua/Weapons/Sword.lua(00013),,,,,,Use the third Sword Hack attack to inflict the Vulnerable condition to multiple enemies. Hit Vulnerable enemies with Slash or Dash to trigger the on-crit effects of these attacks,Use the third Sword Hack attack to inflict the Vulnerable condition to multiple enemies. Hit Vulnerable enemies with Slash or Dash to trigger the on-crit effects of these attacks,劍砍的第三刀可對多個敵人造成脆化。使用橫斬或直劈攻擊脆化的敵人可造成暴擊。,,OK,,
 1947,194283,Sword Hack,Lua/Weapons/Sword.lua(00071),,,,,,Sword Hack,Sword Hack,劍砍,,OK,,
 1948,194283,"A chain of basic attacks that hit multiple enemies. The third attack inflicts the <lightgreen2><condition></lightgreen2> condition to your enemies.
@@ -5061,17 +5061,17 @@ This attack spends all Soul Shards. The duration of both conditions is increased
 1953,194283,Dash,Lua/Weapons/Sword.lua(00263),,,,,,Dash,Dash,直劈,,OK,,
 4135,195942,"Single target attack that inflicts <lightgreen2><condition></lightgreen2> to your opponent. Whenever you score a critical hit all nearby enemies will get the <lightgreen2><condition></color> condition as well.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Sword.lua(00264),,,,,,,,"可對敵人造成<lightgreen2><condition></lightgreen2>的單一目標攻擊。暴擊時附近所有敵人也都會陷入<lightgreen2><condition></color>。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Sword.lua(00264),,,,,,,,"可對敵人造成<lightgreen2><condition></lightgreen2>的單一目標攻擊。暴擊時附近<red></red>所有敵人也都會陷入<lightgreen2><condition></color>。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 4136,195942,"Single target attack that inflicts <lightgreen2><condition></lightgreen2> to your opponent. Deals damage and inflicts the <lightgreen2><condition></color> condition to all nearby enemies on critical hit.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Sword.lua(00299),,,,,,,,"可對敵人造成<lightgreen2><condition></lightgreen2>的單一目標攻擊。暴擊時會對附近所有敵人造成傷害並使其<lightgreen2><condition></color>。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Sword.lua(00299),,,,,,,,"可對敵人造成<lightgreen2><condition></lightgreen2>的單一目標攻擊。暴擊時會對<red></red>附近所有敵人造成傷害並使其<lightgreen2><condition></color>。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1950,195942,"Knocks back a single enemy. Unleashes a slow-moving projectile that inflicts the <lightgreen2><condition></lightgreen2> condition to all enemies on its path. Will automatically recharge when you crit an enemy.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Sword.lua(00346),,,,,,Knock-backs a single enemy. Will automatically recharge when you crit an enemy.,Knock-backs a single enemy. Will automatically recharge when you crit an enemy.,"震退單一敵人。釋放一個慢速投射物，對路徑上的所有敵人造成<lightgreen2><condition></lightgreen2>。當暴擊敵人時會立即冷卻。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Sword.lua(00346),,,,,,Knock-backs a single enemy. Will automatically recharge when you crit an enemy.,Knock-backs a single enemy. Will automatically recharge when you crit an enemy.,"震退單一敵人。釋放一個慢速投射物，對路徑上的所有敵人造成<lightgreen2><condition></lightgreen2>。當暴擊敵人時會立即<red></red>冷卻<red></red>。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1954,195942,"Single target attack that inflicts <lightgreen2><condition></lightgreen2> to your opponent. Unleashes a slow-moving projectile that inflicts the <lightgreen2><condition2></lightgreen2> condition to all enemies on its path. Whenever you score a critical hit all nearby enemies will get the <lightgreen2><condition></lightgreen2> condition as well.
@@ -5086,7 +5086,7 @@ This attack spends all Soul Shards. The duration of both conditions is increased
 <lightgreen2><condition></lightgreen2>：<description>
 <lightgreen2><condition2></lightgreen2>：<description2>",,OK,,
 3509,196645,Tome,Lua/Weapons/TomeOfSouls.lua(00003),,|gender,,,,Tome of Souls,Tome of Souls,法典,M,OK,,
-3510,198395,The Tome is a medium range weapon with special attacks that can be used repeatedly without cooldowns.,Lua/Weapons/TomeOfSouls.lua(00010),,,,,,TomeOfSouls description,TomeOfSouls description,法典是一種中程武器，可以不需要冷卻，連續地使用特殊攻擊。,,OK,,
+3510,198395,The Tome is a medium range weapon with special attacks that can be used repeatedly without cooldowns.,Lua/Weapons/TomeOfSouls.lua(00010),,,,,,TomeOfSouls description,TomeOfSouls description,法典是一種中程武器，可以不需要冷卻，連續地使用招式。,,OK,,
 4323,198395,Open with Magic Missiles to inflict some damage and generate power orbs. Pick up the orbs and then unleash a cascade of Singularity Orbs to inflict devastating damage or use a series of Dimension Waves to navigate the battlefield and Daze all of your foes.,Lua/Weapons/TomeOfSouls.lua(00011),,,,,,,,魔法飛彈可造成些許傷害並產生能量寶珠。拾取寶珠後，可釋放一堆黑洞球造成毀滅性的破壞，或施展一連串的次元波穿梭戰場並暈眩所有敵人。,,OK,,
 3511,198395,Magic Missiles,Lua/Weapons/TomeOfSouls.lua(00067),,,,,,Soul Drain,Soul Drain,魔法飛彈,,OK,,
 3512,198919,"Fire short range magical projectiles that pierce targets dealing damage. Hold the button to increase fire rate.
@@ -5112,7 +5112,7 @@ Consumes one Arcane Power orb to recharge instantly
 
 <lightgreen2><condition_name></lightgreen2>: <condition_description>",Lua/Weapons/TomeOfSouls.lua(00169),,,,,,"Send out a wave of arcane energy that deals damage. The wave ramains at its end position for 4 sec.
 Consumes Arcane Power stack to recharge instantly","Send out a wave of arcane energy that deals damage. The wave remains at its end position for 4 sec.
-Consumes Arcane Power stack to recharge instantly","化成一股祕能波，快速穿過路徑上的所有敵人並造成<lightgreen2><condition_name></lightgreen2>。攻擊結束後會拾取半徑範圍內的所有祕能寶珠。
+Consumes Arcane Power stack to recharge instantly","化成一股祕能波，快速穿過路徑上的所有敵人並造成<lightgreen2><condition_name></lightgreen2>。攻擊結束後會拾取半徑範圍內的所有<red></red>祕能寶珠。
 消耗一顆祕能寶珠可立即冷卻。
 
 <lightgreen2><condition_name></lightgreen2>：<condition_description>",,OK,,
@@ -6476,14 +6476,14 @@ Casting a demon power while wielding a Tome grants <condition_name>.<condition_d
 100338,28897,Mess Hall,maps/Tutorial_Dungeon/objects.lua(01619),,,,,,Mess Hall,Mess Hall,食堂,,OK,,
 100339,28897,Mess Hall,maps/Tutorial_Dungeon/objects.lua(02142),,,,,,Mess Hall,Mess Hall,食堂,,OK,,
 100340,28897,Castle Courtyard,maps/Tutorial_Dungeon/objects.lua(04447),,,,,,Castle Courtyard,Castle Courtyard,城堡庭院,,OK,,
-100341,28897,Attack the dummies using your weapon's special attacks (<Attack2> and <Attack3>). Each weapon has a basic attack and two powerful special attacks with short cooldowns,maps/Tutorial_Dungeon/scenario.lua(00019),,Scenario Tutorial_Dungeon Text,,,,Attack the dummies using your weapon's special attacks (<Attack2> and <Attack3>). Each weapon has a basic attack and two powerful special attacks with short cooldowns,Attack the dummies using your weapon's special attacks (<Attack2> and <Attack3>). Each weapon has a basic attack and two powerful special attacks with short cooldowns,使用武器的特殊攻擊（<Attack2> 和 <Attack3>）攻擊假人。每種武器都有一個基本攻擊和兩個強力但需要短暫冷卻的特殊攻擊。,,OK,,
-100342,28897,Attack the dummies using your weapon's special attacks (<Y> or <B>). Each weapon has a basic attack and two powerful special attacks with short cooldowns,maps/Tutorial_Dungeon/scenario.lua(00020),,Scenario Tutorial_Dungeon GamepadText,,,,Attack the dummies using your weapon's special attacks (<Y> or <B>). Each weapon has a basic attack and two powerful special attacks with short cooldowns,Attack the dummies using your weapon's special attacks (<Y> or <B>). Each weapon has a basic attack and two powerful special attacks with short cooldowns,使用武器的特殊攻擊（<Y> 和 <B>）攻擊假人。每種武器都有一個基本攻擊和兩個強力但需要短暫冷卻的特殊攻擊。,,OK,,
+100341,28897,Attack the dummies using your weapon's special attacks (<Attack2> and <Attack3>). Each weapon has a basic attack and two powerful special attacks with short cooldowns,maps/Tutorial_Dungeon/scenario.lua(00019),,Scenario Tutorial_Dungeon Text,,,,Attack the dummies using your weapon's special attacks (<Attack2> and <Attack3>). Each weapon has a basic attack and two powerful special attacks with short cooldowns,Attack the dummies using your weapon's special attacks (<Attack2> and <Attack3>). Each weapon has a basic attack and two powerful special attacks with short cooldowns,使用武器的招式（<Attack2> 和 <Attack3>）攻擊假人。每種武器都有一個基本攻擊和兩個強力但需要短暫冷卻的招式。,,OK,,
+100342,28897,Attack the dummies using your weapon's special attacks (<Y> or <B>). Each weapon has a basic attack and two powerful special attacks with short cooldowns,maps/Tutorial_Dungeon/scenario.lua(00020),,Scenario Tutorial_Dungeon GamepadText,,,,Attack the dummies using your weapon's special attacks (<Y> or <B>). Each weapon has a basic attack and two powerful special attacks with short cooldowns,Attack the dummies using your weapon's special attacks (<Y> or <B>). Each weapon has a basic attack and two powerful special attacks with short cooldowns,使用武器的招式（<Y> 和 <B>）攻擊假人。每種武器都有一個基本攻擊和兩個強力但需要短暫冷卻的招式。,,OK,,
 100343,28897,Looks like you took some damage. Press <UseConsumable1> to use a healing potion,maps/Tutorial_Dungeon/scenario.lua(00039),,Scenario Tutorial_Dungeon Text,,,,Looks like you took some damage. Press <UseConsumable1> to use a healing potion,Looks like you took some damage. Press <UseConsumable1> to use a healing potion,你似乎受了點傷。按 <UseConsumable1> 使用治療藥水。,,OK,,
 100344,28897,Looks like you took some damage. Press <DPadLeft> to use a healing potion,maps/Tutorial_Dungeon/scenario.lua(00040),,Scenario Tutorial_Dungeon GamepadText,,,,Looks like you took some damage. Press <DPadLeft> to use a healing potion,Looks like you took some damage. Press <DPadLeft> to use a healing potion,你似乎受了點傷。按 <DPadLeft> 使用治療藥水。,,OK,,
 100345,28897,Collect your reward,maps/Tutorial_Dungeon/scenario.lua(00117),,Scenario Tutorial_Dungeon Text,,,,Collect your reward,Collect your reward,領取你的獎勵！,,OK,,
 100346,28897,Press <InventoryPC> to open your inventory and equip your new shotgun,maps/Tutorial_Dungeon/scenario.lua(00128),,Scenario Tutorial_Dungeon Text,,,,Press <InventoryPC> to open your inventory and equip your new shotgun,Press <InventoryPC> to open your inventory and equip your new shotgun,按 <InventoryPC> 打開物品欄並裝備新的霰彈槍。,,OK,,
 100347,28897,Press <Back> to open your inventory and equip your new shotgun,maps/Tutorial_Dungeon/scenario.lua(00129),,Scenario Tutorial_Dungeon GamepadText,,,,Press <Back> to open your inventory and equip your new shotgun,Press <Back> to open your inventory and equip your new shotgun,按 <Back> 打開物品欄並裝備新的霰彈槍。,,OK,,
-100348,28897,Test your new shotgun and its special attacks on the dummies,maps/Tutorial_Dungeon/scenario.lua(00145),,Scenario Tutorial_Dungeon Text,,,,Test your new shotgun and its special attacks on the dummies,Test your new shotgun and its special attacks on the dummies,用假人測試你的霰彈槍和特殊攻擊。,,OK,,
+100348,28897,Test your new shotgun and its special attacks on the dummies,maps/Tutorial_Dungeon/scenario.lua(00145),,Scenario Tutorial_Dungeon Text,,,,Test your new shotgun and its special attacks on the dummies,Test your new shotgun and its special attacks on the dummies,用假人測試你的霰彈槍和招式。,,OK,,
 100349,28897,The yellow bar next to your health bar is called Overdrive. Attack the dummies to build up Overdrive!,maps/Tutorial_Dungeon/scenario.lua(00167),,Scenario Tutorial_Dungeon Text,,,,The yellow bar next to your health bar is called Overdrive. Attack the dummies to build up Overdrive!,The yellow bar next to your health bar is called Overdrive. Attack the dummies to build up Overdrive!,生命右邊的那條黃色就是超能。攻擊假人來凝聚超能吧！,,OK,,
 100350,28897,Press <UseRune1> to activate a Demon Power. You can hold <UseRune1> to aim the demon power,maps/Tutorial_Dungeon/scenario.lua(00174),,Scenario Tutorial_Dungeon Text,,,,Press <UseRune1> to activate a Demon Power. You can hold <UseRune1> to aim the demon power,Press <UseRune1> to activate a Demon Power. You can hold <UseRune1> to aim the demon power,按 <UseRune1> 施展惡魔之力。按住 <UseRune1> 可以進行瞄準。,,OK,,
 100351,28897,Press <LT> to activate a Demon Power. You can hold <LT> to aim the demon power,maps/Tutorial_Dungeon/scenario.lua(00175),,Scenario Tutorial_Dungeon GamepadText,,,,Press <LT> to activate a Demon Power. You can hold <LT> to aim the demon power,Press <LT> to activate a Demon Power. You can hold <LT> to aim the demon power,按 <LT> 施展惡魔之力。按住 <LT> 可以進行瞄準。,,OK,,
