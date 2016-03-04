@@ -791,7 +791,7 @@ The majority of Destiny Card effects stack, either adding their bonuses together
 
 You begin the game with two slots for Destiny Cards and 4 Destiny Points. You will gain additional slots and points as you level up.
 
-The majority of Destiny Card effects stack, either adding their bonuses together or allowing the effect to trigger several times during the cooldown period.","你可以裝備命運牌來獲得各式各樣的被動能力。要裝備命運牌，你需要有空的牌槽和足夠的命運點。如果卡牌是獨一無二的，那你最多只能裝備一張一樣的牌。
+The majority of Destiny Card effects stack, either adding their bonuses together or allowing the effect to trigger several times during the cooldown period.","你可以裝備命運牌來獲得各式各樣的被動能力。要裝備命運牌，你需要有空的牌槽和足夠的命運點。如果牌是獨一無二的，那你最多只能裝備一張一樣的。
 
 開始遊戲時你會有2格命運牌槽和4點命運點，隨著等級提升你會獲得更多的牌槽和點數。
 
@@ -815,7 +815,7 @@ Double tap a direction key or press <Dodge> while moving to dodge away from atta
 
 Double tap a direction key or press <Dodge> while moving to dodge away from attacks. You can disable double tap to dodge from the Options (Gameplay).","按 <Move_CameraForward>、<Move_CameraLeft>、<Move_CameraBackward>、<Move_CameraRight> 移動。
 
-雙擊方向鍵或在移動時按 <Dodge> 以翻滾來閃避攻擊。你可以在選項（遊戲體驗）中關閉雙擊翻滾。",,OK,,
+雙擊方向鍵或在移動時按 <Dodge> 以翻滾來閃避攻擊。你可以在選項（操作）中關閉雙擊翻滾。",,OK,,
 2155,195716,"Point and press <Attack1> to move to that point. Use <Goto> to force the character to move to a point even if there's a monster there.
 
 Use <Dodge_CursorForward> to dodge to pointer. Use <Dodge_CameraForward> to dodge forward (camera relative). Use <Dodge_CameraBackward> to dodge back (camera relative). Use dodge to avoid enemy attacks.",Data/CodexEntry.lua(00060),,CodexEntry Hint_Movement MouseDescription,,,,"Point and press <Attack1> to move to that point. Use <Goto> to force the character to move to a point even if there's a monster there.
@@ -909,7 +909,7 @@ Armor (<imagescale 40><image UI/Common/armor.tga>) - Provides a chance to reduce
 
 Armor Penetration (<imagescale 40><image UI/Common/armor_penalty.tga>) - Allows you to ignore some of the enemy Armor
 
-Cooldown (<imagescale 40><image UI/Common/cooldown.tga>) - The duration of the skill's cooldown","傷害（<imagescale 40><image UI/Common/damage.tga>） - 物品或技能造成的傷害大小。
+Cooldown (<imagescale 40><image UI/Common/cooldown.tga>) - The duration of the skill's cooldown","傷害（<imagescale 40><image UI/Common/damage.tga>） - 物品或招式造成的傷害大小。
 
 暴擊率（<imagescale 40><image UI/Common/critical_chance.tga>） - 攻擊造成暴擊的機率。每種武器的暴擊率各不相同。
 
@@ -921,7 +921,7 @@ Cooldown (<imagescale 40><image UI/Common/cooldown.tga>) - The duration of the s
 
 護甲穿透（<imagescale 40><image UI/Common/armor_penalty.tga>） - 無視敵人部分防禦。
 
-冷卻時間（<imagescale 40><image UI/Common/cooldown.tga>） - 技能冷卻需要的時間。",,OK,,
+冷卻時間（<imagescale 40><image UI/Common/cooldown.tga>） - 招式冷卻需要的時間。",,OK,,
 4231,196977,Overkill,Data/CodexEntry.lua(00086),,CodexEntry Hint_Overkill DisplayName,,,,,,絕殺,,OK,,
 4232,196977,To overkill a monster inflict massive damage to it with the killing blow. Overkill is more likely to happen when a strong attack is used against a monster at low health.,Data/CodexEntry.lua(00087),,CodexEntry Hint_Overkill Description,,,,,,想打出絕殺必須對怪物最後一擊時給予極大的傷害。在怪物的生命低下時使用強力攻擊更有機會打出絕殺。,,OK,,
 4273,197475,Bounties & Treasure Hunts,Data/CodexEntry.lua(00092),,CodexEntry Hint_Bounties DisplayName,,,,,,懸賞與尋寶,,OK,,
@@ -1516,8 +1516,8 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 2660,194283,Fill your overdrive bar and use a demon power,Data/Quest.lua(00228),,,,,,Fill your overdrive bar and use a demon power,Fill your overdrive bar and use a demon power,聚滿超能條後使用惡魔之力,,OK,,
 2661,194283,Fill your overdrive bar and use a demon power,Data/Quest.lua(00229),,,,,,Fill your overdrive bar and use a demon power,Fill your overdrive bar and use a demon power,聚滿超能條後使用惡魔之力,,OK,,
 2662,194283,Defeat The Skeletons,Data/Quest.lua(00241),,,,,,Defeat The Skeletons,Defeat The Skeletons,擊敗骷髏,,OK,,
-2663,194283,Use what you've learned to defeat the monsters in the next room,Data/Quest.lua(00242),,,,,,Use what you've learned to defeat the monsters in the next room,Use what you've learned to defeat the monsters in the next room,使用所學的各種技能擊敗下一房間的怪物,,OK,,
-2664,194283,Use what you've learned to defeat the monsters in the next room,Data/Quest.lua(00243),,,,,,Use what you've learned to defeat the monsters in the next room,Use what you've learned to defeat the monsters in the next room,使用所學的各種技能擊敗下一房間的怪物,,OK,,
+2663,194283,Use what you've learned to defeat the monsters in the next room,Data/Quest.lua(00242),,,,,,Use what you've learned to defeat the monsters in the next room,Use what you've learned to defeat the monsters in the next room,使用學到的招數擊敗下一房間的怪物,,OK,,
+2664,194283,Use what you've learned to defeat the monsters in the next room,Data/Quest.lua(00243),,,,,,Use what you've learned to defeat the monsters in the next room,Use what you've learned to defeat the monsters in the next room,使用學到的招數擊敗下一房間的怪物,,OK,,
 2665,194283,Weapons,Data/Quest.lua(00253),,,,,,Weapons,Weapons,武器,,OK,,
 2666,194283,Equip a shotgun,Data/Quest.lua(00254),,,,,,Equip a shotgun,Equip a shotgun,裝備霰彈槍,,OK,,
 2667,194283,Collect your reward and equip the new weapon via the inventory,Data/Quest.lua(00255),,,,,,Collect your reward and equip the new weapon via the inventory,Collect your reward and equip the new weapon via the inventory,領取獎勵後從物品欄裝備新武器,,OK,,
@@ -2542,7 +2542,7 @@ Tag <UseDefaultEmote> not present in original text",
 634,194283,Efficient <name>,Lua/LootWeapon.lua(00169),,masculine,,,,Efficient <name>,Efficient <name>,極效<name>,,OK,,
 3707,195189,Efficient <name>,Lua/LootWeapon.lua(00170),,feminine,,,,,,極效<name>,,OK,,
 3708,195189,Efficient <name>,Lua/LootWeapon.lua(00171),,neuter,,,,,,極效<name>,,OK,,
-635,194283,<param>% faster weapon skill cooldowns,Lua/LootWeapon.lua(00172),,,,,,<param>% faster weapon skill cooldowns,<param>% faster weapon skill cooldowns,武器技能冷卻時間加快<param>%。,,OK,,
+635,194283,<param>% faster weapon skill cooldowns,Lua/LootWeapon.lua(00172),,,,,,<param>% faster weapon skill cooldowns,<param>% faster weapon skill cooldowns,武器招式冷卻時間加快<param>%。,,OK,,
 636,194283,Greedy <name>,Lua/LootWeapon.lua(00181),,masculine,,,,Greedy <name>,Greedy <name>,貪婪<name>,,OK,,
 3709,195189,Greedy <name>,Lua/LootWeapon.lua(00182),,feminine,,,,,,貪婪<name>,,OK,,
 3710,195189,Greedy <name>,Lua/LootWeapon.lua(00183),,neuter,,,,,,貪婪<name>,,OK,,
@@ -3087,7 +3087,7 @@ Reduces weapon cooldowns by <cooldown_reduction>%",Lua/Outfit.lua(00446),,,,,,,,
 4159,196097,Use in Transmutation to improve the primary and secondary property of a Demon Power,Lua/PowerStone.lua(00057),,,,,,,,用於合成可提升惡魔之力的基本和第二屬性。,,OK,,
 4389,198395,Increases damage,Lua/PowerStone.lua(00065),,,,,,,,提升傷害。,,OK,,
 4390,198395,Overdrive meter fills faster,Lua/PowerStone.lua(00066),,,,,,,,超能凝聚速度加快。,,OK,,
-4391,198395,Faster weapon skill cooldowns,Lua/PowerStone.lua(00067),,,,,,,,武器技能冷卻時間加快。,,OK,,
+4391,198395,Faster weapon skill cooldowns,Lua/PowerStone.lua(00067),,,,,,,,武器招式冷卻時間加快。,,OK,,
 4392,198395,Killed monsters drop extra gold,Lua/PowerStone.lua(00068),,,,,,,,擊殺怪物掉落更多金幣。,,OK,,
 4393,198395,Increases critical damage,Lua/PowerStone.lua(00069),,,,,,,,提升暴擊傷害。,,OK,,
 4394,198395,Adds armor penetration,Lua/PowerStone.lua(00070),,,,,,,,提升護甲穿透。,,OK,,
@@ -3446,7 +3446,7 @@ Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>","超能凝聚速度加快。
 4058,195942,Efficient,Lua/Transmutation.lua(00206),,,,,,,,極效,,OK,,
 4059,195942,"Faster weapon skill cooldowns
 
-Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00206),,,,,,,,"武器技能冷卻時間加快。
+Recipe: <rune_icon_1><rune_icon_2><rune_icon_3>",Lua/Transmutation.lua(00206),,,,,,,,"武器招式冷卻時間加快。
 
 配方：<rune_icon_1><rune_icon_2><rune_icon_3>",,OK,,
 4060,195942,Greedy,Lua/Transmutation.lua(00207),,,,,,,,貪婪,,OK,,
@@ -4401,7 +4401,7 @@ Check your Codex to see the standard recipes. Some recipes are secret and will n
 1543,197294,May we contact you for further info? Enter your email address here:,Lua/UIDesignerData/EABugReportDlg.lua(00186),,default,,,,May we contact you for further info about that bug report? Enter your email address here:,May we contact you for further info about that bug report? Enter your email address here:,我們可以聯繫您，取得進一步資訊嗎？在此輸入您的電子郵件地址：,,OK,,
 1549,194283,Thank you for the feedback,Lua/UIDesignerData/FeedBack.lua(00037),,thanks,,,,Thank you for the feedback,Thank you for the feedback,感謝您的回報,,OK,,
 1552,194283,Complete!,Lua/UIDesignerData/HeadsUpDisplay.lua(00764),,Hero_Common,,,,Complete!,Complete!,完成！,,OK,,
-1553,194283,New!,Lua/UIDesignerData/HeadsUpDisplay.lua(00783),,Hero_Common,,,,New!,New!,新！,,OK,,
+1553,194283,New!,Lua/UIDesignerData/HeadsUpDisplay.lua(00783),,Hero_Common,,,,New!,New!,新任務,,OK,,
 1554,194283,Return to Hub,Lua/UIDesignerData/HeroDeathDlg.lua(00053),,default,,,,Return to Hub,Return to Hub,返回總部,,OK,,
 1555,194283,Respawn,Lua/UIDesignerData/HeroDeathDlg.lua(00085),,default,,,,Respawn,Respawn,重生,,OK,,
 1556,194283,You have been defeated.,Lua/UIDesignerData/HeroDeathDlg.lua(00102),,default,,,,You have been defeated.,You have been defeated.,你被擊敗了。,,OK,,
