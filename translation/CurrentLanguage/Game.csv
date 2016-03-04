@@ -4280,7 +4280,7 @@ Code ""<err>""","抱歉，伺服器回傳一個錯誤。
 3655,195030,Choose your control scheme,Lua/UI/PreGameMenu.lua(00470),,,,,,,,選擇你的操作方式,,OK,,
 1513,194283,Exit game?,Lua/UI/PreGameMenu.lua(00478),,,,,,Exit game?,Exit game?,離開遊戲？,,OK,,
 1506,194283,Play,Lua/UI/PreGameMenu.lua(00586),,,,,,Play,Play,開始遊戲,,OK,,
-1507,194283,Online,Lua/UI/PreGameMenu.lua(00603),,,,,,Online,Online,連線,,OK,,
+1507,194283,Online,Lua/UI/PreGameMenu.lua(00603),,,,,,Online,Online,線上,,OK,,
 3935,196015,Save Slot,Lua/UI/PreGameMenu.lua(00612),,,,,,Change Character,Change Character,存檔,,OK,,
 1508,194283,Achievements,Lua/UI/PreGameMenu.lua(00620),,,,,,Achievements,Achievements,成就,,OK,,
 1510,194283,Options,Lua/UI/PreGameMenu.lua(00628),,,,,,Options,Options,選項,,OK,,
