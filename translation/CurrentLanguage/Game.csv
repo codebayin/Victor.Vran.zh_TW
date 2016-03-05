@@ -1532,7 +1532,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 39,194283,Fear,Lua/Buff.lua(00857),,,,,,,,恐懼,,OK,,
 40,194283,Retreating; unable to attack,Lua/Buff.lua(00859),,,,,,,,逃跑，無法攻擊。,,OK,,
 41,194283,Bleeding,Lua/Buff.lua(00907),,,,,,,,流血,,OK,,
-42,195390,Deals <hps>% of the maximum health but no more than <max_dmg> damage every second. Bleeding can't kill the target,Lua/Buff.lua(00909),,,,,,,,每秒造成最大生命<hps>%傷害，但不超過<red></red><max_dmg>。流血不會使目標死亡。,,OK,,
+42,195390,Deals <hps>% of the maximum health but no more than <max_dmg> damage every second. Bleeding can't kill the target,Lua/Buff.lua(00909),,,,,,,,每秒造成最大生命<hps>%傷害，但<red></red>不<red></red>超<red></red>過<red></red><max_dmg>。流血不會使目標死亡。,,OK,,
 43,194283,Speed,Lua/Buff.lua(00931),,,,,,,,加速,,OK,,
 44,194283,Movement and attack speeds are increased by <number>%,Lua/Buff.lua(00932),,,,,,,,提升<number>%移動和攻擊速度。,,OK,,
 45,194283,Quickness,Lua/Buff.lua(00943),,,,,,,,快手,,OK,,
@@ -1542,7 +1542,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 49,194283,Frost,Lua/Buff.lua(00966),,,,,,,,結霜,,OK,,
 50,200080,Movement and attack speeds are decreased by <number>%,Lua/Buff.lua(00968),,,,,,,,降低<number>%移動和攻擊速度。,,changed,,
 51,194283,Frostburn,Lua/Buff.lua(00979),,,,,,,,凍傷,,OK,,
-52,194283,Deals <number1> damage every second. Movement and attack speeds are decreased by <number2>%,Lua/Buff.lua(00981),,,,,,,,每秒造成<number1>傷害。降低<number2>%移動和攻擊<red></red>速度。,,OK,,
+52,194283,Deals <number1> damage every second. Movement and attack speeds are decreased by <number2>%,Lua/Buff.lua(00981),,,,,,,,每秒造成<number1>傷害。降低<number2>%移<red></red>動<red></red>和<red></red>攻<red></red>擊<red></red>速<red></red>度。,,OK,,
 53,194283,Burning,Lua/Buff.lua(00999),,,,,,,,燒傷,,OK,,
 54,194283,Deals <number> damage every second,Lua/Buff.lua(01001),,,,,,,,每秒造成<number>傷害。,,OK,,
 55,194283,Slow,Lua/Buff.lua(01034),,,,,,,,遲鈍,,OK,,
@@ -1552,7 +1552,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 59,194283,Slowed,Lua/Buff.lua(01060),,,,,,,,緩速,,OK,,
 60,194283,Movement and attack speeds are decreased by <number>%,Lua/Buff.lua(01062),,,,,,,,降低<number>%移動和攻擊速度。,,OK,,
 61,194283,Thorns,Lua/Buff.lua(01075),,,,,,,,荊棘,,OK,,
-62,198395,Reflects <number>% of any melee damage back to its source. Reflected damage is calculated before Armor and also ignores enemy Armor.,Lua/Buff.lua(01076),,,,,,,,反彈<number>%近戰傷害，反彈的傷害會無視敵人的<red></red>防禦。,,OK,,
+62,198395,Reflects <number>% of any melee damage back to its source. Reflected damage is calculated before Armor and also ignores enemy Armor.,Lua/Buff.lua(01076),,,,,,,,反彈<number>%近戰傷害，反彈的傷害會無視<red></red>敵<red></red>人<red></red>的<red></red>防<red></red>禦。,,OK,,
 63,194283,Hard Skin,Lua/Buff.lua(01085),,,,,,,,硬皮,,OK,,
 64,194283,Incoming damage is decreased by <number>%,Lua/Buff.lua(01086),,,,,,,,降低<number>%所受傷害。,,OK,,
 65,194283,Weakness,Lua/Buff.lua(01093),,,,,,,,力竭,,OK,,
@@ -1569,7 +1569,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 76,194283,Invisibility,Lua/Buff.lua(01166),,,,,,,,隱形,,OK,,
 77,194283,Invisible for enemies; cannot be attacked,Lua/Buff.lua(01168),,,,,,,,敵人看不到，不會被攻擊。,,OK,,
 78,194283,Curse,Lua/Buff.lua(01205),,,,,,,,詛咒,,OK,,
-79,194283,"Deals damage every second (<number1> + <number2>% of the maximum health). When a cursed enemy dies, nearby enemies regain <number3>% of their health",Lua/Buff.lua(01207),,,,,,,,每秒造成傷害（<number1> + 最大生命<number2>%）。當一個<red></red>被<red></red>詛咒的敵人死亡時，附近的敵人會恢復自身生命<number3>%。,,OK,,
+79,194283,"Deals damage every second (<number1> + <number2>% of the maximum health). When a cursed enemy dies, nearby enemies regain <number3>% of their health",Lua/Buff.lua(01207),,,,,,,,每秒造成傷害（<number1> + 最大生命<number2>%）。<red></red>當<red></red>一<red></red>個<red></red>被<red></red>詛<red></red>咒的敵人死亡時，附近的敵人會恢復自身<red></red>生命<number3>%。,,OK,,
 80,194283,Deadly Curse,Lua/Buff.lua(01245),,,,,,,,死咒,,OK,,
 81,194283,Death in <number> seconds,Lua/Buff.lua(01247),,,,,,,,<number>秒後必死。,,OK,,
 82,194283,Berserk,Lua/Buff.lua(01258),,,,,,,,狂暴,,OK,,
@@ -1597,7 +1597,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 3941,195716,Aether Charge,Lua/Buff.lua(01451),,,,,,,,以太聚能,,OK,,
 3942,198919,Stack 10 charges to unleash powerful effects from legendary weapons,Lua/Buff.lua(01453),,,,,,,,累積10次聚能後可釋放傳奇武器強大的力量。,,OK,,
 102,194283,Soul Shard,Lua/Buff.lua(01539),,,,,,,,靈魂碎片,,OK,,
-103,194283,"The scythe's cursed blade rips a piece of the enemy soul with each hit, empowering the next special attack",Lua/Buff.lua(01541),,,,,,,,鐮刀受詛咒的刀刃每一擊都會扯下一<red></red>片敵人的靈魂，為下一發招式提供力量。,,OK,,
+103,194283,"The scythe's cursed blade rips a piece of the enemy soul with each hit, empowering the next special attack",Lua/Buff.lua(01541),,,,,,,,鐮刀受詛咒的刀刃每一擊都<red></red>會<red></red>扯<red></red>下<red></red>一<red></red>片敵人的靈魂，為下一發招式提供力量。,,OK,,
 104,194283,Arcane Power,Lua/Buff.lua(01566),,,,,,,,祕能,,OK,,
 105,198919,Use Arcane Power stacks to recharge Tome attacks instantly,Lua/Buff.lua(01568),,,,,,,,累積的祕能可立即冷卻法典招式。,,OK,,
 106,194283,Blocked Overdrive,Lua/Buff.lua(01579),,,,,,,,封鎖超能,,OK,,
@@ -1695,7 +1695,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 181,194283,The Guardian,Lua/DestinyCard.lua(01019),,,,,,,,守護者,,OK,,
 182,194283,The Divine Guardian,Lua/DestinyCard.lua(01020),,,,,,,,神聖守護者,,OK,,
 183,194283,The Wicked Guardian,Lua/DestinyCard.lua(01021),,,,,,,,邪惡守護者,,OK,,
-184,198395,"Release an explosion when hit in melee (<lightgreen><damage></lightgreen> damage, <lightgreen><chance>%</lightgreen> chance) that ignores armor. The explosion has a chance to Electrocute foes",Lua/DestinyCard.lua(01033),,,,,,,,近戰擊中時引發無視防禦的爆炸（<lightgreen><damage></lightgreen>傷害，<lightgreen><chance>%</lightgreen>機率）<red></red>。<red></red>爆<red></red>炸有<red></red>機率會使敵人觸電。,,OK,,
+184,198395,"Release an explosion when hit in melee (<lightgreen><damage></lightgreen> damage, <lightgreen><chance>%</lightgreen> chance) that ignores armor. The explosion has a chance to Electrocute foes",Lua/DestinyCard.lua(01033),,,,,,,,近戰擊中時引發無視防禦的爆炸（<lightgreen><damage></lightgreen>傷害，<lightgreen><chance>%</lightgreen>機<red></red>率<red></red>）<red></red>。<red></red>爆<red></red>炸<red></red>有<red></red>機率會使敵人觸電。,,OK,,
 185,194283,The Runner,Lua/DestinyCard.lua(01066),,,,,,,,跑者,,OK,,
 186,194283,The Divine Runner,Lua/DestinyCard.lua(01067),,,,,,,,神聖跑者,,OK,,
 187,194283,The Wicked Runner,Lua/DestinyCard.lua(01068),,,,,,,,邪惡跑者,,OK,,
@@ -1720,7 +1720,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 206,194283,The Moon,Lua/DestinyCard.lua(01174),,,,,,,,月亮,,OK,,
 207,194283,The Divine Moon,Lua/DestinyCard.lua(01175),,,,,,,,神聖月亮,,OK,,
 208,194283,The Wicked Moon,Lua/DestinyCard.lua(01176),,,,,,,,邪惡月亮,,OK,,
-209,198395,"Cause a frost explosion on crit (<lightgreen><damage></lightgreen> damage, <cooldown> sec. cooldown) that ignores armor. All targets gain the <lightgreen2><condition_name></lightgreen2> condition.<condition_description>",Lua/DestinyCard.lua(01190),,,,,,,,暴擊時引發無視防禦的寒氣爆炸（<lightgreen><damage></lightgreen>傷害，冷卻時間<cooldown>秒<red></red>）<red></red>。所<red></red>有目標附加<lightgreen2><condition_name></lightgreen2>狀態。<condition_description>,,OK,,
+209,198395,"Cause a frost explosion on crit (<lightgreen><damage></lightgreen> damage, <cooldown> sec. cooldown) that ignores armor. All targets gain the <lightgreen2><condition_name></lightgreen2> condition.<condition_description>",Lua/DestinyCard.lua(01190),,,,,,,,暴擊時引發無視防禦的寒氣爆炸（<lightgreen><damage></lightgreen>傷害，冷卻時間<cooldown>秒<red></red>）。<red></red>所<red></red>有<red></red>目標附加<lightgreen2><condition_name></lightgreen2>狀態。<condition_description>,,OK,,
 210,194283,The Sun,Lua/DestinyCard.lua(01229),,,,,,,,太陽,,OK,,
 211,194283,The Divine Sun,Lua/DestinyCard.lua(01230),,,,,,,,神聖太陽,,OK,,
 212,194283,The Wicked Sun,Lua/DestinyCard.lua(01231),,,,,,,,邪惡太陽,,OK,,
@@ -2776,9 +2776,9 @@ Reduces weapon cooldowns by <cooldown_reduction>%",Lua/Outfit.lua(00446),,,,,,,,
 898,194283,+<gold> Gold,Lua/PlayerProfile.lua(01131),,,,,,,,+<gold>金幣,,OK,,
 899,194283,Healing Potion,Lua/Potion.lua(00073),,,,,,,,治療藥水,,OK,,
 900,194283,Ambrosia,Lua/Potion.lua(00094),,,,,,,,瓊漿玉露,,OK,,
-901,196259,Restores 100% health and refreshes the cooldowns of all attacks and Demon Powers,Lua/Potion.lua(00120),,,,,,,,恢復100%生命並重置所有攻擊和惡魔之力的冷卻<red></red>時間。,,OK,,
+901,196259,Restores 100% health and refreshes the cooldowns of all attacks and Demon Powers,Lua/Potion.lua(00120),,,,,,,,恢復100%生命並重置所有攻擊和惡魔之力的<red></red>冷<red></red>卻<red></red>時<red></red>間。,,OK,,
 902,194283,Med Kit,Lua/Potion.lua(00145),,,,,,,,醫療包,,OK,,
-903,194283,Unlimited use. Restores <number> health and removes one negative effect. Heals extra <number2> health if an effect is removed.,Lua/Potion.lua(00153),,,,,,,,無限使用。恢復<number>生命並消除一項負面狀態。<red></red>如果消除一項狀態再額外恢復<number2>生命。,,OK,,
+903,194283,Unlimited use. Restores <number> health and removes one negative effect. Heals extra <number2> health if an effect is removed.,Lua/Potion.lua(00153),,,,,,,,無限使用。恢復<number>生命並消除一項負面<red></red>狀<red></red>態。<red></red>如果消除一項狀態再額外恢復<number2>生命。,,OK,,
 4050,195942,Greater Med Kit,Lua/Potion.lua(00179),,,,,,,,大醫療包,,OK,,
 4199,196416,Superior Med Kit,Lua/Potion.lua(00193),,,,,,,,超級醫療包,,OK,,
 904,194283,Vampire Blood,Lua/Potion.lua(00208),,,,,,,,吸血鬼之血,,OK,,
@@ -2981,7 +2981,7 @@ Reduces weapon cooldowns by <cooldown_reduction>%",Lua/Outfit.lua(00446),,,,,,,,
 1036,195390,"Teleport next to the target dealing damage and applying the <lightgreen2><condition_name></lightgreen2> condition to it. Also, gain speed for several seconds.
 
 Damage: <lightgreen><min_damage> - <max_damage></lightgreen>
-Accelerated speed: <lightgreen2><buff_duration_s>.<buff_duration_d></lightgreen2> sec<condition_description>",Lua/RuneTypes.lua(00011),,,,,,,,"瞬移到目標身邊造成傷害，並給目標附加<lightgreen2><condition_name></lightgreen2>狀<red></red>態。同時獲得<red></red>加速，持續數秒。
+Accelerated speed: <lightgreen2><buff_duration_s>.<buff_duration_d></lightgreen2> sec<condition_description>",Lua/RuneTypes.lua(00011),,,,,,,,"瞬移到目標身邊造成傷害，並給目標附加<lightgreen2><condition_name></lightgreen2>狀<red></red>態。<red></red>同<red></red>時<red></red>獲<red></red>得<red></red>加<red></red>速，持續數秒。
 
 傷害：<lightgreen><min_damage>-<max_damage></lightgreen>。
 加速：<lightgreen2><buff_duration_s>.<buff_duration_d></lightgreen2>秒。<condition_description>",,OK,,
@@ -2998,7 +2998,7 @@ Chance to Reflect Projectiles: <lightgreen><deflect_chance>%</lightgreen>",Lua/R
 
 Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec
 Allies: +<lightgreen><ally_damage>%</lightgreen> more damage
-Enemies: +<lightgreen><enemy_damage>%</lightgreen> more damage<condition_description>",Lua/RuneTypes.lua(00241),,,,,,,,"產生一圈氣場，提升範圍內所有敵人和戰友的輸出傷害。獲得<lightgreen2><condition_name></lightgreen2>，持續<lightgreen><duration_s>.<duration_d></lightgreen>秒。此惡魔之力<red></red>作用時不會凝聚超能。
+Enemies: +<lightgreen><enemy_damage>%</lightgreen> more damage<condition_description>",Lua/RuneTypes.lua(00241),,,,,,,,"產生一圈氣場，提升範圍內所有敵人和戰友的輸出傷害。獲得<lightgreen2><condition_name></lightgreen2>，持續<lightgreen><duration_s>.<duration_d></lightgreen>秒。此<red></red>惡<red></red>魔<red></red>之<red></red>力<red></red>作<red></red>用<red></red>時<red></red>不<red></red>會凝聚超能。
 
 持續時間：<lightgreen><duration_s>.<duration_d></lightgreen>秒。
 戰友：+<lightgreen><ally_damage>%</lightgreen>傷害。
@@ -3015,7 +3015,7 @@ Boomerang Radius: <lightgreen><radius_m>.<radius_cm></lightgreen> m",Lua/RuneTyp
 1044,195716,"Call for a number of meteors to strike an area ahead of you. Each meteor deals damage to all enemies in <radius_m>.<radius_cm> m radius.
 
 Damage per Meteor: <lightgreen><min_damage> - <max_damage></lightgreen>
-Number of Meteors: <lightgreen><num_projectiles></lightgreen>",Lua/RuneTypes.lua(00517),,,,,,,,"召喚數顆隕石攻擊指定區域。每顆隕石會對<radius_m>.<radius_cm>公尺半徑內的<red></red>所有<red></red>敵人造成傷害。
+Number of Meteors: <lightgreen><num_projectiles></lightgreen>",Lua/RuneTypes.lua(00517),,,,,,,,"召喚數顆隕石攻擊指定區域。每顆隕石會對<red></red><radius_m>.<radius_cm>公尺半徑<red></red>內<red></red>的<red></red>所<red></red>有<red></red>敵<red></red>人<red></red>造成傷害。
 
 每顆隕石傷害：<lightgreen><min_damage>-<max_damage></lightgreen>。
 隕石數量：<lightgreen><num_projectiles></lightgreen>。",,OK,,
@@ -3023,7 +3023,7 @@ Number of Meteors: <lightgreen><num_projectiles></lightgreen>",Lua/RuneTypes.lua
 1046,196645,"Unleash 3 consecutive shockwaves that push back all enemies dealing damage and <lightgreen2>Crippling</lightgreen2> them for <buff_duration> seconds.
 
 Damage per Shockwave: <lightgreen><min_damage> - <max_damage></lightgreen>
-Shockwave Radius: <lightgreen><radius_m>.<radius_cm></lightgreen> m<condition_description>",Lua/RuneTypes.lua(00620),,,,,,,,"釋放三道連續的衝擊波震退敵人，造成傷害並導致敵人<lightgreen2>癱瘓</lightgreen2>，持續<red></red><buff_duration>秒。
+Shockwave Radius: <lightgreen><radius_m>.<radius_cm></lightgreen> m<condition_description>",Lua/RuneTypes.lua(00620),,,,,,,,"釋放三道連續的衝擊波震退敵人，造成傷害並導致敵人<lightgreen2>癱瘓</lightgreen2>，<red></red>持<red></red>續<red></red><buff_duration>秒。
 
 每道衝擊波傷害：<lightgreen><min_damage>-<max_damage></lightgreen>。
 衝擊波半徑：<lightgreen><radius_m>.<radius_cm></lightgreen>公尺。<condition_description>",,OK,,
@@ -3056,7 +3056,7 @@ Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec",Lua/RuneTypes.
 1055,196259,"Create a healing aura around you and gain <lightgreen2><condition_name></lightgreen2> for <lightgreen><duration_s>.<duration_d></lightgreen> sec. The aura restores health to you and every ally below 50% health inside the aura. You don't gain Overdrive while this Demon Power is active.
 
 Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec
-Health per Second: <lightgreen><hps>%</lightgreen><condition_description>",Lua/RuneTypes.lua(01206),,,,,,,,"產生一個圍繞自己的治療氣場，獲得<lightgreen2><condition_name></lightgreen2>，持續<lightgreen><duration_s>.<duration_d></lightgreen>秒。氣<red></red>場會治<red></red>療你和範圍內所有生命低於<red></red>50%的戰友。此惡魔之力<red></red>作用時不會凝<red></red>聚超能。
+Health per Second: <lightgreen><hps>%</lightgreen><condition_description>",Lua/RuneTypes.lua(01206),,,,,,,,"產生一個圍繞自己的治療氣場，獲得<lightgreen2><condition_name></lightgreen2>，持續<lightgreen><duration_s>.<duration_d></lightgreen>秒。<red></red>氣<red></red>場<red></red>會<red></red>治<red></red>療<red></red>你和範圍內所有生命低於<red></red>50%的戰友。此<red></red>惡<red></red>魔<red></red>之<red></red>力<red></red>作<red></red>用<red></red>時<red></red>不<red></red>會<red></red>凝<red></red>聚超能。
 
 持續時間：<lightgreen><duration_s>.<duration_d></lightgreen>秒。
 每秒恢復生命：<lightgreen><hps>%</lightgreen>。<condition_description>",,OK,,
@@ -3072,7 +3072,7 @@ Seeking Projectiles: <lightgreen><num_projectiles></lightgreen><condition_descri
 1061,195716,"Turn into a cloud of poisonous dark mist dealing damage to all enemies inside. Affected enemies take <lightgreen2><condition_name></lightgreen2> for <buff_duration> sec. You don't gain Overdrive and can't use skills while this Demon Power is active.
 
 Damage per Second: <lightgreen><min_damage> - <max_damage></lightgreen>
-Rune Duration: <lightgreen><rune_duration_s>.<rune_duration_d></lightgreen> sec<condition_description>",Lua/RuneTypes.lua(01461),,,,,,,,"化成一團黑色毒霧對範圍內的所有敵人造成傷害。使敵人<lightgreen2><condition_name></lightgreen2>，持<red></red>續<buff_duration>秒。此惡魔之力作用時不會<red></red>凝聚超能，也無法使用其它攻擊<red></red>。
+Rune Duration: <lightgreen><rune_duration_s>.<rune_duration_d></lightgreen> sec<condition_description>",Lua/RuneTypes.lua(01461),,,,,,,,"化成一團黑色毒霧對範圍內的所有敵人造成傷害。使敵人<lightgreen2><condition_name></lightgreen2>，<red></red>持<red></red>續<buff_duration>秒。<red></red>此惡魔之力作用時<red></red>不<red></red>會<red></red>凝<red></red>聚<red></red>超<red></red>能，<red></red>也無法使用其它攻擊<red></red>。
 
 每秒傷害：<lightgreen><min_damage>-<max_damage></lightgreen>。
 持續時間：<lightgreen><rune_duration_s>.<rune_duration_d></lightgreen>秒。<condition_description>",,OK,,
@@ -4406,7 +4406,7 @@ Check your Codex to see the standard recipes. Some recipes are secret and will n
 1891,194283,Crush,Lua/Weapons/Hammer.lua(00203),,,,,,,,蓄力擊,,OK,,
 1892,197294,"Deals high damage and applies the <lightgreen2><condition></lightgreen2> condition in an area. Hold the button to increase the damage dealt by the attack. Gains Armor Penetration when fully channeled.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Hammer.lua(00204),,,,,,,,"造成極高傷害，並在範圍內施放<lightgreen2><condition></lightgreen2>狀態。按住<red></red>按鍵可提升攻擊造成的傷害。完全蓄力後可獲得護甲穿透效果。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Hammer.lua(00204),,,,,,,,"造成極高傷害，並在範圍內施放<lightgreen2><condition></lightgreen2>狀態。<red></red>按<red></red>住<red></red>按<red></red>鍵<red></red>可提升攻擊造成的傷害。<red></red>完<red></red>全<red></red>蓄<red></red>力<red></red>後<red></red>可<red></red>獲<red></red>得護甲<red></red>穿透效果。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1893,194283,Smash,Lua/Weapons/Hammer.lua(00336),,,,,,,,粉碎擊,,OK,,
@@ -4423,7 +4423,7 @@ Check your Codex to see the standard recipes. Some recipes are secret and will n
 1900,194283,Fire Lake,Lua/Weapons/HandMortar.lua(00231),,,,,,,,火海彈,,OK,,
 1901,194283,"Fires a grenade that creates an area of liquid fire that damages enemies inside it. Lasts <number1> sec and has a radius of <number2>m. Units caught in the initial blast get the <lightgreen2><condition></lightgreen2> condition.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/HandMortar.lua(00232),,,,,,,,"射出一枚可產生一灘液態火焰的榴彈，對範圍內的敵人造成傷害。持續時間<number1>秒，半徑範圍<number2>公<red></red>尺。受到初始爆炸衝擊的敵人會造成<lightgreen2><condition></lightgreen2>。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/HandMortar.lua(00232),,,,,,,,"射出一枚可產生一灘液態火焰的榴彈，對範圍內的敵人造成傷害。持續時間<number1>秒，<red></red>半<red></red>徑<red></red>範<red></red>圍<number2>公<red></red>尺。<red></red>受<red></red>到<red></red>初<red></red>始<red></red>爆<red></red>炸<red></red>衝<red></red>擊<red></red>的<red></red>敵<red></red>人<red></red>會<red></red>造<red></red>成<lightgreen2><condition></lightgreen2>。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1902,194283,Explosive Jump,Lua/Weapons/HandMortar.lua(00316),,,,,,,,爆炸跳,,OK,,
@@ -4444,7 +4444,7 @@ Recharge <number> sec.",Lua/Weapons/HandMortar.lua(00478),,,,,,,,"射出一枚�
 4129,195942,Oil Spill,Lua/Weapons/HandMortar.lua(00628),,,,,,,,潑油彈,,OK,,
 4019,195942,"Fires a grenade that creates a pool of oil that that Cripples enemies inside it and can be ignited by other mortar attacks. The area lasts for <number1> sec. Units caught in the initial blast are affected by <lightgreen2><condition></lightgreen2>.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/HandMortar.lua(00629),,,,,,,,"射出一枚可產生一灘汽油的榴彈，汽油可使範圍內的敵人癱瘓，也可被其它炮擊點燃。汽油持續時間<number1>秒。受到初始爆炸衝擊的敵人會<red></red>造成<red></red><lightgreen2><condition></lightgreen2><red></red>。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/HandMortar.lua(00629),,,,,,,,"射出一枚可產生一灘汽油的榴彈，汽油可使範圍內的敵人癱瘓，也可被其它炮擊點燃。汽油持續時間<number1>秒。<red></red>受<red></red>到<red></red>初<red></red>始<red></red>爆<red></red>炸<red></red>衝<red></red>擊<red></red>的<red></red>敵<red></red>人<red></red>會<red></red>造<red></red>成<red></red><lightgreen2><condition></lightgreen2><red></red>。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1908,194283,Lightning Gun,Lua/Weapons/LightningGun.lua(00003),,|gender,,,,,,閃電槍,M,OK,,
@@ -4453,15 +4453,15 @@ Recharge <number> sec.",Lua/Weapons/HandMortar.lua(00478),,,,,,,,"射出一枚�
 1911,194283,Shock,Lua/Weapons/LightningGun.lua(00061),,,,,,,,電擊,,OK,,
 4130,195942,"Single target. Hold the attack button to continue attacking. Enemies hit by this attack become <lightgreen2><condition></lightgreen2>. The attack chains to other <lightgreen2><condition></lightgreen2> enemies. In its last phase the attack deals additional damage.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/LightningGun.lua(00062),,,,,,,,"單一目標。按住攻擊鍵以持續進行電擊。受到電擊的敵人會造成<lightgreen2><condition></lightgreen2>。電擊會傳導給其他<lightgreen2><condition></lightgreen2>的<red></red>敵人。電擊的最後階段會造成更大傷害。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/LightningGun.lua(00062),,,,,,,,"單一目標。按住攻擊鍵以持續進行電擊。受到電擊的敵人會造成<lightgreen2><condition></lightgreen2>。<red></red>電擊會傳導給其他<lightgreen2><condition></lightgreen2>的<red></red>敵<red></red>人。<red></red>電<red></red>擊<red></red>的最後階段<red></red>會<red></red>造<red></red>成<red></red>更<red></red>大<red></red>傷<red></red>害。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1913,194283,Ball Lightning,Lua/Weapons/LightningGun.lua(00434),,,,,,,,電光球,,OK,,
-1914,194283,Fire a tracking ball lighting that bounces between <lightgreen2><condition></lightgreen2> targets. This attack can hit you and your allies.,Lua/Weapons/LightningGun.lua(00435),,,,,,,,射出一顆會追蹤的電光球，這顆球會在<lightgreen2><condition></lightgreen2>的目<red></red>標之間來回反彈。此招也會對自己和隊友造成傷害。,,OK,,
+1914,194283,Fire a tracking ball lighting that bounces between <lightgreen2><condition></lightgreen2> targets. This attack can hit you and your allies.,Lua/Weapons/LightningGun.lua(00435),,,,,,,,射出一顆會追蹤的電光球，這顆球會在<lightgreen2><condition></lightgreen2>的<red></red>目<red></red>標<red></red>之<red></red>間<red></red>來<red></red>回反彈。此招也會對自己<red></red>和<red></red>隊<red></red>友<red></red>造<red></red>成傷害。,,OK,,
 1915,194283,Lightning Trap,Lua/Weapons/LightningGun.lua(00467),,,,,,,,雷電網,,OK,,
 4131,198395,"Fire a slow ball lightning that transforms into a Lighting Trap in several seconds. The Lightning Trap deals damage and inflicts <lightgreen2><condition></lightgreen2> to all enemies in its radius every <number>.<number2> seconds, then explodes. Hold the button to increase the ball's initial speed. The explosion can hit you.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/LightningGun.lua(00468),,,,,,,,"射出一顆慢速電光球並在幾秒後轉變成雷電網。雷電網每<number>.<number2>秒會對範圍內的所有敵人造成傷害<red></red>並使其<lightgreen2><condition></lightgreen2>，最後還會爆炸。按住按鍵可提<red></red>升電<red></red>光球的初始速度。爆炸也會對自己造成傷害。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/LightningGun.lua(00468),,,,,,,,"射出一顆慢速電光球並在幾秒後變成雷電網。雷電網每<number>.<number2>秒會對範圍內的所有敵人造<red></red>成<red></red>傷<red></red>害<red></red>並<red></red>使<red></red>其<lightgreen2><condition></lightgreen2>，<red></red>最後還會爆炸。<red></red>按<red></red>住<red></red>按<red></red>鍵<red></red>可<red></red>提<red></red>升<red></red>電<red></red>光<red></red>球<red></red>的<red></red>初<red></red>始<red></red>速<red></red>度。<red></red>爆<red></red>炸<red></red>也<red></red>會<red></red>對<red></red>自<red></red>己<red></red>造<red></red>成<red></red>傷<red></red>害。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 4020,195716,"Single target. Hold the attack button to create a beautiful rainbow that damages everyone that it passes through. Enemies hit by this attack become <lightgreen2><condition></lightgreen2>.
@@ -4471,12 +4471,12 @@ Recharge <number> sec.",Lua/Weapons/HandMortar.lua(00478),,,,,,,,"射出一枚�
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1912,195942,"Single target. Hold the attack button to continue attacking and periodically pull the targeted enemy towards you. Enemies hit by this attack become <lightgreen2><condition></lightgreen2>. The attack chains to other <lightgreen2><condition></lightgreen2> enemies. In its last phase the attack deals additional damage.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/LightningGun.lua(01107),,,,,,,,"單一目標。按住攻擊鍵以持續進行電擊並把目標敵人拉近。受到電擊的敵人會造成<lightgreen2><condition></lightgreen2>。電擊會<red></red>傳導給其他<lightgreen2><condition></lightgreen2>的敵人。電擊的最後階段會<red></red>造成<red></red>更大傷害。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/LightningGun.lua(01107),,,,,,,,"單一目標。按住攻擊鍵以持續進行電擊並把目標敵人拉近。受到電擊的敵人會造成<lightgreen2><condition></lightgreen2>。電<red></red>擊<red></red>會<red></red>傳<red></red>導<red></red>給<red></red>其<red></red>他<lightgreen2><condition></lightgreen2>的敵人。電擊的最後階段<red></red>會<red></red>造<red></red>成<red></red>更<red></red>大<red></red>傷<red></red>害。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1916,195942,"Fire a slow ball lightning that explodes shortly after fired pulling all nearby enemies to its epicenter. All targets in its blast area get damage and become <lightgreen2><condition></lightgreen2>. Hold the button to increase its initial speed. This attack can hit you.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/LightningGun.lua(01141),,,,,,,,"射出一顆短時間內會爆炸，並將附近所有敵人拉至爆炸中心的電光球。所有在爆炸範圍內的目標都會受到傷害並造成<lightgreen2><condition></lightgreen2>。按住按鈕可提升<red></red>其初<red></red>始速度。此招也會對自己造成傷害。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/LightningGun.lua(01141),,,,,,,,"射出一顆短時間內會爆炸，並將附近所有敵人拉至爆炸中心的電光球。所有在爆炸範圍內的目標都會受到傷害並造成<lightgreen2><condition></lightgreen2>。按住按鈕<red></red>可<red></red>提<red></red>升<red></red>其<red></red>初<red></red>始<red></red>速<red></red>度。<red></red>此<red></red>招<red></red>也<red></red>會<red></red>對自己造成傷害。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1917,194283,Rapier,Lua/Weapons/Rapier.lua(00003),,|gender,,,,,,細劍,M,OK,,
@@ -4493,7 +4493,7 @@ Recharge <number> sec.",Lua/Weapons/HandMortar.lua(00478),,,,,,,,"射出一枚�
 1924,194283,Coup De Grace,Lua/Weapons/Rapier.lua(00223),,,,,,,,致命恩刺,,OK,,
 1925,194283,"Single target high damage melee attack that causes <lightgreen2><condition></lightgreen2>. On kill this attack resets the cooldown of the Rapier Charge ability.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Rapier.lua(00224),,,,,,,,"可造成<lightgreen2><condition></lightgreen2>的單一目標高傷害近戰攻擊。擊殺時<red></red>會重置衝鋒刺的冷卻時間。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Rapier.lua(00224),,,,,,,,"可造成<lightgreen2><condition></lightgreen2>的單一目標高傷害近戰攻擊。<red></red>擊<red></red>殺<red></red>時<red></red>會<red></red>重<red></red>置衝鋒刺的冷卻時間。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1926,194283,Scythe,Lua/Weapons/Scythe.lua(00003),,|gender,,,,,,鐮刀,M,OK,,
@@ -4503,7 +4503,7 @@ Recharge <number> sec.",Lua/Weapons/HandMortar.lua(00478),,,,,,,,"射出一枚�
 1930,198395,"A basic set of attacks that damage multiple enemies. Gain a <lightgreen2><condition></lightgreen2> for each opponent you hit (max 10). Time the attacks correctly to inflict the <lightgreen2><condition2></lightgreen2> condition to the target.
 
 <lightgreen2><condition></lightgreen2>: <description>
-<lightgreen2><condition2></lightgreen2>: <description2>",Lua/Weapons/Scythe.lua(00102),,,,,,,,"一連串可傷害多個敵人的攻擊。每攻擊一名敵人會獲得一片<lightgreen2><condition></lightgreen2>（最多10片）。抓準攻擊節<red></red>奏可對目標造成<lightgreen2><condition2></lightgreen2>。
+<lightgreen2><condition2></lightgreen2>: <description2>",Lua/Weapons/Scythe.lua(00102),,,,,,,,"一連串可傷害多個敵人的攻擊。每攻擊一名敵人會獲得一片<lightgreen2><condition></lightgreen2>（最多10片）。抓準<red></red>攻<red></red>擊<red></red>節<red></red>奏<red></red>可<red></red>對<red></red>目<red></red>標<red></red>造成<lightgreen2><condition2></lightgreen2>。
 
 <lightgreen2><condition></lightgreen2>：<description>
 <lightgreen2><condition2></lightgreen2>：<description2>",,OK,,
@@ -4511,16 +4511,16 @@ Recharge <number> sec.",Lua/Weapons/HandMortar.lua(00478),,,,,,,,"射出一枚�
 1932,198395,"Send out a wave of force that inflicts the <lightgreen2><condition></lightgreen2> condition but doesn't deal any damage. This attack spends all Soul Shards. <lightgreen2><condition></lightgreen2> duration is increased based on the number of Soul Shards spent.
 Cleave - hit 5 or more enemies with this attack to reduce Shockwave's cooldown
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Scythe.lua(00185),,,,,,,,"釋放一股會造成<lightgreen2><condition></lightgreen2>的衝擊波，但不會造成任何<red></red>傷害。此攻擊會消耗所有靈魂碎片。<lightgreen2><condition></lightgreen2>的持續<red></red>時間會依據消耗的靈魂碎片數而延長。
-劈風斬浪──擊中最少5個敵人可縮短衝擊波的<red></red>冷卻時間。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Scythe.lua(00185),,,,,,,,"釋放一股會造成<lightgreen2><condition></lightgreen2>的衝擊波，但不會<red></red>造<red></red>成<red></red>任<red></red>何<red></red>傷<red></red>害。<red></red>此攻擊會消耗所有靈魂碎片。<lightgreen2><condition></lightgreen2>的<red></red>持<red></red>續<red></red>時<red></red>間<red></red>會<red></red>依<red></red>據<red></red>消耗的<red></red>靈<red></red>魂<red></red>碎<red></red>片數而延長。
+劈風斬浪──擊中最少5個敵人可縮短衝擊<red></red>波<red></red>的<red></red>冷卻時間。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1933,194283,Whirlwind,Lua/Weapons/Scythe.lua(00249),,,,,,,,旋風斬,,OK,,
 1934,198395,"Begin to spin, gaining <lightgreen2><condition></lightgreen2> and damaging all enemies near you. You can move the Whirlwind via the movement buttons. This attack spends all Soul Shards. Duration of the Whirlwild is increased based on the number of Soul Shards spent.
 Cleave - hit 5 or more enemies with this attack to reduce Whirlwind's cooldown
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Scythe.lua(00250),,,,,,,,"開始旋轉，獲得<lightgreen2><condition></lightgreen2>加持並對周圍的敵人造成傷<red></red>害。你可以控制旋風斬的移動方向。此攻擊會消<red></red>耗所有靈魂碎片。旋風斬的持續時間會依據<red></red>消耗<red></red>的靈魂碎片數而延長。
-劈風斬浪──擊中最少5個敵人可縮短旋風斬的<red></red>冷卻時間。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Scythe.lua(00250),,,,,,,,"開始旋轉，獲得<lightgreen2><condition></lightgreen2>加持並對周圍的敵人<red></red>造<red></red>成<red></red>傷<red></red>害。你可以控制旋風斬的移動方向。此攻擊<red></red>會<red></red>消<red></red>耗<red></red>所有靈魂<red></red>碎<red></red>片。<red></red>旋<red></red>風<red></red>斬<red></red>的<red></red>持<red></red>續<red></red>時<red></red>間<red></red>會<red></red>依<red></red>據<red></red>消<red></red>耗<red></red>的<red></red>靈<red></red>魂<red></red>碎<red></red>片<red></red>數而延長。
+劈風斬浪──擊中最少5個敵人可縮短旋風<red></red>斬<red></red>的<red></red>冷卻時間。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 4132,198395,"Begin to spin, gaining <lightgreen2><condition></lightgreen2> and damaging all enemies near you while shooting fast moving, low damage projectiles. You can move the Whirlwind via the movement buttons.
@@ -4528,10 +4528,10 @@ Cleave - hit 5 or more enemies with this attack to reduce Whirlwind's cooldown
 This attack spends all Soul Shards. Duration of the Whirlwind is increased based on the number of Soul Shards spent.
 Cleave - hit 5 or more enemies with this attack to reduce Whirlwind's cooldown
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Scythe.lua(00560),,,,,,,,"開始旋轉，獲得<lightgreen2><condition></lightgreen2>加持並對周圍的敵人造成傷<red></red>害，同時射出快速、低傷害的投射物。你可以控<red></red>制旋風斬的移動方向。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Scythe.lua(00560),,,,,,,,"開始旋轉，獲得<lightgreen2><condition></lightgreen2>加持並對周圍的敵人<red></red>造<red></red>成<red></red>傷<red></red>害，<red></red>同時射<red></red>出快速、<red></red>低傷害<red></red>的投<red></red>射物。<red></red>你可以<red></red>控<red></red>制<red></red>旋<red></red>風<red></red>斬<red></red>的移動方向。
 
-此攻擊會消耗所有靈魂碎片。旋風斬的持續時間<red></red>會依據消耗的靈魂碎片數而延長。
-劈風斬浪──擊中最少5個敵人可縮短旋風斬的<red></red>冷卻時間。
+此攻擊會消耗所有靈魂碎片。旋風斬的持續<red></red>時<red></red>間<red></red>會<red></red>依<red></red>據<red></red>消耗的靈魂碎片數而延長。
+劈風斬浪──擊中最少5個敵人可縮短旋風<red></red>斬<red></red>的<red></red>冷卻時間。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 4133,198395,"Send out a circular wave of force that inflicts <lightgreen2><condition></lightgreen2> and <lightgreen2><condition2></lightgreen2> but doesn't deal any damage.
@@ -4540,10 +4540,10 @@ This attack spends all Soul Shards. The duration of both conditions is increased
 Cleave - hit 5 or more enemies with this attack to reduce Shockwave's cooldown
 
 <lightgreen2><condition></lightgreen2>: <description>
-<lightgreen2><condition2></lightgreen2>: <description2>",Lua/Weapons/Scythe.lua(00613),,,,,,,,"釋放一圈會造成<lightgreen2><condition></lightgreen2>和<lightgreen2><condition2></lightgreen2>的衝擊波，但不會造成任何傷害。
+<lightgreen2><condition2></lightgreen2>: <description2>",Lua/Weapons/Scythe.lua(00613),,,,,,,,"釋放一圈會造成<lightgreen2><condition></lightgreen2>和<lightgreen2><condition2></lightgreen2>的<red></red>衝擊波，但不會造成任何傷害。
 
-此攻擊會消耗所有靈魂碎片。兩種狀態的持續時<red></red>間會依據消耗的靈魂碎片數而延長。
-劈風斬浪──擊中最少5個敵人可縮短衝擊波的<red></red>冷卻時間。
+此攻擊會消耗所有靈魂碎片。兩種狀態的持<red></red>續<red></red>時<red></red>間<red></red>會<red></red>依據消耗的靈魂碎片數而延長。
+劈風斬浪──擊中最少5個敵人可縮短衝擊<red></red>波<red></red>的<red></red>冷卻時間。
 
 <lightgreen2><condition></lightgreen2>：<description>
 <lightgreen2><condition2></lightgreen2>：<description2>",,OK,,
@@ -4571,7 +4571,7 @@ Cleave - hit 5 or more enemies with this attack to reduce Shockwave's cooldown
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 4022,195942,"Single target attack that inflicts <lightgreen2><condition></lightgreen2>. Recharges whenever an enemy is killed with the Shotgun.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Shotgun.lua(00428),,,,,,,,"可造成<lightgreen2><condition></lightgreen2>的單一目標射擊。射殺敵人時會<red></red>立即<red></red>冷卻。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Shotgun.lua(00428),,,,,,,,"可造成<lightgreen2><condition></lightgreen2>的單一目標射擊。射殺<red></red>敵<red></red>人<red></red>時<red></red>會<red></red>立<red></red>即<red></red>冷<red></red>卻。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 4023,195716,"A basic attack that pierces targets, hitting all enemis in a line. Time the attacks correctly to inflict the <lightgreen2><condition></lightgreen2> condition to the target.
@@ -4596,17 +4596,17 @@ Cleave - hit 5 or more enemies with this attack to reduce Shockwave's cooldown
 1953,194283,Dash,Lua/Weapons/Sword.lua(00263),,,,,,,,直劈,,OK,,
 4135,195942,"Single target attack that inflicts <lightgreen2><condition></lightgreen2> to your opponent. Whenever you score a critical hit all nearby enemies will get the <lightgreen2><condition></color> condition as well.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Sword.lua(00264),,,,,,,,"可對敵人造成<lightgreen2><condition></lightgreen2>的單一目標攻擊。暴擊時附近<red></red>所有敵人也都會陷入<lightgreen2><condition></color>。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Sword.lua(00264),,,,,,,,"可對敵人造成<lightgreen2><condition></lightgreen2>的單一目標攻擊。暴擊時<red></red>附<red></red>近<red></red>所<red></red>有敵人也都會陷入<lightgreen2><condition></color>。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 4136,195942,"Single target attack that inflicts <lightgreen2><condition></lightgreen2> to your opponent. Deals damage and inflicts the <lightgreen2><condition></color> condition to all nearby enemies on critical hit.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Sword.lua(00299),,,,,,,,"可對敵人造成<lightgreen2><condition></lightgreen2>的單一目標攻擊。暴擊時會對<red></red>附近所有敵人造成傷害並使其<lightgreen2><condition></color>。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Sword.lua(00299),,,,,,,,"可對敵人造成<lightgreen2><condition></lightgreen2>的單一目標攻擊。暴擊時<red></red>會<red></red>對<red></red>附<red></red>近<red></red>所有敵人造成傷害並使其<lightgreen2><condition></color>。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1950,195942,"Knocks back a single enemy. Unleashes a slow-moving projectile that inflicts the <lightgreen2><condition></lightgreen2> condition to all enemies on its path. Will automatically recharge when you crit an enemy.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Sword.lua(00346),,,,,,,,"震退單一敵人。釋放一個慢速投射物，對路徑上的所有敵人造成<lightgreen2><condition></lightgreen2>。當暴擊敵人時會立即<red></red>冷卻<red></red>。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Sword.lua(00346),,,,,,,,"震退單一敵人。釋放一個慢速投射物，對路徑上的所有敵人造成<lightgreen2><condition></lightgreen2>。當暴擊敵人<red></red>時<red></red>會<red></red>立<red></red>即<red></red>冷<red></red>卻。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1954,195942,"Single target attack that inflicts <lightgreen2><condition></lightgreen2> to your opponent. Unleashes a slow-moving projectile that inflicts the <lightgreen2><condition2></lightgreen2> condition to all enemies on its path. Whenever you score a critical hit all nearby enemies will get the <lightgreen2><condition></lightgreen2> condition as well.
@@ -4633,7 +4633,7 @@ Magical missiles may drop <lightgreen2><condition_name></lightgreen2> orbs on hi
 3514,198395,"Transform into a wave of arcane energy that travels fast and inflicts the <lightgreen2><condition_name></lightgreen2> condition to all enemies on its path. Pick up all arcane orbs in its radius at the end of the attack.
 Consumes one Arcane Power orb to recharge instantly
 
-<lightgreen2><condition_name></lightgreen2>: <condition_description>",Lua/Weapons/TomeOfSouls.lua(00169),,,,,,,,"化成一股祕能波，快速穿過路徑上的所有敵人並造成<lightgreen2><condition_name></lightgreen2>。攻擊結束後會拾取半徑範圍內的所有<red></red>祕能寶珠。
+<lightgreen2><condition_name></lightgreen2>: <condition_description>",Lua/Weapons/TomeOfSouls.lua(00169),,,,,,,,"化成一股祕能波，快速穿過路徑上的所有敵人並造成<lightgreen2><condition_name></lightgreen2>。攻擊結束後會拾取半徑範圍<red></red>內<red></red>的<red></red>所<red></red>有<red></red>祕<red></red>能<red></red>寶<red></red>珠。
 消耗一顆祕能寶珠可立即冷卻。
 
 <lightgreen2><condition_name></lightgreen2>：<condition_description>",,OK,,
