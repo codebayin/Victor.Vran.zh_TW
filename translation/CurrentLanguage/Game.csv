@@ -781,19 +781,19 @@ Armor (<imagescale 40><image UI/Common/armor.tga>) - Provides a chance to reduce
 
 Armor Penetration (<imagescale 40><image UI/Common/armor_penalty.tga>) - Allows you to ignore some of the enemy Armor
 
-Cooldown (<imagescale 40><image UI/Common/cooldown.tga>) - The duration of the skill's cooldown",Data/CodexEntry.lua(00081),,CodexEntry Hint_ItemStats Description,,,,,,"傷害（<imagescale 40><image UI/Common/damage.tga>） - 物品或招式造成的傷害大小。
+Cooldown (<imagescale 40><image UI/Common/cooldown.tga>) - The duration of the skill's cooldown",Data/CodexEntry.lua(00081),,CodexEntry Hint_ItemStats Description,,,,,,"傷害（<imagescale 40><image UI/Common/damage.tga>）：物品或招式造成的傷害大小。
 
-暴擊率（<imagescale 40><image UI/Common/critical_chance.tga>） - 攻擊造成暴擊的機率。每種武器的暴擊率各不相同。
+暴擊率（<imagescale 40><image UI/Common/critical_chance.tga>）：攻擊造成暴擊的機率。每種武器的暴擊率各不相同。
 
-暴擊傷害（<imagescale 40><image UI/Common/critical_bonus.tga>） - 暴擊造成的傷害（基於武器傷害）。
+暴擊傷害（<imagescale 40><image UI/Common/critical_bonus.tga>）：暴擊造成的傷害（基於武器傷害）。
 
-生命（<imagescale 40><image UI/Common/Health.tga>） - 物品提供的最大生命加成。
+生命（<imagescale 40><image UI/Common/Health.tga>）：物品提供的最大生命加成。
 
-防禦（<imagescale 40><image UI/Common/armor.tga>） - 可減少受到攻擊的傷害（但無法抵抗附加狀態）。炸彈和惡魔之力能無視防禦。
+防禦（<imagescale 40><image UI/Common/armor.tga>）：可減少受到攻擊的傷害（但無法抵抗附加狀態）。炸彈和惡魔之力能無視防禦。
 
-護甲穿透（<imagescale 40><image UI/Common/armor_penalty.tga>） - 無視敵人部分防禦。
+護甲穿透（<imagescale 40><image UI/Common/armor_penalty.tga>）：無視敵人部分防禦。
 
-冷卻時間（<imagescale 40><image UI/Common/cooldown.tga>） - 招式冷卻需要的時間。",,OK,,
+冷卻時間（<imagescale 40><image UI/Common/cooldown.tga>）：招式冷卻需要的時間。",,OK,,
 4231,196977,Overkill,Data/CodexEntry.lua(00086),,CodexEntry Hint_Overkill DisplayName,,,,,,絕殺,,OK,,
 4232,196977,To overkill a monster inflict massive damage to it with the killing blow. Overkill is more likely to happen when a strong attack is used against a monster at low health.,Data/CodexEntry.lua(00087),,CodexEntry Hint_Overkill Description,,,,,,想打出絕殺必須對怪物最後一擊時給予極大的傷害。在怪物的生命低下時使用強力攻擊更有機會打出絕殺。,,OK,,
 4273,197475,Bounties & Treasure Hunts,Data/CodexEntry.lua(00092),,CodexEntry Hint_Bounties DisplayName,,,,,,懸賞與尋寶,,OK,,
@@ -939,13 +939,13 @@ Increase Critical Chance - Combine a weapon with 3 Destiny Cards of the same or 
 
 Add a Property - Combine a rare or uncommon weapon with a specific combination of 3 legendary Demon Powers to add a Property the weapon does not have yet. Note: This will replace any Property added in a previous transmutation.
 
-Improve a Property - Combine a weapon with the combination of three Demon Powers associated with the Property. The Demon Powers do not have to be legendary, but the effect will be stronger when legendary Demon Powers are used.",Data/CodexEntry.lua(00186),,CodexEntry Recipes_Weapons Description,,,,,,"提升傷害 - 將1把武器與3把相同或更高稀有度的武器合成。
+Improve a Property - Combine a weapon with the combination of three Demon Powers associated with the Property. The Demon Powers do not have to be legendary, but the effect will be stronger when legendary Demon Powers are used.",Data/CodexEntry.lua(00186),,CodexEntry Recipes_Weapons Description,,,,,,"提升傷害：將1把武器與3把相同或更高稀有度的武器合成。
 
-提升暴擊率 - 將1把武器與3張相同或更高稀有度的命運牌合成。
+提升暴擊率：將1把武器與3張相同或更高稀有度的命運牌合成。
 
-附加屬性 - 將1把稀有或罕見的武器與特定的3個傳奇惡魔之力合成，可給武器附加沒有的屬性。注意：這會取代任何先前合成所附加的屬性。
+附加屬性：將1把稀有或罕見的武器與特定的3個傳奇惡魔之力合成，可給武器附加沒有的屬性。注意：這會取代任何先前合成所附加的屬性。
 
-提升屬性 - 將1把武器與3個屬性相關的惡魔之力合成。惡魔之力不必是傳奇的，但使用傳奇的惡魔之力效果更強。",,OK,,
+提升屬性：將1把武器與3個屬性相關的惡魔之力合成。惡魔之力不必是傳奇的，但使用傳奇的惡魔之力效果更強。",,OK,,
 4233,196977,Gambling,Data/CodexEntry.lua(00192),,CodexEntry Recipes_Gambling DisplayName,,,,,,賭博,,OK,,
 4234,197507,"Transmute 3 common (white) weapons to create a new random uncommon (green) weapon.
 
@@ -965,21 +965,21 @@ Three weapons of a given type always create a new weapon of the same type, excep
 
 Improve Armor - combine an Outfit with a legendary Demon Power.
 
-Improve special Property - combine an Outfit with a legendary Destiny Card.",Data/CodexEntry.lua(00200),,CodexEntry Recipes_Outfits Description,,,,,,"染色 - 將1件服裝與1種染料或多種染料合成。並非所有染料的組合都行得通。
+Improve special Property - combine an Outfit with a legendary Destiny Card.",Data/CodexEntry.lua(00200),,CodexEntry Recipes_Outfits Description,,,,,,"染色：將1件服裝與1種染料或多種染料合成。並非所有染料的組合都行得通。
 
-提升防禦 - 將1件服裝與1個傳奇惡魔之力合成。
+提升防禦：將1件服裝與1個傳奇惡魔之力合成。
 
-提升特殊屬性 - 將1件服裝與1張傳奇命運牌合成。",,OK,,
+提升特殊屬性：將1件服裝與1張傳奇命運牌合成。",,OK,,
 3888,195189,Demon Powers,Data/CodexEntry.lua(00206),,CodexEntry Recipes_DemonPowers DisplayName,,,,,,惡魔之力,,OK,,
 3889,199653,"Improve base Property - combine a Demon Power with three Demon Powers of the same type with the same or better rarity.
 
 Improve secondary Property - combine a Demon Power with three Demon Powers of other types with the same or better rarity.
 
-Create a random Demon Power - combine 3 Demon Powers to create a random Demon Power of the same rarity.",Data/CodexEntry.lua(00207),,CodexEntry Recipes_DemonPowers Description,,,195189,,,"提升基本屬性 - 將1個惡魔之力與3個同類且具有相同或更高稀有度的惡魔之力合成。
+Create a random Demon Power - combine 3 Demon Powers to create a random Demon Power of the same rarity.",Data/CodexEntry.lua(00207),,CodexEntry Recipes_DemonPowers Description,,,195189,,,"提升基本屬性：將1個惡魔之力與3個同類且具有相同或更高稀有度的惡魔之力合成。
 
-提升第二屬性 - 將1個惡魔之力與3個不同類且具有相同或更高稀有度的惡魔之力合成。
+提升第二屬性：將1個惡魔之力與3個不同類且具有相同或更高稀有度的惡魔之力合成。
 
-創造隨機的惡魔之力 - 將3個惡魔之力合成，可隨機創造1個相同稀有度的惡魔之力。",,changed,,
+創造隨機的惡魔之力：將3個惡魔之力合成，可隨機創造1個相同稀有度的惡魔之力。",,changed,,
 3890,195189,Destiny Cards,Data/CodexEntry.lua(00213),,CodexEntry Recipes_DestinyCards DisplayName,,,,,,命運牌,,OK,,
 3891,196416,"Improve Rarity - three cards of the same rarity and type produce one card of the higher rarity, if it exists. If all cards are Divine or Wicked, the resulting card will also be Divine or Wicked.
 
@@ -987,13 +987,13 @@ Make a card Divine or Wicked - combine a normal card with 3 Divine or 3 Wicked c
 
 Improve Divine Property - combine a Divine card with 3 Divine cards.
 
-Improve Wicked Property - combine a Wicked card with 3 Wicked cards.",Data/CodexEntry.lua(00214),,CodexEntry Recipes_DestinyCards Description,,,,,,"提高稀有度 - 3張同類且同稀有度的牌可以生成1張更高稀有度的牌（如果有的話）。如果所有牌都是神聖牌或邪惡牌，生成的牌也會是神聖牌或邪惡牌。
+Improve Wicked Property - combine a Wicked card with 3 Wicked cards.",Data/CodexEntry.lua(00214),,CodexEntry Recipes_DestinyCards Description,,,,,,"提高稀有度：3張同類且同稀有度的牌可以生成1張更高稀有度的牌（如果有的話）。如果所有牌都是神聖牌或邪惡牌，生成的牌也會是神聖牌或邪惡牌。
 
-製作神聖牌或邪惡牌 - 將1張普通牌與3張相同或更高稀有度的神聖牌或邪惡牌合成。
+製作神聖牌或邪惡牌：將1張普通牌與3張相同或更高稀有度的神聖牌或邪惡牌合成。
 
-提升神聖屬性 - 將1張神聖牌與3張神聖牌合成。
+提升神聖屬性：將1張神聖牌與3張神聖牌合成。
 
-提升邪惡屬性 - 將1張邪惡牌與3張邪惡牌合成。",,OK,,
+提升邪惡屬性：將1張邪惡牌與3張邪惡牌合成。",,OK,,
 4174,196097,Power Stones,Data/CodexEntry.lua(00220),,CodexEntry Recipes_PowerStones DisplayName,,,,,,能量石,,OK,,
 4175,196097,"Power Stones are used to directly upgrade an item. 
 
@@ -1013,19 +1013,19 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 2311,194799,Slay Champions,Data/MapChallenges.lua(00183),,,,,,,,殺死悍將,,OK,,
 2312,194799,Slay Dharin the Dreaded Soul,Data/MapChallenges.lua(00246),,,,,,,,殺死恐懼之魂．達哈林,,OK,,
 2313,194799,Slay the Seven Dwarves,Data/MapChallenges.lua(00318),,,,,,,,殺死七矮人,,OK,,
-4290,197934,Slay Vail The Immortal without using Shrines and Demon Powers,Data/MapChallenges.lua(00340),,,,,,,,不使用祭壇和惡魔之力，<red></red>殺死不朽者．汎爾,,OK,,
+4290,197934,Slay Vail The Immortal without using Shrines and Demon Powers,Data/MapChallenges.lua(00340),,,,,,,,不使用祭壇和惡魔之力， 殺死不朽者．汎爾,,OK,,
 4291,197934,Slay Vail The Immortal within <timer> seconds,Data/MapChallenges.lua(00351),,,,,,,,在<timer>秒內殺死不朽者．汎爾,,OK,,
-4292,197934,Slay Vail The Immortal with 5 active Hexes,Data/MapChallenges.lua(00362),,,,,,,,殺死不朽者．汎爾，<red></red>同時啟動5個禁咒,,OK,,
+4292,197934,Slay Vail The Immortal with 5 active Hexes,Data/MapChallenges.lua(00362),,,,,,,,殺死不朽者．汎爾， 同時啟動5個禁咒,,OK,,
 4293,197934,Slay Vail The Immortal with Bombs,Data/MapChallenges.lua(00384),,,,,,,,使用炸彈殺死不朽者．汎爾,,OK,,
 4294,197934,Slay Vail The Immortal with Demon Powers within <timer> seconds,Data/MapChallenges.lua(00397),,,,,,,,在<timer>秒內使用惡魔之力殺死不朽者．汎爾,,OK,,
-4295,197934,Slay Vail The Immortal without using Potions and Shrines with Hex of Malice,Data/MapChallenges.lua(00412),,,,,,,,不使用藥劑和祭壇，<red></red>殺死不朽者．汎爾，<red></red>同時啟動殺意禁咒,,OK,,
-4296,197934,Slay Vail The Immortal While Above 50% health with 4 active Hexes,Data/MapChallenges.lua(00424),,,,,,,,生命高於50%時，<red></red>殺死不朽者．汎爾，<red></red>同時啟動4個禁咒,,OK,,
+4295,197934,Slay Vail The Immortal without using Potions and Shrines with Hex of Malice,Data/MapChallenges.lua(00412),,,,,,,,不使用藥劑和祭壇， 殺死不朽者．汎爾， 同時啟動殺意禁咒,,OK,,
+4296,197934,Slay Vail The Immortal While Above 50% health with 4 active Hexes,Data/MapChallenges.lua(00424),,,,,,,,生命高於50%時， 殺死不朽者．汎爾， 同時啟動4個禁咒,,OK,,
 2318,194799,Slay Eisen the Youngest,Data/MapChallenges.lua(00435),,,,,,,,殺死極幼者．艾森,,OK,,
-2319,194799,Slay The Archivist within <timer> seconds without using Demon Powers and Potions,Data/MapChallenges.lua(00707),,,,,,,,不使用惡魔之力和藥劑，<red></red>在<timer>秒內殺死文獻管理者,,OK,,
+2319,194799,Slay The Archivist within <timer> seconds without using Demon Powers and Potions,Data/MapChallenges.lua(00707),,,,,,,,不使用惡魔之力和藥劑， 在<timer>秒內殺死文獻管理者,,OK,,
 3892,195189,Slay Dead Timmy,Data/MapChallenges.lua(00744),,,,,,,,殺死亡者提米,,OK,,
-3690,195189,Slay Fester the Butler without dying,Data/MapChallenges.lua(00765),,,,,,,,在沒有死亡的情況下，<red></red>殺死僕役長．菲斯特,,OK,,
-3893,195189,Slay the Inner Guardian without using Potions and Shrines and without dying,Data/MapChallenges.lua(00802),,,,,,,,在沒有死亡的情況下，<red></red>不使用藥劑和祭壇，<red></red>殺死內庭守護者,,OK,,
-3894,195189,Slay the Dinner Guests with Shotgun and Hex of Malice without dying,Data/MapChallenges.lua(00815),,,,,,,,在沒有死亡的情況下，<red></red>使用霰彈槍殺死晚宴嘉賓，<red></red>同時啟動殺意禁咒,,OK,,
+3690,195189,Slay Fester the Butler without dying,Data/MapChallenges.lua(00765),,,,,,,,在沒有死亡的情況下， 殺死僕役長．菲斯特,,OK,,
+3893,195189,Slay the Inner Guardian without using Potions and Shrines and without dying,Data/MapChallenges.lua(00802),,,,,,,,在沒有死亡的情況下， 不使用藥劑和祭壇， 殺死內庭守護者,,OK,,
+3894,195189,Slay the Dinner Guests with Shotgun and Hex of Malice without dying,Data/MapChallenges.lua(00815),,,,,,,,在沒有死亡的情況下， 使用霰彈槍殺死晚宴嘉賓， 同時啟動殺意禁咒,,OK,,
 3895,195189,Slay Fester the Butler with Lava Creeper's death-blast,Data/MapChallenges.lua(00828),,,,,,,,利用熔岩爬蛛的死亡爆破殺死僕役長．菲斯特,,OK,,
 2320,194708,Slay Just a Gargoyle,Data/MapChallenges.lua(00839),,,,,,,,殺死就只是石像鬼,,OK,,
 2322,194799,Open Valves and Slay Living Miasma,Data/MapChallenges.lua(00849),,,,,,,,轉開閥門並殺死瘴毒之氣,,OK,,
@@ -1034,17 +1034,17 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 2338,194799,Slay Champions,Data/MapChallenges.lua(01324),,,,,,,,殺死悍將,,OK,,
 2339,194799,Slay Bane,Data/MapChallenges.lua(01559),,,,,,,,殺死禍根,,OK,,
 4297,197934,Slay Rachnoss The Host within <timer> seconds,Data/MapChallenges.lua(01588),,,,,,,,在<timer>秒內殺死宿主．拉諾斯,,OK,,
-4298,197934,Slay Rachnoss The Host without using Potions and Shrines,Data/MapChallenges.lua(01600),,,,,,,,不使用藥劑和祭壇，<red></red>殺死宿主．拉諾斯,,OK,,
-4527,199160,Slay the Antediluvian Triarchy without dying with demon powers with 4 active Hexes,Data/MapChallenges.lua(01613),,,,,,,,在沒有死亡的情況下，<red></red>使用惡魔之力殺死吸血鬼三巨頭，<red></red>同時啟動4個禁咒,,OK,,
-4299,197934,Slay Rachnoss The Host with 2 active Hexes,Data/MapChallenges.lua(01625),,,,,,,,殺死宿主．拉諾斯，<red></red>同時啟動2個禁咒,,OK,,
-4300,197934,Slay Rachnoss The Host While Above 80% health without using Potions,Data/MapChallenges.lua(01636),,,,,,,,不使用藥劑，<red></red>生命高於80%時，<red></red>殺死宿主．拉諾斯,,OK,,
+4298,197934,Slay Rachnoss The Host without using Potions and Shrines,Data/MapChallenges.lua(01600),,,,,,,,不使用藥劑和祭壇， 殺死宿主．拉諾斯,,OK,,
+4527,199160,Slay the Antediluvian Triarchy without dying with demon powers with 4 active Hexes,Data/MapChallenges.lua(01613),,,,,,,,在沒有死亡的情況下， 使用惡魔之力殺死吸血鬼三巨頭， 同時啟動4個禁咒,,OK,,
+4299,197934,Slay Rachnoss The Host with 2 active Hexes,Data/MapChallenges.lua(01625),,,,,,,,殺死宿主．拉諾斯， 同時啟動2個禁咒,,OK,,
+4300,197934,Slay Rachnoss The Host While Above 80% health without using Potions,Data/MapChallenges.lua(01636),,,,,,,,不使用藥劑， 生命高於80%時， 殺死宿主．拉諾斯,,OK,,
 2340,194799,Slay All Spider Nests In The Labyrinth,Data/MapChallenges.lua(01665),,,,,,,,剷除迷宮裡的所有蜘蛛巢穴,,OK,,
 2341,194799,Slay Argus The Dreaded Mage,Data/MapChallenges.lua(01675),,,,,,,,殺死恐懼法師．阿格斯,,OK,,
 2342,194799,Slay The Chessmaster,Data/MapChallenges.lua(01685),,,,,,,,殺死棋王蛛,,OK,,
 3458,194799,Slay Juliet with Lava Creeper's death-blast,Data/MapChallenges.lua(01723),,,,,,,,利用熔岩爬蛛的死亡爆破殺死朱麗葉,,OK,,
-3691,195030,Slay Juliet while you are affected by Weakness,Data/MapChallenges.lua(01767),,,,,,,,處於力竭狀態時，<red></red>殺死朱麗葉,,OK,,
+3691,195030,Slay Juliet while you are affected by Weakness,Data/MapChallenges.lua(01767),,,,,,,,處於力竭狀態時， 殺死朱麗葉,,OK,,
 2343,194799,Slay Screeching Calamity within <timer> seconds,Data/MapChallenges.lua(01986),,,,,,,,在<timer>秒內殺死嘯聲之災,,OK,,
-3692,195030,Slay the Wraiths in the final chamber with 5 active Hexes without dying,Data/MapChallenges.lua(02046),,,,,,,,在沒有死亡的情況下，<red></red>殺死最後房間的怨靈，<red></red>同時啟動5個禁咒,,OK,,
+3692,195030,Slay the Wraiths in the final chamber with 5 active Hexes without dying,Data/MapChallenges.lua(02046),,,,,,,,在沒有死亡的情況下， 殺死最後房間的怨靈， 同時啟動5個禁咒,,OK,,
 2345,194799,Quench gallows flames,Data/MapChallenges.lua(02072),,,,,,,,撲滅絞刑架上的火焰,,OK,,
 2347,194283,Beacons,Data/MapChallenges.lua(02074),,,,,,,,燈塔,,OK,,
 2348,194799,"Slay Bart, Bundy & Berta",Data/MapChallenges.lua(02082),,,,,,,,殺死巴特、邦迪和貝塔,,OK,,
@@ -1053,117 +1053,117 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 2353,194799,Slay Champions,Data/MapChallenges.lua(02122),,,,,,,,殺死悍將,,OK,,
 2357,194799,Slay the Volkovs with a scythe,Data/MapChallenges.lua(02149),,,,,,,,使用鐮刀殺死沃卡夫,,OK,,
 2362,194799,Slay Lord Valeri,Data/MapChallenges.lua(02196),,,,,,,,殺死瓦勒里領主,,OK,,
-2364,195942,Slay the Cook within <timer> seconds without using Potions,Data/MapChallenges.lua(02208),,,,,,,,不使用藥劑，<red></red>在<timer>秒內殺死廚師,,OK,,
+2364,195942,Slay the Cook within <timer> seconds without using Potions,Data/MapChallenges.lua(02208),,,,,,,,不使用藥劑， 在<timer>秒內殺死廚師,,OK,,
 2365,194799,Slay Seth,Data/MapChallenges.lua(02218),,,,,,,,殺死賽斯,,OK,,
 2367,194799,Slay Cruel,Data/MapChallenges.lua(02228),,,,,,,,殺死庫爾,,OK,,
-4301,197934,Slay Wa-Lee The Solicitor While Above 60% health,Data/MapChallenges.lua(02238),,,,,,,,生命高於60%時，<red></red>殺死誘魂者．瓦李,,OK,,
-4302,197934,"Slay Wa-Lee The Solicitor with Hex of Malice, Hex of Time and Hex of Pain",Data/MapChallenges.lua(02252),,,,,,,,殺死誘魂者．瓦李，<red></red>同時啟動殺意禁咒、<red></red>時間禁咒和疼痛禁咒,,OK,,
+4301,197934,Slay Wa-Lee The Solicitor While Above 60% health,Data/MapChallenges.lua(02238),,,,,,,,生命高於60%時， 殺死誘魂者．瓦李,,OK,,
+4302,197934,"Slay Wa-Lee The Solicitor with Hex of Malice, Hex of Time and Hex of Pain",Data/MapChallenges.lua(02252),,,,,,,,殺死誘魂者．瓦李， 同時啟動殺意禁咒、 時間禁咒和疼痛禁咒,,OK,,
 2390,194799,Slay Vondrak within 120 seconds from entering the location,Data/MapChallenges.lua(02410),,,,,,,,進入地點後120秒內殺死馮德拉克,,OK,,
-2394,195189,Slay Morenth the Voiceless within <timer> seconds with Hex of Malice,Data/MapChallenges.lua(02443),,,,,,,,在<timer>秒內殺死無聲者．莫倫斯，<red></red>同時啟動殺意禁咒,,OK,,
+2394,195189,Slay Morenth the Voiceless within <timer> seconds with Hex of Malice,Data/MapChallenges.lua(02443),,,,,,,,在<timer>秒內殺死無聲者．莫倫斯， 同時啟動殺意禁咒,,OK,,
 2396,195189,Slay Tamas Murkvenom within <timer> seconds,Data/MapChallenges.lua(02454),,,,,,,,在<timer>秒內殺死湯瑪斯．暗毒,,OK,,
-3896,195189,Slay Passion of the Collector within <timer> seconds with 5 active Hexes,Data/MapChallenges.lua(02487),,,,,,,,在<timer>秒內殺死收藏家的酷愛，<red></red>同時啟動5個禁咒,,OK,,
-3897,195189,Slay Viscount Mornai within <timer> seconds with 5 active Hexes,Data/MapChallenges.lua(02695),,,,,,,,在<timer>秒內殺死莫奈子爵，<red></red>同時啟動5個禁咒,,OK,,
-3898,195189,Slay the Magnificent Miners without dying with 5 active Hexes,Data/MapChallenges.lua(02832),,,,,,,,在沒有死亡的情況下，<red></red>殺死傑出礦工，<red></red>同時啟動5個禁咒,,OK,,
-2409,195189,Reach the end of the corridor within <timer> seconds without taking damage and using Demon Powers,Data/MapChallenges.lua(02852),,,,,,,,在沒有受傷的情況下，<red></red>不使用惡魔之力，<red></red>在<timer>秒內抵達走廊底端,,OK,,
-2411,194799,"Slay Cadavros without using Potions, Shrines and Demon Powers",Data/MapChallenges.lua(02863),,,,,,,,不使用藥劑、<red></red>祭壇和惡魔之力，<red></red>殺死坎迪瓦斯,,OK,,
-3899,199653,Slay Whispering Bones with a single hit without dying with 3 active Hexes,Data/MapChallenges.lua(02908),,,,,195189,,,在沒有死亡的情況下，<red></red>使用一擊殺死低語之骨，<red></red>同時啟動3個禁咒,,changed,,
-3900,195189,Slay Cadavros affected by Brutality While Above 80% health,Data/MapChallenges.lua(02944),,,,,,,,生命高於80%時，<red></red>殺死殘暴狀態的坎迪瓦斯,,OK,,
-3901,195189,Slay Cadavros While Above 80% health with 4 active Hexes,Data/MapChallenges.lua(02958),,,,,,,,生命高於80%時，<red></red>殺死坎迪瓦斯，<red></red>同時啟動4個禁咒,,OK,,
-4303,197934,Slay Mordra The Broodmother with 5 active Hexes,Data/MapChallenges.lua(03280),,,,,,,,殺死蛛后．莫卓，<red></red>同時啟動5個禁咒,,OK,,
+3896,195189,Slay Passion of the Collector within <timer> seconds with 5 active Hexes,Data/MapChallenges.lua(02487),,,,,,,,在<timer>秒內殺死收藏家的酷愛， 同時啟動5個禁咒,,OK,,
+3897,195189,Slay Viscount Mornai within <timer> seconds with 5 active Hexes,Data/MapChallenges.lua(02695),,,,,,,,在<timer>秒內殺死莫奈子爵， 同時啟動5個禁咒,,OK,,
+3898,195189,Slay the Magnificent Miners without dying with 5 active Hexes,Data/MapChallenges.lua(02832),,,,,,,,在沒有死亡的情況下， 殺死傑出礦工， 同時啟動5個禁咒,,OK,,
+2409,195189,Reach the end of the corridor within <timer> seconds without taking damage and using Demon Powers,Data/MapChallenges.lua(02852),,,,,,,,在沒有受傷的情況下， 不使用惡魔之力， 在<timer>秒內抵達走廊底端,,OK,,
+2411,194799,"Slay Cadavros without using Potions, Shrines and Demon Powers",Data/MapChallenges.lua(02863),,,,,,,,不使用藥劑、 祭壇和惡魔之力， 殺死坎迪瓦斯,,OK,,
+3899,199653,Slay Whispering Bones with a single hit without dying with 3 active Hexes,Data/MapChallenges.lua(02908),,,,,195189,,,在沒有死亡的情況下， 使用一擊殺死低語之骨， 同時啟動3個禁咒,,changed,,
+3900,195189,Slay Cadavros affected by Brutality While Above 80% health,Data/MapChallenges.lua(02944),,,,,,,,生命高於80%時， 殺死殘暴狀態的坎迪瓦斯,,OK,,
+3901,195189,Slay Cadavros While Above 80% health with 4 active Hexes,Data/MapChallenges.lua(02958),,,,,,,,生命高於80%時， 殺死坎迪瓦斯， 同時啟動4個禁咒,,OK,,
+4303,197934,Slay Mordra The Broodmother with 5 active Hexes,Data/MapChallenges.lua(03280),,,,,,,,殺死蛛后．莫卓， 同時啟動5個禁咒,,OK,,
 4304,197934,Slay Rachnoss The Host within <timer> seconds,Data/MapChallenges.lua(03461),,,,,,,,在<timer>秒內殺死宿主．拉諾斯,,OK,,
-4305,197934,Slay Rachnoss The Host affected by Brutality with Hex of Tenacity,Data/MapChallenges.lua(03473),,,,,,,,殺死殘暴狀態的宿主．拉諾斯，<red></red>同時啟動堅韌禁咒,,OK,,
-4306,197934,Slay Rachnoss The Host without using Shrines and Demon Powers with Hex of Malice,Data/MapChallenges.lua(03488),,,,,,,,不使用祭壇和惡魔之力，<red></red>殺死宿主．拉諾斯，<red></red>同時啟動殺意禁咒,,OK,,
-4307,197934,Slay Rachnoss The Host with 5 active Hexes,Data/MapChallenges.lua(03500),,,,,,,,殺死宿主．拉諾斯，<red></red>同時啟動5個禁咒,,OK,,
-3694,195030,Solve the mystery of the Haunted Pumpkin with 5 active Hexes,Data/MapChallenges.lua(03767),,,,,,,,解開鬧鬼南瓜之謎，<red></red>同時啟動5個禁咒,,OK,,
-4308,197934,Slay Adrian The Fallen with 5 active Hexes,Data/MapChallenges.lua(03890),,,,,,,,殺死墮落者．艾德里安，<red></red>同時啟動5個禁咒,,OK,,
-4309,197934,Slay Adrian The Fallen without using Potions and Shrines,Data/MapChallenges.lua(03903),,,,,,,,不使用藥劑和祭壇，<red></red>殺死墮落者．艾德里安,,OK,,
-3695,195030,Slay Spite of Ignus with a Ranged Weapon with 5 active Hexes,Data/MapChallenges.lua(03937),,,,,,,,使用遠程武器殺死伊格納斯之怨，<red></red>同時啟動5個禁咒,,OK,,
-3696,195030,Slay Trust Betrayed with a Melee Weapon with 5 active Hexes,Data/MapChallenges.lua(03950),,,,,,,,使用近戰武器殺死背信者，<red></red>同時啟動5個禁咒,,OK,,
-3697,195030,Slay Eisen the Youngest with 5 active Hexes,Data/MapChallenges.lua(04022),,,,,,,,殺死極幼者．艾森，<red></red>同時啟動5個禁咒,,OK,,
-3902,195189,Slay Morenth the Voiceless While Above 50% health with 5 active Hexes,Data/MapChallenges.lua(04230),,,,,,,,生命高於50%時，<red></red>殺死無聲者．莫倫斯，<red></red>同時啟動5個禁咒,,OK,,
-3903,195189,Slay Tamas Murkvenom within <timer> seconds with 4 active Hexes,Data/MapChallenges.lua(04244),,,,,,,,在<timer>秒內殺死湯瑪斯．暗毒，<red></red>同時啟動4個禁咒,,OK,,
-4310,197934,Slay Wa-Lee The Solicitor with 4 active Hexes,Data/MapChallenges.lua(04361),,,,,,,,殺死誘魂者．瓦李，<red></red>同時啟動4個禁咒,,OK,,
-4311,197934,Slay Wa-Lee The Solicitor with 5 active Hexes,Data/MapChallenges.lua(04373),,,,,,,,殺死誘魂者．瓦李，<red></red>同時啟動5個禁咒,,OK,,
+4305,197934,Slay Rachnoss The Host affected by Brutality with Hex of Tenacity,Data/MapChallenges.lua(03473),,,,,,,,殺死殘暴狀態的宿主．拉諾斯， 同時啟動堅韌禁咒,,OK,,
+4306,197934,Slay Rachnoss The Host without using Shrines and Demon Powers with Hex of Malice,Data/MapChallenges.lua(03488),,,,,,,,不使用祭壇和惡魔之力， 殺死宿主．拉諾斯， 同時啟動殺意禁咒,,OK,,
+4307,197934,Slay Rachnoss The Host with 5 active Hexes,Data/MapChallenges.lua(03500),,,,,,,,殺死宿主．拉諾斯， 同時啟動5個禁咒,,OK,,
+3694,195030,Solve the mystery of the Haunted Pumpkin with 5 active Hexes,Data/MapChallenges.lua(03767),,,,,,,,解開鬧鬼南瓜之謎， 同時啟動5個禁咒,,OK,,
+4308,197934,Slay Adrian The Fallen with 5 active Hexes,Data/MapChallenges.lua(03890),,,,,,,,殺死墮落者．艾德里安， 同時啟動5個禁咒,,OK,,
+4309,197934,Slay Adrian The Fallen without using Potions and Shrines,Data/MapChallenges.lua(03903),,,,,,,,不使用藥劑和祭壇， 殺死墮落者．艾德里安,,OK,,
+3695,195030,Slay Spite of Ignus with a Ranged Weapon with 5 active Hexes,Data/MapChallenges.lua(03937),,,,,,,,使用遠程武器殺死伊格納斯之怨， 同時啟動5個禁咒,,OK,,
+3696,195030,Slay Trust Betrayed with a Melee Weapon with 5 active Hexes,Data/MapChallenges.lua(03950),,,,,,,,使用近戰武器殺死背信者， 同時啟動5個禁咒,,OK,,
+3697,195030,Slay Eisen the Youngest with 5 active Hexes,Data/MapChallenges.lua(04022),,,,,,,,殺死極幼者．艾森， 同時啟動5個禁咒,,OK,,
+3902,195189,Slay Morenth the Voiceless While Above 50% health with 5 active Hexes,Data/MapChallenges.lua(04230),,,,,,,,生命高於50%時， 殺死無聲者．莫倫斯， 同時啟動5個禁咒,,OK,,
+3903,195189,Slay Tamas Murkvenom within <timer> seconds with 4 active Hexes,Data/MapChallenges.lua(04244),,,,,,,,在<timer>秒內殺死湯瑪斯．暗毒， 同時啟動4個禁咒,,OK,,
+4310,197934,Slay Wa-Lee The Solicitor with 4 active Hexes,Data/MapChallenges.lua(04361),,,,,,,,殺死誘魂者．瓦李， 同時啟動4個禁咒,,OK,,
+4311,197934,Slay Wa-Lee The Solicitor with 5 active Hexes,Data/MapChallenges.lua(04373),,,,,,,,殺死誘魂者．瓦李， 同時啟動5個禁咒,,OK,,
 3904,195189,Slay Miscreations with Shotgun,Data/MapChallenges.lua(04390),,,,,,,,使用霰彈槍殺死妄造之物,,OK,,
-4312,197934,Slay Lord Gabriel with 3 active Hexes,Data/MapChallenges.lua(04412),,,,,,,,殺死加百列領主，<red></red>同時啟動3個禁咒,,OK,,
-4313,197934,Slay Lord Gabriel without dying and without using Shrines,Data/MapChallenges.lua(04424),,,,,,,,在沒有死亡的情況下，<red></red>不使用祭壇，<red></red>殺死加百列領主,,OK,,
-3905,195189,Slay Miscreations without dying with 5 active Hexes,Data/MapChallenges.lua(04437),,,,,,,,在沒有死亡的情況下，<red></red>殺死妄造之物，<red></red>同時啟動5個禁咒,,OK,,
-3906,195189,Slay Lord Gabriel in Stage 1 withing 240 seconds without dying,Data/MapChallenges.lua(04450),,,,,,,,在沒有死亡的情況下，<red></red>在240秒內殺死第一形態的加百列領主,,OK,,
-3907,195189,Slay Lord Gabriel in Stage 2 While Above 50% health without using Shrines,Data/MapChallenges.lua(04462),,,,,,,,不使用祭壇，<red></red>生命高於50%時，<red></red>殺死第二階段的加百列領主,,OK,,
+4312,197934,Slay Lord Gabriel with 3 active Hexes,Data/MapChallenges.lua(04412),,,,,,,,殺死加百列領主， 同時啟動3個禁咒,,OK,,
+4313,197934,Slay Lord Gabriel without dying and without using Shrines,Data/MapChallenges.lua(04424),,,,,,,,在沒有死亡的情況下， 不使用祭壇， 殺死加百列領主,,OK,,
+3905,195189,Slay Miscreations without dying with 5 active Hexes,Data/MapChallenges.lua(04437),,,,,,,,在沒有死亡的情況下， 殺死妄造之物， 同時啟動5個禁咒,,OK,,
+3906,195189,Slay Lord Gabriel in Stage 1 withing 240 seconds without dying,Data/MapChallenges.lua(04450),,,,,,,,在沒有死亡的情況下， 在240秒內殺死第一形態的加百列領主,,OK,,
+3907,195189,Slay Lord Gabriel in Stage 2 While Above 50% health without using Shrines,Data/MapChallenges.lua(04462),,,,,,,,不使用祭壇， 生命高於50%時， 殺死第二階段的加百列領主,,OK,,
 3908,195189,Slay Lord Gabriel in Stage 3 while he is affected by Brutality,Data/MapChallenges.lua(04474),,,,,,,,殺死第三階段殘暴狀態的加百列領主,,OK,,
-3909,195189,Slay Lord Gabriel in Stage 3 without dying with 5 active Hexes,Data/MapChallenges.lua(04488),,,,,,,,在沒有死亡的情況下，<red></red>殺死第三階段的加百列領主，<red></red>同時啟動5個禁咒,,OK,,
-4609,199130,Slay Gregory Cain without dying with Hex of Malice,Data/MapChallenges.lua(04510),,,,,,,,在沒有死亡的情況下，<red></red>殺死格雷戈里．該隱，<red></red>同時啟動殺意禁咒,,OK,,
-4529,199130,Slay the Outsider while above 60% Health,Data/MapChallenges.lua(04522),,,,,,,,生命高於60%時，<red></red>殺死域外者,,OK,,
-4530,199130,"Slay the Wizards of Akkadia without dying with Hex of Malice, Hex of Time and Hex of Tyranny",Data/MapChallenges.lua(04539),,,,,,,,在沒有死亡的情況下，<red></red>殺死阿卡迪亞的巫師，<red></red>同時啟動殺意禁咒、<red></red>時間禁咒和暴虐禁咒,,OK,,
-4531,199130,Slay Judge Prejudice without dying while you are affected by Frailty,Data/MapChallenges.lua(04553),,,,,,,,處於虛弱狀態時，<red></red>在沒有死亡的情況下，<red></red>殺死偏見判官,,OK,,
-4532,199130,Slay the Storm of Swords while above 30% Health with Hex of Tenacity,Data/MapChallenges.lua(04566),,,,,,,,生命高於30%時，<red></red>殺死劍刃風暴，<red></red>同時啟動堅韌禁咒,,OK,,
-4533,199130,Slay d'Artagnan without dying with 5 active Hexes,Data/MapChallenges.lua(04579),,,,,,,,在沒有死亡的情況下，<red></red>殺死達爾達尼央，<red></red>同時啟動5個禁咒,,OK,,
+3909,195189,Slay Lord Gabriel in Stage 3 without dying with 5 active Hexes,Data/MapChallenges.lua(04488),,,,,,,,在沒有死亡的情況下， 殺死第三階段的加百列領主， 同時啟動5個禁咒,,OK,,
+4609,199130,Slay Gregory Cain without dying with Hex of Malice,Data/MapChallenges.lua(04510),,,,,,,,在沒有死亡的情況下， 殺死格雷戈里．該隱， 同時啟動殺意禁咒,,OK,,
+4529,199130,Slay the Outsider while above 60% Health,Data/MapChallenges.lua(04522),,,,,,,,生命高於60%時， 殺死域外者,,OK,,
+4530,199130,"Slay the Wizards of Akkadia without dying with Hex of Malice, Hex of Time and Hex of Tyranny",Data/MapChallenges.lua(04539),,,,,,,,在沒有死亡的情況下， 殺死阿卡迪亞的巫師， 同時啟動殺意禁咒、 時間禁咒和暴虐禁咒,,OK,,
+4531,199130,Slay Judge Prejudice without dying while you are affected by Frailty,Data/MapChallenges.lua(04553),,,,,,,,處於虛弱狀態時， 在沒有死亡的情況下， 殺死偏見判官,,OK,,
+4532,199130,Slay the Storm of Swords while above 30% Health with Hex of Tenacity,Data/MapChallenges.lua(04566),,,,,,,,生命高於30%時， 殺死劍刃風暴， 同時啟動堅韌禁咒,,OK,,
+4533,199130,Slay d'Artagnan without dying with 5 active Hexes,Data/MapChallenges.lua(04579),,,,,,,,在沒有死亡的情況下， 殺死達爾達尼央， 同時啟動5個禁咒,,OK,,
 4534,199653,Slay Essences from the Well of Infernal Anguish while you are affected by Frailty,Data/MapChallenges.lua(04592),,,,,199130,,,處於虛弱狀態時殺死來自煉獄折磨之井的原質,,changed,,
-4535,199130,Slay Big' Fazer Blackhill without dying while he is affected by Brutality,Data/MapChallenges.lua(04605),,,,,,,,在沒有死亡的情況下，<red></red>殺死殘暴狀態的大法瑟．黑丘,,OK,,
-4536,199130,Slay the Bewitched Sorority without dying with Hex of Malice and Hex of Pain,Data/MapChallenges.lua(04621),,,,,,,,在沒有死亡的情況下，<red></red>殺死入魔姊妹會，<red></red>同時啟動殺意禁咒和疼痛禁咒,,OK,,
-4537,199130,Slay the Trickster with a demon power while above 50% Health,Data/MapChallenges.lua(04632),,,,,,,,生命高於50%時，<red></red>使用惡魔之力殺死騙術師,,OK,,
-4538,199130,Slay the Hunchback Sculptor without dying while he is affected by Brutality,Data/MapChallenges.lua(04647),,,,,,,,在沒有死亡的情況下，<red></red>殺死殘暴狀態的駝背雕刻家,,OK,,
+4535,199130,Slay Big' Fazer Blackhill without dying while he is affected by Brutality,Data/MapChallenges.lua(04605),,,,,,,,在沒有死亡的情況下， 殺死殘暴狀態的大法瑟．黑丘,,OK,,
+4536,199130,Slay the Bewitched Sorority without dying with Hex of Malice and Hex of Pain,Data/MapChallenges.lua(04621),,,,,,,,在沒有死亡的情況下， 殺死入魔姊妹會， 同時啟動殺意禁咒和疼痛禁咒,,OK,,
+4537,199130,Slay the Trickster with a demon power while above 50% Health,Data/MapChallenges.lua(04632),,,,,,,,生命高於50%時， 使用惡魔之力殺死騙術師,,OK,,
+4538,199130,Slay the Hunchback Sculptor without dying while he is affected by Brutality,Data/MapChallenges.lua(04647),,,,,,,,在沒有死亡的情況下， 殺死殘暴狀態的駝背雕刻家,,OK,,
 4539,199130,Slay the Unwholesome Practitioner with Bombardier Spider's barrage attack,Data/MapChallenges.lua(04660),,,,,,,,利用投彈蜘蛛的彈幕攻擊殺死病態醫生,,OK,,
-4540,199130,Slay the Pedestal of the Elements while above 60% Health with Hex of Tyranny,Data/MapChallenges.lua(04674),,,,,,,,生命高於60%時，<red></red>殺死元素根基，<red></red>同時啟動暴虐禁咒,,OK,,
-4541,199130,Slay the Lurking Fear without dying with 5 active Hexes,Data/MapChallenges.lua(04689),,,,,,,,在沒有死亡的情況下，<red></red>殺死潛伏之懼，<red></red>同時啟動5個禁咒,,OK,,
-4542,199130,Slay Soul of Black with a demon power without dying,Data/MapChallenges.lua(04702),,,,,,,,在沒有死亡的情況下，<red></red>使用惡魔之力殺死黑魂,,OK,,
-4543,199130,Slay Sion without dying with Hex of Malice and Hex of Tenacity,Data/MapChallenges.lua(04718),,,,,,,,在沒有死亡的情況下，<red></red>殺死賽恩，<red></red>同時啟動殺意禁咒和堅韌禁咒,,OK,,
-4544,199130,Slay Ambition without dying with 5 active Hexes,Data/MapChallenges.lua(04732),,,,,,,,在沒有死亡的情況下，<red></red>殺死安畢遜，<red></red>同時啟動5個禁咒,,OK,,
-4545,199130,Slay Monster of Rock without dying while it is affected by Daze,Data/MapChallenges.lua(04745),,,,,,,,在沒有死亡的情況下，<red></red>殺死暈眩狀態的岩石怪,,OK,,
-4546,199130,Slay the Pax Magica while above 30% health with Hex of Time,Data/MapChallenges.lua(04759),,,,,,,,生命高於30%時，<red></red>殺死魔法帕克斯，<red></red>同時啟動時間禁咒,,OK,,
-4547,199130,Slay HATRED and ANGST with a Scythe without dying,Data/MapChallenges.lua(04772),,,,,,,,在沒有死亡的情況下，<red></red>使用鐮刀殺死憎恨和焦慮,,OK,,
-4610,199130,Slay Cardinal Bleak with a Shotgun with Hex of Malice without dying,Data/MapChallenges.lua(04787),,,,,,,,在沒有死亡的情況下，<red></red>使用霰彈槍殺死布里克主教，<red></red>同時啟動殺意禁咒,,OK,,
-4549,199130,Slay Witness to Sin without dying with a demon power with 2 active Hexes,Data/MapChallenges.lua(04802),,,,,,,,在沒有死亡的情況下，<red></red>使用惡魔之力殺死原罪見證人，<red></red>同時啟動2個禁咒,,OK,,
-4550,199130,Slay the Putrid Mass without dying with 5 active Hexes,Data/MapChallenges.lua(04817),,,,,,,,在沒有死亡的情況下，<red></red>殺死腐化集團，<red></red>同時啟動5個禁咒,,OK,,
-4551,199130,Slay the monsters from the Ballad of the Unmarked Tombstone with a Shotgun and Hex of Tenacity,Data/MapChallenges.lua(04829),,,,,,,,使用霰彈槍殺死來自無主墓碑歌謠的怪物，<red></red>同時啟動堅韌禁咒,,OK,,
-4552,199130,Slay the Surgeon with Hex of Malice while above 30% Health,Data/MapChallenges.lua(04842),,,,,,,,生命高於30%時，<red></red>殺死開膛者，<red></red>同時啟動殺意禁咒,,OK,,
-4553,199130,Slay Old Sean Malcom without dying with 5 active Hexes,Data/MapChallenges.lua(04857),,,,,,,,在沒有死亡的情況下，<red></red>殺死老肖恩．麥爾坎，<red></red>同時啟動5個禁咒,,OK,,
-4554,199130,Slay the Magnate with a Hammer with 5 active Hexes without dying,Data/MapChallenges.lua(04871),,,,,,,,在沒有死亡的情況下，<red></red>使用戰鎚殺死大亨，<red></red>同時啟動5個禁咒,,OK,,
-4555,199130,Overkill Mickey Three-Lives without dying with Hex of Time,Data/MapChallenges.lua(04886),,,,,,,,在沒有死亡的情況下，<red></red>絕殺三命米奇，<red></red>同時啟動時間禁咒,,OK,,
-4556,199130,Slay the Teamster Brethren with a Hammer with Hex of Time,Data/MapChallenges.lua(04900),,,,,,,,使用戰鎚殺死卡車工會成員，<red></red>同時啟動時間禁咒,,OK,,
-4557,199130,Slay Essences of Lightning with a Lightning Gun with 5 active Hexes,Data/MapChallenges.lua(04914),,,,,,,,使用閃電槍殺死閃電原質，<red></red>同時啟動5個禁咒,,OK,,
-4558,199130,Slay Erik with a demon power with Hex of Malice,Data/MapChallenges.lua(04928),,,,,,,,使用惡魔之力殺死埃里克，<red></red>同時啟動殺意禁咒,,OK,,
-4559,199130,Slay the Brutish Lumberjack with a Scythe while above 30% Health,Data/MapChallenges.lua(04941),,,,,,,,生命高於30%時，<red></red>使用鐮刀殺死粗野樵夫,,OK,,
-4560,199130,"Slay Olga, Helga and Beatrix with a Shotgun with 3 active Hexes",Data/MapChallenges.lua(04956),,,,,,,,使用霰彈槍殺死奧嘉、<red></red>海嘉和碧翠絲，<red></red>同時啟動3個禁咒,,OK,,
-4561,199130,Slay the Faceless affected by Brutality with Hex of Malice,Data/MapChallenges.lua(04970),,,,,,,,殺死殘暴狀態的無面者，<red></red>同時啟動殺意禁咒,,OK,,
-4562,199130,Slay the Hearts of Fire and Hearts of Ice while you are affected by Frost with 2 active Hexes,Data/MapChallenges.lua(04985),,,,,,,,處於結霜狀態時，<red></red>殺死火之心和冰之心，<red></red>同時啟動2個禁咒,,OK,,
-4563,199130,Slay Harshness of Winter with 5 active Hexes,Data/MapChallenges.lua(04998),,,,,,,,殺死寒冬之刺，<red></red>同時啟動5個禁咒,,OK,,
-4564,199130,Slay the Whisperers with Melee attacks while above 30% Health,Data/MapChallenges.lua(05010),,,,,,,,生命高於30%時，<red></red>使用近戰武器殺死低語者,,OK,,
-4565,199130,Slay the detestable Walker while it is affected by Daze with 5 active Hexes,Data/MapChallenges.lua(05024),,,,,,,,殺死暈眩狀態的憎惡行者，<red></red>同時啟動5個禁咒,,OK,,
-4566,199130,Slay the Leather Boys with a Shotgun with Hex of Malice and Hex of Tenacity,Data/MapChallenges.lua(05039),,,,,,,,使用霰彈槍殺死皮衣男，<red></red>同時啟動殺意禁咒和堅韌禁咒,,OK,,
-4567,199130,Slay the Dealer with a Hammer with Hex of Tenacity,Data/MapChallenges.lua(05052),,,,,,,,使用戰鎚殺死交易者，<red></red>同時啟動堅韌禁咒,,OK,,
-4568,199130,Slay the Gate Keeper with Bombardier Spider's barrage attack without dying,Data/MapChallenges.lua(05066),,,,,,,,在沒有死亡的情況下，<red></red>利用投彈蜘蛛的彈幕攻擊殺死守門人,,OK,,
-4569,199130,Slay Adath with a Lightning Gun while above 50% Health,Data/MapChallenges.lua(05079),,,,,,,,生命高於50%時，<red></red>使用閃電槍殺死阿妲斯,,OK,,
-4570,199130,Slay the Master of the Balls with 5 active Hexes without dying,Data/MapChallenges.lua(05095),,,,,,,,在沒有死亡的情況下，<red></red>殺死球王，<red></red>同時啟動5個禁咒,,OK,,
+4540,199130,Slay the Pedestal of the Elements while above 60% Health with Hex of Tyranny,Data/MapChallenges.lua(04674),,,,,,,,生命高於60%時， 殺死元素根基， 同時啟動暴虐禁咒,,OK,,
+4541,199130,Slay the Lurking Fear without dying with 5 active Hexes,Data/MapChallenges.lua(04689),,,,,,,,在沒有死亡的情況下， 殺死潛伏之懼， 同時啟動5個禁咒,,OK,,
+4542,199130,Slay Soul of Black with a demon power without dying,Data/MapChallenges.lua(04702),,,,,,,,在沒有死亡的情況下， 使用惡魔之力殺死黑魂,,OK,,
+4543,199130,Slay Sion without dying with Hex of Malice and Hex of Tenacity,Data/MapChallenges.lua(04718),,,,,,,,在沒有死亡的情況下， 殺死賽恩， 同時啟動殺意禁咒和堅韌禁咒,,OK,,
+4544,199130,Slay Ambition without dying with 5 active Hexes,Data/MapChallenges.lua(04732),,,,,,,,在沒有死亡的情況下， 殺死安畢遜， 同時啟動5個禁咒,,OK,,
+4545,199130,Slay Monster of Rock without dying while it is affected by Daze,Data/MapChallenges.lua(04745),,,,,,,,在沒有死亡的情況下， 殺死暈眩狀態的岩石怪,,OK,,
+4546,199130,Slay the Pax Magica while above 30% health with Hex of Time,Data/MapChallenges.lua(04759),,,,,,,,生命高於30%時， 殺死魔法帕克斯， 同時啟動時間禁咒,,OK,,
+4547,199130,Slay HATRED and ANGST with a Scythe without dying,Data/MapChallenges.lua(04772),,,,,,,,在沒有死亡的情況下， 使用鐮刀殺死憎恨和焦慮,,OK,,
+4610,199130,Slay Cardinal Bleak with a Shotgun with Hex of Malice without dying,Data/MapChallenges.lua(04787),,,,,,,,在沒有死亡的情況下， 使用霰彈槍殺死布里克主教， 同時啟動殺意禁咒,,OK,,
+4549,199130,Slay Witness to Sin without dying with a demon power with 2 active Hexes,Data/MapChallenges.lua(04802),,,,,,,,在沒有死亡的情況下， 使用惡魔之力殺死原罪見證人， 同時啟動2個禁咒,,OK,,
+4550,199130,Slay the Putrid Mass without dying with 5 active Hexes,Data/MapChallenges.lua(04817),,,,,,,,在沒有死亡的情況下， 殺死腐化集團， 同時啟動5個禁咒,,OK,,
+4551,199130,Slay the monsters from the Ballad of the Unmarked Tombstone with a Shotgun and Hex of Tenacity,Data/MapChallenges.lua(04829),,,,,,,,使用霰彈槍殺死來自無主墓碑歌謠的怪物， 同時啟動堅韌禁咒,,OK,,
+4552,199130,Slay the Surgeon with Hex of Malice while above 30% Health,Data/MapChallenges.lua(04842),,,,,,,,生命高於30%時， 殺死開膛者， 同時啟動殺意禁咒,,OK,,
+4553,199130,Slay Old Sean Malcom without dying with 5 active Hexes,Data/MapChallenges.lua(04857),,,,,,,,在沒有死亡的情況下， 殺死老肖恩．麥爾坎， 同時啟動5個禁咒,,OK,,
+4554,199130,Slay the Magnate with a Hammer with 5 active Hexes without dying,Data/MapChallenges.lua(04871),,,,,,,,在沒有死亡的情況下， 使用戰鎚殺死大亨， 同時啟動5個禁咒,,OK,,
+4555,199130,Overkill Mickey Three-Lives without dying with Hex of Time,Data/MapChallenges.lua(04886),,,,,,,,在沒有死亡的情況下， 絕殺三命米奇， 同時啟動時間禁咒,,OK,,
+4556,199130,Slay the Teamster Brethren with a Hammer with Hex of Time,Data/MapChallenges.lua(04900),,,,,,,,使用戰鎚殺死卡車工會成員， 同時啟動時間禁咒,,OK,,
+4557,199130,Slay Essences of Lightning with a Lightning Gun with 5 active Hexes,Data/MapChallenges.lua(04914),,,,,,,,使用閃電槍殺死閃電原質， 同時啟動5個禁咒,,OK,,
+4558,199130,Slay Erik with a demon power with Hex of Malice,Data/MapChallenges.lua(04928),,,,,,,,使用惡魔之力殺死埃里克， 同時啟動殺意禁咒,,OK,,
+4559,199130,Slay the Brutish Lumberjack with a Scythe while above 30% Health,Data/MapChallenges.lua(04941),,,,,,,,生命高於30%時， 使用鐮刀殺死粗野樵夫,,OK,,
+4560,199130,"Slay Olga, Helga and Beatrix with a Shotgun with 3 active Hexes",Data/MapChallenges.lua(04956),,,,,,,,使用霰彈槍殺死奧嘉、 海嘉和碧翠絲， 同時啟動3個禁咒,,OK,,
+4561,199130,Slay the Faceless affected by Brutality with Hex of Malice,Data/MapChallenges.lua(04970),,,,,,,,殺死殘暴狀態的無面者， 同時啟動殺意禁咒,,OK,,
+4562,199130,Slay the Hearts of Fire and Hearts of Ice while you are affected by Frost with 2 active Hexes,Data/MapChallenges.lua(04985),,,,,,,,處於結霜狀態時， 殺死火之心和冰之心， 同時啟動2個禁咒,,OK,,
+4563,199130,Slay Harshness of Winter with 5 active Hexes,Data/MapChallenges.lua(04998),,,,,,,,殺死寒冬之刺， 同時啟動5個禁咒,,OK,,
+4564,199130,Slay the Whisperers with Melee attacks while above 30% Health,Data/MapChallenges.lua(05010),,,,,,,,生命高於30%時， 使用近戰武器殺死低語者,,OK,,
+4565,199130,Slay the detestable Walker while it is affected by Daze with 5 active Hexes,Data/MapChallenges.lua(05024),,,,,,,,殺死暈眩狀態的憎惡行者， 同時啟動5個禁咒,,OK,,
+4566,199130,Slay the Leather Boys with a Shotgun with Hex of Malice and Hex of Tenacity,Data/MapChallenges.lua(05039),,,,,,,,使用霰彈槍殺死皮衣男， 同時啟動殺意禁咒和堅韌禁咒,,OK,,
+4567,199130,Slay the Dealer with a Hammer with Hex of Tenacity,Data/MapChallenges.lua(05052),,,,,,,,使用戰鎚殺死交易者， 同時啟動堅韌禁咒,,OK,,
+4568,199130,Slay the Gate Keeper with Bombardier Spider's barrage attack without dying,Data/MapChallenges.lua(05066),,,,,,,,在沒有死亡的情況下， 利用投彈蜘蛛的彈幕攻擊殺死守門人,,OK,,
+4569,199130,Slay Adath with a Lightning Gun while above 50% Health,Data/MapChallenges.lua(05079),,,,,,,,生命高於50%時， 使用閃電槍殺死阿妲斯,,OK,,
+4570,199130,Slay the Master of the Balls with 5 active Hexes without dying,Data/MapChallenges.lua(05095),,,,,,,,在沒有死亡的情況下， 殺死球王， 同時啟動5個禁咒,,OK,,
 4571,199130,Slay Vex the Uninvited while it is affected by Enraged,Data/MapChallenges.lua(05107),,,,,,,,殺死憤怒狀態的不速者．維克斯,,OK,,
-4572,199130,Slay the Creeping Chaos with a Bomb with Hex of Time and Hex of Pain,Data/MapChallenges.lua(05122),,,,,,,,使用炸彈殺死混沌爬蛛，<red></red>同時啟動時間禁咒和疼痛禁咒,,OK,,
-4573,199160,Slay all Chromatic Essence aspects without dying with 5 active Hexes,Data/MapChallenges.lua(05146),,,,,,,,在沒有死亡的情況下，<red></red>殺死五彩原質，<red></red>同時啟動5個禁咒,,OK,,
-4574,199653,Slay the Marble Knight without dying with Hex of Time and Hex of Pain,Data/MapChallenges.lua(05168),,,,,199160,,,在沒有死亡的情況下，<red></red>殺死大理石騎士，<red></red>同時啟動時間禁咒和疼痛禁咒,,changed,,
-4623,199160,Slay Rainbow Spiders without dying with Melee attacks with Hex of Malice,Data/MapChallenges.lua(05190),,,,,,,,在沒有死亡的情況下，<red></red>使用近戰攻擊殺死彩虹蜘蛛，<red></red>同時啟動殺意禁咒,,OK,,
-4576,199160,Overkill members of the Cult of Cosmic Hatred without dying with Hex of Tyranny,Data/MapChallenges.lua(05213),,,,,,,,在沒有死亡的情況下，<red></red>絕殺恨世教團的成員，<red></red>同時啟動暴虐禁咒,,OK,,
-4577,199160,Slay Shadow Spiders without dying with Hex of Time while affected by Frailty,Data/MapChallenges.lua(05237),,,,,,,,處於虛弱狀態時，<red></red>在沒有死亡的情況下，<red></red>殺死暗影蜘蛛，<red></red>同時啟動時間禁咒,,OK,,
-4578,199130,Slay Count Sirius with a demon power with Hex of Malice,Data/MapChallenges.lua(05258),,,,,,,,使用惡魔之力殺死天狼星伯爵，<red></red>同時啟動殺意禁咒,,OK,,
+4572,199130,Slay the Creeping Chaos with a Bomb with Hex of Time and Hex of Pain,Data/MapChallenges.lua(05122),,,,,,,,使用炸彈殺死混沌爬蛛， 同時啟動時間禁咒和疼痛禁咒,,OK,,
+4573,199160,Slay all Chromatic Essence aspects without dying with 5 active Hexes,Data/MapChallenges.lua(05146),,,,,,,,在沒有死亡的情況下， 殺死五彩原質， 同時啟動5個禁咒,,OK,,
+4574,199653,Slay the Marble Knight without dying with Hex of Time and Hex of Pain,Data/MapChallenges.lua(05168),,,,,199160,,,在沒有死亡的情況下， 殺死大理石騎士， 同時啟動時間禁咒和疼痛禁咒,,changed,,
+4623,199160,Slay Rainbow Spiders without dying with Melee attacks with Hex of Malice,Data/MapChallenges.lua(05190),,,,,,,,在沒有死亡的情況下， 使用近戰攻擊殺死彩虹蜘蛛， 同時啟動殺意禁咒,,OK,,
+4576,199160,Overkill members of the Cult of Cosmic Hatred without dying with Hex of Tyranny,Data/MapChallenges.lua(05213),,,,,,,,在沒有死亡的情況下， 絕殺恨世教團的成員， 同時啟動暴虐禁咒,,OK,,
+4577,199160,Slay Shadow Spiders without dying with Hex of Time while affected by Frailty,Data/MapChallenges.lua(05237),,,,,,,,處於虛弱狀態時， 在沒有死亡的情況下， 殺死暗影蜘蛛， 同時啟動時間禁咒,,OK,,
+4578,199130,Slay Count Sirius with a demon power with Hex of Malice,Data/MapChallenges.lua(05258),,,,,,,,使用惡魔之力殺死天狼星伯爵， 同時啟動殺意禁咒,,OK,,
 4579,199130,Slay the Tyrant of the Mud-lands with Bombardier Spider's barrage attack,Data/MapChallenges.lua(05271),,,,,,,,利用投彈蜘蛛的彈幕攻擊殺死泥地暴君,,OK,,
-4580,199130,Slay Pleasure and Pain with 5 active Hexes,Data/MapChallenges.lua(05285),,,,,,,,殺死愉悅和痛苦，<red></red>同時啟動5個禁咒,,OK,,
-4581,199130,Slay the avenging Essences with a Scythe with 5 active Hexes,Data/MapChallenges.lua(05297),,,,,,,,使用鐮刀殺死復仇原質，<red></red>同時啟動5個禁咒,,OK,,
+4580,199130,Slay Pleasure and Pain with 5 active Hexes,Data/MapChallenges.lua(05285),,,,,,,,殺死愉悅和痛苦， 同時啟動5個禁咒,,OK,,
+4581,199130,Slay the avenging Essences with a Scythe with 5 active Hexes,Data/MapChallenges.lua(05297),,,,,,,,使用鐮刀殺死復仇原質， 同時啟動5個禁咒,,OK,,
 4611,199130,Overkill Slave of Storms while he is affected by Vulnerable,Data/MapChallenges.lua(05310),,,,,,,,絕殺處於脆化狀態的風暴之奴,,OK,,
-4583,199130,Slay Evernade with a bomb while above 50% Health,Data/MapChallenges.lua(05324),,,,,,,,生命高於50%時，<red></red>使用炸彈殺死艾薇奈德,,OK,,
-4584,199130,Slay the Disciples of Atrocity while above 30% Health,Data/MapChallenges.lua(05338),,,,,,,,生命高於30%時，<red></red>殺死殘暴門徒,,OK,,
-4585,199130,Slay the Guild of Melancholy with a Hand Mortar with 5 active Hexes,Data/MapChallenges.lua(05351),,,,,,,,使用迫擊炮殺死憂鬱公會，<red></red>同時啟動5個禁咒,,OK,,
-4586,199130,Slay Precision Bombers with Bombardier Spider's barrage attack with Hex of Malice,Data/MapChallenges.lua(05364),,,,,,,,利用投彈蜘蛛的彈幕攻擊殺死精準炸彈客，<red></red>同時啟動殺意禁咒,,OK,,
-4587,199653,Overkill Young Lady Ruth with Hex of Malice and Hex of Time,Data/MapChallenges.lua(05379),,,,,199130,,,絕殺露絲女士，<red></red>同時啟動殺意禁咒和時間禁咒,,changed,,
-4588,199130,Overkill Marie with 4 active Hexes,Data/MapChallenges.lua(05393),,,,,,,,絕殺瑪麗，<red></red>同時啟動4個禁咒,,OK,,
-4612,199130,Slay the Skeletons forsaken in the marsh while above 30% Health,Data/MapChallenges.lua(05405),,,,,,,,生命高於30%時，<red></red>殺死被遺忘在沼澤的骷髏,,OK,,
-4590,199130,"Slay Lord of the Swamp with Hex of Malice, Hex of Tenacity and Hex of Time",Data/MapChallenges.lua(05421),,,,,,,,殺死沼澤領主，<red></red>同時啟動殺意禁咒、<red></red>堅韌禁咒和時間禁咒,,OK,,
-4591,199130,Slay the Harbinger of Plague with a Hammer with 5 active Hexes,Data/MapChallenges.lua(05434),,,,,,,,使用戰鎚殺死鼠疫使徒，<red></red>同時啟動5個禁咒,,OK,,
-4592,199130,Slay the Fisher from Outside with Hex of Tenacity while it is affected by Daze,Data/MapChallenges.lua(05448),,,,,,,,殺死暈眩狀態的域外釣客，<red></red>同時啟動堅韌禁咒,,OK,,
+4583,199130,Slay Evernade with a bomb while above 50% Health,Data/MapChallenges.lua(05324),,,,,,,,生命高於50%時， 使用炸彈殺死艾薇奈德,,OK,,
+4584,199130,Slay the Disciples of Atrocity while above 30% Health,Data/MapChallenges.lua(05338),,,,,,,,生命高於30%時， 殺死殘暴門徒,,OK,,
+4585,199130,Slay the Guild of Melancholy with a Hand Mortar with 5 active Hexes,Data/MapChallenges.lua(05351),,,,,,,,使用迫擊炮殺死憂鬱公會， 同時啟動5個禁咒,,OK,,
+4586,199130,Slay Precision Bombers with Bombardier Spider's barrage attack with Hex of Malice,Data/MapChallenges.lua(05364),,,,,,,,利用投彈蜘蛛的彈幕攻擊殺死精準炸彈客， 同時啟動殺意禁咒,,OK,,
+4587,199653,Overkill Young Lady Ruth with Hex of Malice and Hex of Time,Data/MapChallenges.lua(05379),,,,,199130,,,絕殺露絲女士， 同時啟動殺意禁咒和時間禁咒,,changed,,
+4588,199130,Overkill Marie with 4 active Hexes,Data/MapChallenges.lua(05393),,,,,,,,絕殺瑪麗， 同時啟動4個禁咒,,OK,,
+4612,199130,Slay the Skeletons forsaken in the marsh while above 30% Health,Data/MapChallenges.lua(05405),,,,,,,,生命高於30%時， 殺死被遺忘在沼澤的骷髏,,OK,,
+4590,199130,"Slay Lord of the Swamp with Hex of Malice, Hex of Tenacity and Hex of Time",Data/MapChallenges.lua(05421),,,,,,,,殺死沼澤領主， 同時啟動殺意禁咒、 堅韌禁咒和時間禁咒,,OK,,
+4591,199130,Slay the Harbinger of Plague with a Hammer with 5 active Hexes,Data/MapChallenges.lua(05434),,,,,,,,使用戰鎚殺死鼠疫使徒， 同時啟動5個禁咒,,OK,,
+4592,199130,Slay the Fisher from Outside with Hex of Tenacity while it is affected by Daze,Data/MapChallenges.lua(05448),,,,,,,,殺死暈眩狀態的域外釣客， 同時啟動堅韌禁咒,,OK,,
 4679,199933,Slay Trick-or-Treating Monsters,Data/MapChallenges.lua(05460),,,,,0,,,殺死不給糖就搗蛋的怪物,,new,,
-4680,199933,Slay the Barrow King while above 50% Health with Hex of Tenacity,Data/MapChallenges.lua(05481),,,,,0,,,生命高於50%時，<red></red>殺死荒塚王，<red></red>同時啟動堅韌禁咒,,new,,
+4680,199933,Slay the Barrow King while above 50% Health with Hex of Tenacity,Data/MapChallenges.lua(05481),,,,,0,,,生命高於50%時， 殺死荒塚王， 同時啟動堅韌禁咒,,new,,
 4682,200080,Slay the Right and Left Arm of the Pumpking with Bombardier Spider's barrage attack,Data/MapChallenges.lua(05503),,,,,0,,,利用投彈蜘蛛的彈幕攻擊宰敗南瓜王的左手和右手,,new,,
-4683,199933,Slay Hunter of Wishes while you are affected by Frailty with Hex of Malice,Data/MapChallenges.lua(05518),,,,,0,,,處於虛弱狀態時，<red></red>殺死希望獵人，<red></red>同時啟動殺意禁咒,,new,,
-4684,199933,Slay Blad the Inhaler without using Potions and Demon Powers,Data/MapChallenges.lua(05532),,,,,0,,,不使用藥劑和惡魔之力，<red></red>殺死吸血者．巴雷德,,new,,
-4685,199933,Slay champions affected by Brutality without dying,Data/MapChallenges.lua(05545),,,,,0,,,在沒有死亡的情況下，<red></red>殺死殘暴狀態的悍將,,new,,
-4686,199933,Slay the Pumpking with 5 active Hexes without dying,Data/MapChallenges.lua(05558),,,,,0,,,在沒有死亡的情況下，<red></red>殺死南瓜王，<red></red>同時啟動5個禁咒,,new,,
+4683,199933,Slay Hunter of Wishes while you are affected by Frailty with Hex of Malice,Data/MapChallenges.lua(05518),,,,,0,,,處於虛弱狀態時， 殺死希望獵人， 同時啟動殺意禁咒,,new,,
+4684,199933,Slay Blad the Inhaler without using Potions and Demon Powers,Data/MapChallenges.lua(05532),,,,,0,,,不使用藥劑和惡魔之力， 殺死吸血者．巴雷德,,new,,
+4685,199933,Slay champions affected by Brutality without dying,Data/MapChallenges.lua(05545),,,,,0,,,在沒有死亡的情況下， 殺死殘暴狀態的悍將,,new,,
+4686,199933,Slay the Pumpking with 5 active Hexes without dying,Data/MapChallenges.lua(05558),,,,,0,,,在沒有死亡的情況下， 殺死南瓜王， 同時啟動5個禁咒,,new,,
 2415,194283,Castle Zagore,Data/MapName.lua(00005),,MapName Hub DisplayName,,,,,,扎古爾城,,OK,,
 2416,194323,"Castle Zagore is the only remaining beacon of hope in this god-forsaken city. There are survivors here - tough, grim and desperate. I wonder for how long I can use this place as my base of operations before the forces of darkness sniff the living souls hidden behind its thick walls.",Data/MapName.lua(00007),,MapName Hub Description,,,,,,扎古爾城是這個被上帝遺棄之地僅存的最後希望。這裡仍有些倖存者──艱苦、沮喪又絕望。在黑暗勢力嗅出高牆背後還躲著生靈前，不知道我還可以將這個地方作為作戰基地多久。,,OK,,
 2417,194283,The City Gates,Data/MapName.lua(00012),,MapName Tutorial DisplayName,,,,,,城門,,OK,,
@@ -1532,7 +1532,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 39,194283,Fear,Lua/Buff.lua(00857),,,,,,,,恐懼,,OK,,
 40,194283,Retreating; unable to attack,Lua/Buff.lua(00859),,,,,,,,逃跑，無法攻擊。,,OK,,
 41,194283,Bleeding,Lua/Buff.lua(00907),,,,,,,,流血,,OK,,
-42,195390,Deals <hps>% of the maximum health but no more than <max_dmg> damage every second. Bleeding can't kill the target,Lua/Buff.lua(00909),,,,,,,,每秒造成最大生命<hps>%傷害，但<red></red>不<red></red>超<red></red>過<red></red><max_dmg>。流血不會使目標死亡。,,OK,,
+42,195390,Deals <hps>% of the maximum health but no more than <max_dmg> damage every second. Bleeding can't kill the target,Lua/Buff.lua(00909),,,,,,,,每秒造成最大生命<hps>%傷害， 但 不 超 過 <max_dmg>。 流 血 不 會 使 目 標 死 亡。,,OK,,
 43,194283,Speed,Lua/Buff.lua(00931),,,,,,,,加速,,OK,,
 44,194283,Movement and attack speeds are increased by <number>%,Lua/Buff.lua(00932),,,,,,,,提升<number>%移動和攻擊速度。,,OK,,
 45,194283,Quickness,Lua/Buff.lua(00943),,,,,,,,快手,,OK,,
@@ -1542,7 +1542,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 49,194283,Frost,Lua/Buff.lua(00966),,,,,,,,結霜,,OK,,
 50,200080,Movement and attack speeds are decreased by <number>%,Lua/Buff.lua(00968),,,,,,,,降低<number>%移動和攻擊速度。,,changed,,
 51,194283,Frostburn,Lua/Buff.lua(00979),,,,,,,,凍傷,,OK,,
-52,194283,Deals <number1> damage every second. Movement and attack speeds are decreased by <number2>%,Lua/Buff.lua(00981),,,,,,,,每秒造成<number1>傷害。降低<number2>%移<red></red>動<red></red>和<red></red>攻<red></red>擊<red></red>速<red></red>度。,,OK,,
+52,194283,Deals <number1> damage every second. Movement and attack speeds are decreased by <number2>%,Lua/Buff.lua(00981),,,,,,,,每秒造成<number1>傷害。 降 低<number2>%移 動 和 攻 擊 速 度。,,OK,,
 53,194283,Burning,Lua/Buff.lua(00999),,,,,,,,燒傷,,OK,,
 54,194283,Deals <number> damage every second,Lua/Buff.lua(01001),,,,,,,,每秒造成<number>傷害。,,OK,,
 55,194283,Slow,Lua/Buff.lua(01034),,,,,,,,遲鈍,,OK,,
@@ -1552,7 +1552,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 59,194283,Slowed,Lua/Buff.lua(01060),,,,,,,,緩速,,OK,,
 60,194283,Movement and attack speeds are decreased by <number>%,Lua/Buff.lua(01062),,,,,,,,降低<number>%移動和攻擊速度。,,OK,,
 61,194283,Thorns,Lua/Buff.lua(01075),,,,,,,,荊棘,,OK,,
-62,198395,Reflects <number>% of any melee damage back to its source. Reflected damage is calculated before Armor and also ignores enemy Armor.,Lua/Buff.lua(01076),,,,,,,,反彈<number>%近戰傷害，反彈的傷害會無視<red></red>敵<red></red>人<red></red>的<red></red>防<red></red>禦。,,OK,,
+62,198395,Reflects <number>% of any melee damage back to its source. Reflected damage is calculated before Armor and also ignores enemy Armor.,Lua/Buff.lua(01076),,,,,,,,反彈<number>%近戰傷害， 反 彈 的 傷 害 會 無 視 敵 人 的 防 禦。,,OK,,
 63,194283,Hard Skin,Lua/Buff.lua(01085),,,,,,,,硬皮,,OK,,
 64,194283,Incoming damage is decreased by <number>%,Lua/Buff.lua(01086),,,,,,,,降低<number>%所受傷害。,,OK,,
 65,194283,Weakness,Lua/Buff.lua(01093),,,,,,,,力竭,,OK,,
@@ -1569,7 +1569,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 76,194283,Invisibility,Lua/Buff.lua(01166),,,,,,,,隱形,,OK,,
 77,194283,Invisible for enemies; cannot be attacked,Lua/Buff.lua(01168),,,,,,,,敵人看不到，不會被攻擊。,,OK,,
 78,194283,Curse,Lua/Buff.lua(01205),,,,,,,,詛咒,,OK,,
-79,194283,"Deals damage every second (<number1> + <number2>% of the maximum health). When a cursed enemy dies, nearby enemies regain <number3>% of their health",Lua/Buff.lua(01207),,,,,,,,每秒造成傷害（<number1> + 最大生命<number2>%）。<red></red>當<red></red>一<red></red>個<red></red>被<red></red>詛<red></red>咒的敵人死亡時，附近的敵人會恢復自身<red></red>生命<number3>%。,,OK,,
+79,194283,"Deals damage every second (<number1> + <number2>% of the maximum health). When a cursed enemy dies, nearby enemies regain <number3>% of their health",Lua/Buff.lua(01207),,,,,,,,每秒造成傷害（<number1> + 最大生命<number2>%）。 當 一 個 被 詛 咒 的 敵 人 死 亡 時， 附 近 的 敵 人 會 恢 復 自 身 生 命<number3>%。,,OK,,
 80,194283,Deadly Curse,Lua/Buff.lua(01245),,,,,,,,死咒,,OK,,
 81,194283,Death in <number> seconds,Lua/Buff.lua(01247),,,,,,,,<number>秒後必死。,,OK,,
 82,194283,Berserk,Lua/Buff.lua(01258),,,,,,,,狂暴,,OK,,
@@ -1597,7 +1597,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 3941,195716,Aether Charge,Lua/Buff.lua(01451),,,,,,,,以太聚能,,OK,,
 3942,198919,Stack 10 charges to unleash powerful effects from legendary weapons,Lua/Buff.lua(01453),,,,,,,,累積10次聚能後可釋放傳奇武器強大的力量。,,OK,,
 102,194283,Soul Shard,Lua/Buff.lua(01539),,,,,,,,靈魂碎片,,OK,,
-103,194283,"The scythe's cursed blade rips a piece of the enemy soul with each hit, empowering the next special attack",Lua/Buff.lua(01541),,,,,,,,鐮刀受詛咒的刀刃每一擊都<red></red>會<red></red>扯<red></red>下<red></red>一<red></red>片敵人的靈魂，為下一發招式提供力量。,,OK,,
+103,194283,"The scythe's cursed blade rips a piece of the enemy soul with each hit, empowering the next special attack",Lua/Buff.lua(01541),,,,,,,,鐮刀受詛咒的刀刃每一擊 都 會 扯 下 一 片 敵 人 的 靈 魂， 為 下 一 發 招 式 提 供 力 量。,,OK,,
 104,194283,Arcane Power,Lua/Buff.lua(01566),,,,,,,,祕能,,OK,,
 105,198919,Use Arcane Power stacks to recharge Tome attacks instantly,Lua/Buff.lua(01568),,,,,,,,累積的祕能可立即冷卻法典招式。,,OK,,
 106,194283,Blocked Overdrive,Lua/Buff.lua(01579),,,,,,,,封鎖超能,,OK,,
@@ -1630,7 +1630,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 119,194283,Cancel,Lua/CheatCodes.lua(00017),,,,,,,,取消,,OK,,
 120,194283,Checkpoint,Lua/Checkpoint.lua(00015),,,,,,,,紀錄點,,OK,,
 121,194283,Checkpoint Activated,Lua/Checkpoint.lua(00052),,,,,,,,紀錄點已啟動,,OK,,
-122,194283,<control> - View,Lua/Codex.lua(00056),,,,,,,,<control> - 查看,,OK,,
+122,194283,<control> - View,Lua/Codex.lua(00056),,,,,,,,<control> - 查看,,OK,,
 123,194283,New Codex Entry: <title><control_hint>,Lua/Codex.lua(00057),,,,,,,,新百科全書紀錄：<title><control_hint>,,OK,,
 124,194283,Equip a Potion or Bomb here,Lua/Consumable.lua(00009),,,,,,,,在此裝備藥劑或炸彈。,,OK,,
 125,194283,Immune!,Lua/Damage.lua(00099),,,,,,,,免疫！,,OK,,
@@ -1695,7 +1695,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 181,194283,The Guardian,Lua/DestinyCard.lua(01019),,,,,,,,守護者,,OK,,
 182,194283,The Divine Guardian,Lua/DestinyCard.lua(01020),,,,,,,,神聖守護者,,OK,,
 183,194283,The Wicked Guardian,Lua/DestinyCard.lua(01021),,,,,,,,邪惡守護者,,OK,,
-184,198395,"Release an explosion when hit in melee (<lightgreen><damage></lightgreen> damage, <lightgreen><chance>%</lightgreen> chance) that ignores armor. The explosion has a chance to Electrocute foes",Lua/DestinyCard.lua(01033),,,,,,,,近戰擊中時引發無視防禦的爆炸（<lightgreen><damage></lightgreen>傷害，<lightgreen><chance>%</lightgreen>機<red></red>率<red></red>）<red></red>。<red></red>爆<red></red>炸<red></red>有<red></red>機率會使敵人觸電。,,OK,,
+184,198395,"Release an explosion when hit in melee (<lightgreen><damage></lightgreen> damage, <lightgreen><chance>%</lightgreen> chance) that ignores armor. The explosion has a chance to Electrocute foes",Lua/DestinyCard.lua(01033),,,,,,,,近戰擊中時引發無視防禦的爆炸（<lightgreen><damage></lightgreen>傷 害， <lightgreen><chance>%</lightgreen>機 率 ） 。 爆 炸 有 機 率 會 使 敵 人 觸 電。,,OK,,
 185,194283,The Runner,Lua/DestinyCard.lua(01066),,,,,,,,跑者,,OK,,
 186,194283,The Divine Runner,Lua/DestinyCard.lua(01067),,,,,,,,神聖跑者,,OK,,
 187,194283,The Wicked Runner,Lua/DestinyCard.lua(01068),,,,,,,,邪惡跑者,,OK,,
@@ -1720,11 +1720,11 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 206,194283,The Moon,Lua/DestinyCard.lua(01174),,,,,,,,月亮,,OK,,
 207,194283,The Divine Moon,Lua/DestinyCard.lua(01175),,,,,,,,神聖月亮,,OK,,
 208,194283,The Wicked Moon,Lua/DestinyCard.lua(01176),,,,,,,,邪惡月亮,,OK,,
-209,198395,"Cause a frost explosion on crit (<lightgreen><damage></lightgreen> damage, <cooldown> sec. cooldown) that ignores armor. All targets gain the <lightgreen2><condition_name></lightgreen2> condition.<condition_description>",Lua/DestinyCard.lua(01190),,,,,,,,暴擊時引發無視防禦的寒氣爆炸（<lightgreen><damage></lightgreen>傷害，冷卻時間<cooldown>秒<red></red>）。<red></red>所<red></red>有<red></red>目標附加<lightgreen2><condition_name></lightgreen2>狀態。<condition_description>,,OK,,
+209,198395,"Cause a frost explosion on crit (<lightgreen><damage></lightgreen> damage, <cooldown> sec. cooldown) that ignores armor. All targets gain the <lightgreen2><condition_name></lightgreen2> condition.<condition_description>",Lua/DestinyCard.lua(01190),,,,,,,,暴擊時引發無視防禦的寒氣爆炸（<lightgreen><damage></lightgreen>傷害， 冷 卻 時 間<cooldown>秒 ）。 所 有 目 標 附 加 <lightgreen2><condition_name></lightgreen2>狀 態。<condition_description>,,OK,,
 210,194283,The Sun,Lua/DestinyCard.lua(01229),,,,,,,,太陽,,OK,,
 211,194283,The Divine Sun,Lua/DestinyCard.lua(01230),,,,,,,,神聖太陽,,OK,,
 212,194283,The Wicked Sun,Lua/DestinyCard.lua(01231),,,,,,,,邪惡太陽,,OK,,
-213,198395,"Cause an explosion on overkill (<lightgreen><damage></lightgreen> damage, <cooldown> sec. cooldown) that ignores armor",Lua/DestinyCard.lua(01245),,,,,,,,絕殺時引發無視防禦的爆炸（<lightgreen><damage></lightgreen>傷害，冷卻時間<cooldown>秒）。,,OK,,
+213,198395,"Cause an explosion on overkill (<lightgreen><damage></lightgreen> damage, <cooldown> sec. cooldown) that ignores armor",Lua/DestinyCard.lua(01245),,,,,,,,絕殺時引發無視防禦的爆炸（<lightgreen><damage></lightgreen>傷 害， 冷 卻 時 間<cooldown>秒）。,,OK,,
 214,194283,Justice,Lua/DestinyCard.lua(01276),,,,,,,,正義,,OK,,
 215,194283,Divine Justice,Lua/DestinyCard.lua(01277),,,,,,,,神聖正義,,OK,,
 216,194283,Wicked Justice,Lua/DestinyCard.lua(01278),,,,,,,,邪惡正義,,OK,,
@@ -1914,7 +1914,7 @@ None - they are always stoned!",Lua/DestinyCard.lua(01378),,,,,,,,"換一個燈�
 373,194283,"Kelvingrove, 12, aa",Lua/FontStyles.lua(00005),,HUDCampionName,,,,,,"Kelvingrove, 12, aa",,OK,,
 374,194283,"Kelvingrove, 14, aa",Lua/FontStyles.lua(00006),,HUDBossName,,,,,,"Kelvingrove, 14, aa",,OK,,
 375,195390,"SchemeBk, 15, aa",Lua/FontStyles.lua(00007),,HUDInteractionHint,,,,,,"SchemeBk, 15, aa",,OK,,
-376,195390,"SchemeBk, 11, aa",Lua/FontStyles.lua(00008),,HUDFollowerName,,,,,,"SchemeBk, 11, aa",,OK,,
+376,195390,"SchemeBk, 11, aa",Lua/FontStyles.lua(00008),,HUDFollowerName,,,,,,"Hackensack-Regular, 11, aa",,OK,,
 377,195390,"SchemeBk, 11, aa",Lua/FontStyles.lua(00009),,HUDMeter,,,,,,"SchemeBk, 11, aa",,OK,,
 378,195390,"SchemeBk, 11, aa",Lua/FontStyles.lua(00010),,HUDArmor,,,,,,"SchemeBk, 11, aa",,OK,,
 379,195390,"SchemeBk, 10, aa",Lua/FontStyles.lua(00011),,HUDKeywords,,,,,,"SchemeBk, 10, aa",,OK,,
@@ -1924,9 +1924,9 @@ None - they are always stoned!",Lua/DestinyCard.lua(01378),,,,,,,,"換一個燈�
 383,195390,"SchemeBk, 11, aa",Lua/FontStyles.lua(00015),,HUDConsumableCount,,,,,,"SchemeBk, 11, aa",,OK,,
 384,195390,"SchemeBk, 11, aa",Lua/FontStyles.lua(00016),,HUDCooldown,,,,,,"SchemeBk, 11, aa",,OK,,
 385,195390,"SchemeBk, 10	, aa",Lua/FontStyles.lua(00017),,HUDBuffStack,,,,,,"SchemeBk, 10	, aa",,OK,,
-3943,195716,"SchemeBk, 9, aa",Lua/FontStyles.lua(00018),,HUDPartyName,,,,,,"SchemeBk, 9, aa",,OK,,
-3944,195942,"SchemeBk, 7, aa",Lua/FontStyles.lua(00019),,HUDPartyKills,,,,,,"SchemeBk, 7, aa",,OK,,
-3945,195716,"SchemeBk, 7, aa",Lua/FontStyles.lua(00020),,HUDPartyMap,,,,,,"SchemeBk, 7, aa",,OK,,
+3943,195716,"SchemeBk, 9, aa",Lua/FontStyles.lua(00018),,HUDPartyName,,,,,,"Hackensack-Regular, 9, aa",,OK,,
+3944,195942,"SchemeBk, 7, aa",Lua/FontStyles.lua(00019),,HUDPartyKills,,,,,,"Hackensack-Regular, 7, aa",,OK,,
+3945,195716,"SchemeBk, 7, aa",Lua/FontStyles.lua(00020),,HUDPartyMap,,,,,,"Hackensack-Regular, 7, aa",,OK,,
 386,194283,"Kelvingrove, 10, aa",Lua/FontStyles.lua(00022),,HUDQuestTrack,,,,,,"Kelvingrove, 10, aa",,OK,,
 387,194283,"Kelvingrove, 10, aa",Lua/FontStyles.lua(00023),,HUDQuestTrackGlow,,,,,,"Kelvingrove, 10, aa",,OK,,
 388,194283,"Kelvingrove, 10, aa",Lua/FontStyles.lua(00024),,HUDHint,,,,,,"Kelvingrove, 10, aa",,OK,,
@@ -1985,21 +1985,21 @@ None - they are always stoned!",Lua/DestinyCard.lua(01378),,,,,,,,"換一個燈�
 434,195390,"SchemeBk, 15, aa",Lua/FontStyles.lua(00098),,AchievementPages,,,,,,"SchemeBk, 15, aa",,OK,,
 437,194283,"Kelvingrove, 16, aa",Lua/FontStyles.lua(00101),,OptionsMenuEntry,,,,,,"Kelvingrove, 16, aa",,OK,,
 438,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00103),,Version,,,,,,"SchemeBk, 13, aa",,OK,,
-439,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00104),,NewsText,,,,,,"SchemeBk, 13, aa",,OK,,
+439,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00104),,NewsText,,,,,,"Hackensack-Regular, 13, aa",,OK,,
 440,194283,"Kelvingrove, 13, aa",Lua/FontStyles.lua(00105),,NewsTitle,,,,,,"Kelvingrove, 13, aa",,OK,,
-441,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00106),,FeedBackTips,,,,,,"SchemeBk, 13, aa",,OK,,
-442,195390,"SchemeBk, 17, aa",Lua/FontStyles.lua(00107),,FeedBackComment,,,,,,"SchemeBk, 17, aa",,OK,,
+441,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00106),,FeedBackTips,,,,,,"Hackensack-Regular, 13, aa",,OK,,
+442,195390,"SchemeBk, 17, aa",Lua/FontStyles.lua(00107),,FeedBackComment,,,,,,"Hackensack-Regular, 17, aa",,OK,,
 443,195390,"SchemeBk, 11, aa",Lua/FontStyles.lua(00108),,BugReportHint,,,,,,"SchemeBk, 11, aa",,OK,,
 444,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00109),,BugReportLabel,,,,,,"SchemeBk, 13, aa",,OK,,
 445,194283,"Kelvingrove, 16, aa",Lua/FontStyles.lua(00112),,ChatTab,,,,,,"Kelvingrove, 16, aa",,OK,,
-446,195390,"SchemeBk, 12, aa",Lua/FontStyles.lua(00113),,ChatEditSz1,,,,,,"SchemeBk, 12, aa",,OK,,
-447,195390,"SchemeBk, 15, aa",Lua/FontStyles.lua(00114),,ChatEditSz2,,,,,,"SchemeBk, 15, aa",,OK,,
-448,195390,"SchemeBk, 17, aa",Lua/FontStyles.lua(00115),,ChatEditSz3,,,,,,"SchemeBk, 17, aa",,OK,,
-449,195390,"SchemeBk, 12, aa",Lua/FontStyles.lua(00116),,ChatLogSz1,,,,,,"SchemeBk, 12, aa",,OK,,
-450,195390,"SchemeBk, 15, aa",Lua/FontStyles.lua(00117),,ChatLogSz2,,,,,,"SchemeBk, 15, aa",,OK,,
-451,195390,"SchemeBk, 17, aa",Lua/FontStyles.lua(00118),,ChatLogSz3,,,,,,"SchemeBk, 17, aa",,OK,,
+446,195390,"SchemeBk, 12, aa",Lua/FontStyles.lua(00113),,ChatEditSz1,,,,,,"Hackensack-Regular, 12, aa",,OK,,
+447,195390,"SchemeBk, 15, aa",Lua/FontStyles.lua(00114),,ChatEditSz2,,,,,,"Hackensack-Regular, 15, aa",,OK,,
+448,195390,"SchemeBk, 17, aa",Lua/FontStyles.lua(00115),,ChatEditSz3,,,,,,"Hackensack-Regular, 17, aa",,OK,,
+449,195390,"SchemeBk, 12, aa",Lua/FontStyles.lua(00116),,ChatLogSz1,,,,,,"Hackensack-Regular, 12, aa",,OK,,
+450,195390,"SchemeBk, 15, aa",Lua/FontStyles.lua(00117),,ChatLogSz2,,,,,,"Hackensack-Regular, 15, aa",,OK,,
+451,195390,"SchemeBk, 17, aa",Lua/FontStyles.lua(00118),,ChatLogSz3,,,,,,"Hackensack-Regular, 17, aa",,OK,,
 452,195390,"SchemeBk, 8, aa",Lua/FontStyles.lua(00121),,Shortcut,,,,,,"SchemeBk, 8, aa",,OK,,
-453,195390,"SchemeBk, 17, aa",Lua/FontStyles.lua(00122),,Conversation,,,,,,"SchemeBk, 17, aa",,OK,,
+453,195390,"SchemeBk, 17, aa",Lua/FontStyles.lua(00122),,Conversation,,,,,,"Hackensack-Regular, 17, aa",,OK,,
 454,194283,"Kelvingrove, 18, aa",Lua/FontStyles.lua(00123),,ConversationName,,,,,,"Kelvingrove, 18, aa",,OK,,
 455,194283,"Hackensack-Regular, 64, aa",Lua/FontStyles.lua(00125),,DamageFloating,,,,,,"Kelvingrove, 64, aa",,OK,,
 456,194283,"Hackensack-Regular, 96, aa",Lua/FontStyles.lua(00126),,DamageFloatingCritical,,,,,,"Kelvingrove, 96, aa",,OK,,
@@ -2011,14 +2011,14 @@ None - they are always stoned!",Lua/DestinyCard.lua(01378),,,,,,,,"換一個燈�
 462,194283,"Hackensack-Regular, 48, aa",Lua/FontStyles.lua(00132),,GoldPickup,,,,,,"Kelvingrove, 48, aa",,OK,,
 463,194283,"Hackensack-Regular, 48, aa",Lua/FontStyles.lua(00133),,XPPickup,,,,,,"Kelvingrove, 48, aa",,OK,,
 464,194283,"Kelvingrove, 22, aa",Lua/FontStyles.lua(00135),,Pause,,,,,,"Kelvingrove, 22, aa",,OK,,
-3457,195390,"SchemeBk, 11, aa",Lua/FontStyles.lua(00136),,Subtitles,,,,,,"SchemeBk, 11, aa",,OK,,
-465,195390,"SchemeBk, 15, aa",Lua/FontStyles.lua(00139),,OnlineConnecting,,,,,,"SchemeBk, 15, aa",,OK,,
+3457,195390,"SchemeBk, 11, aa",Lua/FontStyles.lua(00136),,Subtitles,,,,,,"Hackensack-Regular, 11, aa",,OK,,
+465,195390,"SchemeBk, 15, aa",Lua/FontStyles.lua(00139),,OnlineConnecting,,,,,,"Hackensack-Regular, 15, aa",,OK,,
 466,194283,"Kelvingrove, 16, aa",Lua/FontStyles.lua(00140),,OnlineListTitle,,,,,,"Kelvingrove, 16, aa",,OK,,
 467,194283,"Kelvingrove, 16, aa",Lua/FontStyles.lua(00141),,OnlineListTitleInput,,,,,,"Kelvingrove, 16, aa",,OK,,
 468,194283,"Kelvingrove, 16, aa",Lua/FontStyles.lua(00142),,OnlineListItem,,,,,,"Kelvingrove, 16, aa",,OK,,
 469,194283,"Kelvingrove, 16, aa",Lua/FontStyles.lua(00143),,OnlineListItemInput,,,,,,"Kelvingrove, 16, aa",,OK,,
-470,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00144),,NetPlayersDescr,,,,,,"SchemeBk, 13, aa",,OK,,
-471,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00145),,PlayerNameInDescr,,,,,,"SchemeBk, 13, aa",,OK,,
+470,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00144),,NetPlayersDescr,,,,,,"Hackensack-Regular, 13, aa",,OK,,
+471,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00145),,PlayerNameInDescr,,,,,,"Hackensack-Regular, 13, aa",,OK,,
 472,194283,"Kelvingrove, 14, aa",Lua/FontStyles.lua(00146),,NetPlayersTitle,,,,,,"Kelvingrove, 14, aa",,OK,,
 473,194283,"Kelvingrove, 14, aa",Lua/FontStyles.lua(00147),,PlayerNameInTitle,,,,,,"Kelvingrove, 14, aa",,OK,,
 474,199130,"Kelvingrove, 28, aa",Lua/FontStyles.lua(00150),,HeroRespawnOption,,,,,,"Kelvingrove, 28, aa",,OK,,
@@ -2214,9 +2214,9 @@ Combine with other Gift Boxes in Transmutation to get better items",Lua/Item.lua
 4149,196097,Gamepad Rumble,Lua/LocalizationTexts.lua(00095),,,,,,,,手把震動,,OK,,
 4227,196977,FPS Cap,Lua/LocalizationTexts.lua(00096),,,,,,,,幀數鎖定,,OK,,
 4228,196977,Unlimited,Lua/LocalizationTexts.lua(00097),,FPS Cap value,,,,,,無限制,,OK,,
-4192,196416,PvP Arena - The Freakshow,Lua/LocalizationTexts.lua(00101),,,,,,,,對戰競技場 - 怪胎秀,,OK,,
+4192,196416,PvP Arena - The Freakshow,Lua/LocalizationTexts.lua(00101),,,,,,,,對戰競技場 - 怪胎秀,,OK,,
 4193,196416,Step right up! Enter the Freakshow Arena where you may resolve who is the top hunter - by a fight to the bitter end! You may now enter the Freakshow PvP Arena to duel your fellow hunters through the world map.,Lua/LocalizationTexts.lua(00102),,,,,,,,狂歡吧！進入怪胎秀競技場，在這裡你可以證明誰才是頂尖獵人──就看誰能血戰到底！你也可以進入怪胎秀對戰競技場，與陪你走遍世界各地的伙伴一決高下。,,OK,,
-4194,196416,Endless Battleground - Bottomless Pit,Lua/LocalizationTexts.lua(00106),,,,,,,,無盡戰場 - 無底洞,,OK,,
+4194,196416,Endless Battleground - Bottomless Pit,Lua/LocalizationTexts.lua(00106),,,,,,,,無盡戰場 - 無底洞,,OK,,
 4195,196416,The way down the Bottomless Pit has now been revealed to you - a loathsome journey into an unknown void consisting of demon infested arenas. No one knows the true origin and purpose of this ethereal place. Find it on the world map.,Lua/LocalizationTexts.lua(00107),,,,,,,,無底洞的入口現在已向你開放──那裡是由群魔盤踞的競技場所構成的未知虛空，是一段令人厭惡的旅程。沒有人知道這個地方的起源和建造目的。你可以在世界地圖上找到它。,,OK,,
 4196,196416,Gift Box,Lua/LocalizationTexts.lua(00111),,,,,,,,禮物箱,,OK,,
 4198,196416,Gift Boxes offer better drops and higher chances to gain legendary items,Lua/LocalizationTexts.lua(00112),,,,,,,,禮物箱有更好的寶物，還有更高的機會獲得傳奇物品。,,OK,,
@@ -2776,15 +2776,15 @@ Reduces weapon cooldowns by <cooldown_reduction>%",Lua/Outfit.lua(00446),,,,,,,,
 898,194283,+<gold> Gold,Lua/PlayerProfile.lua(01131),,,,,,,,+<gold>金幣,,OK,,
 899,194283,Healing Potion,Lua/Potion.lua(00073),,,,,,,,治療藥水,,OK,,
 900,194283,Ambrosia,Lua/Potion.lua(00094),,,,,,,,瓊漿玉露,,OK,,
-901,196259,Restores 100% health and refreshes the cooldowns of all attacks and Demon Powers,Lua/Potion.lua(00120),,,,,,,,恢復100%生命並重置所有攻擊和惡魔之力的<red></red>冷<red></red>卻<red></red>時<red></red>間。,,OK,,
+901,196259,Restores 100% health and refreshes the cooldowns of all attacks and Demon Powers,Lua/Potion.lua(00120),,,,,,,,恢復100%生命並重置所有攻擊 和 惡 魔 之 力 的 冷 卻 時 間。,,OK,,
 902,194283,Med Kit,Lua/Potion.lua(00145),,,,,,,,醫療包,,OK,,
-903,194283,Unlimited use. Restores <number> health and removes one negative effect. Heals extra <number2> health if an effect is removed.,Lua/Potion.lua(00153),,,,,,,,無限使用。恢復<number>生命並消除一項負面<red></red>狀<red></red>態。<red></red>如果消除一項狀態再額外恢復<number2>生命。,,OK,,
+903,194283,Unlimited use. Restores <number> health and removes one negative effect. Heals extra <number2> health if an effect is removed.,Lua/Potion.lua(00153),,,,,,,,無限使用。恢復<number>生命並消除 一 項 負 面 狀 態。 如 果 消 除 了 一 項 狀 態 再 額 外 恢 復 <number2>生 命。,,OK,,
 4050,195942,Greater Med Kit,Lua/Potion.lua(00179),,,,,,,,大醫療包,,OK,,
 4199,196416,Superior Med Kit,Lua/Potion.lua(00193),,,,,,,,超級醫療包,,OK,,
 904,194283,Vampire Blood,Lua/Potion.lua(00208),,,,,,,,吸血鬼之血,,OK,,
 905,194283,Gain <number>% Life Steal for <duration> sec,Lua/Potion.lua(00220),,,,,,,,獲得<number>%生命竊取，持續<duration>秒。,,OK,,
 906,194283,Barkskin Potion,Lua/Potion.lua(00230),,,,,,,,樹皮藥水,,OK,,
-907,194283,"Gain <number> armor and immunity to daze, interrupts and push effects for <duration> sec",Lua/Potion.lua(00243),,,,,,,,獲得<number>防禦並對暈眩、中斷和震退效果免疫<duration>秒。,,OK,,
+907,194283,"Gain <number> armor and immunity to daze, interrupts and push effects for <duration> sec",Lua/Potion.lua(00243),,,,,,,,獲得<number>防禦並對 暈 眩、 中 斷 和 震 退 效 果 免 疫 <duration>秒。,,OK,,
 908,194283,Adrenaline Shot,Lua/Potion.lua(00259),,,,,,,,腎上腺素,,OK,,
 909,194283,Liquid Madness,Lua/Potion.lua(00281),,,,,,,,瘋狂之液,,OK,,
 910,194283,Lucky Rabbit's Foot,Lua/Potion.lua(00303),,,,,,,,幸運兔腳,,OK,,
@@ -2865,31 +2865,31 @@ Reduces weapon cooldowns by <cooldown_reduction>%",Lua/Outfit.lua(00446),,,,,,,,
 939,194708,Completed: Map Challenges,Lua/Quest.lua(00925),,,,,,,,完成：地圖挑戰,,OK,,
 3547,194799,Completed: Elite Map Challenges,Lua/Quest.lua(00928),,,,,,,,完成：精英地圖挑戰,,OK,,
 940,194283,Completed: <quest>,Lua/Quest.lua(01123),,,,,,,,完成：<quest>,,OK,,
-3548,194799,"<text> without dying, taking damage and without using Potions, Shrines and Demon Powers",Lua/Quest.lua(01150),,,,,,,,在沒有死亡和受傷的情況下，<red></red>不使用藥劑、<red></red>祭壇和惡魔之力，<text>,,OK,,
-3549,194799,"<text> without dying, taking damage and without using Potions and Shrines",Lua/Quest.lua(01151),,,,,,,,在沒有死亡和受傷的情況下，<red></red>不使用藥劑和祭壇，<text>,,OK,,
-3550,194799,"<text> without dying, taking damage and without using Potions and Demon Powers",Lua/Quest.lua(01152),,,,,,,,在沒有死亡和受傷的情況下，<red></red>不使用藥劑和惡魔之力，<text>,,OK,,
-3551,194799,"<text> without dying, taking damage and without using Potions",Lua/Quest.lua(01153),,,,,,,,在沒有死亡和受傷的情況下，<red></red>不使用藥劑，<text>,,OK,,
-3552,194799,"<text> without dying, taking damage and without using Shrines and Demon Powers",Lua/Quest.lua(01154),,,,,,,,在沒有死亡和受傷的情況下，<red></red>不使用祭壇和惡魔之力，<text>,,OK,,
-3553,194799,"<text> without dying, taking damage and without using Shrines",Lua/Quest.lua(01155),,,,,,,,在沒有死亡和受傷的情況下，<red></red>不使用祭壇，<text>,,OK,,
-3554,194799,"<text> without dying, taking damage and without using Demon Powers",Lua/Quest.lua(01156),,,,,,,,在沒有死亡和受傷的情況下，<red></red>不使用惡魔之力，<text>,,OK,,
+3548,194799,"<text> without dying, taking damage and without using Potions, Shrines and Demon Powers",Lua/Quest.lua(01150),,,,,,,,在沒有死亡和受傷的情況下， 不使用藥劑、 祭壇和惡魔之力，<text>,,OK,,
+3549,194799,"<text> without dying, taking damage and without using Potions and Shrines",Lua/Quest.lua(01151),,,,,,,,在沒有死亡和受傷的情況下， 不使用藥劑和祭壇，<text>,,OK,,
+3550,194799,"<text> without dying, taking damage and without using Potions and Demon Powers",Lua/Quest.lua(01152),,,,,,,,在沒有死亡和受傷的情況下， 不使用藥劑和惡魔之力，<text>,,OK,,
+3551,194799,"<text> without dying, taking damage and without using Potions",Lua/Quest.lua(01153),,,,,,,,在沒有死亡和受傷的情況下， 不使用藥劑，<text>,,OK,,
+3552,194799,"<text> without dying, taking damage and without using Shrines and Demon Powers",Lua/Quest.lua(01154),,,,,,,,在沒有死亡和受傷的情況下， 不使用祭壇和惡魔之力，<text>,,OK,,
+3553,194799,"<text> without dying, taking damage and without using Shrines",Lua/Quest.lua(01155),,,,,,,,在沒有死亡和受傷的情況下， 不使用祭壇，<text>,,OK,,
+3554,194799,"<text> without dying, taking damage and without using Demon Powers",Lua/Quest.lua(01156),,,,,,,,在沒有死亡和受傷的情況下， 不使用惡魔之力，<text>,,OK,,
 3555,194799,<text> without dying and taking damage,Lua/Quest.lua(01157),,,,,,,,在沒有死亡和受傷的情況下，<text>,,OK,,
-3556,194799,"<text> without dying and without using Potions, Shrines and Demon Powers",Lua/Quest.lua(01158),,,,,,,,在沒有死亡的情況下，<red></red>不使用藥劑、<red></red>祭壇和惡魔之力，<text>,,OK,,
-3557,194799,<text> without dying and without using Potions and Shrines,Lua/Quest.lua(01159),,,,,,,,在沒有死亡的情況下，<red></red>不使用藥劑和祭壇，<text>,,OK,,
-3558,194799,<text> without dying and without using Potions and Demon Powers,Lua/Quest.lua(01160),,,,,,,,在沒有死亡的情況下，<red></red>不使用藥劑和惡魔之力，<text>,,OK,,
-3559,194799,<text> without dying and without using Potions,Lua/Quest.lua(01161),,,,,,,,在沒有死亡的情況下，<red></red>不使用藥劑，<text>,,OK,,
-3560,194799,<text> without dying and without using Shrines and Demon Powers,Lua/Quest.lua(01162),,,,,,,,在沒有死亡的情況下，<red></red>不使用祭壇和惡魔之力，<text>,,OK,,
-3561,194799,<text> without dying and without using Shrines,Lua/Quest.lua(01163),,,,,,,,在沒有死亡的情況下，<red></red>不使用祭壇，<text>,,OK,,
-3562,194799,<text> without dying and without using Demon Powers,Lua/Quest.lua(01164),,,,,,,,在沒有死亡的情況下，<red></red>不使用惡魔之力，<text>,,OK,,
+3556,194799,"<text> without dying and without using Potions, Shrines and Demon Powers",Lua/Quest.lua(01158),,,,,,,,在沒有死亡的情況下， 不使用藥劑、 祭壇和惡魔之力，<text>,,OK,,
+3557,194799,<text> without dying and without using Potions and Shrines,Lua/Quest.lua(01159),,,,,,,,在沒有死亡的情況下， 不使用藥劑和祭壇，<text>,,OK,,
+3558,194799,<text> without dying and without using Potions and Demon Powers,Lua/Quest.lua(01160),,,,,,,,在沒有死亡的情況下， 不使用藥劑和惡魔之力，<text>,,OK,,
+3559,194799,<text> without dying and without using Potions,Lua/Quest.lua(01161),,,,,,,,在沒有死亡的情況下， 不使用藥劑，<text>,,OK,,
+3560,194799,<text> without dying and without using Shrines and Demon Powers,Lua/Quest.lua(01162),,,,,,,,在沒有死亡的情況下， 不使用祭壇和惡魔之力，<text>,,OK,,
+3561,194799,<text> without dying and without using Shrines,Lua/Quest.lua(01163),,,,,,,,在沒有死亡的情況下， 不使用祭壇，<text>,,OK,,
+3562,194799,<text> without dying and without using Demon Powers,Lua/Quest.lua(01164),,,,,,,,在沒有死亡的情況下， 不使用惡魔之力，<text>,,OK,,
 3563,194799,<text> without dying,Lua/Quest.lua(01165),,,,,,,,在沒有死亡的情況下，<text>,,OK,,
-941,194283,"<text> without taking damage and without using Potions, Shrines and Demon Powers",Lua/Quest.lua(01166),,,,,,,,在沒有受傷的情況下，<red></red>不使用藥劑、<red></red>祭壇和惡魔之力，<text>,,OK,,
-942,194283,<text> without taking damage and without using Potions and Shrines,Lua/Quest.lua(01167),,,,,,,,在沒有受傷的情況下，<red></red>不使用藥劑和祭壇，<text>,,OK,,
-943,194283,<text> without taking damage and without using Potions and Demon Powers,Lua/Quest.lua(01168),,,,,,,,在沒有受傷的情況下，<red></red>不使用藥劑和惡魔之力，<text>,,OK,,
-944,194283,<text> without taking damage and without using Potions,Lua/Quest.lua(01169),,,,,,,,在沒有受傷的情況下，<red></red>不使用藥劑，<text>,,OK,,
-945,194283,<text> without taking damage and without using Shrines and Demon Powers,Lua/Quest.lua(01170),,,,,,,,在沒有受傷的情況下，<red></red>不使用祭壇和惡魔之力，<text>,,OK,,
-946,194283,<text> without taking damage and without using Shrines,Lua/Quest.lua(01171),,,,,,,,在沒有受傷的情況下，<red></red>不使用祭壇，<text>,,OK,,
-947,194283,<text> without taking damage and without using Demon Powers,Lua/Quest.lua(01172),,,,,,,,在沒有受傷的情況下，<red></red>不使用惡魔之力，<text>,,OK,,
+941,194283,"<text> without taking damage and without using Potions, Shrines and Demon Powers",Lua/Quest.lua(01166),,,,,,,,在沒有受傷的情況下， 不使用藥劑、 祭壇和惡魔之力，<text>,,OK,,
+942,194283,<text> without taking damage and without using Potions and Shrines,Lua/Quest.lua(01167),,,,,,,,在沒有受傷的情況下， 不使用藥劑和祭壇，<text>,,OK,,
+943,194283,<text> without taking damage and without using Potions and Demon Powers,Lua/Quest.lua(01168),,,,,,,,在沒有受傷的情況下， 不使用藥劑和惡魔之力，<text>,,OK,,
+944,194283,<text> without taking damage and without using Potions,Lua/Quest.lua(01169),,,,,,,,在沒有受傷的情況下， 不使用藥劑，<text>,,OK,,
+945,194283,<text> without taking damage and without using Shrines and Demon Powers,Lua/Quest.lua(01170),,,,,,,,在沒有受傷的情況下， 不使用祭壇和惡魔之力，<text>,,OK,,
+946,194283,<text> without taking damage and without using Shrines,Lua/Quest.lua(01171),,,,,,,,在沒有受傷的情況下， 不使用祭壇，<text>,,OK,,
+947,194283,<text> without taking damage and without using Demon Powers,Lua/Quest.lua(01172),,,,,,,,在沒有受傷的情況下， 不使用惡魔之力，<text>,,OK,,
 948,194283,<text> without taking damage,Lua/Quest.lua(01173),,,,,,,,在沒有受傷的情況下，<text>,,OK,,
-949,194283,"<text> without using Potions, Shrines and Demon Powers",Lua/Quest.lua(01174),,,,,,,,不使用藥劑、<red></red>祭壇和惡魔之力，<text>,,OK,,
+949,194283,"<text> without using Potions, Shrines and Demon Powers",Lua/Quest.lua(01174),,,,,,,,不使用藥劑、 祭壇和惡魔之力，<text>,,OK,,
 950,194283,<text> without using Potions and Shrines,Lua/Quest.lua(01175),,,,,,,,不使用藥劑和祭壇，<text>,,OK,,
 951,194283,<text> without using Potions and Demon Powers,Lua/Quest.lua(01176),,,,,,,,不使用藥劑和惡魔之力，<text>,,OK,,
 952,194283,<text> without using Potions,Lua/Quest.lua(01177),,,,,,,,不使用藥劑，<text>,,OK,,
@@ -2981,7 +2981,7 @@ Reduces weapon cooldowns by <cooldown_reduction>%",Lua/Outfit.lua(00446),,,,,,,,
 1036,195390,"Teleport next to the target dealing damage and applying the <lightgreen2><condition_name></lightgreen2> condition to it. Also, gain speed for several seconds.
 
 Damage: <lightgreen><min_damage> - <max_damage></lightgreen>
-Accelerated speed: <lightgreen2><buff_duration_s>.<buff_duration_d></lightgreen2> sec<condition_description>",Lua/RuneTypes.lua(00011),,,,,,,,"瞬移到目標身邊造成傷害，並給目標附加<lightgreen2><condition_name></lightgreen2>狀<red></red>態。<red></red>同<red></red>時<red></red>獲<red></red>得<red></red>加<red></red>速，持續數秒。
+Accelerated speed: <lightgreen2><buff_duration_s>.<buff_duration_d></lightgreen2> sec<condition_description>",Lua/RuneTypes.lua(00011),,,,,,,,"瞬移到目標身邊造成傷害，並給目標附加<lightgreen2><condition_name></lightgreen2>狀 態。 同 時 獲 得 加 速， 持 續 數 秒。
 
 傷害：<lightgreen><min_damage>-<max_damage></lightgreen>。
 加速：<lightgreen2><buff_duration_s>.<buff_duration_d></lightgreen2>秒。<condition_description>",,OK,,
@@ -2998,7 +2998,7 @@ Chance to Reflect Projectiles: <lightgreen><deflect_chance>%</lightgreen>",Lua/R
 
 Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec
 Allies: +<lightgreen><ally_damage>%</lightgreen> more damage
-Enemies: +<lightgreen><enemy_damage>%</lightgreen> more damage<condition_description>",Lua/RuneTypes.lua(00241),,,,,,,,"產生一圈氣場，提升範圍內所有敵人和戰友的輸出傷害。獲得<lightgreen2><condition_name></lightgreen2>，持續<lightgreen><duration_s>.<duration_d></lightgreen>秒。此<red></red>惡<red></red>魔<red></red>之<red></red>力<red></red>作<red></red>用<red></red>時<red></red>不<red></red>會凝聚超能。
+Enemies: +<lightgreen><enemy_damage>%</lightgreen> more damage<condition_description>",Lua/RuneTypes.lua(00241),,,,,,,,"產生一圈氣場，提升範圍內所有敵人和戰友的輸出傷害。獲得<lightgreen2><condition_name></lightgreen2>， 持 續<lightgreen><duration_s>.<duration_d></lightgreen>秒。此 惡 魔 之 力 作 用 時 不 會 凝 聚 超 能。
 
 持續時間：<lightgreen><duration_s>.<duration_d></lightgreen>秒。
 戰友：+<lightgreen><ally_damage>%</lightgreen>傷害。
@@ -3015,7 +3015,7 @@ Boomerang Radius: <lightgreen><radius_m>.<radius_cm></lightgreen> m",Lua/RuneTyp
 1044,195716,"Call for a number of meteors to strike an area ahead of you. Each meteor deals damage to all enemies in <radius_m>.<radius_cm> m radius.
 
 Damage per Meteor: <lightgreen><min_damage> - <max_damage></lightgreen>
-Number of Meteors: <lightgreen><num_projectiles></lightgreen>",Lua/RuneTypes.lua(00517),,,,,,,,"召喚數顆隕石攻擊指定區域。每顆隕石會對<red></red><radius_m>.<radius_cm>公尺半徑<red></red>內<red></red>的<red></red>所<red></red>有<red></red>敵<red></red>人<red></red>造成傷害。
+Number of Meteors: <lightgreen><num_projectiles></lightgreen>",Lua/RuneTypes.lua(00517),,,,,,,,"召喚數顆隕石攻擊指定區域。每顆隕石會對 <radius_m>.<radius_cm>公 尺 半 徑 內 的 所 有 敵 人 造 成 傷 害。
 
 每顆隕石傷害：<lightgreen><min_damage>-<max_damage></lightgreen>。
 隕石數量：<lightgreen><num_projectiles></lightgreen>。",,OK,,
@@ -3023,7 +3023,7 @@ Number of Meteors: <lightgreen><num_projectiles></lightgreen>",Lua/RuneTypes.lua
 1046,196645,"Unleash 3 consecutive shockwaves that push back all enemies dealing damage and <lightgreen2>Crippling</lightgreen2> them for <buff_duration> seconds.
 
 Damage per Shockwave: <lightgreen><min_damage> - <max_damage></lightgreen>
-Shockwave Radius: <lightgreen><radius_m>.<radius_cm></lightgreen> m<condition_description>",Lua/RuneTypes.lua(00620),,,,,,,,"釋放三道連續的衝擊波震退敵人，造成傷害並導致敵人<lightgreen2>癱瘓</lightgreen2>，<red></red>持<red></red>續<red></red><buff_duration>秒。
+Shockwave Radius: <lightgreen><radius_m>.<radius_cm></lightgreen> m<condition_description>",Lua/RuneTypes.lua(00620),,,,,,,,"釋放三道連續的衝擊波震退敵人，造成傷害並 導 致 敵 人<lightgreen2>癱 瘓</lightgreen2>， 持 續 <buff_duration>秒。
 
 每道衝擊波傷害：<lightgreen><min_damage>-<max_damage></lightgreen>。
 衝擊波半徑：<lightgreen><radius_m>.<radius_cm></lightgreen>公尺。<condition_description>",,OK,,
@@ -3056,7 +3056,7 @@ Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec",Lua/RuneTypes.
 1055,196259,"Create a healing aura around you and gain <lightgreen2><condition_name></lightgreen2> for <lightgreen><duration_s>.<duration_d></lightgreen> sec. The aura restores health to you and every ally below 50% health inside the aura. You don't gain Overdrive while this Demon Power is active.
 
 Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec
-Health per Second: <lightgreen><hps>%</lightgreen><condition_description>",Lua/RuneTypes.lua(01206),,,,,,,,"產生一個圍繞自己的治療氣場，獲得<lightgreen2><condition_name></lightgreen2>，持續<lightgreen><duration_s>.<duration_d></lightgreen>秒。<red></red>氣<red></red>場<red></red>會<red></red>治<red></red>療<red></red>你和範圍內所有生命低於<red></red>50%的戰友。此<red></red>惡<red></red>魔<red></red>之<red></red>力<red></red>作<red></red>用<red></red>時<red></red>不<red></red>會<red></red>凝<red></red>聚超能。
+Health per Second: <lightgreen><hps>%</lightgreen><condition_description>",Lua/RuneTypes.lua(01206),,,,,,,,"產生一個圍繞自己的治療氣場，獲得<lightgreen2><condition_name></lightgreen2>，持續<lightgreen><duration_s>.<duration_d></lightgreen>秒。 氣 場 會 治 療 你 和 範 圍 內 所 有 生 命 低 於 50% 的 戰 友。 此 惡 魔 之 力 作 用 時 不 會 凝 聚 超 能。
 
 持續時間：<lightgreen><duration_s>.<duration_d></lightgreen>秒。
 每秒恢復生命：<lightgreen><hps>%</lightgreen>。<condition_description>",,OK,,
@@ -3072,7 +3072,7 @@ Seeking Projectiles: <lightgreen><num_projectiles></lightgreen><condition_descri
 1061,195716,"Turn into a cloud of poisonous dark mist dealing damage to all enemies inside. Affected enemies take <lightgreen2><condition_name></lightgreen2> for <buff_duration> sec. You don't gain Overdrive and can't use skills while this Demon Power is active.
 
 Damage per Second: <lightgreen><min_damage> - <max_damage></lightgreen>
-Rune Duration: <lightgreen><rune_duration_s>.<rune_duration_d></lightgreen> sec<condition_description>",Lua/RuneTypes.lua(01461),,,,,,,,"化成一團黑色毒霧對範圍內的所有敵人造成傷害。使敵人<lightgreen2><condition_name></lightgreen2>，<red></red>持<red></red>續<buff_duration>秒。<red></red>此惡魔之力作用時<red></red>不<red></red>會<red></red>凝<red></red>聚<red></red>超<red></red>能，<red></red>也無法使用其它攻擊<red></red>。
+Rune Duration: <lightgreen><rune_duration_s>.<rune_duration_d></lightgreen> sec<condition_description>",Lua/RuneTypes.lua(01461),,,,,,,,"化成一團黑色毒霧對範圍內的所有敵人造成傷害。使敵人<lightgreen2><condition_name></lightgreen2>， 持 續<buff_duration>秒。 此 惡 魔 之 力 作 用 時 不 會 凝 聚 超 能， 也 無 法 使 用 其 它 攻 擊。
 
 每秒傷害：<lightgreen><min_damage>-<max_damage></lightgreen>。
 持續時間：<lightgreen><rune_duration_s>.<rune_duration_d></lightgreen>秒。<condition_description>",,OK,,
@@ -4406,7 +4406,7 @@ Check your Codex to see the standard recipes. Some recipes are secret and will n
 1891,194283,Crush,Lua/Weapons/Hammer.lua(00203),,,,,,,,蓄力擊,,OK,,
 1892,197294,"Deals high damage and applies the <lightgreen2><condition></lightgreen2> condition in an area. Hold the button to increase the damage dealt by the attack. Gains Armor Penetration when fully channeled.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Hammer.lua(00204),,,,,,,,"造成極高傷害，並在範圍內施放<lightgreen2><condition></lightgreen2>狀態。<red></red>按<red></red>住<red></red>按<red></red>鍵<red></red>可提升攻擊造成的傷害。<red></red>完<red></red>全<red></red>蓄<red></red>力<red></red>後<red></red>可<red></red>獲<red></red>得護甲<red></red>穿透效果。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Hammer.lua(00204),,,,,,,,"造成極高傷害，並在範圍內施放<lightgreen2><condition></lightgreen2>狀 態。 按 住 按 鍵 可 提 升 攻 擊 造 成 的 傷 害。 完 全 蓄 力 後 可 獲 得 護 甲 穿 透 效 果。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1893,194283,Smash,Lua/Weapons/Hammer.lua(00336),,,,,,,,粉碎擊,,OK,,
@@ -4423,7 +4423,7 @@ Check your Codex to see the standard recipes. Some recipes are secret and will n
 1900,194283,Fire Lake,Lua/Weapons/HandMortar.lua(00231),,,,,,,,火海彈,,OK,,
 1901,194283,"Fires a grenade that creates an area of liquid fire that damages enemies inside it. Lasts <number1> sec and has a radius of <number2>m. Units caught in the initial blast get the <lightgreen2><condition></lightgreen2> condition.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/HandMortar.lua(00232),,,,,,,,"射出一枚可產生一灘液態火焰的榴彈，對範圍內的敵人造成傷害。持續時間<number1>秒，<red></red>半<red></red>徑<red></red>範<red></red>圍<number2>公<red></red>尺。<red></red>受<red></red>到<red></red>初<red></red>始<red></red>爆<red></red>炸<red></red>衝<red></red>擊<red></red>的<red></red>敵<red></red>人<red></red>會<red></red>造<red></red>成<lightgreen2><condition></lightgreen2>。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/HandMortar.lua(00232),,,,,,,,"射出一枚可產生一灘液態火焰的榴彈，對範圍內的敵人造成傷害。 持 續 時 間<number1>秒， 半 徑 範 圍<number2>公 尺。 受 到 初 始 爆 炸 衝 擊 的 敵 人 會 造 成<lightgreen2><condition></lightgreen2>。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1902,194283,Explosive Jump,Lua/Weapons/HandMortar.lua(00316),,,,,,,,爆炸跳,,OK,,
@@ -4444,7 +4444,7 @@ Recharge <number> sec.",Lua/Weapons/HandMortar.lua(00478),,,,,,,,"射出一枚�
 4129,195942,Oil Spill,Lua/Weapons/HandMortar.lua(00628),,,,,,,,潑油彈,,OK,,
 4019,195942,"Fires a grenade that creates a pool of oil that that Cripples enemies inside it and can be ignited by other mortar attacks. The area lasts for <number1> sec. Units caught in the initial blast are affected by <lightgreen2><condition></lightgreen2>.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/HandMortar.lua(00629),,,,,,,,"射出一枚可產生一灘汽油的榴彈，汽油可使範圍內的敵人癱瘓，也可被其它炮擊點燃。汽油持續時間<number1>秒。<red></red>受<red></red>到<red></red>初<red></red>始<red></red>爆<red></red>炸<red></red>衝<red></red>擊<red></red>的<red></red>敵<red></red>人<red></red>會<red></red>造<red></red>成<red></red><lightgreen2><condition></lightgreen2><red></red>。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/HandMortar.lua(00629),,,,,,,,"射出一枚可產生一灘汽油的榴彈，汽油可使範圍內的敵人癱瘓，也可被其它炮擊點燃。汽油持續時間<number1>秒。 受 到 初 始 爆 炸 衝 擊 的 敵 人 會 造 成 <lightgreen2><condition></lightgreen2> 。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1908,194283,Lightning Gun,Lua/Weapons/LightningGun.lua(00003),,|gender,,,,,,閃電槍,M,OK,,
@@ -4453,15 +4453,15 @@ Recharge <number> sec.",Lua/Weapons/HandMortar.lua(00478),,,,,,,,"射出一枚�
 1911,194283,Shock,Lua/Weapons/LightningGun.lua(00061),,,,,,,,電擊,,OK,,
 4130,195942,"Single target. Hold the attack button to continue attacking. Enemies hit by this attack become <lightgreen2><condition></lightgreen2>. The attack chains to other <lightgreen2><condition></lightgreen2> enemies. In its last phase the attack deals additional damage.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/LightningGun.lua(00062),,,,,,,,"單一目標。按住攻擊鍵以持續進行電擊。受到電擊的敵人會造成<lightgreen2><condition></lightgreen2>。<red></red>電擊會傳導給其他<lightgreen2><condition></lightgreen2>的<red></red>敵<red></red>人。<red></red>電<red></red>擊<red></red>的最後階段<red></red>會<red></red>造<red></red>成<red></red>更<red></red>大<red></red>傷<red></red>害。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/LightningGun.lua(00062),,,,,,,,"單一目標。按住攻擊鍵以持續進行電擊。受到電擊的敵人會造成<lightgreen2><condition></lightgreen2>。 電擊會傳導給其他<lightgreen2><condition></lightgreen2>的 敵 人。 電 擊 的 最 後 階 段 會 造 成 更 大 傷 害。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1913,194283,Ball Lightning,Lua/Weapons/LightningGun.lua(00434),,,,,,,,電光球,,OK,,
-1914,194283,Fire a tracking ball lighting that bounces between <lightgreen2><condition></lightgreen2> targets. This attack can hit you and your allies.,Lua/Weapons/LightningGun.lua(00435),,,,,,,,射出一顆會追蹤的電光球，這顆球會在<lightgreen2><condition></lightgreen2>的<red></red>目<red></red>標<red></red>之<red></red>間<red></red>來<red></red>回反彈。此招也會對自己<red></red>和<red></red>隊<red></red>友<red></red>造<red></red>成傷害。,,OK,,
+1914,194283,Fire a tracking ball lighting that bounces between <lightgreen2><condition></lightgreen2> targets. This attack can hit you and your allies.,Lua/Weapons/LightningGun.lua(00435),,,,,,,,射出一顆會追蹤的電光球，這 顆 球 會 在<lightgreen2><condition></lightgreen2>的 目 標 之 間 來 回 反 彈。 此 招 也 會 對 自 己 和 隊 友 造 成 傷 害。,,OK,,
 1915,194283,Lightning Trap,Lua/Weapons/LightningGun.lua(00467),,,,,,,,雷電網,,OK,,
 4131,198395,"Fire a slow ball lightning that transforms into a Lighting Trap in several seconds. The Lightning Trap deals damage and inflicts <lightgreen2><condition></lightgreen2> to all enemies in its radius every <number>.<number2> seconds, then explodes. Hold the button to increase the ball's initial speed. The explosion can hit you.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/LightningGun.lua(00468),,,,,,,,"射出一顆慢速電光球並在幾秒後變成雷電網。雷電網每<number>.<number2>秒會對範圍內的所有敵人造<red></red>成<red></red>傷<red></red>害<red></red>並<red></red>使<red></red>其<lightgreen2><condition></lightgreen2>，<red></red>最後還會爆炸。<red></red>按<red></red>住<red></red>按<red></red>鍵<red></red>可<red></red>提<red></red>升<red></red>電<red></red>光<red></red>球<red></red>的<red></red>初<red></red>始<red></red>速<red></red>度。<red></red>爆<red></red>炸<red></red>也<red></red>會<red></red>對<red></red>自<red></red>己<red></red>造<red></red>成<red></red>傷<red></red>害。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/LightningGun.lua(00468),,,,,,,,"射出一顆慢速電光球並在幾秒後變成雷電網。 雷 電 網 每<number>.<number2>秒會對範圍內 的 所 有 敵 人 造 成 傷 害 並 使 其<lightgreen2><condition></lightgreen2>， 最 後 還 會 爆 炸。 按 住 按 鍵 可 提 升 電 光 球 的 初 始 速 度。 爆 炸 也 會 對 自 己 造 成 傷 害。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 4020,195716,"Single target. Hold the attack button to create a beautiful rainbow that damages everyone that it passes through. Enemies hit by this attack become <lightgreen2><condition></lightgreen2>.
@@ -4471,12 +4471,12 @@ Recharge <number> sec.",Lua/Weapons/HandMortar.lua(00478),,,,,,,,"射出一枚�
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1912,195942,"Single target. Hold the attack button to continue attacking and periodically pull the targeted enemy towards you. Enemies hit by this attack become <lightgreen2><condition></lightgreen2>. The attack chains to other <lightgreen2><condition></lightgreen2> enemies. In its last phase the attack deals additional damage.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/LightningGun.lua(01107),,,,,,,,"單一目標。按住攻擊鍵以持續進行電擊並把目標敵人拉近。受到電擊的敵人會造成<lightgreen2><condition></lightgreen2>。電<red></red>擊<red></red>會<red></red>傳<red></red>導<red></red>給<red></red>其<red></red>他<lightgreen2><condition></lightgreen2>的敵人。電擊的最後階段<red></red>會<red></red>造<red></red>成<red></red>更<red></red>大<red></red>傷<red></red>害。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/LightningGun.lua(01107),,,,,,,,"單一目標。按住攻擊鍵以持續進行電擊並把目標敵人拉近。受到電擊的敵人會造成<lightgreen2><condition></lightgreen2>。 電 擊 會 傳 導 給 其 他<lightgreen2><condition></lightgreen2>的 敵 人。 電 擊 的 最 後 階 段 會 造 成 更 大 傷 害。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1916,195942,"Fire a slow ball lightning that explodes shortly after fired pulling all nearby enemies to its epicenter. All targets in its blast area get damage and become <lightgreen2><condition></lightgreen2>. Hold the button to increase its initial speed. This attack can hit you.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/LightningGun.lua(01141),,,,,,,,"射出一顆短時間內會爆炸，並將附近所有敵人拉至爆炸中心的電光球。所有在爆炸範圍內的目標都會受到傷害並造成<lightgreen2><condition></lightgreen2>。按住按鈕<red></red>可<red></red>提<red></red>升<red></red>其<red></red>初<red></red>始<red></red>速<red></red>度。<red></red>此<red></red>招<red></red>也<red></red>會<red></red>對自己造成傷害。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/LightningGun.lua(01141),,,,,,,,"射出一顆短時間內會爆炸，並將附近所有敵人拉至爆炸中心的電光球。所有在爆炸範圍內的目標都會受到傷害並造成<lightgreen2><condition></lightgreen2>。 按 住 按 鈕 可 提 升 其 初 始 速 度。 此 招 也 會 對 自 己 造 成 傷 害。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1917,194283,Rapier,Lua/Weapons/Rapier.lua(00003),,|gender,,,,,,細劍,M,OK,,
@@ -4493,7 +4493,7 @@ Recharge <number> sec.",Lua/Weapons/HandMortar.lua(00478),,,,,,,,"射出一枚�
 1924,194283,Coup De Grace,Lua/Weapons/Rapier.lua(00223),,,,,,,,致命恩刺,,OK,,
 1925,194283,"Single target high damage melee attack that causes <lightgreen2><condition></lightgreen2>. On kill this attack resets the cooldown of the Rapier Charge ability.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Rapier.lua(00224),,,,,,,,"可造成<lightgreen2><condition></lightgreen2>的單一目標高傷害近戰攻擊。<red></red>擊<red></red>殺<red></red>時<red></red>會<red></red>重<red></red>置衝鋒刺的冷卻時間。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Rapier.lua(00224),,,,,,,,"可造成<lightgreen2><condition></lightgreen2>的單一 目 標 高 傷 害 近 戰 攻 擊。 擊 殺 時 會 重 置 衝 鋒 刺 的 冷 卻 時 間。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1926,194283,Scythe,Lua/Weapons/Scythe.lua(00003),,|gender,,,,,,鐮刀,M,OK,,
@@ -4503,7 +4503,7 @@ Recharge <number> sec.",Lua/Weapons/HandMortar.lua(00478),,,,,,,,"射出一枚�
 1930,198395,"A basic set of attacks that damage multiple enemies. Gain a <lightgreen2><condition></lightgreen2> for each opponent you hit (max 10). Time the attacks correctly to inflict the <lightgreen2><condition2></lightgreen2> condition to the target.
 
 <lightgreen2><condition></lightgreen2>: <description>
-<lightgreen2><condition2></lightgreen2>: <description2>",Lua/Weapons/Scythe.lua(00102),,,,,,,,"一連串可傷害多個敵人的攻擊。每攻擊一名敵人會獲得一片<lightgreen2><condition></lightgreen2>（最多10片）。抓準<red></red>攻<red></red>擊<red></red>節<red></red>奏<red></red>可<red></red>對<red></red>目<red></red>標<red></red>造成<lightgreen2><condition2></lightgreen2>。
+<lightgreen2><condition2></lightgreen2>: <description2>",Lua/Weapons/Scythe.lua(00102),,,,,,,,"一連串可傷害多個敵人的攻擊。每攻擊一名敵人會獲得一片<lightgreen2><condition></lightgreen2>（最多10片）。 抓 準 攻 擊 節 奏 可 對 目 標 造 成<lightgreen2><condition2></lightgreen2>。
 
 <lightgreen2><condition></lightgreen2>：<description>
 <lightgreen2><condition2></lightgreen2>：<description2>",,OK,,
@@ -4511,16 +4511,16 @@ Recharge <number> sec.",Lua/Weapons/HandMortar.lua(00478),,,,,,,,"射出一枚�
 1932,198395,"Send out a wave of force that inflicts the <lightgreen2><condition></lightgreen2> condition but doesn't deal any damage. This attack spends all Soul Shards. <lightgreen2><condition></lightgreen2> duration is increased based on the number of Soul Shards spent.
 Cleave - hit 5 or more enemies with this attack to reduce Shockwave's cooldown
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Scythe.lua(00185),,,,,,,,"釋放一股會造成<lightgreen2><condition></lightgreen2>的衝擊波，但不會<red></red>造<red></red>成<red></red>任<red></red>何<red></red>傷<red></red>害。<red></red>此攻擊會消耗所有靈魂碎片。<lightgreen2><condition></lightgreen2>的<red></red>持<red></red>續<red></red>時<red></red>間<red></red>會<red></red>依<red></red>據<red></red>消耗的<red></red>靈<red></red>魂<red></red>碎<red></red>片數而延長。
-劈風斬浪──擊中最少5個敵人可縮短衝擊<red></red>波<red></red>的<red></red>冷卻時間。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Scythe.lua(00185),,,,,,,,"釋放一股會造成<lightgreen2><condition></lightgreen2>的 衝 擊 波， 但 不 會 造 成 任 何 傷 害。 此 攻 擊 會 消 耗 所 有 靈 魂 碎 片。<lightgreen2><condition></lightgreen2>的 持 續 時 間 會 依 據 消 耗 的 靈 魂 碎 片 數 而 延 長。
+劈風斬浪──擊中最少5個敵人可縮短衝擊 波 的 冷卻時間。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1933,194283,Whirlwind,Lua/Weapons/Scythe.lua(00249),,,,,,,,旋風斬,,OK,,
 1934,198395,"Begin to spin, gaining <lightgreen2><condition></lightgreen2> and damaging all enemies near you. You can move the Whirlwind via the movement buttons. This attack spends all Soul Shards. Duration of the Whirlwild is increased based on the number of Soul Shards spent.
 Cleave - hit 5 or more enemies with this attack to reduce Whirlwind's cooldown
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Scythe.lua(00250),,,,,,,,"開始旋轉，獲得<lightgreen2><condition></lightgreen2>加持並對周圍的敵人<red></red>造<red></red>成<red></red>傷<red></red>害。你可以控制旋風斬的移動方向。此攻擊<red></red>會<red></red>消<red></red>耗<red></red>所有靈魂<red></red>碎<red></red>片。<red></red>旋<red></red>風<red></red>斬<red></red>的<red></red>持<red></red>續<red></red>時<red></red>間<red></red>會<red></red>依<red></red>據<red></red>消<red></red>耗<red></red>的<red></red>靈<red></red>魂<red></red>碎<red></red>片<red></red>數而延長。
-劈風斬浪──擊中最少5個敵人可縮短旋風<red></red>斬<red></red>的<red></red>冷卻時間。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Scythe.lua(00250),,,,,,,,"開始旋轉，獲得<lightgreen2><condition></lightgreen2>加 持 並 對 周 圍 的 敵 人 造 成 傷 害。 你 可 以 控 制 旋 風 斬 的 移 動 方 向。 此 攻 擊 會 消 耗 所 有 靈 魂 碎 片。 旋 風 斬 的 持 續 時 間 會 依 據 消 耗 的 靈 魂 碎 片 數 而 延 長。
+劈風斬浪──擊中最少5個敵人可縮短旋風 斬 的 冷卻時間。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 4132,198395,"Begin to spin, gaining <lightgreen2><condition></lightgreen2> and damaging all enemies near you while shooting fast moving, low damage projectiles. You can move the Whirlwind via the movement buttons.
@@ -4528,10 +4528,10 @@ Cleave - hit 5 or more enemies with this attack to reduce Whirlwind's cooldown
 This attack spends all Soul Shards. Duration of the Whirlwind is increased based on the number of Soul Shards spent.
 Cleave - hit 5 or more enemies with this attack to reduce Whirlwind's cooldown
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Scythe.lua(00560),,,,,,,,"開始旋轉，獲得<lightgreen2><condition></lightgreen2>加持並對周圍的敵人<red></red>造<red></red>成<red></red>傷<red></red>害，<red></red>同時射<red></red>出快速、<red></red>低傷害<red></red>的投<red></red>射物。<red></red>你可以<red></red>控<red></red>制<red></red>旋<red></red>風<red></red>斬<red></red>的移動方向。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Scythe.lua(00560),,,,,,,,"開始旋轉，獲得<lightgreen2><condition></lightgreen2>加持並對周圍的敵人 造 成 傷 害， 同 時 射 出 快 速、 低 傷 害 的 投 射 物。 你 可 以 控 制 旋 風 斬 的 移 動 方 向。
 
-此攻擊會消耗所有靈魂碎片。旋風斬的持續<red></red>時<red></red>間<red></red>會<red></red>依<red></red>據<red></red>消耗的靈魂碎片數而延長。
-劈風斬浪──擊中最少5個敵人可縮短旋風<red></red>斬<red></red>的<red></red>冷卻時間。
+此攻擊會消耗所有靈魂碎片。旋風斬的持續 時 間 會 依 據 消耗的靈魂碎片數而延長。
+劈風斬浪──擊中最少5個敵人可縮短旋風 斬 的 冷卻時間。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 4133,198395,"Send out a circular wave of force that inflicts <lightgreen2><condition></lightgreen2> and <lightgreen2><condition2></lightgreen2> but doesn't deal any damage.
@@ -4540,10 +4540,10 @@ This attack spends all Soul Shards. The duration of both conditions is increased
 Cleave - hit 5 or more enemies with this attack to reduce Shockwave's cooldown
 
 <lightgreen2><condition></lightgreen2>: <description>
-<lightgreen2><condition2></lightgreen2>: <description2>",Lua/Weapons/Scythe.lua(00613),,,,,,,,"釋放一圈會造成<lightgreen2><condition></lightgreen2>和<lightgreen2><condition2></lightgreen2>的<red></red>衝擊波，但不會造成任何傷害。
+<lightgreen2><condition2></lightgreen2>: <description2>",Lua/Weapons/Scythe.lua(00613),,,,,,,,"釋放一圈會造成<lightgreen2><condition></lightgreen2>和<lightgreen2><condition2></lightgreen2>的 衝 擊 波， 但 不 會 造 成 任 何 傷 害。
 
-此攻擊會消耗所有靈魂碎片。兩種狀態的持<red></red>續<red></red>時<red></red>間<red></red>會<red></red>依據消耗的靈魂碎片數而延長。
-劈風斬浪──擊中最少5個敵人可縮短衝擊<red></red>波<red></red>的<red></red>冷卻時間。
+此攻擊會消耗所有靈魂碎片。兩種狀態的持 續 時 間 會 依據消耗的靈魂碎片數而延長。
+劈風斬浪──擊中最少5個敵人可縮短衝擊 波 的 冷卻時間。
 
 <lightgreen2><condition></lightgreen2>：<description>
 <lightgreen2><condition2></lightgreen2>：<description2>",,OK,,
@@ -4571,7 +4571,7 @@ Cleave - hit 5 or more enemies with this attack to reduce Shockwave's cooldown
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 4022,195942,"Single target attack that inflicts <lightgreen2><condition></lightgreen2>. Recharges whenever an enemy is killed with the Shotgun.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Shotgun.lua(00428),,,,,,,,"可造成<lightgreen2><condition></lightgreen2>的單一目標射擊。射殺<red></red>敵<red></red>人<red></red>時<red></red>會<red></red>立<red></red>即<red></red>冷<red></red>卻。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Shotgun.lua(00428),,,,,,,,"可造成<lightgreen2><condition></lightgreen2>的單一目標射擊。射殺 敵 人 時 會 立 即 冷 卻。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 4023,195716,"A basic attack that pierces targets, hitting all enemis in a line. Time the attacks correctly to inflict the <lightgreen2><condition></lightgreen2> condition to the target.
@@ -4596,23 +4596,23 @@ Cleave - hit 5 or more enemies with this attack to reduce Shockwave's cooldown
 1953,194283,Dash,Lua/Weapons/Sword.lua(00263),,,,,,,,直劈,,OK,,
 4135,195942,"Single target attack that inflicts <lightgreen2><condition></lightgreen2> to your opponent. Whenever you score a critical hit all nearby enemies will get the <lightgreen2><condition></color> condition as well.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Sword.lua(00264),,,,,,,,"可對敵人造成<lightgreen2><condition></lightgreen2>的單一目標攻擊。暴擊時<red></red>附<red></red>近<red></red>所<red></red>有敵人也都會陷入<lightgreen2><condition></color>。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Sword.lua(00264),,,,,,,,"可對敵人造成<lightgreen2><condition></lightgreen2>的單一目標攻擊。 暴 擊 時 附 近 所 有 敵 人 也 都 會 陷 入<lightgreen2><condition></color>。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 4136,195942,"Single target attack that inflicts <lightgreen2><condition></lightgreen2> to your opponent. Deals damage and inflicts the <lightgreen2><condition></color> condition to all nearby enemies on critical hit.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Sword.lua(00299),,,,,,,,"可對敵人造成<lightgreen2><condition></lightgreen2>的單一目標攻擊。暴擊時<red></red>會<red></red>對<red></red>附<red></red>近<red></red>所有敵人造成傷害並使其<lightgreen2><condition></color>。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Sword.lua(00299),,,,,,,,"可對敵人造成<lightgreen2><condition></lightgreen2>的單一目標攻擊。 暴 擊 時 會 對 附 近 所 有 敵 人 造 成 傷 害 並 使 其<lightgreen2><condition></color>。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1950,195942,"Knocks back a single enemy. Unleashes a slow-moving projectile that inflicts the <lightgreen2><condition></lightgreen2> condition to all enemies on its path. Will automatically recharge when you crit an enemy.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Sword.lua(00346),,,,,,,,"震退單一敵人。釋放一個慢速投射物，對路徑上的所有敵人造成<lightgreen2><condition></lightgreen2>。當暴擊敵人<red></red>時<red></red>會<red></red>立<red></red>即<red></red>冷<red></red>卻。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Sword.lua(00346),,,,,,,,"震退單一敵人。釋放一個慢速投射物，對路徑上的所有敵人造成<lightgreen2><condition></lightgreen2>。 當 暴 擊 敵 人 時 會 立 即 冷 卻。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1954,195942,"Single target attack that inflicts <lightgreen2><condition></lightgreen2> to your opponent. Unleashes a slow-moving projectile that inflicts the <lightgreen2><condition2></lightgreen2> condition to all enemies on its path. Whenever you score a critical hit all nearby enemies will get the <lightgreen2><condition></lightgreen2> condition as well.
 
 <lightgreen2><condition></lightgreen2>: <description>
-<lightgreen2><condition2></lightgreen2>: <description2>",Lua/Weapons/Sword.lua(00354),,,,,,,,"可對敵人造成<lightgreen2><condition></lightgreen2>的單一目標攻擊。釋放一個慢速投射物，對路徑上的所有敵人造成<lightgreen2><condition2></lightgreen2>。暴擊時附近所有敵人也都會陷入<lightgreen2><condition></lightgreen2>。
+<lightgreen2><condition2></lightgreen2>: <description2>",Lua/Weapons/Sword.lua(00354),,,,,,,,"可對敵人造成<lightgreen2><condition></lightgreen2>的 單 一 目 標 攻 擊。 釋 放 一 個 慢 速 投 射 物， 對 路 徑 上 的 所 有 敵 人 造 成<lightgreen2><condition2></lightgreen2>。 暴 擊 時 附 近 所 有 敵 人 也 都 會 陷 入<lightgreen2><condition></lightgreen2>。
 
 <lightgreen2><condition></lightgreen2>：<description>
 <lightgreen2><condition2></lightgreen2>：<description2>",,OK,,
@@ -4633,7 +4633,7 @@ Magical missiles may drop <lightgreen2><condition_name></lightgreen2> orbs on hi
 3514,198395,"Transform into a wave of arcane energy that travels fast and inflicts the <lightgreen2><condition_name></lightgreen2> condition to all enemies on its path. Pick up all arcane orbs in its radius at the end of the attack.
 Consumes one Arcane Power orb to recharge instantly
 
-<lightgreen2><condition_name></lightgreen2>: <condition_description>",Lua/Weapons/TomeOfSouls.lua(00169),,,,,,,,"化成一股祕能波，快速穿過路徑上的所有敵人並造成<lightgreen2><condition_name></lightgreen2>。攻擊結束後會拾取半徑範圍<red></red>內<red></red>的<red></red>所<red></red>有<red></red>祕<red></red>能<red></red>寶<red></red>珠。
+<lightgreen2><condition_name></lightgreen2>: <condition_description>",Lua/Weapons/TomeOfSouls.lua(00169),,,,,,,,"化成一股祕能波，快速穿過 路 徑 上 的 所 有 敵 人 並 造 成<lightgreen2><condition_name></lightgreen2>。 攻 擊 結 束 後 會 拾 取 半 徑 範 圍 內 的 所 有 祕 能 寶 珠。
 消耗一顆祕能寶珠可立即冷卻。
 
 <lightgreen2><condition_name></lightgreen2>：<condition_description>",,OK,,
@@ -4661,7 +4661,7 @@ Casting a demon power while wielding a Tome grants <condition_name>.<condition_d
 1970,194283,Wraiths,Lua/_const.lua(00268),,,,,,,,怨靈,,OK,,
 1971,197934,"The ordinary folk wrongly deem the Wraiths for being the ghosts of the departed. These spectral apparitions are shards of living essence that wander seamlessly between the worlds in the same fashion as parasites in a search of a host. Should a Wraith find a place of power or a mortal soul to haunt, it would anchor itself towards it until it devours its life force. Should the sinister activities of the Wraith be disturbed it would unleash all sorts of arcane mayhem upon its opponent, among which are areas of spectral taint that sap the strength of mortals.",Lua/_const.lua(00268),,,,,,,,一般人都錯誤的認為怨靈只是亡者的鬼魂。其實這些鬼魅幻影是在世間徘徊的生命精華碎片，以同樣的方式不斷尋找宿主的寄生蟲。如果怨靈鎖定了力量之地或人類靈魂，祂們就會一直糾纏不休，直到將其生命之力完全吞噬。萬一怨靈的奸險行動受到了妨礙，祂們就會施展各種祕法攻擊對手，尤其是以鬼魅污穢之陣削弱人類的力量。,,OK,,
 1972,194283,Undead,Lua/_const.lua(00269),,,,,,,,不死生物,,OK,,
-1973,196259,The only fate worse than death is to become an Undead - a creature bound in the grey fringe between two worlds by dark magic. Anyone without a vast knowledge of the supernatural could only be blessed with the lack of awareness that Undead are no animated puppets or mere constructs of bone bound by their vile masters; the twisted frame of each one of them is sustained into unlife by the imprisonment of the soul of the deceased person. I fail to imagine the tortures upon which the imprisoned soul is condemned. A well-placed blow can destroy their bony case and release the soul for good.,Lua/_const.lua(00269),,,,,,,,比死亡還悲慘的命運就是變成不死生物──一種被黑魔法束縛於生死之間的怪物。沒有超自然知識的人們只能慶幸他們的無知：不死生物並不是會動的傀儡也不單單是被卑鄙主人束縛的骨架，每一個扭曲的骨架中都是被囚禁的亡者靈魂。我無法想像這些被囚禁的靈魂究竟遭受了怎樣的折磨。徹底粉碎它們的骨身才能永遠釋放其內的靈魂。,,OK,,
+1973,196259,The only fate worse than death is to become an Undead - a creature bound in the grey fringe between two worlds by dark magic. Anyone without a vast knowledge of the supernatural could only be blessed with the lack of awareness that Undead are no animated puppets or mere constructs of bone bound by their vile masters; the twisted frame of each one of them is sustained into unlife by the imprisonment of the soul of the deceased person. I fail to imagine the tortures upon which the imprisoned soul is condemned. A well-placed blow can destroy their bony case and release the soul for good.,Lua/_const.lua(00269),,,,,,,,比死亡還悲慘的命運就是變成不死生物，一種被黑魔法束縛於生死之間的怪物。沒有超自然知識的人們只能慶幸他們的無知：不死生物並不是會動的傀儡也不單單是被卑鄙主人束縛的骨架，每一個扭曲的骨架中都是被囚禁的亡者靈魂。我無法想像這些被囚禁的靈魂究竟遭受了怎樣的折磨。徹底粉碎它們的骨身才能永遠釋放其內的靈魂。,,OK,,
 1974,194283,Essences,Lua/_const.lua(00270),,,,,,,,原質,,OK,,
 1975,194283,"Legends tell of a distant past when the mighty Elemental Forces roamed unbound and in their constant struggle shaped the forms of the world as we see it today. The Essences I found in Zagoravia are nothing more than fragments of these forces, enslaved by the demon forces and used as self-aware weapons that manifest to sow destruction upon the world they once created. But the core of elemental force is not even the final form of the Essence - after destroying them they would break apart in lesser shards which would continue to follow their unrelenting path of destruction.",Lua/_const.lua(00270),,,,,,,,傳說在遙遠的過去，浩瀚的元素之力隨處漫遊，而在它們不斷地努力下，形成了現今我們所見的世界。我在扎古拉維亞發現的原質只不過是那些力量的碎片，現被惡魔之力控制，作為有意識的武器，在這個它們曾經所創造的世界散播毀滅。但元素之力的核心甚至並非原質的最終形態──在破壞之後，它們會分裂成更小的碎片，持續不斷地散播毀滅。,,OK,,
 1976,194283,Gargoyles,Lua/_const.lua(00271),,,,,,,,石像鬼,,OK,,
@@ -5993,8 +5993,8 @@ Casting a demon power while wielding a Tome grants <condition_name>.<condition_d
 100338,28897,Mess Hall,maps/Tutorial_Dungeon/objects.lua(01619),,,,,,,,食堂,,OK,,
 100339,28897,Mess Hall,maps/Tutorial_Dungeon/objects.lua(02142),,,,,,,,食堂,,OK,,
 100340,28897,Castle Courtyard,maps/Tutorial_Dungeon/objects.lua(04447),,,,,,,,城堡庭院,,OK,,
-100341,28897,Attack the dummies using your weapon's special attacks (<Attack2> and <Attack3>). Each weapon has a basic attack and two powerful special attacks with short cooldowns,maps/Tutorial_Dungeon/scenario.lua(00019),,Scenario Tutorial_Dungeon Text,,,,,,使用武器的招式（<Attack2> 和 <Attack3>）攻擊假人。<red></red>每種武器都有一個基本攻擊和兩個強力但需要短暫冷卻的招式。,,OK,,
-100342,28897,Attack the dummies using your weapon's special attacks (<Y> or <B>). Each weapon has a basic attack and two powerful special attacks with short cooldowns,maps/Tutorial_Dungeon/scenario.lua(00020),,Scenario Tutorial_Dungeon GamepadText,,,,,,使用武器的招式（<Y> 和 <B>）攻擊假人。<red></red>每種武器都有一個基本攻擊和兩個強力但需要短暫冷卻的招式。,,OK,,
+100341,28897,Attack the dummies using your weapon's special attacks (<Attack2> and <Attack3>). Each weapon has a basic attack and two powerful special attacks with short cooldowns,maps/Tutorial_Dungeon/scenario.lua(00019),,Scenario Tutorial_Dungeon Text,,,,,,使用武器的招式（<Attack2> 和 <Attack3>）攻擊假人。 每種武器都有一個基本攻擊和兩個強力但需要短暫冷卻的招式。,,OK,,
+100342,28897,Attack the dummies using your weapon's special attacks (<Y> or <B>). Each weapon has a basic attack and two powerful special attacks with short cooldowns,maps/Tutorial_Dungeon/scenario.lua(00020),,Scenario Tutorial_Dungeon GamepadText,,,,,,使用武器的招式（<Y> 和 <B>）攻擊假人。 每種武器都有一個基本攻擊和兩個強力但需要短暫冷卻的招式。,,OK,,
 100343,28897,Looks like you took some damage. Press <UseConsumable1> to use a healing potion,maps/Tutorial_Dungeon/scenario.lua(00039),,Scenario Tutorial_Dungeon Text,,,,,,你似乎受了點傷。按 <UseConsumable1> 使用治療藥水。,,OK,,
 100344,28897,Looks like you took some damage. Press <DPadLeft> to use a healing potion,maps/Tutorial_Dungeon/scenario.lua(00040),,Scenario Tutorial_Dungeon GamepadText,,,,,,你似乎受了點傷。按 <DPadLeft> 使用治療藥水。,,OK,,
 100345,28897,Collect your reward,maps/Tutorial_Dungeon/scenario.lua(00117),,Scenario Tutorial_Dungeon Text,,,,,,領取你的獎勵！,,OK,,
