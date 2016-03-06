@@ -1171,7 +1171,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 4225,196645,Bottomless Pit,Data/MapName.lua(00018),,MapName ArenaPlatforms DisplayName,,,,,,無底洞,,OK,,
 4226,196725,"I have persuaded GebaN, the demon broker, to grant me access to a mysterious void-world known as the Bottomless Pit. An experienced merchant's gamble no doubt. The lower I descend into this starry hell, tougher demons increase the odds that GebaN will have new stock to sell after he loots it from my dead body.",Data/MapName.lua(00020),,MapName ArenaPlatforms Description,,,,,,我已經說服了惡魔仲介商．Ｇ瘦，讓我進入名為無底洞的神祕虛空世界。毫無疑問，這一定是老奸商的一場賭博。我在這地獄中走得越深，惡魔就越強大，Ｇ瘦從我屍體上找到新貨來出售的機會就越大。,,OK,,
 2419,194283,Fallen Keep,Data/MapName.lua(00027),,MapName Tutorial_Dungeon DisplayName,,,,,,淪陷的堡壘,,OK,,
-2420,194283,"The gates of the keep are shut tight. I found an alternative route through a broken sewer grate. By the looks of it, something else passed through before me. The place reeks of death and I am beginning to doubt that there are any survivors here.",Data/MapName.lua(00028),,MapName Tutorial_Dungeon Description,,,,,,堡壘的大門緊閉。我找到了另一條進去的路，通過破損的下水道柵欄。看樣子，有什麼東西在我之前就通過了。到處瀰漫著死亡的氣息，我開始懷疑這裡是否還有倖存者了。,,OK,,
+2420,194283,"The gates of the keep are shut tight. I found an alternative route through a broken sewer grate. By the looks of it, something else passed through before me. The place reeks of death and I am beginning to doubt that there are any survivors here.",Data/MapName.lua(00028),,MapName Tutorial_Dungeon Description,,,,,,堡壘的大門緊閉著。我找到了另一條經由破損的下水道柵欄進去的路。看樣子，有什麼東西在我之前就通過了。到處瀰漫著死亡的氣息，我開始懷疑這裡是否還有倖存者了。,,OK,,
 2421,194283,Weeping Halls,Data/MapName.lua(00033),,MapName AmuletDungeon DisplayName,,,,,,哀泣大廳,,OK,,
 2422,194283,The Ossuary,Data/MapName.lua(00041),,MapName PoorNeighborhood_Dungeon DisplayName,,,,,,納骨堂,,OK,,
 2423,194283,The Tangle,Data/MapName.lua(00050),,MapName DungeonSpiderBoss DisplayName,,,,,,纏結之地,,OK,,
@@ -2755,7 +2755,7 @@ The Wanderer's Outfit grants Overdrive automatically over time, but your weapon 
 
 The Vigilante's Outfit grants Overdrive only when you score critical hits against your enemies. The Armor provided by the outfit will reduce the damage of some of the attacks that you suffer.",Lua/Outfit.lua(00408),,,,,,,,"如果你想創造一個專精於精準和暴擊的角色，那就選擇這套服裝吧。
 
-警探服裝只在對敵人造成暴擊時凝聚超能。服裝提供的防禦也會降低你所受的一些攻擊傷害。",,OK,,
+警探服裝只會在對敵人造成暴擊時凝聚超能。服裝提供的防禦也會降低你所受的一些攻擊傷害。",,OK,,
 895,194283,Cavalier's Outfit,Lua/Outfit.lua(00433),,,,,,,,紳士服裝,,OK,,
 896,194959,"You gain <lightgreen><value></lightgreen> Overdrive every second, but attacks no longer grant Overdrive",Lua/Outfit.lua(00434),,,,,,,,每秒凝聚<lightgreen><value></lightgreen>超能，但攻擊不會凝聚超能。,,OK,,
 3611,194959,"Select this outfit if you favor playing a 'caster' hero.
@@ -3431,11 +3431,11 @@ To improve a property, you must craft its recipe again, although this time you c
 4480,198919,"You have selected <outfit>, <difficulty> and <mode>.
 Are you sure you want to continue?",Lua/UI/CodexDlg.lua(00642),,,,,,,,"你選擇了<outfit>、<difficulty>和<mode>。
 你確定要繼續嗎？",,OK,,
-4333,198395,Hardcore,Lua/UI/CodexDlg.lua(00654),,,,,,,,硬派模式,,OK,,
+4333,198395,Hardcore,Lua/UI/CodexDlg.lua(00654),,,,,,,,選擇角色模式,,OK,,
 4329,198395,Normal Character,Lua/UI/CodexDlg.lua(00658),,,,,,,,普通角色,,OK,,
-4331,198395,Normal characters suffer no penalties when they die,Lua/UI/CodexDlg.lua(00663),,,,,,,,普通角色死亡時不會受到懲罰,,OK,,
+4331,198395,Normal characters suffer no penalties when they die,Lua/UI/CodexDlg.lua(00663),,,,,,,,普通角色死亡時不會受到懲罰。,,OK,,
 4330,198395,Hardcore Character,Lua/UI/CodexDlg.lua(00667),,,,,,,,硬派角色,,OK,,
-4332,198395,Hardcore characters become normal characters when they die for the first time,Lua/UI/CodexDlg.lua(00672),,,,,,,,硬派角色在第一次死亡後會變成普通角色,,OK,,
+4332,198395,Hardcore characters become normal characters when they die for the first time,Lua/UI/CodexDlg.lua(00672),,,,,,,,硬派角色在第一次死亡後會變成普通角色。,,OK,,
 4185,196416,"You have selected <outfit> and <difficulty>.
 Are you sure you want to continue?",Lua/UI/CodexDlg.lua(00725),,,,,,,,"你選擇了<outfit>和<difficulty>。
 你確定要繼續嗎？",,OK,,
@@ -3465,7 +3465,8 @@ Note: You will be able to adjust the game difficulty later, by switching Hexes o
 3608,195716,Hard Mode,Lua/UI/CodexDlg.lua(00871),,,,,,,,困難模式,,OK,,
 3604,196645,"Select this option if you want to test yourself against the most challenging enemies and encounters. Selecting this mode will make all monsters stronger and activate five Hexes that raise the difficulty of the game. You will not be able to turn Hexes off while playing on Hard Mode.
 
-Note: Playing in Hard Mode is not recommended for your first character.",Lua/UI/CodexDlg.lua(00875),,,,,,,,"如果你想考驗自己的能耐，對抗最具挑戰性的敵人和戰鬥的話，那就選擇這個模式吧。選擇這個模式會使所有怪物更加強大，還會啟動5個禁咒提高遊戲難度。玩困難模式時無法關閉禁咒。
+Note: Playing in Hard Mode is not recommended for your first character.",Lua/UI/CodexDlg.lua(00875),,,,,,,,"如果你想考驗自己的能耐，對抗最具挑戰性的敵人和戰鬥的話，那就選擇這個模式吧。選擇這個模式會使所有怪物更加強大，還會
+啟動5個禁咒提高遊戲難度。玩困難模式時無法關閉禁咒。
 
 注意：第一個角色不推薦玩困難模式。",,OK,,
 3926,195390,Select your outfit,Lua/UI/CodexDlg.lua(00921),,,,,,,,選擇服裝,,OK,,
@@ -3895,7 +3896,7 @@ Code ""<err>""",Lua/UI/MenuOnline.lua(01379),,,,,,,,"抱歉，伺服器回傳一
 515,194283,Renown Level <level>,Lua/UI/PreGameMenu.lua(00290),,,,,,,,聲望等級：<level>,,OK,,
 880,194283,Level <level>,Lua/UI/PreGameMenu.lua(00292),,,,,,,,等級：<level>,,OK,,
 1495,196015,Time <time>,Lua/UI/PreGameMenu.lua(00295),,,,,,,,遊戲時間：<time>,,OK,,
-4334,198395,<red>Hardcore</red>,Lua/UI/PreGameMenu.lua(00298),,,,,,,,<red>硬派模式</red>,,OK,,
+4334,198395,<red>Hardcore</red>,Lua/UI/PreGameMenu.lua(00298),,,,,,,,<red>硬派角色</red>,,OK,,
 4191,196416,Deaths,Lua/UI/PreGameMenu.lua(00300),,,,,,,,死亡數：,,OK,,
 1095,194283,Renown <level>,Lua/UI/PreGameMenu.lua(00304),,,,,,,,聲望：<level>,,OK,,
 4335,198395,First Death,Lua/UI/PreGameMenu.lua(00306),,,,,,,,第一次死亡,,OK,,
@@ -5986,9 +5987,9 @@ Casting a demon power while wielding a Tome grants <condition_name>.<condition_d
 100331,28897,Press <Jump> to jump,maps/Tutorial/scenario.lua(00031),,Scenario Tutorial Text,,,,,,按 <Jump> 跳躍。,,OK,,
 100332,28897,Press <JumpCursor> to jump towards the mouse pointer,maps/Tutorial/scenario.lua(00032),,Scenario Tutorial MouseText,,,,,,按 <JumpCursor> 向游標方向跳躍。,,OK,,
 100333,28897,Press <A> to jump,maps/Tutorial/scenario.lua(00033),,Scenario Tutorial GamepadText,,,,,,按 <A> 跳躍。,,OK,,
-100334,28897,"<color 119 230 30>Jump</color>, then press <Jump> again when close to a wall to do a wall jump and climb up",maps/Tutorial/scenario.lua(00062),,Scenario Tutorial Text,,,,,,<color 119 230 30>跳起</color>，等靠近牆壁時再按 <Jump> 以使出蹬牆跳來翻越高牆。,,OK,,
-100335,28897,"<color 119 230 30>Jump</color>, then press <JumpCursor> again when close to a wall to do a wall jump and climb up",maps/Tutorial/scenario.lua(00063),,Scenario Tutorial MouseText,,,,,,<color 119 230 30>跳起</color>，等靠近牆壁時再按 <JumpCursor> 以使出蹬牆跳來翻越高牆。,,OK,,
-100336,28897,"Jump, then press <A> again when close to a wall to do a wall jump and climb up",maps/Tutorial/scenario.lua(00064),,Scenario Tutorial GamepadText,,,,,,跳起，等靠近牆壁時再按 <A> 以使出蹬牆跳來翻越高牆。,,OK,,
+100334,28897,"<color 119 230 30>Jump</color>, then press <Jump> again when close to a wall to do a wall jump and climb up",maps/Tutorial/scenario.lua(00062),,Scenario Tutorial Text,,,,,,靠近牆壁跳起，再按 <Jump> 以使出蹬牆跳來翻越高牆。,,OK,,
+100335,28897,"<color 119 230 30>Jump</color>, then press <JumpCursor> again when close to a wall to do a wall jump and climb up",maps/Tutorial/scenario.lua(00063),,Scenario Tutorial MouseText,,,,,,靠近牆壁跳起，再按 <JumpCursor> 以使出蹬牆跳來翻越高牆。,,OK,,
+100336,28897,"Jump, then press <A> again when close to a wall to do a wall jump and climb up",maps/Tutorial/scenario.lua(00064),,Scenario Tutorial GamepadText,,,,,,靠近牆壁跳起，再按 <A> 以使出蹬牆跳來翻越高牆。,,OK,,
 100337,28897,Training Room,maps/Tutorial_Dungeon/objects.lua(01079),,,,,,,,訓練室,,OK,,
 100338,28897,Mess Hall,maps/Tutorial_Dungeon/objects.lua(01619),,,,,,,,食堂,,OK,,
 100339,28897,Mess Hall,maps/Tutorial_Dungeon/objects.lua(02142),,,,,,,,食堂,,OK,,
@@ -6005,7 +6006,7 @@ Casting a demon power while wielding a Tome grants <condition_name>.<condition_d
 100350,28897,Press <UseRune1> to activate a Demon Power. You can hold <UseRune1> to aim the demon power,maps/Tutorial_Dungeon/scenario.lua(00174),,Scenario Tutorial_Dungeon Text,,,,,,按 <UseRune1> 施展惡魔之力。按住 <UseRune1> 可以進行瞄準。,,OK,,
 100351,28897,Press <LT> to activate a Demon Power. You can hold <LT> to aim the demon power,maps/Tutorial_Dungeon/scenario.lua(00175),,Scenario Tutorial_Dungeon GamepadText,,,,,,按 <LT> 施展惡魔之力。按住 <LT> 可以進行瞄準。,,OK,,
 100460,30340,Destroy the box!,maps/Tutorial_Dungeon/scenario.lua(00319),,Scenario Tutorial_Dungeon Text,,,,,,破壞箱子！,,OK,,
-3365,194283,"Zagoravia, the Fallen City. The land of no return.",Data/Scenario/Cutscene_texts.lua(00013),Act0 00 Cutscene 1: Intro ,,Victor Vran,Victor Vran,,,,墮落之城，扎古拉維亞。一個不歸之地。,,OK,,
+3365,194283,"Zagoravia, the Fallen City. The land of no return.",Data/Scenario/Cutscene_texts.lua(00013),Act0 00 Cutscene 1: Intro ,,Victor Vran,Victor Vran,,,,淪陷之城，扎古拉維亞。一個不歸之地。,,OK,,
 3366,194283,Where darkness won and we demon hunters lost.,Data/Scenario/Cutscene_texts.lua(00017),Act0 00 Cutscene 1: Intro ,,Victor Vran,Victor Vran,,,,在那裡，黑暗猖獗，獵魔人衰敗。,,OK,,
 3367,196015,"One year ago, a plea for help summoned hunters to Zagoravia.",Data/Scenario/Cutscene_texts.lua(00021),Act0 00 Cutscene 1: Intro ,,Victor Vran,Victor Vran,,,,一年多前，一條求救訊息把獵人們號召到了扎古拉維亞。,,OK,,
 3368,196015,"I couldn't answer, I was trapped in the Tower of Dreams.",Data/Scenario/Cutscene_texts.lua(00025),Act0 00 Cutscene 1: Intro ,,Victor Vran,Victor Vran,,,,當時我被困在夢境之塔，我無法回應。,,OK,,
@@ -6038,7 +6039,7 @@ Casting a demon power while wielding a Tome grants <condition_name>.<condition_d
 3339,194283,"Look, hunter, a treasure chest! Up there on the balcony.",Data/Scenario/Banters_Tutorial.lua(00162),Act0 01 Tutorial Banters,,Voice,Voice,,,,看哪，獵人，有個寶箱耶！上去陽台吧。,,OK,,
 3340,194708,"Come on, go get it. You can use the exercise.",Data/Scenario/Banters_Tutorial.lua(00166),Act0 01 Tutorial Banters,,Voice,Voice,,,,快啊，快去開啊。你可以練習練習。,,OK,,
 3341,194283,I love these boxes. You never know what you're going to get. So exciting!,Data/Scenario/Banters_Tutorial.lua(00177),Act0 01 Tutorial Banters,,Voice,Voice,,,,我超愛這些寶箱的。你永遠不知道會拿到什麼。超興奮的！,,OK,,
-3342,194283,You know there are more of these lovely chests lying around. Can you find them?,Data/Scenario/Banters_Tutorial.lua(00188),Act0 01 Tutorial Banters,,Voice,Voice,,,,你知道附近有很多這些迷人的寶箱了吧。你能全找出來嗎？,,OK,,
+3342,194283,You know there are more of these lovely chests lying around. Can you find them?,Data/Scenario/Banters_Tutorial.lua(00188),Act0 01 Tutorial Banters,,Voice,Voice,,,,你知道附近有很多迷人的寶箱了吧。你能全找出來嗎？,,OK,,
 3343,194283,I know this place.,Data/Scenario/Banters_Tutorial.lua(00199),Act0 01 Tutorial Banters,,Voice,Voice,,,,我認得這個地方。,,OK,,
 3344,194283,You’re getting closer.,Data/Scenario/Banters_Tutorial.lua(00203),Act0 01 Tutorial Banters,,Voice,Voice,,,,你就快到了。,,OK,,
 3345,194283,"Come on, open that door.",Data/Scenario/Banters_Tutorial.lua(00207),Act0 01 Tutorial Banters,,Voice,Voice,,,,來吧，打開那扇門。,,OK,,
@@ -6065,24 +6066,24 @@ Casting a demon power while wielding a Tome grants <condition_name>.<condition_d
 2870,194283,Castle Zagore still stands – a refuge from the horrors outside.,Data/Scenario/Banters_Hub.lua(00019),Act0 02 Victor Enters Hub,,Victor Vran,Victor Vran,,,,扎古爾城仍聳立著，這座把恐怖隔絕於外的庇護所。,,OK,,
 2262,196015,"Welcome to Zagoravia, hunter! Thank you for answering our summons and bringing your sword to our cause.
 
-Soon we will push back the enemy. If you hurry you will be rewarded.",Data/Conversations/Tzarina.lua(00014),Act1 01 Queen initial conversation,,Queen Katarina,Queen Katarina,,,,"歡迎來到扎古拉維亞，獵人！感謝你回應我們的號召，與我們一起並肩作戰。
+Soon we will push back the enemy. If you hurry you will be rewarded.",Data/Conversations/Tzarina.lua(00014),Act1 01 Queen initial conversation,,Queen Katarina,Queen Katarina,,,,"歡迎來到扎古拉維亞，獵人！感謝你回應了號召，與我們一起並肩作戰。
 
 我們馬上就要反攻了。如果你動作夠快，你就能獲得獎勵。",,OK,,
 2263,194283,"Your Majesty, I would gladly see you to safety.",Data/Conversations/Tzarina.lua(00018),Act1 01 Queen initial conversation,,Victor Vran,Victor Vran,,,,女王陛下，很高興看到您平安無事。,,OK,,
 2264,194283,It is not safety that we want. We are going to win this war and free my kingdom from the demons.,Data/Conversations/Tzarina.lua(00022),Act1 01 Queen initial conversation,,Queen Katarina,Queen Katarina,,,,這不是我想要的平安。我們要打贏這場戰爭，從惡魔手中解救我的王國。,,OK,,
 2265,194283,"No further help is coming, Your Majesty. What brought me here is the fate of a fellow hunter by the name of Adrian.",Data/Conversations/Tzarina.lua(00026),Act1 01 Queen initial conversation,,Victor Vran,Victor Vran,,,,不會再有援助了，女王陛下。我是為了一個獵人伙伴的生死而來，他名叫艾德里安。,,OK,,
-2266,196015,You may believe no help is coming and have given up but we stand strong. <pause> But if it is your friend you seek you must go south - to the Royal Gardens. ,Data/Conversations/Tzarina.lua(00030),Act1 01 Queen initial conversation,,Queen Katarina,Queen Katarina,,,,你也許認為不會再有援助而放棄了，但我們絕不退縮。<pause>不過你找的那個人是你朋友的話，那你得往南走──去皇家花園。,,OK,,
+2266,196015,You may believe no help is coming and have given up but we stand strong. <pause> But if it is your friend you seek you must go south - to the Royal Gardens. ,Data/Conversations/Tzarina.lua(00030),Act1 01 Queen initial conversation,,Queen Katarina,Queen Katarina,,,,你也許認為不會再有援助而放棄了，但我們絕不退縮。<pause>如果你找的那個人是你朋友的話，那你必須往南走──去皇家花園。,,OK,,
 2267,194283,"Thank you, Your Majesty.",Data/Conversations/Tzarina.lua(00034),Act1 01 Queen initial conversation,,Victor Vran,Victor Vran,,,,感謝您，女王陛下。,,OK,,
 2871,196015,The Queen is strong willed. It must be how she got this far.,Data/Scenario/Banters_Hub.lua(00031),Act1 02 Banter on Queen,,Victor Vran,Victor Vran,,,,女王的意志堅強，一路支撐她到現在。,,OK,,
 2872,196015,But it changes nothing. The city is overrun.,Data/Scenario/Banters_Hub.lua(00035),Act1 02 Banter on Queen,,Victor Vran,Victor Vran,,,,但這改變不了什麼。城市已經淪陷了。,,OK,,
-2165,196015,"I'm Damian the Alchemist. I can help you with useful supplies, like potions and bombs, and you can help me with your gold, he-he-he. We Alchemists are said to transmute gold into air, but it is all for the benefits of science! Take a look through my inventory, there’s not much demand from hunters these days.",Data/Conversations/Alchemist.lua(00017),Act1 021 Introducing the Alchemist,,Damian,Damian,,,,我是鍊金術師．戴米恩。我可以提供你一些有用的補給，像是藥劑、炸彈，而你可以提供一些金錢給我，呵呵呵。人們都說我們鍊金術師會把金子變空氣，但這可都是為了科學啊！來看看我的貨吧，這些日子已經沒什麼獵人來了。,,OK,,
-2192,194372,<sarcastic>Great! Another hunter comes to save the day! Maybe we stand a chance against the countless hordes now! Or maybe you'll die like all the others.,Data/Conversations/Guard.lua(00017),Act1 022 Sir Krum introduction,,Sir Krum,Sir Krum,,,,<sarcastic>太好了！又一個獵人來扭轉局勢了！或許我們有機會對抗無數大軍了！也或許你只是另一個來送死的。,,OK,,
+2165,196015,"I'm Damian the Alchemist. I can help you with useful supplies, like potions and bombs, and you can help me with your gold, he-he-he. We Alchemists are said to transmute gold into air, but it is all for the benefits of science! Take a look through my inventory, there’s not much demand from hunters these days.",Data/Conversations/Alchemist.lua(00017),Act1 021 Introducing the Alchemist,,Damian,Damian,,,,我是鍊金術師．戴米恩。我可以提供你一些有用的補給，像是藥劑、炸彈，而你可以提供一些金錢給我，呵呵呵。人們都說我們鍊金術師會把金子變空氣，但這可都是為了科學啊！來看看我的貨吧，這些日子已經沒多少獵人來了。,,OK,,
+2192,194372,<sarcastic>Great! Another hunter comes to save the day! Maybe we stand a chance against the countless hordes now! Or maybe you'll die like all the others.,Data/Conversations/Guard.lua(00017),Act1 022 Sir Krum introduction,,Sir Krum,Sir Krum,,,,<sarcastic>太好了！又一個獵人來扭轉敗局了！或許我們有機會打敗無數大軍了！也或許你只是另一個來送死的。,,OK,,
 2193,194283,My name is Victor Vran and I didn't expect this kind of warm welcome in Zagoravia. I am looking for a friend. I won't stay a minute longer after I find him.,Data/Conversations/Guard.lua(00021),Act1 022 Sir Krum introduction,,Victor Vran,Victor Vran,,,,我叫維克多．弗蘭，沒想到會在扎古拉維亞受到如此熱烈的歡迎。其實我正在找一位朋友。找到他之後，我馬上就會離開的。,,OK,,
 2194,194283,"Listen, Vran. I don't care. Just one rule - don't promise the impossible to Her Majesty.
 
 Every day I endeavor to convince her to give up hope of saving this city. With you around, she will become even more determined to stay and die in this cursed castle. If this happens, I'll hold you personally responsible, you hear me?",Data/Conversations/Guard.lua(00025),Act1 022 Sir Krum introduction,,Sir Krum,Sir Krum,,,,"聽著，弗蘭，你要做什麼我不管。只有一個原則──別對女王陛下許下無法實現的承諾。
 
-每天我都竭盡所能地說服她放棄拯救這座城市的希望。現在有你在，她肯定會更加堅定要與這座詛咒之城共存亡的決心。要是發生這種事，我唯你是問，聽清楚了嗎？",,OK,,
+每天我都竭盡所能地說服她放棄拯救這座城市的希望。現在有你在，她肯定會更加堅定與這座詛咒之城共存亡的決心。要是發生這種事，我唯你是問，聽清楚了嗎？",,OK,,
 3253,194283,I'm back! Did you miss me?,Data/Scenario/Banters_RoyalGardens.lua(00015),Act1 03 Royal Gardens Banter,,Voice,Voice,,,,我回來啦！想我了嗎？,,OK,,
 3254,194283,<laughter>I know you missed me!,Data/Scenario/Banters_RoyalGardens.lua(00019),Act1 03 Royal Gardens Banter,,Voice,Voice,,,,<laughter>我知道你想我了！,,OK,,
 3255,194283,Now that I think about it we weren't properly introduced.,Data/Scenario/Banters_RoyalGardens.lua(00030),Act1 03 Royal Gardens Banter,,Voice,Voice,,,,對了，我們還沒互相介紹呢。,,OK,,
@@ -6207,7 +6208,7 @@ Don't be alarmed, take a look. For science.",Data/Conversations/Alchemist.lua(00
 別緊張，隨便看看吧。科學萬歲！",,OK,,
 2171,194283,"That fire-headed girl, Irene, she is a good hunter - brave, but not reckless. She brought back some interesting items from her forays.
 
-It's too bad she will die so young and pretty. Demons will have her, no doubt. Care to browse my inventory? ",Data/Conversations/Alchemist.lua(00077),Act1 083 Irene will die,,Damian,Damian,,,,"那位紅髮女郎，艾琳，她是位高超的獵人──勇敢，但不魯莽。經過幾次探路，她帶回了不少有趣的裝備。
+It's too bad she will die so young and pretty. Demons will have her, no doubt. Care to browse my inventory? ",Data/Conversations/Alchemist.lua(00077),Act1 083 Irene will die,,Damian,Damian,,,,"那位紅髮女郎，艾琳，她是位高超的獵人──勇敢，但不魯莽。經過幾次的探路，她帶回了不少有趣的裝備。
 
 可惜她始終會紅顏薄命，死在惡魔手上。要看看我的貨嗎？",,OK,,
 2839,194283,Another dead body. This is fast becoming a common sight.,Data/Scenario/Banters_AmuletDungeon.lua(00015),Act1 09 Amulet Dungeon Banters,,Victor Vran,Victor Vran,,,,又一具屍體。快要司空見慣了。,,OK,,
@@ -6244,7 +6245,7 @@ It's too bad she will die so young and pretty. Demons will have her, no doubt. C
 Have you ever seen the city you swore to protect being overrun by the enemy? Have you ever witnessed the agony in the eyes of your dying comrades? I doubt it; you hunters always roam alone, don't you?",Data/Conversations/Guard.lua(00038),Act1 091 Sir Krum on hunters failure,,Sir Krum,Sir Krum,,,,"感到孤獨嗎，弗蘭？要來聊天？那我講個故事給你聽。
 
 你可曾見過自己誓言守護的城市被敵人攻占？你可曾目睹過戰友臨死前眼中的痛苦？我想不曾吧。你們獵人總是獨來獨往，不是嗎？",,OK,,
-2196,196015,"The hunters were supposed to save the day. Her Majesty was adamant, she was convinced beyond reason, that you would turn the tide of the war. Yes, your kind came here, but you bled and you died just like my men.",Data/Conversations/Guard.lua(00042),Act1 091 Sir Krum on hunters failure,,Sir Krum,Sir Krum,,,,獵人一直被期望著能扭轉局勢。女王陛下意志堅定，毫無理由地深信你們會力挽狂瀾。沒錯，你們是來了，但跟我們的人一樣，你們照樣流血，照樣死去。,,OK,,
+2196,196015,"The hunters were supposed to save the day. Her Majesty was adamant, she was convinced beyond reason, that you would turn the tide of the war. Yes, your kind came here, but you bled and you died just like my men.",Data/Conversations/Guard.lua(00042),Act1 091 Sir Krum on hunters failure,,Sir Krum,Sir Krum,,,,獵人一直被期望著能扭轉敗局。女王陛下意志堅定，毫無理由地深信你們會力挽狂瀾。沒錯，你們是來了，但跟我們的人一樣，你們照樣流血，照樣死去。,,OK,,
 2197,196015,"The story in a nutshell? My men died to give the hunters a fighting chance that they never took. I hear the voices of my men, whispering in my head, and they want retribution - can you give it to them?",Data/Conversations/Guard.lua(00046),Act1 091 Sir Krum on hunters failure,,Sir Krum,Sir Krum,,,,簡單地說，我們的人陣亡才讓獵人有大顯身手的機會。我能聽到他們的聲音，一直在我的腦海中迴盪著，他們渴望復仇──你能完成他們的遺願嗎？,,OK,,
 2207,196015,You? Why are you parading around here instead of hunting monsters? Or have you tired of that?,Data/Conversations/Guard.lua(00131),Act1 092 Sir Krum biting remarks on Victor,,Sir Krum,Sir Krum,,,,是你啊？你怎麼不去殺怪，反倒在這裡閒晃？你累了嗎？,,OK,,
 3377,194283,The survivors are gathered around the war table.,Data/Scenario/Cutscene_texts.lua(00066),Act1 12 Cutscene 2: Spring the Trap,,Victor Vran,Victor Vran,,,,倖存者們聚集在戰略桌的周圍。,,OK,,
@@ -6901,7 +6902,7 @@ Why is she taking over my business, that's what I'd like to know?",Data/Conversa
 為什麼她要搶我的生意？真叫人納悶。",,OK,,
 2175,194283,"Did I hear you right, Victor? A spirit is sending you to fight demons? A spirit that only hunters can see?
 
-Now, I might have a bottle with a spirit of my own for your condition...",Data/Conversations/Alchemist.lua(00142),side: Alchemist 03 on Victor conversing with Tzar Borimir (During The Trail Quest),,Damian,Damian,,,,"我沒聽錯吧，維克多？鬼魂派你去對抗惡魔？而且那個鬼魂只有獵人能看見？
+Now, I might have a bottle with a spirit of my own for your condition...",Data/Conversations/Alchemist.lua(00142),side: Alchemist 03 on Victor conversing with Tzar Borimir (During The Trail Quest),,Damian,Damian,,,,"我沒聽錯吧，維克多？鬼魂派你去對抗惡魔？而且只有獵人能看見？
 
 好吧，我好像有一瓶藥能治療你的症狀……",,OK,,
 2177,194283,"It was a pleasure knowing you, Victor. Any last purchases?",Data/Conversations/Alchemist.lua(00155),side: Alchemist 04 Before going to the Demon World,,Damian,Damian,,,,認識你是我的榮幸，維克多。最後還要買點什麼？,,OK,,
@@ -6947,7 +6948,7 @@ My prayers will be with you.",Data/Conversations/Bozidar.lua(00017),side: Patria
 2183,196015,"Beware of the false sense of strength that contraptions and weapons often give, my son. Those crude devices have their uses, but put your trust in your own heart and soul above all things.",Data/Conversations/Bozidar.lua(00069),side: Patriarch 05 on gear,,Patriarch Casimir,Patriarch Casimir,,,,孩子，當心裝備和武器帶給你擁有力量的錯覺。那些工具固然有其用處，但最重要的是相信你自己的內心和靈魂。,,OK,,
 2184,196015,"I worry for the Queen, my son. She has not confessed to me for weeks and I feel the darkness could have crept inside her heart.",Data/Conversations/Bozidar.lua(00082),side: Patriarch 06 on the Queen (before Queens Story cut scene),,Patriarch Casimir,Patriarch Casimir,,,,我很擔心女王，孩子。她已經幾週沒有來找我告解了，我覺得黑暗可能已經悄悄地侵入了她的內心。,,OK,,
 2185,194283,"Godspeed, my son! Find Irene! No living soul should ever be left to the mercy of darkness!",Data/Conversations/Bozidar.lua(00095),side: Patriarch 07 on leaving to rescue Irene (after Sprung the Trap cut scene),,Patriarch Casimir,Patriarch Casimir,,,,一路順風，孩子！找到艾琳！任何人都不該受到黑暗擺布！,,OK,,
-2186,196015,"Tzar Borimir was a great man, my son. The ancient scripts that were held in the Cathedral tell of his deeds. In ancient times he followed God's good will and founded this city to act as a beacon of hope, casting away the shadows that held sway over the hearts of mortal men.",Data/Conversations/Bozidar.lua(00108),side: Patriarch 08 on Tzar Borimir (After accepting the Trial),,Patriarch Casimir,Patriarch Casimir,,,,波利密爾沙皇是位偉人，孩子。保管在大教堂裡的古老手稿記載著祂的事蹟。在古時候，祂遵循上帝的意志，建立了這座城市作為希望的燈塔，趕走占據在凡人心中的陰影。,,OK,,
+2186,196015,"Tzar Borimir was a great man, my son. The ancient scripts that were held in the Cathedral tell of his deeds. In ancient times he followed God's good will and founded this city to act as a beacon of hope, casting away the shadows that held sway over the hearts of mortal men.",Data/Conversations/Bozidar.lua(00108),side: Patriarch 08 on Tzar Borimir (After accepting the Trial),,Patriarch Casimir,Patriarch Casimir,,,,波利密爾沙皇是位偉人，孩子。保管在教堂裡的古老手稿記載著祂的事蹟。在古時候，祂遵循上帝的意志，建立了這座城市作為希望的燈塔，趕走占據在凡人心中的陰影。,,OK,,
 2187,196015,"Of all God's creations, vampires perplex me most, my son. Whilst demons are beyond redemption in their absent minded drive to sew evil, Vampires are of our realm. 
 
 Where do they fit in the Creator's grand scheme? I am truly at a loss, my son.",Data/Conversations/Bozidar.lua(00121),side: Patriarch 09 on vampires,,Patriarch Casimir,Patriarch Casimir,,,,"在上帝的造物中，吸血鬼是最讓我困惑的，孩子。雖然單純追求邪惡的惡魔萬劫不復，但吸血鬼卻生在我們的世界。
