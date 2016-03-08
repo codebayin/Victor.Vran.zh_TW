@@ -508,11 +508,11 @@ ID,Revision,Text,Location,Section,Context,Actor,Voice Actor,Old Revision,Old Tex
 1998,194283,Made 15000 kills with 5 active Hexes,Data/Achievement.lua(00079),,Achievement Serious Vran description,,,,,,已在啟用5個禁咒的情況下達成15000擊殺數。,,OK,,
 1999,194283,Make 15000 kills with 5 active Hexes,Data/Achievement.lua(00080),,Achievement Serious Vran how_to,,,,,,在啟用5個禁咒的情況下達成15000擊殺數。,,OK,,
 2000,194283,Tactical Vran,Data/Achievement.lua(00089),,Achievement Tactical Vran display_name,,,,,,戰術高手,,OK,,
-2001,194283,Killed 25 enemies with a single attack,Data/Achievement.lua(00090),,Achievement Tactical Vran description,,,,,,已用一招殺死25個敵人。,,OK,,
-2002,194283,Kill 25 enemies with a single attack,Data/Achievement.lua(00091),,Achievement Tactical Vran how_to,,,,,,用一招殺死25個敵人。,,OK,,
+2001,194283,Killed 25 enemies with a single attack,Data/Achievement.lua(00090),,Achievement Tactical Vran description,,,,,,已使用一招殺死25個敵人。,,OK,,
+2002,194283,Kill 25 enemies with a single attack,Data/Achievement.lua(00091),,Achievement Tactical Vran how_to,,,,,,使用一招殺死25個敵人。,,OK,,
 2003,194283,Demonomicon,Data/Achievement.lua(00099),,Achievement Demonomicon display_name,,,,,,惡魔全書,,OK,,
-2004,194283,Killed 50 enemies with a single demon power,Data/Achievement.lua(00100),,Achievement Demonomicon description,,,,,,已用一次惡魔之力殺死50個敵人。,,OK,,
-2005,194283,Kill 50 enemies with a single demon power,Data/Achievement.lua(00101),,Achievement Demonomicon how_to,,,,,,用一次惡魔之力殺死50個敵人。,,OK,,
+2004,194283,Killed 50 enemies with a single demon power,Data/Achievement.lua(00100),,Achievement Demonomicon description,,,,,,已使用一發惡魔之力殺死50個敵人。,,OK,,
+2005,194283,Kill 50 enemies with a single demon power,Data/Achievement.lua(00101),,Achievement Demonomicon how_to,,,,,,使用一發惡魔之力殺死50個敵人。,,OK,,
 2006,194283,Abstinence Kills,Data/Achievement.lua(00109),,Achievement Abstinence Kills display_name,,,,,,節儉殺手,,OK,,
 2007,194283,Killed 500 enemies without using consumables,Data/Achievement.lua(00110),,Achievement Abstinence Kills description,,,,,,已不使用消耗品殺死500個敵人。,,OK,,
 2008,194283,Kill 500 enemies without using consumables,Data/Achievement.lua(00111),,Achievement Abstinence Kills how_to,,,,,,不使用消耗品殺死500個敵人。,,OK,,
@@ -595,8 +595,8 @@ ID,Revision,Text,Location,Section,Context,Actor,Voice Actor,Old Revision,Old Tex
 2079,194283,Collected 25 different Destiny Cards,Data/Achievement.lua(00370),,Achievement Zagore Hold'em description,,,,,,已蒐集25張不同的命運牌。,,OK,,
 2080,194283,Collect 25 different Destiny Cards,Data/Achievement.lua(00371),,Achievement Zagore Hold'em how_to,,,,,,蒐集25張不同的命運牌。,,OK,,
 2081,194283,Tzar Bomba,Data/Achievement.lua(00379),,Achievement Tzar Bomba display_name,,,,,,沙皇炸彈,,OK,,
-2082,194283,Inflicted 2500 damage with a single hit,Data/Achievement.lua(00380),,Achievement Tzar Bomba description,,,,,,已用一擊造成2500傷害。,,OK,,
-2083,194283,Inflict 2500 damage with a single hit,Data/Achievement.lua(00381),,Achievement Tzar Bomba how_to,,,,,,用一擊造成2500傷害。,,OK,,
+2082,194283,Inflicted 2500 damage with a single hit,Data/Achievement.lua(00380),,Achievement Tzar Bomba description,,,,,,已使用一招造成2500傷害。,,OK,,
+2083,194283,Inflict 2500 damage with a single hit,Data/Achievement.lua(00381),,Achievement Tzar Bomba how_to,,,,,,使用一招造成2500傷害。,,OK,,
 2084,194283,Steady Hand Vic,Data/Achievement.lua(00389),,Achievement Steady Hand Vic display_name,,,,,,穩定快手,,OK,,
 2085,195942,Had 25 consecutive split-timed attacks,Data/Achievement.lua(00390),,Achievement Steady Hand Vic description,,,,,,已連續施展25次間段攻擊。,,OK,,
 2086,195942,Have 25 consecutive split-timed attacks,Data/Achievement.lua(00391),,Achievement Steady Hand Vic how_to,,,,,,連續施展25次間段攻擊。,,OK,,
@@ -1066,7 +1066,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 3898,195189,Slay the Magnificent Miners without dying with 5 active Hexes,Data/MapChallenges.lua(02832),,,,,,,,在沒有死亡的情況下， 殺死傑出礦工， 同時啟動5個禁咒,,OK,,
 2409,195189,Reach the end of the corridor within <timer> seconds without taking damage and using Demon Powers,Data/MapChallenges.lua(02852),,,,,,,,在沒有受傷的情況下， 不使用惡魔之力， 在<timer>秒內抵達走廊底端,,OK,,
 2411,194799,"Slay Cadavros without using Potions, Shrines and Demon Powers",Data/MapChallenges.lua(02863),,,,,,,,不使用藥劑、 祭壇和惡魔之力， 殺死坎迪瓦斯,,OK,,
-3899,199653,Slay Whispering Bones with a single hit without dying with 3 active Hexes,Data/MapChallenges.lua(02908),,,,,195189,,,在沒有死亡的情況下， 使用一擊殺死低語之骨， 同時啟動3個禁咒,,changed,,
+3899,199653,Slay Whispering Bones with a single hit without dying with 3 active Hexes,Data/MapChallenges.lua(02908),,,,,195189,,,在沒有死亡的情況下， 使用一招殺死低語之骨， 同時啟動3個禁咒,,changed,,
 3900,195189,Slay Cadavros affected by Brutality While Above 80% health,Data/MapChallenges.lua(02944),,,,,,,,生命高於80%時， 殺死殘暴狀態的坎迪瓦斯,,OK,,
 3901,195189,Slay Cadavros While Above 80% health with 4 active Hexes,Data/MapChallenges.lua(02958),,,,,,,,生命高於80%時， 殺死坎迪瓦斯， 同時啟動4個禁咒,,OK,,
 4303,197934,Slay Mordra The Broodmother with 5 active Hexes,Data/MapChallenges.lua(03280),,,,,,,,殺死蛛后．莫卓， 同時啟動5個禁咒,,OK,,
@@ -2898,9 +2898,9 @@ Reduces weapon cooldowns by <cooldown_reduction>%",Lua/Outfit.lua(00446),,,,,,,,
 955,194283,<text> without using Demon Powers,Lua/Quest.lua(01180),,,,,,,,不使用惡魔之力，<text>,,OK,,
 956,194799,<text> within <time> seconds,Lua/Quest.lua(01186),,,,,,,,在<time>秒內<text>,,OK,,
 957,194283,<text> within a window of <time> seconds,Lua/Quest.lua(01190),,,,,,,,在<time>秒內<text>,,OK,,
-958,194283,<text> with <count> active Hexes,Lua/Quest.lua(01207),,,,,,,,<text>，同時啟動<count>個禁咒,,OK,,
-959,194283,<text> with <hex>,Lua/Quest.lua(01212),,,,,,,,<text>，同時啟動<hex>,,OK,,
-960,194283,<text> with <hex>,Lua/Quest.lua(01214),,,,,,,,<text>，同時啟動<hex>,,OK,,
+958,194283,<text> with <count> active Hexes,Lua/Quest.lua(01207),,,,,,,,<text>， 同時啟動<count>個禁咒,,OK,,
+959,194283,<text> with <hex>,Lua/Quest.lua(01212),,,,,,,,<text>， 同時啟動<hex>,,OK,,
+960,194283,<text> with <hex>,Lua/Quest.lua(01214),,,,,,,,<text>， 同時啟動<hex>,,OK,,
 961,194283,"<text>, <hex>",Lua/Quest.lua(01217),,,,,,,,<text>、<hex>,,OK,,
 962,194283,<text> and <hex>,Lua/Quest.lua(01220),,,,,,,,<text>和<hex>,,OK,,
 3564,194854,<text> while you are affected by <buff>,Lua/Quest.lua(01228),,,,,,,,處於<buff>狀態時，<text>,,OK,,
@@ -2924,7 +2924,7 @@ Reduces weapon cooldowns by <cooldown_reduction>%",Lua/Outfit.lua(00446),,,,,,,,
 977,195189,Overkill <monster><buff>,Lua/QuestTypes.lua(00200),,,,,,,,絕殺<buff><monster>,,OK,,
 978,195189,Overkill <number> <monsters><buff> with <weapon>,Lua/QuestTypes.lua(00204),,,,,,,,使用<weapon>絕殺<number>隻<buff><monsters>,,OK,,
 979,195189,Overkill <number> <monsters><buff>,Lua/QuestTypes.lua(00206),,,,,,,,絕殺<number>隻<buff><monsters>,,OK,,
-980,199653,<text> with a single hit,Lua/QuestTypes.lua(00212),,,,,,,,使用一擊<text>,,changed,,
+980,199653,<text> with a single hit,Lua/QuestTypes.lua(00212),,,,,,,,使用一招<text>,,changed,,
 981,194283,<text> with Demon Powers,Lua/QuestTypes.lua(00215),,,,,,,,使用惡魔之力<text>,,OK,,
 982,194283,<text> with Bombs,Lua/QuestTypes.lua(00218),,,,,,,,使用炸彈<text>,,OK,,
 983,194283,<text> with Lava Creeper's death-blast,Lua/QuestTypes.lua(00222),,,,,,,,利用熔岩爬蛛的死亡爆破<text>,,OK,,
@@ -2962,7 +2962,7 @@ Reduces weapon cooldowns by <cooldown_reduction>%",Lua/Outfit.lua(00446),,,,,,,,
 1016,194283,Ranged,Lua/QuestTypes.lua(01026),,,,,,,,遠程,,OK,,
 1017,194283,Melee,Lua/QuestTypes.lua(01026),,,,,,,,近戰,,OK,,
 1018,194283,Slay <kills> Monsters with <attack> attacks,Lua/QuestTypes.lua(01026),,,,,,,,使用<attack>殺死<kills>隻怪物,,OK,,
-1019,194283,Slay <kills> <monsters> with a single Attack or Demon Power,Lua/QuestTypes.lua(01071),,,,,,,,使用一招或惡魔之力殺死<kills>隻<monsters>,,OK,,
+1019,194283,Slay <kills> <monsters> with a single Attack or Demon Power,Lua/QuestTypes.lua(01071),,,,,,,,使用一招或一發惡魔之力殺死<kills>隻<monsters>,,OK,,
 1020,194283,Use <count> <interact>,Lua/QuestTypes.lua(01167),,,,,,,,使用<count>次<interact>,,OK,,
 1021,194283,Daze <count> Monsters,Lua/QuestTypes.lua(01248),,,,,,,,暈眩<count>隻怪物,,OK,,
 1022,194283,Interrupt <count> Monsters with a Jump-Smash,Lua/QuestTypes.lua(01250),,,,,,,,使用粉碎擊中斷<count>隻怪物,,OK,,
@@ -3744,7 +3744,7 @@ Code ""<err>""",Lua/UI/MenuOnline.lua(01379),,,,,,,,"抱歉，伺服器回傳一
 1350,196015,Video,Lua/UI/Options.lua(00020),,,,,,,,影像,,OK,,
 4254,197295,Redeem key,Lua/UI/Options.lua(00027),,,,,,,,兌換密碼,,OK,,
 4257,197295,Start playing a game to redeem a Treasure Key,Lua/UI/Options.lua(00031),,,,,,,,開始進行遊戲以兌換密碼。,,OK,,
-4253,197294,Send feedback,Lua/UI/Options.lua(00044),,feedback,,,,,,發送回報,,OK,,
+4253,197294,Send feedback,Lua/UI/Options.lua(00044),,feedback,,,,,,回報問題,,OK,,
 1511,194283,Credits,Lua/UI/Options.lua(00053),,,,,,,,製作人員,,OK,,
 1351,196015,Close,Lua/UI/Options.lua(00066),,,,,,,,關閉,,OK,,
 1352,196015,Controls,Lua/UI/Options.lua(00085),,,,,,,,操作,,OK,,
@@ -4031,7 +4031,7 @@ Check your Codex to see the standard recipes. Some recipes are secret and will n
 1541,194283,Cancel,Lua/UIDesignerData/EABugReportDlg.lua(00156),,default,,,,,,取消,,OK,,
 1542,194283,OK,Lua/UIDesignerData/EABugReportDlg.lua(00170),,default,,,,,,確定,,OK,,
 1543,197294,May we contact you for further info? Enter your email address here:,Lua/UIDesignerData/EABugReportDlg.lua(00186),,default,,,,,,我們可以聯繫您，取得進一步資訊嗎？在此輸入您的電子郵件地址：,,OK,,
-1549,194283,Thank you for the feedback,Lua/UIDesignerData/FeedBack.lua(00037),,thanks,,,,,,感謝您的回報,,OK,,
+1549,194283,Thank you for the feedback,Lua/UIDesignerData/FeedBack.lua(00037),,thanks,,,,,,感謝您的回報。,,OK,,
 1552,194283,Complete!,Lua/UIDesignerData/HeadsUpDisplay.lua(00764),,Hero_Common,,,,,,完成！,,OK,,
 1553,194283,New!,Lua/UIDesignerData/HeadsUpDisplay.lua(00783),,Hero_Common,,,,,,新任務,,OK,,
 1554,194283,Return to Hub,Lua/UIDesignerData/HeroDeathDlg.lua(00053),,default,,,,,,返回總部,,OK,,
@@ -4513,7 +4513,7 @@ Recharge <number> sec.",Lua/Weapons/HandMortar.lua(00478),,,,,,,,"射出一枚�
 Cleave - hit 5 or more enemies with this attack to reduce Shockwave's cooldown
 
 <lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Scythe.lua(00185),,,,,,,,"釋放一股會造成<lightgreen2><condition></lightgreen2>的 衝 擊 波， 但 不 會 造 成 任 何 傷 害。 此 攻 擊 會 消 耗 所 有 靈 魂 碎 片。<lightgreen2><condition></lightgreen2>的 持 續 時 間 會 依 據 消 耗 的 靈 魂 碎 片 數 而 延 長。
-順勢斬──擊中最少5個敵人可縮短衝 擊 波 的 冷 卻 時 間。
+順勢斬──擊中最少5個敵人可縮短衝擊波的 冷 卻 時 間。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1933,194283,Whirlwind,Lua/Weapons/Scythe.lua(00249),,,,,,,,旋風斬,,OK,,
@@ -4521,7 +4521,7 @@ Cleave - hit 5 or more enemies with this attack to reduce Shockwave's cooldown
 Cleave - hit 5 or more enemies with this attack to reduce Whirlwind's cooldown
 
 <lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Scythe.lua(00250),,,,,,,,"開始旋轉，獲得<lightgreen2><condition></lightgreen2>加 持 並 對 周 圍 的 敵 人 造 成 傷 害。 你 可 以 控 制 旋 風 斬 的 移 動 方 向。 此 攻 擊 會 消 耗 所 有 靈 魂 碎 片。 旋 風 斬 的 持 續 時 間 會 依 據 消 耗 的 靈 魂 碎 片 數 而 延 長。
-順勢斬──擊中最少5個敵人可縮短旋 風 斬 的 冷 卻 時 間。
+順勢斬──擊中最少5個敵人可縮短旋風斬的 冷 卻 時 間。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 4132,198395,"Begin to spin, gaining <lightgreen2><condition></lightgreen2> and damaging all enemies near you while shooting fast moving, low damage projectiles. You can move the Whirlwind via the movement buttons.
@@ -4531,8 +4531,8 @@ Cleave - hit 5 or more enemies with this attack to reduce Whirlwind's cooldown
 
 <lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Scythe.lua(00560),,,,,,,,"開始旋轉，獲得<lightgreen2><condition></lightgreen2>加持並對周圍的敵人 造 成 傷 害， 同 時 射 出 快 速、 低 傷 害 的 投 射 物。 你 可 以 控 制 旋 風 斬 的 移 動 方 向。
 
-此攻擊會消耗所有靈魂碎片。旋風斬的持續 時 間 會 依 據 消耗的靈魂碎片數而延長。
-順勢斬──擊中最少5個敵人可縮短旋 風 斬 的 冷 卻 時 間。
+此攻擊會消耗所有靈魂碎片。旋風斬的持續時間會依據消耗的靈魂碎片數而延長。
+順勢斬──擊中最少5個敵人可縮短旋風斬的 冷 卻 時 間。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 4133,198395,"Send out a circular wave of force that inflicts <lightgreen2><condition></lightgreen2> and <lightgreen2><condition2></lightgreen2> but doesn't deal any damage.
@@ -4543,8 +4543,8 @@ Cleave - hit 5 or more enemies with this attack to reduce Shockwave's cooldown
 <lightgreen2><condition></lightgreen2>: <description>
 <lightgreen2><condition2></lightgreen2>: <description2>",Lua/Weapons/Scythe.lua(00613),,,,,,,,"釋放一圈會造成<lightgreen2><condition></lightgreen2>和<lightgreen2><condition2></lightgreen2>的 衝 擊 波， 但 不 會 造 成 任 何 傷 害。
 
-此攻擊會消耗所有靈魂碎片。兩種狀態的持 續 時 間 會 依據消耗的靈魂碎片數而延長。
-順勢斬──擊中最少5個敵人可縮短衝 擊 波 的 冷 卻 時 間。
+此攻擊會消耗所有靈魂碎片。兩種狀態的持續時間會依據消耗的靈魂碎片數而延長。
+順勢斬──擊中最少5個敵人可縮短衝擊波的 冷 卻 時 間。
 
 <lightgreen2><condition></lightgreen2>：<description>
 <lightgreen2><condition2></lightgreen2>：<description2>",,OK,,
