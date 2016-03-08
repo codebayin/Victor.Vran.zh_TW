@@ -719,7 +719,7 @@ You may customize the color of your Outfit by transmuting it together with Dyes.
 
 You begin the game with two slots for Destiny Cards and 4 Destiny Points. You will gain additional slots and points as you level up.
 
-The majority of Destiny Card effects stack, either adding their bonuses together or allowing the effect to trigger several times during the cooldown period.",Data/CodexEntry.lua(00047),,CodexEntry Hint_DestinyCards Description,,,,,,"你可以裝備命運牌來獲得各式各樣的被動能力。要裝備命運牌，你需要有空的牌槽和足夠的命運點。如果牌是獨一無二的，那你最多只能裝備一張一樣的。
+The majority of Destiny Card effects stack, either adding their bonuses together or allowing the effect to trigger several times during the cooldown period.",Data/CodexEntry.lua(00047),,CodexEntry Hint_DestinyCards Description,,,,,,"你可以裝備命運牌來獲得各式各樣的被動能力。要裝備命運牌，你需要有空的牌槽和足夠的命運點。如果牌是獨特的，那同類型的牌你只能裝備一張。
 
 開始遊戲時你會有2格命運牌槽和4點命運點，隨著等級提升你會獲得更多的牌槽和點數。
 
@@ -1221,7 +1221,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 2464,194283,Demon World,Data/MapName.lua(00420),,MapName RiftWorld DisplayName,,,,,,魔界,,OK,,
 2604,194283,Irene,Data/NPC.lua(00005),,NPC Nadezhda display_name,,,,,,艾琳,,OK,,
 2605,194283,Victor Vran,Data/NPC.lua(00013),,NPC Hero display_name,,,,,,維克多．弗蘭,,OK,,
-2606,194283,Private Stash,Data/NPC.lua(00019),,NPC Stash display_name,,,,,,斯戴許士兵,,OK,,
+2606,194283,Private Stash,Data/NPC.lua(00019),,NPC Stash display_name,,,,,,斯戴許二兵,,OK,,
 2607,194283,GebaN the Broker,Data/NPC.lua(00042),,NPC GebaN display_name,,,,,,仲介商．Ｇ瘦,,OK,,
 4662,199653,GebaN the Broker,Data/NPC.lua(00050),,NPC GebaN display_name,,,0,,,仲介商．Ｇ瘦,,new,,
 4663,199653,GebaN the Broker,Data/NPC.lua(00058),,NPC DemonSoulsVendor display_name,,,0,,,仲介商．Ｇ瘦,,new,,
@@ -1305,7 +1305,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 2694,194283,Look for Adrian in the crypts past the Royal Gardens,Data/Quest.lua(00347),,,,,,,,在皇家花園後面的墓窖尋找艾德里安,,OK,,
 2695,194283,Finding Adrian,Data/Quest.lua(00365),,,,,,,,尋找艾德里安,,OK,,
 2696,194283,Search the crypt for Adrian,Data/Quest.lua(00366),,,,,,,,搜索墓窖找尋艾德里安,,OK,,
-2697,194708,Talk to Private Stash in the Sepulcher of the Damned,Data/Quest.lua(00367),,,,,,,,與詛咒葬地裡的斯戴許士兵交談,,OK,,
+2697,194708,Talk to Private Stash in the Sepulcher of the Damned,Data/Quest.lua(00367),,,,,,,,與詛咒葬地裡的斯戴許二兵交談,,OK,,
 2698,194283,Search the crypt for Adrian,Data/Quest.lua(00368),,,,,,,,搜索墓窖找尋艾德里安,,OK,,
 2699,194283,Finding Adrian,Data/Quest.lua(00383),,,,,,,,尋找艾德里安,,OK,,
 2700,194283,Reach the Befouled Tomb,Data/Quest.lua(00384),,,,,,,,前往污損古墓,,OK,,
@@ -1642,10 +1642,10 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 
 <effect2>",,OK,,
 4208,198919,<teal>(</teal><lightgreen>+<diff></lightgreen><teal>)</teal>,Lua/DestinyCard.lua(00233),,,,,,,,<teal>（</teal><lightgreen>+<diff></lightgreen><teal>）</teal>,,OK,,
-129,194283,No empty slots,Lua/DestinyCard.lua(00291),,,,,,,,沒有空的牌槽,,OK,,
-130,194283,Need <more_points> more DP to activate,Lua/DestinyCard.lua(00295),,,,,,,,還缺<more_points>命運點,,OK,,
-131,194283,You already have equipped a copy of this card.,Lua/DestinyCard.lua(00304),,,,,,,,你已經裝備了一張一樣的牌。,,OK,,
-132,194283,Unique. You can't equip more than 1 copy of this card,Lua/DestinyCard.lua(00381),,,,,,,,獨一無二，這種牌只能裝備一張。,,OK,,
+129,194283,No empty slots,Lua/DestinyCard.lua(00291),,,,,,,,沒有空的牌槽。,,OK,,
+130,194283,Need <more_points> more DP to activate,Lua/DestinyCard.lua(00295),,,,,,,,尚缺<more_points>點命運點。,,OK,,
+131,194283,You already have equipped a copy of this card.,Lua/DestinyCard.lua(00304),,,,,,,,你已經裝備了一張同類型的牌。,,OK,,
+132,194283,Unique. You can't equip more than 1 copy of this card,Lua/DestinyCard.lua(00381),,,,,,,,獨特牌，此類型的牌你只能裝備一張。,,OK,,
 134,194283,<divine_color>Divine: Gain <condition_name> for <number> sec. when below <param>% health (<cooldown> sec. cooldown)</divine_color><condition_description>,Lua/DestinyCard.lua(00518),,,,,,,,<divine_color>神聖：生命低於<param>%時獲得<condition_name>，持續<number>秒（冷卻時間<cooldown>秒）。</divine_color><condition_description>,,OK,,
 135,194283,<divine_color>Divine: +<param> Armor Penetration</divine_color>,Lua/DestinyCard.lua(00542),,,,,,,,<divine_color>神聖：提升<param>護甲穿透。</divine_color>,,OK,,
 136,196015,<divine_color>Divine: <param>% chance to get an additional drop from chests</divine_color>,Lua/DestinyCard.lua(00563),,,,,,,,<divine_color>神聖：<param>%機率從寶箱獲得額外物品。</divine_color>,,OK,,
@@ -1864,7 +1864,7 @@ None - they are always stoned!",Lua/DestinyCard.lua(01378),,,,,,,,"換一個燈�
 323,194283,<lightgreen><number>%</lightgreen> increased dodge distance,Lua/Effects.lua(00298),,,,,,,,提升<lightgreen><number>%</lightgreen>翻滾距離。,,OK,,
 324,194283,Consumables have <lightgreen><number></lightgreen> more use,Lua/Effects.lua(00305),,,,,,,,消耗品能多使用<lightgreen><number></lightgreen>次。,,OK,,
 325,194283,Increases Destiny Slots by <lightgreen><number></lightgreen>,Lua/Effects.lua(00312),,,,,,,,增加<lightgreen><number></lightgreen>格命運牌槽。,,OK,,
-326,194283,+<lightgreen><number></lightgreen> destiny points,Lua/Effects.lua(00319),,,,,,,,增加<lightgreen><number></lightgreen>命運點。,,OK,,
+326,194283,+<lightgreen><number></lightgreen> destiny points,Lua/Effects.lua(00319),,,,,,,,增加<lightgreen><number></lightgreen>點命運點。,,OK,,
 327,194283,+<lightgreen><number>%</lightgreen> more gold from monsters,Lua/Effects.lua(00326),,,,,,,,提升<lightgreen><number>%</lightgreen>敵人的金幣掉落數。,,OK,,
 328,194283,Find better items from chests,Lua/Effects.lua(00339),,,,,,,,提升從寶箱裡找到的物品品質。,,OK,,
 329,194283,+<lightgreen><number>%</lightgreen> duration of buffs,Lua/Effects.lua(00363),,,,,,,,延長<lightgreen><number>%</lightgreen>正面狀態的持續時間。,,OK,,
@@ -2123,7 +2123,7 @@ Combine with other Gift Boxes in Transmutation to get better items",Lua/Item.lua
 552,194283,Second Consumable,Lua/LevelRewards.lua(00061),,,,,,,,第二欄消耗品,,OK,,
 553,194283,"You can now equip a second consumable item. Potions grant healing or buffs, while bombs hit all enemies around you.",Lua/LevelRewards.lua(00062),,,,,,,,你現在可以裝備第二欄消耗品了。藥劑可以治癒傷勢或強化能力，炸彈可以擊中身邊所有敵人。,,OK,,
 3577,194913,Overdrive,Lua/LevelRewards.lua(00085),,,,,,,,超能,,OK,,
-3578,199130,Your overdrive maximum has increased. Overdrive allows you to activate demon powers.,Lua/LevelRewards.lua(00086),,,,,,,,你的超能最大值提升了。超能可讓你施展惡魔之力。,,OK,,
+3578,199130,Your overdrive maximum has increased. Overdrive allows you to activate demon powers.,Lua/LevelRewards.lua(00086),,,,,,,,你的最大超能提升了。超能可讓你施展惡魔之力。,,OK,,
 558,194283,Hexes,Lua/LevelRewards.lua(00131),,,,,,,,禁咒,,OK,,
 559,198395,"Hexes are special items that allow you to customize the game difficulty. Each Hex changes the gameplay in a unique way. If you seek a greater challenge, activate a Hex from your Inventory.",Lua/LevelRewards.lua(00132),,,,,,,,禁咒是能讓你自訂遊戲難度的特殊物品。每種禁咒都能改變遊玩的方式。如果你想尋求更大的挑戰，就從物品欄啟動禁咒。,,OK,,
 3607,194959,You are playing in Hard Mode. Your Hexes are always active.,Lua/LevelRewards.lua(00133),,,,,,,,你進行的是困難模式。禁咒會永遠啟動。,,OK,,
@@ -2136,8 +2136,8 @@ Combine with other Gift Boxes in Transmutation to get better items",Lua/Item.lua
 568,194283,New Destiny Slot,Lua/LevelRewards.lua(00388),,,,,,,,新命運牌槽,,OK,,
 569,194283,You can now equip more Destiny Cards. The Destiny Points cost of all equipped cards cannot exceed your total DP.,Lua/LevelRewards.lua(00389),,,,,,,,你現在可以裝備更多命運牌了。所有裝備的牌所消耗的命運點不能超過你的總命運點。,,OK,,
 570,194283,+<number> Health,Lua/LevelRewards.lua(00636),,,,,,,,提升<number>生命,,OK,,
-571,194283,"Congratulations! Your Health pool has increased, allowing you to endure more damage.",Lua/LevelRewards.lua(00637),,,,,,,,恭喜！你的生命提升了，可讓你承受更大傷害。,,OK,,
-566,194283,+<number> Destiny Points,Lua/LevelRewards.lua(00651),,,,,,,,增加<number>命運點,,OK,,
+571,194283,"Congratulations! Your Health pool has increased, allowing you to endure more damage.",Lua/LevelRewards.lua(00637),,,,,,,,恭喜！你的最大生命提升了，可讓你承受更大傷害。,,OK,,
+566,194283,+<number> Destiny Points,Lua/LevelRewards.lua(00651),,,,,,,,增加<number>點命運點,,OK,,
 567,194283,You can now equip more powerful Destiny Cards. The Destiny Points cost of all equipped cards cannot exceed your total DP.,Lua/LevelRewards.lua(00652),,,,,,,,你現在可以裝備更強力的命運牌了。所有裝備的牌所消耗的命運點不能超過你的總命運點。,,OK,,
 586,194283,<armor_icon> Armor gives a chance to deflect incoming attacks and significantly reduce their damage,Lua/LoadingTips.lua(00007),,,,,,,,<armor_icon>防禦有機率使攻擊擊偏，並顯著降低所受傷害。,,OK,,
 587,194283,<armor_penetration_icon> Armor penetration reduces the Armor of the target,Lua/LoadingTips.lua(00008),,,,,,,,<armor_penetration_icon>護甲穿透會降低目標的防禦。,,OK,,
@@ -2443,11 +2443,11 @@ Tag <UseDefaultEmote> not present in original text",
 712,194283,The Consular,Lua/LootWeapon.lua(01093),,,,,,,,領事劍,,OK,,
 713,194283,The Guardian,Lua/LootWeapon.lua(01107),,,,,,,,守護劍,,OK,,
 714,194283,The Sentinel,Lua/LootWeapon.lua(01120),,,,,,,,巡哨劍,,OK,,
-715,194283,Lady Luck,Lua/LootWeapon.lua(01131),,,,,,,,幸運女神,,OK,,
+715,194283,Lady Luck,Lua/LootWeapon.lua(01131),,,,,,,,幸運女神劍,,OK,,
 716,194283,Storm,Lua/LootWeapon.lua(01146),,,,,,,,暴風劍,,OK,,
 717,194283,Shackles,Lua/LootWeapon.lua(01161),,,,,,,,枷鎖劍,,OK,,
 3976,195716,Force of Nature,Lua/LootWeapon.lua(01189),,,,,,,,自然之力,,OK,,
-718,194283,Hellfire,Lua/LootWeapon.lua(01203),,,,,,,,地獄之火,,OK,,
+718,194283,Hellfire,Lua/LootWeapon.lua(01203),,,,,,,,地獄火,,OK,,
 719,194283,Justice,Lua/LootWeapon.lua(01218),,,,,,,,正義鎚,,OK,,
 720,194283,Pumpkin Hammer,Lua/LootWeapon.lua(01233),,,,,,,,南瓜鎚,,OK,,
 721,194283,Meteor,Lua/LootWeapon.lua(01247),,,,,,,,隕石鎚,,OK,,
@@ -2474,8 +2474,8 @@ Tag <UseDefaultEmote> not present in original text",
 4041,195942,Dervish,Lua/LootWeapon.lua(01617),,,,,,,,苦行剃刀,,OK,,
 4042,195942,Dark Pact,Lua/LootWeapon.lua(01632),,,,,,,,黑暗契約,,OK,,
 4043,195942,Tri-blade,Lua/LootWeapon.lua(01647),,,,,,,,三刃月牙,,OK,,
-4044,195942,Coldsnap,Lua/LootWeapon.lua(01662),,,,,,,,霜暴之鐮,,OK,,
-732,194283,Vengeance,Lua/LootWeapon.lua(01678),,,,,,,,復仇之鐮,,OK,,
+4044,195942,Coldsnap,Lua/LootWeapon.lua(01662),,,,,,,,霜暴巨鐮,,OK,,
+732,194283,Vengeance,Lua/LootWeapon.lua(01678),,,,,,,,復仇巨鐮,,OK,,
 4382,198395,Nekonomicon,Lua/LootWeapon.lua(01704),,,,,,,,貓靈之書,,OK,,
 4383,198395,The Arcanist Cookbook,Lua/LootWeapon.lua(01719),,,,,,,,祕術師的食譜,,OK,,
 4384,198395,The King in Yellow,Lua/LootWeapon.lua(01734),,,,,,,,黃袍之王,,OK,,
@@ -2861,7 +2861,7 @@ Reduces weapon cooldowns by <cooldown_reduction>%",Lua/Outfit.lua(00446),,,,,,,,
 3921,195390,<title> <red_quest>(<description>)</red_quest>,Lua/Quest.lua(00501),,,,,,,,<title><red_quest>（<description>）</red_quest>,,OK,,
 936,194283,<title> (FAILED: Restart the Map to try again),Lua/Quest.lua(00506),,,,,,,,<title>（失敗：請重開地圖再次挑戰）,,OK,,
 937,194283,<title> (<progress>/<goal>),Lua/Quest.lua(00514),,,,,,,,<title>（<progress>/<goal>）,,OK,,
-938,194283,You are out of time - '<quest_title>' challenge failed! Try again!,Lua/Quest.lua(00723),,,,,,,,你超過了時間，「<quest_title>」挑戰失敗！請再次挑戰！,,OK,,
+938,194283,You are out of time - '<quest_title>' challenge failed! Try again!,Lua/Quest.lua(00723),,,,,,,,你超過了時限，「<quest_title>」 挑戰失敗！請再次挑戰！,,OK,,
 939,194708,Completed: Map Challenges,Lua/Quest.lua(00925),,,,,,,,完成：地圖挑戰,,OK,,
 3547,194799,Completed: Elite Map Challenges,Lua/Quest.lua(00928),,,,,,,,完成：精英地圖挑戰,,OK,,
 940,194283,Completed: <quest>,Lua/Quest.lua(01123),,,,,,,,完成：<quest>,,OK,,
@@ -2904,14 +2904,14 @@ Reduces weapon cooldowns by <cooldown_reduction>%",Lua/Outfit.lua(00446),,,,,,,,
 961,194283,"<text>, <hex>",Lua/Quest.lua(01217),,,,,,,,<text>、<hex>,,OK,,
 962,194283,<text> and <hex>,Lua/Quest.lua(01220),,,,,,,,<text>和<hex>,,OK,,
 3564,194854,<text> while you are affected by <buff>,Lua/Quest.lua(01228),,,,,,,,處於<buff>狀態時，<text>,,OK,,
-963,194283,You used a Potion - '<title>' challenge failed! Try again!,Lua/Quest.lua(01603),,,,,,,,你使用了藥劑，「<title>」挑戰失敗！請再次挑戰！,,OK,,
-964,194283,You used a Demon Power - '<title>' challenge failed! Try again!,Lua/Quest.lua(01608),,,,,,,,你使用了惡魔之力，「<title>」挑戰失敗！請再次挑戰！,,OK,,
-965,194283,You used a Shrine - '<title>' challenge failed! Try again!,Lua/Quest.lua(01613),,,,,,,,你使用了祭壇，「<title>」挑戰失敗！請再次挑戰！,,OK,,
-966,194283,You took damage from an attack - '<title>' challenge failed! Try again!,Lua/Quest.lua(01625),,,,,,,,你受傷了，「<title>」挑戰失敗！請再次挑戰！,,OK,,
-967,194283,Your health has dropped below <percent>% - '<title>' challenge failed! Try again!,Lua/Quest.lua(01629),,,,,,,,你的生命已低於<percent>%，「<title>」挑戰失敗！請再次挑戰！,,OK,,
-3565,194799,You died - '<title>' challenge failed! Try again!,Lua/Quest.lua(01639),,,,,,,,你死了，「<title>」挑戰失敗！請再次挑戰！,,OK,,
-968,194283,You have disabled a Hex - '<title>' challenge failed! Try again!,Lua/Quest.lua(01651),,,,,,,,你關閉了一個禁咒，「<title>」挑戰失敗！請再次挑戰！,,OK,,
-969,194283,You have disabled a <hex> - '<title>' challenge failed! Try again!,Lua/Quest.lua(01658),,,,,,,,你關閉了<hex>，「<title>」挑戰失敗！請再次挑戰！,,OK,,
+963,194283,You used a Potion - '<title>' challenge failed! Try again!,Lua/Quest.lua(01603),,,,,,,,你使用了藥劑，「<title>」 挑戰失敗！請再次挑戰！,,OK,,
+964,194283,You used a Demon Power - '<title>' challenge failed! Try again!,Lua/Quest.lua(01608),,,,,,,,你使用了惡魔之力，「<title>」 挑戰失敗！請再次挑戰！,,OK,,
+965,194283,You used a Shrine - '<title>' challenge failed! Try again!,Lua/Quest.lua(01613),,,,,,,,你使用了祭壇，「<title>」 挑戰失敗！請再次挑戰！,,OK,,
+966,194283,You took damage from an attack - '<title>' challenge failed! Try again!,Lua/Quest.lua(01625),,,,,,,,你受傷了，「<title>」 挑戰失敗！請再次挑戰！,,OK,,
+967,194283,Your health has dropped below <percent>% - '<title>' challenge failed! Try again!,Lua/Quest.lua(01629),,,,,,,,你的生命已低於<percent>%，「<title>」 挑戰失敗！請再次挑戰！,,OK,,
+3565,194799,You died - '<title>' challenge failed! Try again!,Lua/Quest.lua(01639),,,,,,,,你死了，「<title>」 挑戰失敗！請再次挑戰！,,OK,,
+968,194283,You have disabled a Hex - '<title>' challenge failed! Try again!,Lua/Quest.lua(01651),,,,,,,,你關閉了一個禁咒，「<title>」 挑戰失敗！請再次挑戰！,,OK,,
+969,194283,You have disabled a <hex> - '<title>' challenge failed! Try again!,Lua/Quest.lua(01658),,,,,,,,你關閉了<hex>，「<title>」 挑戰失敗！請再次挑戰！,,OK,,
 1029,194283,Unlock <name>,Lua/Quest.lua(01961),,,,,,,,解鎖<name>,,OK,,
 970,194283,Champions,Lua/QuestTypes.lua(00167),,,,,,,,悍將,,OK,,
 971,194283,Champion,Lua/QuestTypes.lua(00167),,,,,,,,悍將,,OK,,
@@ -3043,7 +3043,7 @@ Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec",Lua/RuneTypes.
 
 每秒傷害：<lightgreen><min_damage>-<max_damage></lightgreen>。
 持續時間：<lightgreen><duration_s>.<duration_d></lightgreen>秒。",,OK,,
-1051,194283,Dismiss Purging Flames,Lua/RuneTypes.lua(00934),,,,,,,,驅散淨化之焰,,OK,,
+1051,194283,Dismiss Purging Flames,Lua/RuneTypes.lua(00934),,,,,,,,解除淨化之焰,,OK,,
 1052,194283,Sunray,Lua/RuneTypes.lua(01085),,,,,,,,陽光,,OK,,
 1053,196259,"Emit a ray of blazing sunlight that burns all enemies along its path dealing damage.
 
@@ -3056,7 +3056,7 @@ Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec",Lua/RuneTypes.
 1055,196259,"Create a healing aura around you and gain <lightgreen2><condition_name></lightgreen2> for <lightgreen><duration_s>.<duration_d></lightgreen> sec. The aura restores health to you and every ally below 50% health inside the aura. You don't gain Overdrive while this Demon Power is active.
 
 Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec
-Health per Second: <lightgreen><hps>%</lightgreen><condition_description>",Lua/RuneTypes.lua(01206),,,,,,,,"產生一個圍繞自己的治療氣場，獲得<lightgreen2><condition_name></lightgreen2>，持續<lightgreen><duration_s>.<duration_d></lightgreen>秒。 氣 場 會 治 療 你 和 範 圍 內 所 有 生 命 低 於 50% 的 戰 友。 此 惡 魔 之 力 作 用 時 不 會 凝 聚 超 能。
+Health per Second: <lightgreen><hps>%</lightgreen><condition_description>",Lua/RuneTypes.lua(01206),,,,,,,,"產生一個圍繞自己的治療氣場，獲得<lightgreen2><condition_name></lightgreen2>，持 續<lightgreen><duration_s>.<duration_d></lightgreen>秒。 氣 場 會 治 療 你 和 範 圍 內 所 有 生 命 低 於 50% 的 戰 友。 此 惡 魔 之 力 作 用 時 不 會 凝 聚 超 能。
 
 持續時間：<lightgreen><duration_s>.<duration_d></lightgreen>秒。
 每秒恢復生命：<lightgreen><hps>%</lightgreen>。<condition_description>",,OK,,
@@ -3483,17 +3483,17 @@ Note: Playing in Hard Mode is not recommended for your first character.",Lua/UI/
 1198,194283,DPS (last sec): <number1>,Lua/UI/HeadsUpDisplay.lua(00298),,,,,,,,每秒傷害（關鍵）：<number1>,,OK,,
 1199,194283,DPS (average): <number1>,Lua/UI/HeadsUpDisplay.lua(00299),,,,,,,,每秒傷害（平均）：<number1>,,OK,,
 1200,194283,DPS (maximal): <number1>,Lua/UI/HeadsUpDisplay.lua(00300),,,,,,,,每秒傷害（最大）：<number1>,,OK,,
-4218,196645,Challenge Timeout,Lua/UI/HeadsUpDisplay.lua(00354),,,,,,,,挑戰逾時,,OK,,
+4218,196645,Challenge Timeout,Lua/UI/HeadsUpDisplay.lua(00354),,,,,,,,挑戰時限：,,OK,,
 4219,196645,"<text>
 
  <mins>:0<secs>",Lua/UI/HeadsUpDisplay.lua(00364),,,,,,,,"<text>
 
-<mins>：0<secs>",,OK,,
+<mins>:0<secs>",,OK,,
 4220,196645,"<text>
 
  <mins>:<secs>",Lua/UI/HeadsUpDisplay.lua(00366),,,,,,,,"<text>
 
-<mins>：<secs>",,OK,,
+<mins>:<secs>",,OK,,
 3949,195716,Players Slain: <number>,Lua/UI/HeadsUpDisplay.lua(00459),,,,,,,,玩家擊殺數：<number>,,OK,,
 3948,195716,Monsters Slain: <number>,Lua/UI/HeadsUpDisplay.lua(00461),,,,,,,,怪物擊殺數：<number>,,OK,,
 1201,194283,Not enough Overdrive,Lua/UI/HeadsUpDisplay.lua(01182),,,,,,,,超能不足,,OK,,
@@ -3545,10 +3545,10 @@ Note: Playing in Hard Mode is not recommended for your first character.",Lua/UI/
 4008,195716,Menu,Lua/UI/Inventory.lua(00122),,,,,,,,選單,,OK,,
 4258,197333,Here is a treasure key you can redeem: <key>,Lua/UI/Inventory.lua(00447),,,,,,,,這是可以兌換的密碼：<key>,,OK,,
 3989,197333,Share the key <yellow>[<key>]</yellow>,Lua/UI/Inventory.lua(00453),,,,,,,,分享密碼<yellow>[<key>]</yellow>,,OK,,
-4618,199160,You don't have enough Demon Souls for this item,Lua/UI/Inventory.lua(00718),,,,,,,,你沒有足夠的惡魔靈魂購買這個物品,,OK,,
-1233,194283,You don't have enough gold for this item,Lua/UI/Inventory.lua(00719),,,,,,,,你沒有足夠的金幣購買這個物品,,OK,,
-1234,194283,You don't meet the requirements of this outfit,Lua/UI/Inventory.lua(00728),,,,,,,,你尚未達到服裝需求,,OK,,
-1235,194283,You do not have <hex_name> yet,Lua/UI/Inventory.lua(00746),,,,,,,,你尚未擁有<hex_name>,,OK,,
+4618,199160,You don't have enough Demon Souls for this item,Lua/UI/Inventory.lua(00718),,,,,,,,你沒有足夠的惡魔靈魂購買這個物品。,,OK,,
+1233,194283,You don't have enough gold for this item,Lua/UI/Inventory.lua(00719),,,,,,,,你沒有足夠的金幣購買這個物品。,,OK,,
+1234,194283,You don't meet the requirements of this outfit,Lua/UI/Inventory.lua(00728),,,,,,,,你尚未達到服裝需求。,,OK,,
+1235,194283,You do not have <hex_name> yet,Lua/UI/Inventory.lua(00746),,,,,,,,你尚未擁有<hex_name>。,,OK,,
 3927,195716,Empty Slot,Lua/UI/ItemsRollover.lua(00041),,,,,,,,空欄位,,OK,,
 4602,199130,<red><modifier></red>,Lua/UI/ItemsRollover.lua(00052),,,,,,,,<red><modifier></red>,,OK,,
 1237,194283,Unlock at level <level>.,Lua/UI/ItemsRollover.lua(00064),,,,,,,,<level>級解鎖。,,OK,,
@@ -3560,13 +3560,13 @@ Note: Playing in Hard Mode is not recommended for your first character.",Lua/UI/
 1242,194283,<critical_damage>%,Lua/UI/ItemsRollover.lua(00146),,,,,,,,<critical_damage>%,,OK,,
 1243,194283,<critical_chance>%,Lua/UI/ItemsRollover.lua(00147),,,,,,,,<critical_chance>%,,OK,,
 1244,194283,<armor_penetration>,Lua/UI/ItemsRollover.lua(00148),,,,,,,,<armor_penetration>,,OK,,
-1245,194283,<color 254 245 202>Hex Activated on Level <number></color>,Lua/UI/ItemsRollover.lua(00183),,,,,,,,<color 254 245 202>禁咒在<number>級才能啟動</color>,,OK,,
-1246,194283,This hex has been activated by <player1>. All players must deactivate a hex to turn it off,Lua/UI/ItemsRollover.lua(00198),,,,,,,,這個禁咒已經被<player1>啟動。所有玩家都必須關閉禁咒才算關閉。,,OK,,
-1247,194283,This hex has been activated by <player1> and <player2>. All players must deactivate a hex to turn it off,Lua/UI/ItemsRollover.lua(00200),,,,,,,,這個禁咒已經被<player1>和<player2>啟動。所有玩家都必須關閉禁咒才算關閉。,,OK,,
-1248,194283,"This hex has been activated by <player1>, <player2> and <player3>. All players must deactivate a hex to turn it off",Lua/UI/ItemsRollover.lua(00202),,,,,,,,這個禁咒已經被<player1>、<player2>和<player3>啟動。所有玩家都必須關閉禁咒才算關閉。,,OK,,
+1245,194283,<color 254 245 202>Hex Activated on Level <number></color>,Lua/UI/ItemsRollover.lua(00183),,,,,,,,<color 254 245 202>禁咒已在<number>級時啟動。</color>,,OK,,
+1246,194283,This hex has been activated by <player1>. All players must deactivate a hex to turn it off,Lua/UI/ItemsRollover.lua(00198),,,,,,,,這個禁咒已經被<player1>啟動。 所有玩家都必須關閉禁咒才算關閉。,,OK,,
+1247,194283,This hex has been activated by <player1> and <player2>. All players must deactivate a hex to turn it off,Lua/UI/ItemsRollover.lua(00200),,,,,,,,這個禁咒已經被<player1>和<player2>啟動。 所有玩家都必須關閉禁咒才算關閉。,,OK,,
+1248,194283,"This hex has been activated by <player1>, <player2> and <player3>. All players must deactivate a hex to turn it off",Lua/UI/ItemsRollover.lua(00202),,,,,,,,這個禁咒已經被<player1>、<player2>和<player3>啟動。 所有玩家都必須關閉禁咒才算關閉。,,OK,,
 1249,194283,<color 254 245 202><text></color>,Lua/UI/ItemsRollover.lua(00204),,,,,,,,<color 254 245 202><text></color>,,OK,,
-4489,198919,<red>Hexes are disabled in casual mode</red>,Lua/UI/ItemsRollover.lua(00207),,,,,,,,<red>禁咒在休閒模式下無法啟動</red>,,OK,,
-1250,194283,<color 254 245 202>Activate Hexes to challenge yourself</color>,Lua/UI/ItemsRollover.lua(00209),,,,,,,,<color 254 245 202>啟動禁咒以挑戰自我</color>,,OK,,
+4489,198919,<red>Hexes are disabled in casual mode</red>,Lua/UI/ItemsRollover.lua(00207),,,,,,,,<red>禁咒在休閒模式下無法啟動。</red>,,OK,,
+1250,194283,<color 254 245 202>Activate Hexes to challenge yourself</color>,Lua/UI/ItemsRollover.lua(00209),,,,,,,,<color 254 245 202>啟動禁咒以挑戰自我。</color>,,OK,,
 1251,194283,<key>+,Lua/UI/ItemsRollover.lua(00366),,,,,,,,<key>+,,OK,,
 1252,194283,<key>,Lua/UI/ItemsRollover.lua(00370),,,,,,,,<key>,,OK,,
 1253,194283,<number>,Lua/UI/LevelUpDlg.lua(00098),,,,,,,,<number>,,OK,,
@@ -4267,7 +4267,7 @@ Check your Codex to see the standard recipes. Some recipes are secret and will n
 1755,194283,Curses - Cures Negative Conditions when Defeated,Lua/Units/SkeletonFool.lua(00009),,,,,,,,詛咒、消除負面狀態（擊敗時）,,OK,,
 1756,194283,Undead Pyromancer,Lua/Units/SkeletonMage.lua(00003),,|gender,,,,,,不死操火者,M,OK,,
 1757,194283,Undead Pyromancers,Lua/Units/SkeletonMage.lua(00004),,,,,,,,不死操火者,,OK,,
-1758,194283,"Zagoravia must be under the influence of extremely powerful curse for I find no other explanation for the presence of Pyromancers. The ancient scripts claim that these Undead host the souls of only the most evil-minded mortals who were drawn out of the hellfire of the Underworld. Still bearing the mark of their sins, they are wreathed in a halo of flames that torments them incessantly.",Lua/Units/SkeletonMage.lua(00008),,,,,,,,扎古拉維亞肯定是受到非常強大的詛咒，否則無法解釋這些操火者的存在。根據古書記載，這些不死生物寄宿著最惡毒人類的靈魂，都抽取來自於地獄的業火。它們無時無刻背負著罪惡的烙印，被火焰環繞受著無盡的折磨。,,OK,,
+1758,194283,"Zagoravia must be under the influence of extremely powerful curse for I find no other explanation for the presence of Pyromancers. The ancient scripts claim that these Undead host the souls of only the most evil-minded mortals who were drawn out of the hellfire of the Underworld. Still bearing the mark of their sins, they are wreathed in a halo of flames that torments them incessantly.",Lua/Units/SkeletonMage.lua(00008),,,,,,,,扎古拉維亞肯定是受到非常強大的詛咒，否則無法解釋這些操火者的存在。根據古書記載，這些不死生物寄宿著最惡毒人類的靈魂，全都取自於地獄的業火。它們無時無刻背負著罪惡的烙印，被火焰環繞受著無盡的折磨。,,OK,,
 1759,194283,Seeking Projectile,Lua/Units/SkeletonMage.lua(00009),,,,,,,,追蹤彈,,OK,,
 1760,194283,Skeleton,Lua/Units/SkeletonMinion.lua(00004),,,,,,,,骷髏,,OK,,
 1761,194283,Skeletons,Lua/Units/SkeletonMinion.lua(00005),,,,,,,,骷髏,,OK,,
@@ -4558,7 +4558,7 @@ Cleave - hit 5 or more enemies with this attack to reduce Shockwave's cooldown
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1940,194283,Aimed Shot,Lua/Weapons/Shotgun.lua(00224),,,,,,,,瞄準射擊,,OK,,
-1941,194283,Single target. Recharges whenever an enemy is killed with the Shotgun.,Lua/Weapons/Shotgun.lua(00225),,,,,,,,單一目標。射殺敵人時會立即冷卻。,,OK,,
+1941,194283,Single target. Recharges whenever an enemy is killed with the Shotgun.,Lua/Weapons/Shotgun.lua(00225),,,,,,,,單一目標。以霰彈槍射殺敵人時會立即冷卻。,,OK,,
 1942,194283,Point-Blank Shot,Lua/Weapons/Shotgun.lua(00261),,,,,,,,近程射擊,,OK,,
 1943,194283,"Multiple targets. Short range attack. Knocks back all enemies infront of you and applies the <lightgreen2><condition></lightgreen2> buff.
 
@@ -4572,7 +4572,7 @@ Cleave - hit 5 or more enemies with this attack to reduce Shockwave's cooldown
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 4022,195942,"Single target attack that inflicts <lightgreen2><condition></lightgreen2>. Recharges whenever an enemy is killed with the Shotgun.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Shotgun.lua(00428),,,,,,,,"可造成<lightgreen2><condition></lightgreen2>的單一目標射擊。射殺 敵 人 時 會 立 即 冷 卻。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Shotgun.lua(00428),,,,,,,,"可造成<lightgreen2><condition></lightgreen2>的單一目標射擊。以霰彈槍射殺 敵 人 時 會 立 即 冷 卻。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 4023,195716,"A basic attack that pierces targets, hitting all enemis in a line. Time the attacks correctly to inflict the <lightgreen2><condition></lightgreen2> condition to the target.
@@ -4580,7 +4580,7 @@ Cleave - hit 5 or more enemies with this attack to reduce Shockwave's cooldown
 <lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Shotgun.lua(00442),,,,,,,,"穿透目標的基本射擊，可對直線上的所有敵人造成傷害。抓準攻擊節奏可對目標造成<lightgreen2><condition></lightgreen2>。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
-4024,195716,Piercing attack. Recharges whenever an enemy is killed with the Shotgun.,Lua/Weapons/Shotgun.lua(00449),,,,,,,,穿透射擊。射殺敵人時會立即冷卻。,,OK,,
+4024,195716,Piercing attack. Recharges whenever an enemy is killed with the Shotgun.,Lua/Weapons/Shotgun.lua(00449),,,,,,,,穿透射擊。以霰彈槍射殺敵人時會立即冷卻。,,OK,,
 1944,194283,Sword,Lua/Weapons/Sword.lua(00003),,|gender,,,,,,長劍,M,OK,,
 1945,194283,The Sword is a fast melee weapon focused on critical hits. Its special attacks have additional effects on crit,Lua/Weapons/Sword.lua(00012),,,,,,,,長劍是一種快速近戰武器，攻擊重點在於暴擊。它的招式在暴擊時會有額外效果。,,OK,,
 1946,194283,Use the third Sword Hack attack to inflict the Vulnerable condition to multiple enemies. Hit Vulnerable enemies with Slash or Dash to trigger the on-crit effects of these attacks,Lua/Weapons/Sword.lua(00013),,,,,,,,劍砍的第三刀可對多個敵人造成脆化。使用橫斬或直劈攻擊脆化的敵人可造成暴擊。,,OK,,
@@ -6104,7 +6104,7 @@ Every day I endeavor to convince her to give up hope of saving this city. With y
 3270,194283,"Don’t be jealous, Vicky! I’ll be back.<laughter>",Data/Scenario/Banters_RoyalGardens.lua(00146),Act1 03 Royal Gardens Banter,,Voice,Voice,,,,別吃醋嘛，維琪！我馬上回來。<laughter>,,OK,,
 3283,194283,The smell hits you right away.,Data/Scenario/Banters_RoyalGardens_Crypt.lua(00015),Act1 03-1 Banters_RoyalGardens_Crypt,,Victor Vran,Victor Vran,,,,難聞的氣味撲鼻而來。,,OK,,
 3284,194283,Not the stale dry smell of a tomb.,Data/Scenario/Banters_RoyalGardens_Crypt.lua(00019),Act1 03-1 Banters_RoyalGardens_Crypt,,Victor Vran,Victor Vran,,,,不是墓窖裡的霉味。,,OK,,
-3285,194283,No this is another all too familiar smell.,Data/Scenario/Banters_RoyalGardens_Crypt.lua(00023),Act1 03-1 Banters_RoyalGardens_Crypt,,Victor Vran,Victor Vran,,,,不對，這是再熟悉不過的氣味了。,,OK,,
+3285,194283,No this is another all too familiar smell.,Data/Scenario/Banters_RoyalGardens_Crypt.lua(00023),Act1 03-1 Banters_RoyalGardens_Crypt,,Victor Vran,Victor Vran,,,,是的，這是再熟悉不過的氣味了。,,OK,,
 3286,194283,The smell of rotting flesh.,Data/Scenario/Banters_RoyalGardens_Crypt.lua(00027),Act1 03-1 Banters_RoyalGardens_Crypt,,Victor Vran,Victor Vran,,,,是屍體腐爛的臭味。,,OK,,
 3287,194283,Another dead body. Could that be Adrian?,Data/Scenario/Banters_RoyalGardens_Crypt.lua(00038),Act1 03-1 Banters_RoyalGardens_Crypt,,Victor Vran,Victor Vran,,,,又一具死屍。會是艾德里安嗎？,,OK,,
 3288,194283,"One of ours has fallen here, but it isn’t Adrian.",Data/Scenario/Banters_RoyalGardens_Crypt.lua(00049),Act1 03-1 Banters_RoyalGardens_Crypt,,Victor Vran,Victor Vran,,,,我們的一位兄弟在此陣亡了，但並不是艾德里安。,,OK,,
@@ -6114,9 +6114,9 @@ Every day I endeavor to convince her to give up hope of saving this city. With y
 3292,194283,Over here! Help!,Data/Scenario/Banters_RoyalGardens_Crypt.lua(00079),Act1 03-1 Banters_RoyalGardens_Crypt,,Private Stash,Private Stash,,,,這邊！救命啊！,,OK,,
 2251,194283,"Thank the Gods, you came to save me! I was on patrol with some of the hunters to carry their provisions and trophies. We were attacked and I made a tactical retreat.",Data/Conversations/Stash.lua(00014),Act1 03-11 Meeting Private Stash in Royal Gardens Crypt,,Private Stash,Private Stash,,,,感謝上帝，謝謝您來救我！我原本和一些獵人在巡邏，替他們搬運糧食和戰利品。後來我們被襲擊了，我就戰略性撤退了。,,OK,,
 2252,194283,You just ran and left the hunters to die?,Data/Conversations/Stash.lua(00018),Act1 03-11 Meeting Private Stash in Royal Gardens Crypt,,Victor Vran,Victor Vran,,,,你丟下他們獨自逃跑了？,,OK,,
-2253,196977,"Well, you see, I’m a coward and that has kept me alive in this hell. I was sure that someone would come along to rescue me. So, the coast is clear? Can I get back home?",Data/Conversations/Stash.lua(00022),Act1 03-11 Meeting Private Stash in Royal Gardens Crypt,,Private Stash,Private Stash,,,,唔，如您所見，我、我是個懦夫，我也因此才在這地獄中活了下來。我、我一直確信會有人來救我的。那麼，沒有危險了嗎？我能回家了嗎？,,OK,,
+2253,196977,"Well, you see, I’m a coward and that has kept me alive in this hell. I was sure that someone would come along to rescue me. So, the coast is clear? Can I get back home?",Data/Conversations/Stash.lua(00022),Act1 03-11 Meeting Private Stash in Royal Gardens Crypt,,Private Stash,Private Stash,,,,唔，如您所見，我、我是個懦夫，我也因此才在這地獄中活了下來。我、我一直確信會有人來救我的。所以，沒有危險了嗎？我能回家了嗎？,,OK,,
 2254,194283,Even a coward's life will feed the evil brewing here. I’ve cleared the way to the castle. You can go.,Data/Conversations/Stash.lua(00026),Act1 03-11 Meeting Private Stash in Royal Gardens Crypt,,Victor Vran,Victor Vran,,,,即使是懦夫的生命也會使邪惡壯大。我已經掃清了通往城堡的路。回去吧。,,OK,,
-2255,194283,"Oh, thank you, thank you, thank you! I promise I’ll find a way to repay you.",Data/Conversations/Stash.lua(00030),Act1 03-11 Meeting Private Stash in Royal Gardens Crypt,,Private Stash,Private Stash,,,,哦，謝謝，謝謝，謝謝！我會想辦法報答您的。,,OK,,
+2255,194283,"Oh, thank you, thank you, thank you! I promise I’ll find a way to repay you.",Data/Conversations/Stash.lua(00030),Act1 03-11 Meeting Private Stash in Royal Gardens Crypt,,Private Stash,Private Stash,,,,哦！非常、非常感謝您！我會想辦法報答您的。,,OK,,
 3293,194283,"You know, I used to be a hunter like you until I took an arrow to the knee!",Data/Scenario/Banters_RoyalGardens_Crypt2.lua(00015),Act1 03-2 Banters_RoyalGardens_Crypt2,,Voice,Voice,,,,你知道嗎，我以前和你一樣是個獵人，直到我膝蓋中了一箭！,,OK,,
 3294,194283,"<laughter>I'm just messing with you, Vicky!",Data/Scenario/Banters_RoyalGardens_Crypt2.lua(00022),Act1 03-2 Banters_RoyalGardens_Crypt2,,Voice,Voice,,,,<laughter>我開玩笑的啦，維琪！,,OK,,
 3295,194283,I'm way too witty to be a hunter.,Data/Scenario/Banters_RoyalGardens_Crypt2.lua(00026),Act1 03-2 Banters_RoyalGardens_Crypt2,,Voice,Voice,,,,我這麼幽默，怎麼會是獵人呢。,,OK,,
@@ -6128,17 +6128,17 @@ Every day I endeavor to convince her to give up hope of saving this city. With y
 3301,194283,"Come on, search! I know you want it!",Data/Scenario/Banters_RoyalGardens_Crypt2.lua(00074),Act1 03-2 Banters_RoyalGardens_Crypt2,,Voice,Voice,,,,快，認真找！我知道你很想要的！,,OK,,
 3302,194283,"Ooh, who's that glowing, blue fellow?",Data/Scenario/Banters_RoyalGardens_Crypt2.lua(00085),Act1 03-2 Banters_RoyalGardens_Crypt2,,Voice,Voice,,,,哦，那個發光的藍色傢伙是誰？,,OK,,
 3303,194283,"The day is done, and the darkness",Data/Scenario/Banters_RoyalGardens_Crypt2.lua(00090),Act1 03-2 Banters_RoyalGardens_Crypt2,,Tzar Borimir,Tzar Borimir,,,,白晝盡，,,OK,,
-3304,194283,"Falls from the wings of night, ",Data/Scenario/Banters_RoyalGardens_Crypt2.lua(00095),Act1 03-2 Banters_RoyalGardens_Crypt2,,Tzar Borimir,Tzar Borimir,,,,黯隨夜翼降，,,OK,,
-3305,194283,As a feather is wafted downward,Data/Scenario/Banters_RoyalGardens_Crypt2.lua(00100),Act1 03-2 Banters_RoyalGardens_Crypt2,,Tzar Borimir,Tzar Borimir,,,,如飄羽,,OK,,
+3304,194283,"Falls from the wings of night, ",Data/Scenario/Banters_RoyalGardens_Crypt2.lua(00095),Act1 03-2 Banters_RoyalGardens_Crypt2,,Tzar Borimir,Tzar Borimir,,,,黯隨夜翼降；,,OK,,
+3305,194283,As a feather is wafted downward,Data/Scenario/Banters_RoyalGardens_Crypt2.lua(00100),Act1 03-2 Banters_RoyalGardens_Crypt2,,Tzar Borimir,Tzar Borimir,,,,如飄羽，,,OK,,
 3306,194283,From an eagle in his flight.,Data/Scenario/Banters_RoyalGardens_Crypt2.lua(00105),Act1 03-2 Banters_RoyalGardens_Crypt2,,Tzar Borimir,Tzar Borimir,,,,落自雄鷹翔。,,OK,,
 3307,194283,Wait! Don't go! Was it something I said?,Data/Scenario/Banters_RoyalGardens_Crypt2.lua(00116),Act1 03-2 Banters_RoyalGardens_Crypt2,,Voice,Voice,,,,等等！別走！我說錯了什麼嗎？,,OK,,
-2209,194283,And here I thought I was the last living hunter in this damned city.,Data/Conversations/Nadezhda.lua(00014),Act1 04 Meeting Irene Conversation,,Irene,Irene,,,,我以為自己是這座詛咒之城唯一存活的獵人。,,OK,,
+2209,194283,And here I thought I was the last living hunter in this damned city.,Data/Conversations/Nadezhda.lua(00014),Act1 04 Meeting Irene Conversation,,Irene,Irene,,,,我還以為自己是這座詛咒之城唯一存活的獵人。,,OK,,
 2210,194283,Victor Vran. Just arrived. Don't plan on staying long.,Data/Conversations/Nadezhda.lua(00018),Act1 04 Meeting Irene Conversation,,Victor Vran,Victor Vran,,,,我是維克多．弗蘭。剛到這裡。但沒打算久待。,,OK,,
 2211,196015,"That's what I said when I arrived a year ago. Yet here I am, still killing demons and trying to make sense of what happened.",Data/Conversations/Nadezhda.lua(00022),Act1 04 Meeting Irene Conversation,,Irene,Irene,,,,我一年前剛來的時候也是這麼說。但至今我依然在此獵殺惡魔，試圖弄清到底發生了什麼。,,OK,,
 2212,194283,Do you know a hunter by the name of Adrian?,Data/Conversations/Nadezhda.lua(00026),Act1 04 Meeting Irene Conversation,,Victor Vran,Victor Vran,,,,妳認識一位叫艾德里安的獵人嗎？,,OK,,
-2213,194283,I've heard of him but we never crossed paths. The only hunters I've seen recently lie lifeless.,Data/Conversations/Nadezhda.lua(00030),Act1 04 Meeting Irene Conversation,,Irene,Irene,,,,聽說過，但我們沒有碰過面。我最近見到的獵人只有死掉的。,,OK,,
+2213,194283,I've heard of him but we never crossed paths. The only hunters I've seen recently lie lifeless.,Data/Conversations/Nadezhda.lua(00030),Act1 04 Meeting Irene Conversation,,Irene,Irene,,,,聽說過，但我們沒有碰過面。我最近見過的獵人只有倒在地上的。,,OK,,
 2214,196015,"You could check the crypts. I haven't been down there for a while, but I wouldn't get my hopes up – there are demons everywhere.",Data/Conversations/Nadezhda.lua(00034),Act1 04 Meeting Irene Conversation,,Irene,Irene,,,,你可以去墓窖找看看。我有一陣子沒去了，但我認為希望不大──那裡到處都是惡魔。,,OK,,
-2215,196015,Thank you. I didn't catch your name.,Data/Conversations/Nadezhda.lua(00038),Act1 04 Meeting Irene Conversation,,Victor Vran,Victor Vran,,,,謝謝妳。我剛沒記住妳的名字。,,OK,,
+2215,196015,Thank you. I didn't catch your name.,Data/Conversations/Nadezhda.lua(00038),Act1 04 Meeting Irene Conversation,,Victor Vran,Victor Vran,,,,謝謝妳。我剛剛沒記住妳的名字。,,OK,,
 2216,196015,"Because I didn't say it. My name is Irene. See you around, Victor Vran.",Data/Conversations/Nadezhda.lua(00042),Act1 04 Meeting Irene Conversation,,Irene,Irene,,,,因為我還沒說。我叫艾琳。後會有期，維克多．弗蘭。,,OK,,
 3271,196015,"""Trying to make sense of what happened""<pause> She has another reason to stay here this long, I'm certain.",Data/Scenario/Banters_RoyalGardens.lua(00160),Act1 05 After meeting Irene,,Victor Vran,Victor Vran,,,,「試圖弄清到底發生了什麼」<pause>我敢肯定她有別的原因才長期待在這裡。,,OK,,
 3272,194283,Irene paints a bleak picture. Zagoravia is lost.,Data/Scenario/Banters_RoyalGardens.lua(00171),Act1 05 After meeting Irene,,Victor Vran,Victor Vran,,,,艾琳描繪了慘淡的景象。扎古拉維亞已經淪陷了。,,OK,,
@@ -6182,7 +6182,7 @@ Every day I endeavor to convince her to give up hope of saving this city. With y
 3240,194372,<singing>Brave Sir Victor ran away.,Data/Scenario/Banters_RoyalCrypt.lua(00233),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,<singing>英勇的維克多逃了。,,OK,,
 3241,194372,<singing>Bravely ran away away.,Data/Scenario/Banters_RoyalCrypt.lua(00238),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,<singing>勇敢的逃得遠遠地。,,OK,,
 3242,194372,"<singing>When danger reared its ugly head,",Data/Scenario/Banters_RoyalCrypt.lua(00243),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,<singing>只要危險一冒頭，,,OK,,
-3243,194372,<singing>He bravely turned his tail and fled.,Data/Scenario/Banters_RoyalCrypt.lua(00248),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,<singing>他就勇敢的掉頭逃。,,OK,,
+3243,194372,<singing>He bravely turned his tail and fled.,Data/Scenario/Banters_RoyalCrypt.lua(00248),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,<singing>他就勇敢的夾尾逃。,,OK,,
 3244,194409,"<singing>Bravest of the braaaave, Sir Victor!<laughter>",Data/Scenario/Banters_RoyalCrypt.lua(00253),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,<singing>最最勇敢的維克多！<laughter>,,OK,,
 3245,194283,"Coming up to yet another intersection, Victor decided to continue forward. ",Data/Scenario/Banters_RoyalCrypt.lua(00265),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,來到了另一個路口，維克多決定繼續向前。,,OK,,
 3246,194283,"Coming back full circle, Victor realized that the choice he made just minutes ago was meaningless.",Data/Scenario/Banters_RoyalCrypt.lua(00276),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,繞了一大圈，維克多發現剛剛下的決定根本毫無意義。,,OK,,
@@ -6191,7 +6191,7 @@ Every day I endeavor to convince her to give up hope of saving this city. With y
 2269,194283,"The city is lost, Your Majesty. You should find a way to safety.",Data/Conversations/Tzarina.lua(00048),Act1 08 Keys to the Crypt,,Victor Vran,Victor Vran,,,,城市已經淪陷了，女王陛下。您應該想辦法逃生。,,OK,,
 2270,196015,"Battles are won by brave and noble men who see beyond their own immediate needs. In time you will realize that we have no other option but victory.
 
-So, what brings you here before me?",Data/Conversations/Tzarina.lua(00052),Act1 08 Keys to the Crypt,,Queen Katarina,Queen Katarina,,,,"戰爭是靠勇敢崇高願意犧牲小我的人打贏的。終有一天你會發現我們除了取勝之外別無選擇。
+So, what brings you here before me?",Data/Conversations/Tzarina.lua(00052),Act1 08 Keys to the Crypt,,Queen Katarina,Queen Katarina,,,,"戰爭是靠勇敢、崇高、願意犧牲小我的人打贏的。終有一天你會發現我們除了取勝之外別無選擇。
 
 那麼，你找我是有什麼事嗎？",,OK,,
 2271,194323,"I seek permission to enter the Royal Crypt, Your Majesty.",Data/Conversations/Tzarina.lua(00056),Act1 08 Keys to the Crypt,,Victor Vran,Victor Vran,,,,我想請女王陛下恩准，讓我進入皇室陵寢。,,OK,,
@@ -6208,9 +6208,10 @@ Don't be alarmed, take a look. For science.",Data/Conversations/Alchemist.lua(00
 別緊張，隨便看看吧。科學萬歲！",,OK,,
 2171,194283,"That fire-headed girl, Irene, she is a good hunter - brave, but not reckless. She brought back some interesting items from her forays.
 
-It's too bad she will die so young and pretty. Demons will have her, no doubt. Care to browse my inventory? ",Data/Conversations/Alchemist.lua(00077),Act1 083 Irene will die,,Damian,Damian,,,,"那位紅髮女郎，艾琳，她是位高超的獵人──勇敢，但不魯莽。經過幾次的探路，她帶回了不少有趣的裝備。
+It's too bad she will die so young and pretty. Demons will have her, no doubt. Care to browse my inventory? ",Data/Conversations/Alchemist.lua(00077),Act1 083 Irene will die,,Damian,Damian,,,,"那位紅髮女郎，艾琳，她是位高超的獵人──勇敢，但不魯莽。
+經過幾次探路，她帶回了不少有趣的裝備。
 
-可惜她始終會紅顏薄命，死在惡魔手上。要看看我的貨嗎？",,OK,,
+可惜的是，她始終會紅顏薄命，死在惡魔手上。要來看看我的貨嗎？",,OK,,
 2839,194283,Another dead body. This is fast becoming a common sight.,Data/Scenario/Banters_AmuletDungeon.lua(00015),Act1 09 Amulet Dungeon Banters,,Victor Vran,Victor Vran,,,,又一具屍體。快要司空見慣了。,,OK,,
 2840,194283,I fear that someday I will get used to death.,Data/Scenario/Banters_AmuletDungeon.lua(00019),Act1 09 Amulet Dungeon Banters,,Victor Vran,Victor Vran,,,,我怕有一天我會對死亡麻木。,,OK,,
 2841,194283,Then I would be no different than the monsters I fight.,Data/Scenario/Banters_AmuletDungeon.lua(00023),Act1 09 Amulet Dungeon Banters,,Victor Vran,Victor Vran,,,,到時候我跟那些怪物就毫無區別了。,,OK,,
@@ -6236,8 +6237,8 @@ It's too bad she will die so young and pretty. Demons will have her, no doubt. C
 2861,194283,"We always knew this could happen, old friend.",Data/Scenario/Banters_AmuletDungeon.lua(00159),Act1 09 Amulet Dungeon Banters,,Victor Vran,Victor Vran,,,,我們一直都知道會有這麼一天，老友。,,OK,,
 2862,196015,"That we could become monsters ourselves, that we fall to the darkness.",Data/Scenario/Banters_AmuletDungeon.lua(00163),Act1 09 Amulet Dungeon Banters,,Victor Vran,Victor Vran,,,,知道自己可能會變成怪物，墮入黑暗。,,OK,,
 2863,194283,"Rest in peace, brother.",Data/Scenario/Banters_AmuletDungeon.lua(00167),Act1 09 Amulet Dungeon Banters,,Victor Vran,Victor Vran,,,,安息吧，兄弟。,,OK,,
-2233,196015,"I came for my friend. What do you seek in Zagoravia, Irene?",Data/Conversations/Nadezhda.lua(00135),Act1 09 Meeting Irene in Hub,,Victor Vran,Victor Vran,,,,我來是為了找朋友。妳來扎古拉維亞是為了什麼？艾琳。,,OK,,
-2234,194283,"Nothing in particular. Exciting place, isn't it? Adventurous, you might call it.",Data/Conversations/Nadezhda.lua(00139),Act1 09 Meeting Irene in Hub,,Irene,Irene,,,,沒什麼事。令人興奮的地方，不是嗎？冒險吧，你也可以這麼說。,,OK,,
+2233,196015,"I came for my friend. What do you seek in Zagoravia, Irene?",Data/Conversations/Nadezhda.lua(00135),Act1 09 Meeting Irene in Hub,,Victor Vran,Victor Vran,,,,我來是為了找朋友。妳來扎古拉維亞是為了什麼，艾琳？,,OK,,
+2234,194283,"Nothing in particular. Exciting place, isn't it? Adventurous, you might call it.",Data/Conversations/Nadezhda.lua(00139),Act1 09 Meeting Irene in Hub,,Irene,Irene,,,,沒什麼特別的事。令人興奮的地方，不是嗎？冒險吧，你也可以這麼說。,,OK,,
 2235,194283,"Yeah, the nightlife seems to be booming. Seriously, why are you here?",Data/Conversations/Nadezhda.lua(00143),Act1 09 Meeting Irene in Hub,,Victor Vran,Victor Vran,,,,是啊，夜生活似乎很熱鬧。說真的，妳為什麼來這裡？,,OK,,
 2236,196977,"No business of yours. A girl has to keep some secrets, you know.",Data/Conversations/Nadezhda.lua(00147),Act1 09 Meeting Irene in Hub,,Irene,Irene,,,,不關你的事。女人必須保守一些祕密，你知道的。,,OK,,
 2195,196015,"Feeling lonely, Vran? Come to chat? I have a story for you, then.
