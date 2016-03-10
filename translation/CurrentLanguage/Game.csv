@@ -3434,8 +3434,8 @@ Are you sure you want to continue?",Lua/UI/CodexDlg.lua(00642),,,,,,,,"你選擇
 4333,198395,Hardcore,Lua/UI/CodexDlg.lua(00654),,,,,,,,選擇角色模式,,OK,,
 4329,198395,Normal Character,Lua/UI/CodexDlg.lua(00658),,,,,,,,普通角色,,OK,,
 4331,198395,Normal characters suffer no penalties when they die,Lua/UI/CodexDlg.lua(00663),,,,,,,,普通角色死亡時不會受到懲罰。,,OK,,
-4330,198395,Hardcore Character,Lua/UI/CodexDlg.lua(00667),,,,,,,,硬派角色,,OK,,
-4332,198395,Hardcore characters become normal characters when they die for the first time,Lua/UI/CodexDlg.lua(00672),,,,,,,,硬派角色在第一次死亡後會變成普通角色。,,OK,,
+4330,198395,Hardcore Character,Lua/UI/CodexDlg.lua(00667),,,,,,,,硬漢角色,,OK,,
+4332,198395,Hardcore characters become normal characters when they die for the first time,Lua/UI/CodexDlg.lua(00672),,,,,,,,硬漢角色在第一次死亡後會變成普通角色。,,OK,,
 4185,196416,"You have selected <outfit> and <difficulty>.
 Are you sure you want to continue?",Lua/UI/CodexDlg.lua(00725),,,,,,,,"你選擇了<outfit>和<difficulty>。
 你確定要繼續嗎？",,OK,,
@@ -3506,7 +3506,7 @@ Note: Playing in Hard Mode is not recommended for your first character.",Lua/UI/
 3538,194708,<red><text></red>,Lua/UI/HeadsUpDisplay.lua(01860),,,,,,,,<red><text></red>,,OK,,
 3539,194708,<gray_hint><description></gray_hint>,Lua/UI/HeadsUpDisplay.lua(01866),,,,,,,,<gray_hint><description></gray_hint>,,OK,,
 4007,195716,<center><description>,Lua/UI/HeadsUpDisplay.lua(01871),,,,,,,,<center><description>,,OK,,
-4482,198919,Your character has died and lost his Hardcore status.,Lua/UI/HeroDeathDlg.lua(00039),,,,,,,,你的角色已經死亡，且失去硬派身分。,,OK,,
+4482,198919,Your character has died and lost his Hardcore status.,Lua/UI/HeroDeathDlg.lua(00039),,,,,,,,你的角色已經死亡，且失去硬漢身分。,,OK,,
 1208,194283,Respawning in <remaining>,Lua/UI/HeroDeathDlg.lua(00052),,,,,,,,<remaining>後重生,,OK,,
 4183,196416,"If you want to play with gamepad, you can change the control scheme from the Options menu.",Lua/UI/InGameInterface.lua(00109),,,,,,,,如果想用手把遊玩，你可以在選項選單中變更操作方式。,,OK,,
 4184,196416,"If you want to play with keyboard and mouse, you can change the control scheme from the Options menu.",Lua/UI/InGameInterface.lua(00120),,,,,,,,如果想用鍵盤和滑鼠遊玩，你可以在選項選單中變更操作方式。,,OK,,
@@ -3896,7 +3896,7 @@ Code ""<err>""",Lua/UI/MenuOnline.lua(01379),,,,,,,,"抱歉，伺服器回傳一
 515,194283,Renown Level <level>,Lua/UI/PreGameMenu.lua(00290),,,,,,,,聲望等級：<level>,,OK,,
 880,194283,Level <level>,Lua/UI/PreGameMenu.lua(00292),,,,,,,,等級：<level>,,OK,,
 1495,196015,Time <time>,Lua/UI/PreGameMenu.lua(00295),,,,,,,,遊戲時間：<time>,,OK,,
-4334,198395,<red>Hardcore</red>,Lua/UI/PreGameMenu.lua(00298),,,,,,,,<red>硬派角色</red>,,OK,,
+4334,198395,<red>Hardcore</red>,Lua/UI/PreGameMenu.lua(00298),,,,,,,,<red>硬漢角色</red>,,OK,,
 4191,196416,Deaths,Lua/UI/PreGameMenu.lua(00300),,,,,,,,死亡數：,,OK,,
 1095,194283,Renown <level>,Lua/UI/PreGameMenu.lua(00304),,,,,,,,聲望：<level>,,OK,,
 4335,198395,First Death,Lua/UI/PreGameMenu.lua(00306),,,,,,,,第一次死亡,,OK,,
