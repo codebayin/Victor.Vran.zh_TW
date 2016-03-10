@@ -668,7 +668,7 @@ Each weapon offers a different play style to master. To learn more about the spe
 2136,194283,Legendary Weapons,Data/CodexEntry.lua(00013),,CodexEntry Hint_LegendaryWeapons DisplayName,,,,,,傳奇武器,,OK,,
 2137,194323,"Legendary weapons are some of the most powerful tools of the hunter's trade. Their stats are not randomized and they have unique effects and attacks that can't be found on any other weapon.
 
-The damage of all Legendary weapons scales as you level up.",Data/CodexEntry.lua(00014),,CodexEntry Hint_LegendaryWeapons Description,,,,,,"傳奇武器是獵人世界裡最強大的工具之一。它們的數據不是隨機的，每一把傳奇武器都有別於其它武器的獨特效果和攻擊方式。
+The damage of all Legendary weapons scales as you level up.",Data/CodexEntry.lua(00014),,CodexEntry Hint_LegendaryWeapons Description,,,,,,"傳奇武器是獵人世界裡最強大的武器。它們的數據不是隨機的，每一把傳奇武器都有別於其它武器的獨特效果和攻擊方式。
 
 所有傳奇武器的傷害都會隨你的等級提升。",,OK,,
 2138,194283,Consumables,Data/CodexEntry.lua(00019),,CodexEntry Hint_Potions DisplayName,,,,,,消耗品,,OK,,
@@ -719,7 +719,7 @@ You may customize the color of your Outfit by transmuting it together with Dyes.
 
 You begin the game with two slots for Destiny Cards and 4 Destiny Points. You will gain additional slots and points as you level up.
 
-The majority of Destiny Card effects stack, either adding their bonuses together or allowing the effect to trigger several times during the cooldown period.",Data/CodexEntry.lua(00047),,CodexEntry Hint_DestinyCards Description,,,,,,"你可以裝備命運牌來獲得各式各樣的被動能力。要裝備命運牌，你需要有空的牌槽和足夠的命運點。如果牌是獨特的，那同類型的牌你只能裝備一張。
+The majority of Destiny Card effects stack, either adding their bonuses together or allowing the effect to trigger several times during the cooldown period.",Data/CodexEntry.lua(00047),,CodexEntry Hint_DestinyCards Description,,,,,,"你可以裝備命運牌來獲得各式各樣的被動能力。要裝備命運牌，你需要有空的牌槽和足夠的命運點。如果牌是獨特的，那同類的牌你只能裝備一張。
 
 開始遊戲時你會有2格命運牌槽和4點命運點，隨著等級提升你會獲得更多的牌槽和點數。
 
@@ -842,14 +842,14 @@ But that didn't concern me. According to her words there were still surviving hu
 她還相信她能打贏這場毫無勝算的戰爭，相信援軍就在路上。可憐的人啊，她完全不能接受現實。城堡裡聚集在她身邊的倖存者，既無力幫她任何的忙，也無法用他們的忠誠激起她的信心。不管他們有沒有意識到，忠誠是他們仍留在扎古拉維亞的唯一理由。
 
 但那不關我的事。據她所說，城裡還有倖存的獵人。希望艾德里安是其中一人。不管是死是活，我都會找到你的，我的朋友。",,OK,,
-3523,194585,Ashes to Ashes,Data/CodexEntry.lua(00124),,CodexEntry Journal_Entry4 DisplayName,,,,,,塵歸塵,,OK,,
+3523,194585,Ashes to Ashes,Data/CodexEntry.lua(00124),,CodexEntry Journal_Entry4 DisplayName,,,,,,塵歸塵，土歸土,,OK,,
 3524,198395,"I still have nightmares about thrusting my blade through Adrian's chest.
 
 I knew I gave him what he craved - a release from his imprisonment. I saw it in his eyes - for a brief moment he was my friend again. As his body turned to ashes I felt overwhelmed with grief and anger.
 
 But it wasn't the time for desperation. Adrian was used to lure me into Zagoravia. He was a mere puppet for the one who wanted me dead. Very well - I decided to satisfy the mastermind's desire and stay to make sure Adrian is avenged. But for this I needed help. Irene.",Data/CodexEntry.lua(00125),,CodexEntry Journal_Entry4 Description,,,,,,"我還做著噩夢，夢見我的劍刺穿了艾德里安的胸膛。
 
-我知道我給了他渴望的東西──從禁錮中解脫。在他眼中我看見──有那麼一瞬間，他又成了我的朋友。在他的身體化成灰燼時，我感到無盡的悲痛和憤怒。
+我知道我給了他渴望的東西──從禁錮中解脫。在他眼中我看見──有那麼一瞬間，他又成了我的朋友。在他的身體化成灰時，我感到無盡的悲痛和憤怒。
 
 但現在不是絕望的時候。艾德里安被利用來引誘我進到扎古拉維亞，他只是向我索命的人所操控的傀儡。很好，我決定滿足這個幕後黑手的願望，留在這裡，為艾德里安報仇。但為此我需要找艾琳幫我。",,OK,,
 3525,194585,Dark Revelations,Data/CodexEntry.lua(00133),,CodexEntry Journal_Entry5 DisplayName,,,,,,黑暗啟示,,OK,,
@@ -1304,9 +1304,9 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 2693,194283,Talk to Irene,Data/Quest.lua(00346),,,,,,,,與艾琳交談,,OK,,
 2694,194283,Look for Adrian in the crypts past the Royal Gardens,Data/Quest.lua(00347),,,,,,,,在皇家花園後面的墓窖尋找艾德里安,,OK,,
 2695,194283,Finding Adrian,Data/Quest.lua(00365),,,,,,,,尋找艾德里安,,OK,,
-2696,194283,Search the crypt for Adrian,Data/Quest.lua(00366),,,,,,,,搜索墓窖找尋艾德里安,,OK,,
+2696,194283,Search the crypt for Adrian,Data/Quest.lua(00366),,,,,,,,搜索墓窖尋找艾德里安,,OK,,
 2697,194708,Talk to Private Stash in the Sepulcher of the Damned,Data/Quest.lua(00367),,,,,,,,與詛咒葬地裡的斯戴許二兵交談,,OK,,
-2698,194283,Search the crypt for Adrian,Data/Quest.lua(00368),,,,,,,,搜索墓窖找尋艾德里安,,OK,,
+2698,194283,Search the crypt for Adrian,Data/Quest.lua(00368),,,,,,,,搜索墓窖尋找艾德里安,,OK,,
 2699,194283,Finding Adrian,Data/Quest.lua(00383),,,,,,,,尋找艾德里安,,OK,,
 2700,194283,Reach the Befouled Tomb,Data/Quest.lua(00384),,,,,,,,前往污損古墓,,OK,,
 2701,194283,Reach the Befouled Tomb,Data/Quest.lua(00385),,,,,,,,前往污損古墓,,OK,,
@@ -1644,8 +1644,8 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 4208,198919,<teal>(</teal><lightgreen>+<diff></lightgreen><teal>)</teal>,Lua/DestinyCard.lua(00233),,,,,,,,<teal>（</teal><lightgreen>+<diff></lightgreen><teal>）</teal>,,OK,,
 129,194283,No empty slots,Lua/DestinyCard.lua(00291),,,,,,,,沒有空的牌槽。,,OK,,
 130,194283,Need <more_points> more DP to activate,Lua/DestinyCard.lua(00295),,,,,,,,尚缺<more_points>點命運點。,,OK,,
-131,194283,You already have equipped a copy of this card.,Lua/DestinyCard.lua(00304),,,,,,,,你已經裝備了一張同類型的牌。,,OK,,
-132,194283,Unique. You can't equip more than 1 copy of this card,Lua/DestinyCard.lua(00381),,,,,,,,獨特牌，此類型的牌你只能裝備一張。,,OK,,
+131,194283,You already have equipped a copy of this card.,Lua/DestinyCard.lua(00304),,,,,,,,你已經裝備了一張同類的牌。,,OK,,
+132,194283,Unique. You can't equip more than 1 copy of this card,Lua/DestinyCard.lua(00381),,,,,,,,獨特牌，與此同類的牌你只能裝備一張。,,OK,,
 134,194283,<divine_color>Divine: Gain <condition_name> for <number> sec. when below <param>% health (<cooldown> sec. cooldown)</divine_color><condition_description>,Lua/DestinyCard.lua(00518),,,,,,,,<divine_color>神聖：生命低於<param>%時獲得<condition_name>，持續<number>秒（冷卻時間<cooldown>秒）。</divine_color><condition_description>,,OK,,
 135,194283,<divine_color>Divine: +<param> Armor Penetration</divine_color>,Lua/DestinyCard.lua(00542),,,,,,,,<divine_color>神聖：提升<param>護甲穿透。</divine_color>,,OK,,
 136,196015,<divine_color>Divine: <param>% chance to get an additional drop from chests</divine_color>,Lua/DestinyCard.lua(00563),,,,,,,,<divine_color>神聖：<param>%機率從寶箱獲得額外物品。</divine_color>,,OK,,
@@ -1695,7 +1695,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 181,194283,The Guardian,Lua/DestinyCard.lua(01019),,,,,,,,守護者,,OK,,
 182,194283,The Divine Guardian,Lua/DestinyCard.lua(01020),,,,,,,,神聖守護者,,OK,,
 183,194283,The Wicked Guardian,Lua/DestinyCard.lua(01021),,,,,,,,邪惡守護者,,OK,,
-184,198395,"Release an explosion when hit in melee (<lightgreen><damage></lightgreen> damage, <lightgreen><chance>%</lightgreen> chance) that ignores armor. The explosion has a chance to Electrocute foes",Lua/DestinyCard.lua(01033),,,,,,,,近戰擊中時引發無視防禦的爆炸（<lightgreen><damage></lightgreen>傷 害， <lightgreen><chance>%</lightgreen>機 率）。 爆 炸 有 機 率 會 使 敵 人 觸 電。,,OK,,
+184,198395,"Release an explosion when hit in melee (<lightgreen><damage></lightgreen> damage, <lightgreen><chance>%</lightgreen> chance) that ignores armor. The explosion has a chance to Electrocute foes",Lua/DestinyCard.lua(01033),,,,,,,,近戰擊中時引發無視防禦的爆炸（<lightgreen><damage></lightgreen>傷害，<lightgreen><chance>%</lightgreen>機率）。 爆炸有機率會使敵人觸電。,,OK,,
 185,194283,The Runner,Lua/DestinyCard.lua(01066),,,,,,,,跑者,,OK,,
 186,194283,The Divine Runner,Lua/DestinyCard.lua(01067),,,,,,,,神聖跑者,,OK,,
 187,194283,The Wicked Runner,Lua/DestinyCard.lua(01068),,,,,,,,邪惡跑者,,OK,,
@@ -1720,11 +1720,11 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 206,194283,The Moon,Lua/DestinyCard.lua(01174),,,,,,,,月亮,,OK,,
 207,194283,The Divine Moon,Lua/DestinyCard.lua(01175),,,,,,,,神聖月亮,,OK,,
 208,194283,The Wicked Moon,Lua/DestinyCard.lua(01176),,,,,,,,邪惡月亮,,OK,,
-209,198395,"Cause a frost explosion on crit (<lightgreen><damage></lightgreen> damage, <cooldown> sec. cooldown) that ignores armor. All targets gain the <lightgreen2><condition_name></lightgreen2> condition.<condition_description>",Lua/DestinyCard.lua(01190),,,,,,,,暴擊時引發無視防禦的寒氣爆炸（<lightgreen><damage></lightgreen>傷害， 冷 卻 時 間<cooldown>秒）。 所 有 目 標 附 加 <lightgreen2><condition_name></lightgreen2>狀 態。<condition_description>,,OK,,
+209,198395,"Cause a frost explosion on crit (<lightgreen><damage></lightgreen> damage, <cooldown> sec. cooldown) that ignores armor. All targets gain the <lightgreen2><condition_name></lightgreen2> condition.<condition_description>",Lua/DestinyCard.lua(01190),,,,,,,,暴擊時引發無視防禦的寒氣爆炸（<lightgreen><damage></lightgreen>傷害，冷卻時間<cooldown>秒）。 所有目標附加<lightgreen2><condition_name></lightgreen2>狀態。<condition_description>,,OK,,
 210,194283,The Sun,Lua/DestinyCard.lua(01229),,,,,,,,太陽,,OK,,
 211,194283,The Divine Sun,Lua/DestinyCard.lua(01230),,,,,,,,神聖太陽,,OK,,
 212,194283,The Wicked Sun,Lua/DestinyCard.lua(01231),,,,,,,,邪惡太陽,,OK,,
-213,198395,"Cause an explosion on overkill (<lightgreen><damage></lightgreen> damage, <cooldown> sec. cooldown) that ignores armor",Lua/DestinyCard.lua(01245),,,,,,,,絕殺時引發無視防禦的爆炸（<lightgreen><damage></lightgreen>傷 害， 冷 卻 時 間<cooldown>秒）。,,OK,,
+213,198395,"Cause an explosion on overkill (<lightgreen><damage></lightgreen> damage, <cooldown> sec. cooldown) that ignores armor",Lua/DestinyCard.lua(01245),,,,,,,,絕殺時引發無視防禦的爆炸（<lightgreen><damage></lightgreen>傷害，冷卻時間<cooldown>秒）。,,OK,,
 214,194283,Justice,Lua/DestinyCard.lua(01276),,,,,,,,正義,,OK,,
 215,194283,Divine Justice,Lua/DestinyCard.lua(01277),,,,,,,,神聖正義,,OK,,
 216,194283,Wicked Justice,Lua/DestinyCard.lua(01278),,,,,,,,邪惡正義,,OK,,
@@ -1741,9 +1741,9 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 230,194283,The Fool,Lua/DestinyCard.lua(01356),,,,,,,,愚者,,OK,,
 231,194283,The Divine Fool,Lua/DestinyCard.lua(01357),,,,,,,,神聖愚者,,OK,,
 232,194283,The Wicked Fool,Lua/DestinyCard.lua(01358),,,,,,,,邪惡愚者,,OK,,
-233,195942,No basic effect<newline>,Lua/DestinyCard.lua(01364),,,,,,,,無基本效果<newline>,,OK,,
+233,195942,No basic effect<newline>,Lua/DestinyCard.lua(01364),,,,,,,,無基本效果。<newline>,,OK,,
 234,195942,<newline><lightgreen><joke></lightgreen>,Lua/DestinyCard.lua(01364),,,,,,,,<newline><lightgreen><joke></lightgreen>,,OK,,
-235,195942,No basic effect<newline>,Lua/DestinyCard.lua(01366),,,,,,,,無基本效果<newline>,,OK,,
+235,195942,No basic effect<newline>,Lua/DestinyCard.lua(01366),,,,,,,,無基本效果。<newline>,,OK,,
 236,195942,<newline><lightgreen><joke></lightgreen>,Lua/DestinyCard.lua(01366),,,,,,,,<newline><lightgreen><joke></lightgreen>,,OK,,
 237,194283,I've had it with these ______ spiders in this ______ town!,Lua/DestinyCard.lua(01369),,,,,,,,我受夠這些____鎮裡的____蜘蛛了！,,OK,,
 238,194283,"Why did the chicken cross the road?
@@ -1892,7 +1892,7 @@ None - they are always stoned!",Lua/DestinyCard.lua(01378),,,,,,,,"換一個燈�
 351,194814,Gain <lightgreen2><condition_name></lightgreen2> for <duration> sec. when your health falls below <lightgreen><number>%</lightgreen> health (<cooldown> sec. cooldown).<condition_description>,Lua/Effects.lua(00746),,,,,,,,生命低於<lightgreen><number>%</lightgreen>時獲得<lightgreen2><condition_name></lightgreen2>，持續<duration>秒（冷卻時間<cooldown>秒）。<condition_description>,,OK,,
 352,194283,Gain <lightgreen2><condition_name></lightgreen2> for <duration> sec. when your health falls below <number>% health (<cooldown> sec. cooldown).<condition_description>,Lua/Effects.lua(00772),,,,,,,,生命低於<number>%時獲得<lightgreen2><condition_name></lightgreen2>，持續<duration>秒（冷卻時間<cooldown>秒）。<condition_description>,,OK,,
 353,194283,Gain <lightgreen2><condition_name></lightgreen2> for <duration> sec. when your health falls below <number>% health.<condition_description>,Lua/Effects.lua(00798),,,,,,,,生命低於<number>%時獲得<lightgreen2><condition_name></lightgreen2>，持續<duration>秒。<condition_description>,,OK,,
-354,194283,Gain <lightgreen2><condition_name></lightgreen2> for <lightgreen><duration></lightgreen> sec. when you lose more than <number>% health in a single hit (<cooldown> sec. cooldown).<condition_description>,Lua/Effects.lua(00823),,,,,,,,受到一擊超過<number>%生命的傷害時獲得<lightgreen2><condition_name></lightgreen2>，持續<lightgreen><duration></lightgreen>秒（冷卻時間<cooldown>秒）。<condition_description>,,OK,,
+354,194283,Gain <lightgreen2><condition_name></lightgreen2> for <lightgreen><duration></lightgreen> sec. when you lose more than <number>% health in a single hit (<cooldown> sec. cooldown).<condition_description>,Lua/Effects.lua(00823),,,,,,,,受到一擊超過<number>%生命的傷害時獲得<lightgreen2><condition_name></lightgreen2>，持續<lightgreen><duration></lightgreen>秒（冷卻 時間<cooldown>秒）。<condition_description>,,OK,,
 355,194283,Remove a debuff when you overkill an enemy (<cooldown> sec. cooldown),Lua/Effects.lua(00845),,,,,,,,絕殺時消除一項負面狀態（冷卻時間<cooldown>秒）。,,OK,,
 356,194283,Removes all curses and debuffs from the hero,Lua/Effects.lua(00859),,,,,,,,消除身上所有詛咒和負面狀態。,,OK,,
 357,194283,Lowers all cooldowns by <duration>%,Lua/Effects.lua(00868),,,,,,,,所有冷卻時間縮短<duration>%。,,OK,,
@@ -2130,7 +2130,7 @@ Combine with other Gift Boxes in Transmutation to get better items",Lua/Item.lua
 560,194283,Second Demon Power,Lua/LevelRewards.lua(00157),,,,,,,,第二欄惡魔之力,,OK,,
 561,194283,You can now equip and use a second Demon Power. Demon Powers deplete your Overdrive on use. Deal damage to monsters to increase your Overdrive.,Lua/LevelRewards.lua(00158),,,,,,,,你現在可以裝備並使用第二欄惡魔之力了。施展惡魔之力會消耗超能。對怪物造成傷害可凝聚超能。,,OK,,
 3579,194913,Transmutation,Lua/LevelRewards.lua(00204),,,,,,,,合成,,OK,,
-3580,194913,Transmutation allows you to upgrade your items or create new items by combining what you have. You can transmute your items in the Hub. Don't forget to check out the basic transmutation recipes in the Codex.,Lua/LevelRewards.lua(00205),,,,,,,,合成能讓你融合已有的物品來升級物品或創造新物品。你可以在總部進行合成。別忘了查看百科全書裡的基礎合成配方。,,OK,,
+3580,194913,Transmutation allows you to upgrade your items or create new items by combining what you have. You can transmute your items in the Hub. Don't forget to check out the basic transmutation recipes in the Codex.,Lua/LevelRewards.lua(00205),,,,,,,,合成能讓你融合已有的物品來強化或創造物品。你可以在總部進行合成。別忘了查看百科全書裡的基礎合成配方。,,OK,,
 562,194283,Outfits,Lua/LevelRewards.lua(00331),,,,,,,,服裝,,OK,,
 563,196645,Outfits affect the way you gain Overdrive and use Demon Powers. You can inspect the Outfits from your Inventory.,Lua/LevelRewards.lua(00332),,,,,,,,服裝能影響你凝聚超能和使用惡魔之力。你可以從物品欄查看服裝。,,OK,,
 568,194283,New Destiny Slot,Lua/LevelRewards.lua(00388),,,,,,,,新命運牌槽,,OK,,
@@ -2431,9 +2431,9 @@ Tag <UseDefaultEmote> not present in original text",
 3971,195716,<purple>The Fire and Aimed Shot attacks pierce targets</purple>,Lua/LootWeapon.lua(00846),,,,,,,,<purple>射擊和瞄準射擊可貫穿多個目標。</purple>,,OK,,
 3972,198919,<purple>Stack Aether Charges on Split Timing. At 10 charges the Fire attack unleashes a spread of fireworks.</purple>,Lua/LootWeapon.lua(00856),,,,,,,,<purple>間段攻擊時會累積以太聚能。10次聚能後， 射 擊 會釋放整片煙火。</purple>,,OK,,
 3973,198919,<purple>Stack Aether Charges on overkill. At 10 charges the Pound attack unleashes crows in all directions that damage and pierce foes.</purple>,Lua/LootWeapon.lua(00867),,,,,,,,<purple>絕殺時會累積以太聚能。10次聚能後，重鎚 擊 會 向四周釋放烏鴉攻擊並貫穿敵人。</purple>,,OK,,
-4377,198919,<purple>Stack Aether Charges when picking up power orbs. At 10 charges the Magic Missiles attack calls down neon cats from the heavens.</purple>,Lua/LootWeapon.lua(00878),,,,,,,,<purple>拾取能量寶珠時會累積以太聚能。10次聚能 後， 魔 法飛彈會從天堂召喚彩虹貓下凡。</purple>,,OK,,
+4377,198919,<purple>Stack Aether Charges when picking up power orbs. At 10 charges the Magic Missiles attack calls down neon cats from the heavens.</purple>,Lua/LootWeapon.lua(00878),,,,,,,,<purple>拾取祕能寶珠時會累積以太聚能。10次聚能 後， 魔 法飛彈會從天堂召喚彩虹貓下凡。</purple>,,OK,,
 4378,198395,<purple>A zone of yellow flames appears around the caster while channeling the Magic Missile attack dealing damage to foes in the area.</purple>,Lua/LootWeapon.lua(00888),,,,,,,,<purple>當施法者施展魔法飛彈時，四周會圍繞一圈黃色烈焰對範圍內的敵人造成傷害。</purple>,,OK,,
-4379,198395,<purple>Trigger an explosion every time you pick up a power orb</purple>,Lua/LootWeapon.lua(00898),,,,,,,,<purple>每拾取一顆能量寶珠就會引發爆炸。</purple>,,OK,,
+4379,198395,<purple>Trigger an explosion every time you pick up a power orb</purple>,Lua/LootWeapon.lua(00898),,,,,,,,<purple>每拾取一顆祕能寶珠就會引發爆炸。</purple>,,OK,,
 4380,198395,<purple>Magic Missiles has longer range and higher damage but they no longer pierce targets</purple>,Lua/LootWeapon.lua(00908),,,,,,,,<purple>魔法飛彈具有較長的距離和更高的傷害，但無法貫穿目標。</purple>,,OK,,
 4381,198395,<purple>Dimension Wave leaves a trail of flame that damages foes</purple>,Lua/LootWeapon.lua(00918),,,,,,,,<purple>次元波會留下一道火痕以傷害敵人。</purple>,,OK,,
 3974,195716,Kladenets,Lua/LootWeapon.lua(01027),,,,,,,,克萊德奈茲劍,,OK,,
@@ -2498,9 +2498,9 @@ Tag <UseDefaultEmote> not present in original text",
 3767,195189,Grim <name>,Lua/MonsterData.lua(02130),,feminine,,,,,,陰森<name>,,OK,,
 3768,195189,Grim <name>,Lua/MonsterData.lua(02131),,neuter,,,,,,陰森<name>,,OK,,
 742,194283,+65% Health - +75% Damage,Lua/MonsterData.lua(02134),,,,,,,,提升65%生命、提升75%傷害,,OK,,
-743,194283,Dire <name>,Lua/MonsterData.lua(02137),,masculine,,,,,,可怕<name>,,OK,,
-3769,195189,Dire <name>,Lua/MonsterData.lua(02138),,feminine,,,,,,可怕<name>,,OK,,
-3770,195189,Dire <name>,Lua/MonsterData.lua(02139),,neuter,,,,,,可怕<name>,,OK,,
+743,194283,Dire <name>,Lua/MonsterData.lua(02137),,masculine,,,,,,厄運<name>,,OK,,
+3769,195189,Dire <name>,Lua/MonsterData.lua(02138),,feminine,,,,,,厄運<name>,,OK,,
+3770,195189,Dire <name>,Lua/MonsterData.lua(02139),,neuter,,,,,,厄運<name>,,OK,,
 744,194283,+130% Health - +160% Damage,Lua/MonsterData.lua(02142),,,,,,,,提升130%生命、提升160%傷害,,OK,,
 745,194283,Dread <name>,Lua/MonsterData.lua(02145),,masculine,,,,,,恐怖<name>,,OK,,
 3771,195189,Dread <name>,Lua/MonsterData.lua(02146),,feminine,,,,,,恐怖<name>,,OK,,
@@ -3023,7 +3023,7 @@ Number of Meteors: <lightgreen><num_projectiles></lightgreen>",Lua/RuneTypes.lua
 1046,196645,"Unleash 3 consecutive shockwaves that push back all enemies dealing damage and <lightgreen2>Crippling</lightgreen2> them for <buff_duration> seconds.
 
 Damage per Shockwave: <lightgreen><min_damage> - <max_damage></lightgreen>
-Shockwave Radius: <lightgreen><radius_m>.<radius_cm></lightgreen> m<condition_description>",Lua/RuneTypes.lua(00620),,,,,,,,"釋放三道連續的衝擊波震退敵人，造成傷害並 導 致 敵 人<lightgreen2>癱 瘓</lightgreen2>， 持 續 <buff_duration>秒。
+Shockwave Radius: <lightgreen><radius_m>.<radius_cm></lightgreen> m<condition_description>",Lua/RuneTypes.lua(00620),,,,,,,,"釋放三道連續的衝擊波震退敵人，造成傷害並導致敵人<lightgreen2>癱 瘓</lightgreen2>， 持 續 <buff_duration>秒。
 
 每道衝擊波傷害：<lightgreen><min_damage>-<max_damage></lightgreen>。
 衝擊波半徑：<lightgreen><radius_m>.<radius_cm></lightgreen>公尺。<condition_description>",,OK,,
@@ -4284,7 +4284,7 @@ Check your Codex to see the standard recipes. Some recipes are secret and will n
 1772,194283,Ranged - Weakens on Crit,Lua/Units/SkeletonRanged.lua(00014),,,,,,,,遠程、力竭（暴擊時）,,OK,,
 1773,194283,Undead Brute,Lua/Units/SkeletonWarrior.lua(00005),,|gender,,,,,,不死壯漢,M,OK,,
 1774,194283,Undead Brutes,Lua/Units/SkeletonWarrior.lua(00006),,,,,,,,不死壯漢,,OK,,
-1775,194283,"Undead abominations of immense size, the Undead Brutes are some of the toughest opponents a Hunter could encounter. The curse of undeath influenced these unfortunate souls the most, twisting and distorting their forms, until their bodies only resemble hulking humanoids. If I ever underestimate their brutish strength and long reach, I would quickly join their shambling march.",Lua/Units/SkeletonWarrior.lua(00010),,,,,,,,體積最龐大的不死生物，不死壯漢是獵人能遇到的最強壯對手之一。不死的詛咒造成這些不幸的大量靈魂，糾結、扭曲了外表，使它們的身體只像似笨重的人形。如果低估它們的蠻力和攻擊範圍，那很快就會加入它們的行列了。,,OK,,
+1775,194283,"Undead abominations of immense size, the Undead Brutes are some of the toughest opponents a Hunter could encounter. The curse of undeath influenced these unfortunate souls the most, twisting and distorting their forms, until their bodies only resemble hulking humanoids. If I ever underestimate their brutish strength and long reach, I would quickly join their shambling march.",Lua/Units/SkeletonWarrior.lua(00010),,,,,,,,體積最龐大的不死生物，不死壯漢是獵人能遇到的最強壯對手之一。不死的詛咒造成這些不幸的大量靈魂，糾結、扭曲了外表，使它們的身體像似笨重的人形。如果低估它們的蠻力和攻擊範圍，那很快就會加入它們的行列了。,,OK,,
 1776,194283,Smash Attack,Lua/Units/SkeletonWarrior.lua(00011),,,,,,,,粉碎擊,,OK,,
 1777,194283,Undead Behemoth,Lua/Units/SkeletonWarriorElite.lua(00011),,|gender,,,,,,不死巨獸,M,OK,,
 1778,194283,Undead Behemoths,Lua/Units/SkeletonWarriorElite.lua(00012),,,,,,,,不死巨獸,,OK,,
@@ -4345,7 +4345,7 @@ Check your Codex to see the standard recipes. Some recipes are secret and will n
 1822,194283,Lays Eggs,Lua/Units/SpiderMother.lua(00013),,,,,,,,產卵,,OK,,
 1823,194283,Spider Nest,Lua/Units/SpiderNest.lua(00013),,|gender,,,,,,蜘蛛巢穴,M,OK,,
 1824,194283,Spider Nests,Lua/Units/SpiderNest.lua(00014),,,,,,,,蜘蛛巢穴,,OK,,
-1825,194283,"Growing like tumors in the midst of a demon infestation, the Nests spread their progeny across the cursed lands of Zagoravia. Scriptures claim that demon Nests could spew out spiders in an uncontrollable stream of flesh until the end of the world. I have found the hard way that the only way to put an end to that is to slay the nest.",Lua/Units/SpiderNest.lua(00018),,,,,,,,在惡魔肆虐期間長出的腫瘤狀之物，巢穴會散布蜘蛛遍及被詛咒的扎古拉維亞。根據記載，巢穴會不停地生出蜘蛛，直到淹沒整個世界。我經過教訓才發現：唯一消滅牠們的方法，就是先除掉巢穴。,,OK,,
+1825,194283,"Growing like tumors in the midst of a demon infestation, the Nests spread their progeny across the cursed lands of Zagoravia. Scriptures claim that demon Nests could spew out spiders in an uncontrollable stream of flesh until the end of the world. I have found the hard way that the only way to put an end to that is to slay the nest.",Lua/Units/SpiderNest.lua(00018),,,,,,,,在惡魔肆虐期間長出的腫瘤狀之物，巢穴會將蜘蛛散布到整個被詛咒的扎古拉維亞。根據記載，巢穴會不停地生出蜘蛛，直到淹沒整個世界。我經過教訓才發現：唯一消滅牠們的方法，就是先除掉巢穴。,,OK,,
 1826,194283,Hatches Spiders,Lua/Units/SpiderNest.lua(00019),,,,,,,,孵出蜘蛛,,OK,,
 1827,194283,Icecrawler,Lua/Units/SpiderRanged.lua(00004),,|gender,,,,,,冰凍爬蛛,M,OK,,
 1828,194283,Icecrawlers,Lua/Units/SpiderRanged.lua(00005),,,,,,,,冰凍爬蛛,,OK,,
@@ -4420,11 +4420,11 @@ Check your Codex to see the standard recipes. Some recipes are secret and will n
 1896,194283,"The Hand Mortar is a slow but powerful ranged weapon. It shoots bouncing, exploding grenades",Lua/Weapons/HandMortar.lua(00011),,,,,,,,迫擊炮是一種非常緩慢但威力強大的遠程武器。它能射出會彈跳的爆炸榴彈。,,OK,,
 1897,194283,Combine the Explosive Jump attack with Fire Lake to push back your enemies delivering high damage and slowing down their advances,Lua/Weapons/HandMortar.lua(00012),,,,,,,,結合爆炸跳和火海彈可震退敵人，造成極高傷害並使他們寸步難行。,,OK,,
 1898,194283,Bouncing Betty,Lua/Weapons/HandMortar.lua(00151),,,,,,,,彈跳彈,,OK,,
-1899,195716,Fires a grenade that bounces off the ground and deals AoE damage. Holding down the attack button increases the lenght of the intial trajectory.,Lua/Weapons/HandMortar.lua(00152),,,,,,,,射出一枚可在地面彈跳的榴彈並造成範圍傷害。按住攻擊鍵可增長初始彈道射程。,,OK,,
+1899,195716,Fires a grenade that bounces off the ground and deals AoE damage. Holding down the attack button increases the lenght of the intial trajectory.,Lua/Weapons/HandMortar.lua(00152),,,,,,,,射出一枚可在地面彈跳的榴彈並造成範圍傷 害。按住攻擊鍵可增長初始彈道射程。,,OK,,
 1900,194283,Fire Lake,Lua/Weapons/HandMortar.lua(00231),,,,,,,,火海彈,,OK,,
 1901,194283,"Fires a grenade that creates an area of liquid fire that damages enemies inside it. Lasts <number1> sec and has a radius of <number2>m. Units caught in the initial blast get the <lightgreen2><condition></lightgreen2> condition.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/HandMortar.lua(00232),,,,,,,,"射出一枚可產生一灘液態火焰的榴彈，對範圍內的敵人造成傷害。 持 續 時 間<number1>秒， 半 徑 範 圍<number2>公 尺。 受 到 初 始 爆 炸 衝 擊 的 敵 人 會 造 成<lightgreen2><condition></lightgreen2>。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/HandMortar.lua(00232),,,,,,,,"射出一枚可產生一灘液態火焰的榴彈，對範圍內的敵人造成傷害。持續時間<number1>秒，半徑範圍<number2>公尺。 受到初始爆炸衝擊的敵人會造成<lightgreen2><condition></lightgreen2>。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1902,194283,Explosive Jump,Lua/Weapons/HandMortar.lua(00316),,,,,,,,爆炸跳,,OK,,
@@ -4619,13 +4619,13 @@ Cleave - hit 5 or more enemies with this attack to reduce Shockwave's cooldown
 <lightgreen2><condition2></lightgreen2>：<description2>",,OK,,
 3509,196645,Tome,Lua/Weapons/TomeOfSouls.lua(00003),,|gender,,,,,,法典,M,OK,,
 3510,198395,The Tome is a medium range weapon with special attacks that can be used repeatedly without cooldowns.,Lua/Weapons/TomeOfSouls.lua(00010),,,,,,,,法典是一種中程武器，可以不需要冷卻，連續地使用招式。,,OK,,
-4323,198395,Open with Magic Missiles to inflict some damage and generate power orbs. Pick up the orbs and then unleash a cascade of Singularity Orbs to inflict devastating damage or use a series of Dimension Waves to navigate the battlefield and Daze all of your foes.,Lua/Weapons/TomeOfSouls.lua(00011),,,,,,,,魔法飛彈可造成些許傷害並產生能量寶珠。拾取寶珠後，可釋放一堆黑洞球造成毀滅性的破壞，或施展一連串的次元波穿梭戰場並暈眩所有敵人。,,OK,,
+4323,198395,Open with Magic Missiles to inflict some damage and generate power orbs. Pick up the orbs and then unleash a cascade of Singularity Orbs to inflict devastating damage or use a series of Dimension Waves to navigate the battlefield and Daze all of your foes.,Lua/Weapons/TomeOfSouls.lua(00011),,,,,,,,魔法飛彈可造成些許傷害並產生祕能寶珠。拾取寶珠後，可釋放一堆黑洞球造成毀滅性的破壞，或施展一連串的次元波穿梭戰場並暈眩所有敵人。,,OK,,
 3511,198395,Magic Missiles,Lua/Weapons/TomeOfSouls.lua(00067),,,,,,,,魔法飛彈,,OK,,
 3512,198919,"Fire short range magical projectiles that pierce targets dealing damage. Hold the button to increase fire rate.
 
 Magical missiles may drop <lightgreen2><condition_name></lightgreen2> orbs on hit.
 
-<lightgreen2><condition_name></lightgreen2>: <condition_description>",Lua/Weapons/TomeOfSouls.lua(00068),,,,,,,,"射出可穿透目標並造成傷害的短距離魔法飛彈。按住按鍵可提升射速。
+<lightgreen2><condition_name></lightgreen2>: <condition_description>",Lua/Weapons/TomeOfSouls.lua(00068),,,,,,,,"射出可穿透目標並造成傷害的短距離魔法飛 彈。按住按鍵可提升射速。
 
 魔法飛彈擊中時有機率會掉落<lightgreen2><condition_name></lightgreen2>寶珠。
 
@@ -4634,7 +4634,7 @@ Magical missiles may drop <lightgreen2><condition_name></lightgreen2> orbs on hi
 3514,198395,"Transform into a wave of arcane energy that travels fast and inflicts the <lightgreen2><condition_name></lightgreen2> condition to all enemies on its path. Pick up all arcane orbs in its radius at the end of the attack.
 Consumes one Arcane Power orb to recharge instantly
 
-<lightgreen2><condition_name></lightgreen2>: <condition_description>",Lua/Weapons/TomeOfSouls.lua(00169),,,,,,,,"化成一股祕能波，快速穿過 路 徑 上 的 所 有 敵 人 並 造 成<lightgreen2><condition_name></lightgreen2>。 攻 擊 結 束 後 會 拾 取 半 徑 範 圍 內 的 所 有 祕 能 寶 珠。
+<lightgreen2><condition_name></lightgreen2>: <condition_description>",Lua/Weapons/TomeOfSouls.lua(00169),,,,,,,,"化成一股祕能波，快速穿過路徑上的所有敵人 並 造 成<lightgreen2><condition_name></lightgreen2>。 攻 擊 結 束 後 會 拾 取 半 徑 範 圍 內 的 所 有 祕 能 寶 珠。
 消耗一顆祕能寶珠可立即冷卻。
 
 <lightgreen2><condition_name></lightgreen2>：<condition_description>",,OK,,
@@ -6161,11 +6161,11 @@ Every day I endeavor to convince her to give up hope of saving this city. With y
 3219,194283,When Victor stepped into the large hall he was presented with a choice.,Data/Scenario/Banters_RoyalCrypt.lua(00058),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,當維克多踏入大廳的那一刻起，他面臨了一個抉擇。,,OK,,
 3220,194283,"Go left or go right, Victor pondered, as the monsters in the hall tried to claw at his flesh.",Data/Scenario/Banters_RoyalCrypt.lua(00062),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,往左還是往右？在維克多猶豫的同時，大廳裡的怪物們向他伸出了魔爪。,,OK,,
 3221,194283,"Not bothered by the monsters, Victor ran past them and took the wrong path.",Data/Scenario/Banters_RoyalCrypt.lua(00073),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,無視這些怪物，維克多穿過它們，走進了錯誤的路。,,OK,,
-3222,194283,"Having slain the last enemy, Victor made a choice and took the wrong path.",Data/Scenario/Banters_RoyalCrypt.lua(00084),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,在殺光敵人後，維克多作出決定，走進了錯誤的路。,,OK,,
+3222,194283,"Having slain the last enemy, Victor made a choice and took the wrong path.",Data/Scenario/Banters_RoyalCrypt.lua(00084),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,在殺了敵人後，維克多作出決定，走進了錯誤的路。,,OK,,
 3223,194283,Left or Right? The choice was proving too difficult for Victor.,Data/Scenario/Banters_RoyalCrypt.lua(00095),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,往左還是往右？這決定對維克多來說太難了。,,OK,,
-3224,194283,Little did he suspect that the choice was meaningless.,Data/Scenario/Banters_RoyalCrypt.lua(00099),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,他絲毫沒有料到決定根本毫無意義。,,OK,,
+3224,194283,Little did he suspect that the choice was meaningless.,Data/Scenario/Banters_RoyalCrypt.lua(00099),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,他絲毫沒有想到決定根本毫無意義。,,OK,,
 3225,194283,"Trying to be smart, Victor opted for a third choice.",Data/Scenario/Banters_RoyalCrypt.lua(00110),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,自作聰明的維克多選擇了第三條路。,,OK,,
-3226,196015,But that was also wrong. There was nothing back at the entrance.,Data/Scenario/Banters_RoyalCrypt.lua(00114),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,但這也是錯誤的決定。回到入口處什麼也沒有。,,OK,,
+3226,196015,But that was also wrong. There was nothing back at the entrance.,Data/Scenario/Banters_RoyalCrypt.lua(00114),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,但這也是錯誤的決定。回到入口什麼也沒有。,,OK,,
 3227,196015,"Moving on, Stanley... I mean - Victor discovered the lifeless corpse of a fellow hunter.",Data/Scenario/Banters_RoyalCrypt.lua(00125),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,繼續前進，史丹利……我是說，維克多發現了一位獵人伙伴的屍體。,,OK,,
 3228,194283,"""Weakling!"" he thought ""Dead at the start of the dungeon.""",Data/Scenario/Banters_RoyalCrypt.lua(00129),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,「弱雞！」他心想「怎麼剛進地城就掛了。」,,OK,,
 3229,194283,"Running through the corridor, Victor noticed the body of a hunter.",Data/Scenario/Banters_RoyalCrypt.lua(00140),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,穿過長廊時，維克多發現了一具獵人的屍體。,,OK,,
@@ -6178,7 +6178,7 @@ Every day I endeavor to convince her to give up hope of saving this city. With y
 3236,194283,"Oh, come on! Please!",Data/Scenario/Banters_RoyalCrypt.lua(00196),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,哦，別這樣嘛！拜託！,,OK,,
 3237,194283,A beautifully arranged trail of blood and guts guided Victor forward.,Data/Scenario/Banters_RoyalCrypt.lua(00207),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,布置華麗的血跡和內臟指引著維克多前進。,,OK,,
 3238,194283,"As the corridor reached its end, Victor noticed the bodies of hunters and soldiers littered around the large hall.",Data/Scenario/Banters_RoyalCrypt.lua(00218),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,走到走廊的盡頭，維克多發現大廳到處都是獵人和士兵的屍體。,,OK,,
-3239,194283,Also there were monsters.,Data/Scenario/Banters_RoyalCrypt.lua(00222),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,還有怪物。,,OK,,
+3239,194283,Also there were monsters.,Data/Scenario/Banters_RoyalCrypt.lua(00222),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,當然，還有怪物。,,OK,,
 3240,194372,<singing>Brave Sir Victor ran away.,Data/Scenario/Banters_RoyalCrypt.lua(00233),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,<singing>英勇的維克多逃了。,,OK,,
 3241,194372,<singing>Bravely ran away away.,Data/Scenario/Banters_RoyalCrypt.lua(00238),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,<singing>勇敢的逃得遠遠地。,,OK,,
 3242,194372,"<singing>When danger reared its ugly head,",Data/Scenario/Banters_RoyalCrypt.lua(00243),Act1 08 Entering the Royal Crypt,,Voice,Voice,,,,<singing>只要危險一冒頭，,,OK,,
@@ -6212,14 +6212,14 @@ It's too bad she will die so young and pretty. Demons will have her, no doubt. C
 經過幾次探路，她帶回了不少有趣的裝備。
 
 可惜的是，她始終會紅顏薄命，死在惡魔手上。要來看看我的貨嗎？",,OK,,
-2839,194283,Another dead body. This is fast becoming a common sight.,Data/Scenario/Banters_AmuletDungeon.lua(00015),Act1 09 Amulet Dungeon Banters,,Victor Vran,Victor Vran,,,,又一具屍體。快要司空見慣了。,,OK,,
+2839,194283,Another dead body. This is fast becoming a common sight.,Data/Scenario/Banters_AmuletDungeon.lua(00015),Act1 09 Amulet Dungeon Banters,,Victor Vran,Victor Vran,,,,又一具屍體。都快要習以為常了。,,OK,,
 2840,194283,I fear that someday I will get used to death.,Data/Scenario/Banters_AmuletDungeon.lua(00019),Act1 09 Amulet Dungeon Banters,,Victor Vran,Victor Vran,,,,我怕有一天我會對死亡麻木。,,OK,,
-2841,194283,Then I would be no different than the monsters I fight.,Data/Scenario/Banters_AmuletDungeon.lua(00023),Act1 09 Amulet Dungeon Banters,,Victor Vran,Victor Vran,,,,到時候我跟那些怪物就毫無區別了。,,OK,,
+2841,194283,Then I would be no different than the monsters I fight.,Data/Scenario/Banters_AmuletDungeon.lua(00023),Act1 09 Amulet Dungeon Banters,,Victor Vran,Victor Vran,,,,到時候我就跟那些怪物毫無區別了。,,OK,,
 2842,194283,Something doesn't make sense.,Data/Scenario/Banters_AmuletDungeon.lua(00034),Act1 09 Amulet Dungeon Banters,,Victor Vran,Victor Vran,,,,有點不對勁。,,OK,,
 2843,194283,So many dead hunters.,Data/Scenario/Banters_AmuletDungeon.lua(00038),Act1 09 Amulet Dungeon Banters,,Victor Vran,Victor Vran,,,,這麼多的獵人屍體。,,OK,,
-2844,194283,Killed off one by one. Something is stalking these halls.,Data/Scenario/Banters_AmuletDungeon.lua(00042),Act1 09 Amulet Dungeon Banters,,Victor Vran,Victor Vran,,,,一個一個地被殺。有東西正潛伏在這些大廳裡。,,OK,,
-2845,194283,Why didn't the hunters retreat and regroup?,Data/Scenario/Banters_AmuletDungeon.lua(00053),Act1 09 Amulet Dungeon Banters,,Victor Vran,Victor Vran,,,,為什麼沒有獵人撤退並重新集結呢？,,OK,,
-2846,194283,What was keeping them in this cursed city?,Data/Scenario/Banters_AmuletDungeon.lua(00057),Act1 09 Amulet Dungeon Banters,,Victor Vran,Victor Vran,,,,到底是什麼將他們留在這座詛咒之城？,,OK,,
+2844,194283,Killed off one by one. Something is stalking these halls.,Data/Scenario/Banters_AmuletDungeon.lua(00042),Act1 09 Amulet Dungeon Banters,,Victor Vran,Victor Vran,,,,一個一個地被殺。有什麼正潛伏在大廳裡。,,OK,,
+2845,194283,Why didn't the hunters retreat and regroup?,Data/Scenario/Banters_AmuletDungeon.lua(00053),Act1 09 Amulet Dungeon Banters,,Victor Vran,Victor Vran,,,,為什麼獵人不撤退再集結呢？,,OK,,
+2846,194283,What was keeping them in this cursed city?,Data/Scenario/Banters_AmuletDungeon.lua(00057),Act1 09 Amulet Dungeon Banters,,Victor Vran,Victor Vran,,,,是什麼讓他們留在這座詛咒之城？,,OK,,
 2847,194283,The pieces are forming a disturbing pattern.,Data/Scenario/Banters_AmuletDungeon.lua(00061),Act1 09 Amulet Dungeon Banters,,Victor Vran,Victor Vran,,,,種種線索都指向一個令人不安的方向。,,OK,,
 2848,194283,"Victor, is that you, old friend?",Data/Scenario/Banters_AmuletDungeon.lua(00072),Act1 09 Amulet Dungeon Banters,,Adrian,Adrian,,,,維克多，是你嗎？老友啊。,,OK,,
 2849,194283,I've been expecting you!,Data/Scenario/Banters_AmuletDungeon.lua(00079),Act1 09 Amulet Dungeon Banters,,Adrian,Adrian,,,,我一直在等你！,,OK,,
@@ -6249,22 +6249,22 @@ Have you ever seen the city you swore to protect being overrun by the enemy? Hav
 2196,196015,"The hunters were supposed to save the day. Her Majesty was adamant, she was convinced beyond reason, that you would turn the tide of the war. Yes, your kind came here, but you bled and you died just like my men.",Data/Conversations/Guard.lua(00042),Act1 091 Sir Krum on hunters failure,,Sir Krum,Sir Krum,,,,獵人一直被期望著能扭轉敗局。女王陛下意志堅定，毫無理由地深信你們會力挽狂瀾。沒錯，你們是來了，但跟我們的人一樣，你們照樣流血，照樣死去。,,OK,,
 2197,196015,"The story in a nutshell? My men died to give the hunters a fighting chance that they never took. I hear the voices of my men, whispering in my head, and they want retribution - can you give it to them?",Data/Conversations/Guard.lua(00046),Act1 091 Sir Krum on hunters failure,,Sir Krum,Sir Krum,,,,簡單地說，我們的人陣亡才讓獵人有大顯身手的機會。我能聽到他們的聲音，一直在我的腦海中迴盪著，他們渴望復仇──你能完成他們的遺願嗎？,,OK,,
 2207,196015,You? Why are you parading around here instead of hunting monsters? Or have you tired of that?,Data/Conversations/Guard.lua(00131),Act1 092 Sir Krum biting remarks on Victor,,Sir Krum,Sir Krum,,,,是你啊？你怎麼不去殺怪，反倒在這裡閒晃？你累了嗎？,,OK,,
-3377,194283,The survivors are gathered around the war table.,Data/Scenario/Cutscene_texts.lua(00066),Act1 12 Cutscene 2: Spring the Trap,,Victor Vran,Victor Vran,,,,倖存者們聚集在戰略桌的周圍。,,OK,,
-3378,194283,There is tension in the air. There is also fear.,Data/Scenario/Cutscene_texts.lua(00070),Act1 12 Cutscene 2: Spring the Trap,,Victor Vran,Victor Vran,,,,空氣中瀰漫著緊張的氣氛。也夾雜著恐懼。,,OK,,
-3379,194283,There are not enough guards to hold the castle.,Data/Scenario/Cutscene_texts.lua(00074),Act1 12 Cutscene 2: Spring the Trap,,Victor Vran,Victor Vran,,,,沒有足夠的士兵來鎮守城堡了。,,OK,,
-3380,194799,Irene has been missing for a while now and they think that I have left them for good.,Data/Scenario/Cutscene_texts.lua(00078),Act1 12 Cutscene 2: Spring the Trap,,Victor Vran,Victor Vran,,,,艾琳已經失蹤一段時間了，而他們以為我拋下他們離開了。,,OK,,
-3381,196015,The Queen still insists on continuing the fight. She asks them to do the impossible.,Data/Scenario/Cutscene_texts.lua(00082),Act1 12 Cutscene 2: Spring the Trap,,Victor Vran,Victor Vran,,,,女王依然堅持繼續奮戰。她這等於要他們完成不可能的任務。,,OK,,
+3377,194283,The survivors are gathered around the war table.,Data/Scenario/Cutscene_texts.lua(00066),Act1 12 Cutscene 2: Spring the Trap,,Victor Vran,Victor Vran,,,,倖存者們聚集在桌子的周圍。,,OK,,
+3378,194283,There is tension in the air. There is also fear.,Data/Scenario/Cutscene_texts.lua(00070),Act1 12 Cutscene 2: Spring the Trap,,Victor Vran,Victor Vran,,,,空氣中瀰漫著緊張的氣氛，也夾雜著恐懼。,,OK,,
+3379,194283,There are not enough guards to hold the castle.,Data/Scenario/Cutscene_texts.lua(00074),Act1 12 Cutscene 2: Spring the Trap,,Victor Vran,Victor Vran,,,,沒有足夠的兵力來鎮守城堡了。,,OK,,
+3380,194799,Irene has been missing for a while now and they think that I have left them for good.,Data/Scenario/Cutscene_texts.lua(00078),Act1 12 Cutscene 2: Spring the Trap,,Victor Vran,Victor Vran,,,,艾琳已經失蹤了一段時間，而他們也以為我不辭而別了。,,OK,,
+3381,196015,The Queen still insists on continuing the fight. She asks them to do the impossible.,Data/Scenario/Cutscene_texts.lua(00082),Act1 12 Cutscene 2: Spring the Trap,,Victor Vran,Victor Vran,,,,女王依然堅持繼續奮戰。這等於要他們完成不可能的任務。,,OK,,
 3382,194283,What they need now is a sliver of hope.,Data/Scenario/Cutscene_texts.lua(00086),Act1 12 Cutscene 2: Spring the Trap,,Victor Vran,Victor Vran,,,,他們現在所需要的是一絲希望。,,OK,,
 3383,194283,"""I’ve changed my mind. <pause>I’ll stay.""",Data/Scenario/Cutscene_texts.lua(00090),Act1 12 Cutscene 2: Spring the Trap,,Victor Vran,Victor Vran,,,,「我改變主意了。<pause>我會留下來。」,,OK,,
 3384,196015,"""At last you see. We will overcome the invasion.""",Data/Scenario/Cutscene_texts.lua(00094),Act1 12 Cutscene 2: Spring the Trap,,Queen Katarina,Queen Katarina,,,,「你終於想通了。我們會戰勝這場侵略的。」,,OK,,
-3385,196015,"""This is not an invasion! I know what's happening here. The city is a trap. A trap for hunters.""",Data/Scenario/Cutscene_texts.lua(00098),Act1 12 Cutscene 2: Spring the Trap,,Victor Vran,Victor Vran,,,,「這並不是侵略！我知道現在的狀況。這座城市是個陷阱。針對獵人而設的。」,,OK,,
+3385,196015,"""This is not an invasion! I know what's happening here. The city is a trap. A trap for hunters.""",Data/Scenario/Cutscene_texts.lua(00098),Act1 12 Cutscene 2: Spring the Trap,,Victor Vran,Victor Vran,,,,「這並不是侵略！我知道現在的狀況。這座城市是個陷阱，針對獵人而設的。」,,OK,,
 3386,194283,"""And what would you do?""",Data/Scenario/Cutscene_texts.lua(00102),Act1 12 Cutscene 2: Spring the Trap,,Queen Katarina,Queen Katarina,,,,「那你打算怎麼做？」,,OK,,
 3387,194283,"""Spring the trap.""",Data/Scenario/Cutscene_texts.lua(00106),Act1 12 Cutscene 2: Spring the Trap,,Victor Vran,Victor Vran,,,,「將計就計。」,,OK,,
 2198,194283,I am going to look for Irene. Do you know where she went?,Data/Conversations/Guard.lua(00059),Act1 13 sir Krum after cut scene,,Victor Vran,Victor Vran,,,,我打算去找艾琳。你知道她去哪裡了嗎？,,OK,,
-2199,196015,She is searching for something all over Zagoravia.  She left for the old tower in the Hunting Grounds but she did not return. I looked for her before the war council but I was unable to find her. ,Data/Conversations/Guard.lua(00063),Act1 13 sir Krum after cut scene,,Sir Krum,Sir Krum,,,,她正在扎古拉維亞到處找某樣東西。她已經去了狩獵場的舊哨塔，卻沒有再回來。我在戰略會議之前找過她，但沒有找著。,,OK,,
+2199,196015,She is searching for something all over Zagoravia.  She left for the old tower in the Hunting Grounds but she did not return. I looked for her before the war council but I was unable to find her. ,Data/Conversations/Guard.lua(00063),Act1 13 sir Krum after cut scene,,Sir Krum,Sir Krum,,,,她正在扎古拉維亞到處找某樣東西。她已經去了狩獵場的舊哨塔，卻再也沒有回來。我在戰略會議之前找過她，但我沒有找到。,,OK,,
 3475,194409,"A crazy decision, Victor - to stay and fight. Try not to lose your mind like our beloved Queen and all the rest. They are doomed, all of them. No point in trying to save them.
 
-But I will gladly sell you some potions, regardless.",Data/Conversations/Alchemist.lua(00129),Act1 131 Alchemist on the decision to stay,,Damian,Damian,,,,"留下來奮戰是個瘋狂的決定，維克多。別像我們敬愛的女王以及其他人一樣失去理智。他們全都沒救了，別白費力氣了。
+But I will gladly sell you some potions, regardless.",Data/Conversations/Alchemist.lua(00129),Act1 131 Alchemist on the decision to stay,,Damian,Damian,,,,"留下來奮戰是個瘋狂的決定，維克多。別像我們敬愛的女王以及其他人一樣失去了理智。他們全都沒救了，別白費力氣了。
 
 話雖如此，但我還是很樂意賣你一些藥劑。",,OK,,
 2873,194283,You are looking for your delicious little girlfriend.,Data/Scenario/Banters_HuntingGround.lua(00015),Act1 14 Banters_HuntingGround,,Voice,Voice,,,,你正在尋找你那鮮嫩的小女友啊。,,OK,,
