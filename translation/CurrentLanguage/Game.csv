@@ -1491,7 +1491,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 2,194283,Inflicts <number> damage to all enemies within <radius>m,Lua/Bomb.lua(00079),,,,,,,,對<radius>公尺半徑內的敵人造成<number>傷害。,,OK,,
 3,194283,Frost Bomb,Lua/Bomb.lua(00095),,,,,,,,冰霜炸彈,,OK,,
 4,197387,"Inflicts <number2> damage and <lightgreen2><condition_name></lightgreen2> for <number> seconds to all enemies within <radius>m
-<grey>*<condition_name>: <condition_description></grey>",Lua/Bomb.lua(00106),,,,,,,,"對<radius>公尺半徑內的敵人造成<number2>傷害，並附加<lightgreen2><condition_name></lightgreen2>，持續<number>秒。
+<grey>*<condition_name>: <condition_description></grey>",Lua/Bomb.lua(00106),,,,,,,,"對<radius>公尺半徑內的敵人造成<number2>傷害，並附加<lightgreen2><condition_name></lightgreen2>，持續<number><red></red>秒。
 <grey>*<condition_name>：<condition_description></grey>",,OK,,
 5,194283,Leech Bomb,Lua/Bomb.lua(00130),,,,,,,,水蛭炸彈,,OK,,
 6,194283,Inflicts <number> damage to all enemies within <radius>m. Gain <number2> health per enemy hit (up to <number3> health).,Lua/Bomb.lua(00141),,,,,,,,"對<radius>公尺半徑內的敵人造成<number>傷害。
@@ -1532,7 +1532,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 39,194283,Fear,Lua/Buff.lua(00857),,,,,,,,恐懼,,OK,,
 40,194283,Retreating; unable to attack,Lua/Buff.lua(00859),,,,,,,,逃跑，無法攻擊。,,OK,,
 41,194283,Bleeding,Lua/Buff.lua(00907),,,,,,,,流血,,OK,,
-42,195390,Deals <hps>% of the maximum health but no more than <max_dmg> damage every second. Bleeding can't kill the target,Lua/Buff.lua(00909),,,,,,,,每秒造成最大生命<hps>%傷害， 但 不 超 過 <max_dmg>。 流 血 不 會 使 目 標 死 亡。,,OK,,
+42,195390,Deals <hps>% of the maximum health but no more than <max_dmg> damage every second. Bleeding can't kill the target,Lua/Buff.lua(00909),,,,,,,,每秒造成最大生命<hps>%傷害，但不超過<red></red><max_dmg>。<red></red>流血不會使目標死亡。,,OK,,
 43,194283,Speed,Lua/Buff.lua(00931),,,,,,,,加速,,OK,,
 44,194283,Movement and attack speeds are increased by <number>%,Lua/Buff.lua(00932),,,,,,,,提升<number>%移動和攻擊速度。,,OK,,
 45,194283,Quickness,Lua/Buff.lua(00943),,,,,,,,快手,,OK,,
@@ -1542,7 +1542,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 49,194283,Frost,Lua/Buff.lua(00966),,,,,,,,結霜,,OK,,
 50,200080,Movement and attack speeds are decreased by <number>%,Lua/Buff.lua(00968),,,,,,,,降低<number>%移動和攻擊速度。,,changed,,
 51,194283,Frostburn,Lua/Buff.lua(00979),,,,,,,,凍傷,,OK,,
-52,194283,Deals <number1> damage every second. Movement and attack speeds are decreased by <number2>%,Lua/Buff.lua(00981),,,,,,,,每秒造成<number1>傷害。 降 低<number2>%移 動 和 攻 擊 速 度。,,OK,,
+52,194283,Deals <number1> damage every second. Movement and attack speeds are decreased by <number2>%,Lua/Buff.lua(00981),,,,,,,,每秒造成<number1>傷害。降低<number2>%移動和<red></red>攻擊<red></red>速度。,,OK,,
 53,194283,Burning,Lua/Buff.lua(00999),,,,,,,,燒傷,,OK,,
 54,194283,Deals <number> damage every second,Lua/Buff.lua(01001),,,,,,,,每秒造成<number>傷害。,,OK,,
 55,194283,Slow,Lua/Buff.lua(01034),,,,,,,,遲鈍,,OK,,
@@ -1552,7 +1552,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 59,194283,Slowed,Lua/Buff.lua(01060),,,,,,,,緩速,,OK,,
 60,194283,Movement and attack speeds are decreased by <number>%,Lua/Buff.lua(01062),,,,,,,,降低<number>%移動和攻擊速度。,,OK,,
 61,194283,Thorns,Lua/Buff.lua(01075),,,,,,,,荊棘,,OK,,
-62,198395,Reflects <number>% of any melee damage back to its source. Reflected damage is calculated before Armor and also ignores enemy Armor.,Lua/Buff.lua(01076),,,,,,,,反彈<number>%近戰傷害， 反 彈 的 傷 害 會 無 視 敵 人 的 防 禦。,,OK,,
+62,198395,Reflects <number>% of any melee damage back to its source. Reflected damage is calculated before Armor and also ignores enemy Armor.,Lua/Buff.lua(01076),,,,,,,,反彈<number>%近戰傷害，反彈的傷害會無<red></red>視敵人的<red></red>防禦。,,OK,,
 63,194283,Hard Skin,Lua/Buff.lua(01085),,,,,,,,硬皮,,OK,,
 64,194283,Incoming damage is decreased by <number>%,Lua/Buff.lua(01086),,,,,,,,降低<number>%所受傷害。,,OK,,
 65,194283,Weakness,Lua/Buff.lua(01093),,,,,,,,力竭,,OK,,
@@ -1569,7 +1569,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 76,194283,Invisibility,Lua/Buff.lua(01166),,,,,,,,隱形,,OK,,
 77,194283,Invisible for enemies; cannot be attacked,Lua/Buff.lua(01168),,,,,,,,敵人看不到，不會被攻擊。,,OK,,
 78,194283,Curse,Lua/Buff.lua(01205),,,,,,,,詛咒,,OK,,
-79,194283,"Deals damage every second (<number1> + <number2>% of the maximum health). When a cursed enemy dies, nearby enemies regain <number3>% of their health",Lua/Buff.lua(01207),,,,,,,,每秒造成傷害（<number1> + 最大生命<number2>%）。 當 一 個 被 詛 咒 的 敵 人 死 亡 時， 附 近 的 敵 人 會 恢 復 自 身 <number3>%生 命。,,OK,,
+79,194283,"Deals damage every second (<number1> + <number2>% of the maximum health). When a cursed enemy dies, nearby enemies regain <number3>% of their health",Lua/Buff.lua(01207),,,,,,,,每秒造成傷害（<number1> + 最大生命<number2>%）。<red></red>當一<red></red>個被詛咒的敵人死亡時，附近的敵人會恢復自身<number3>%生命。,,OK,,
 80,194283,Deadly Curse,Lua/Buff.lua(01245),,,,,,,,死咒,,OK,,
 81,194283,Death in <number> seconds,Lua/Buff.lua(01247),,,,,,,,<number>秒後必死。,,OK,,
 82,194283,Berserk,Lua/Buff.lua(01258),,,,,,,,狂暴,,OK,,
@@ -1597,7 +1597,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 3941,195716,Aether Charge,Lua/Buff.lua(01451),,,,,,,,以太聚能,,OK,,
 3942,198919,Stack 10 charges to unleash powerful effects from legendary weapons,Lua/Buff.lua(01453),,,,,,,,累積10次聚能後可釋放傳奇武器強大的力量。,,OK,,
 102,194283,Soul Shard,Lua/Buff.lua(01539),,,,,,,,靈魂碎片,,OK,,
-103,194283,"The scythe's cursed blade rips a piece of the enemy soul with each hit, empowering the next special attack",Lua/Buff.lua(01541),,,,,,,,巨鐮受詛咒的刀刃每一擊 都 會 扯 下 一 片 敵 人 的 靈 魂， 為 下 一 發 招 式 提 供 力 量。,,OK,,
+103,194283,"The scythe's cursed blade rips a piece of the enemy soul with each hit, empowering the next special attack",Lua/Buff.lua(01541),,,,,,,,巨鐮受詛咒的刀刃每一擊都會扯下<red></red>一片敵人<red></red>的靈魂，為下一發招式提供力量。,,OK,,
 104,194283,Arcane Power,Lua/Buff.lua(01566),,,,,,,,祕能,,OK,,
 105,198919,Use Arcane Power stacks to recharge Tome attacks instantly,Lua/Buff.lua(01568),,,,,,,,累積的祕能可立即冷卻法典招式。,,OK,,
 106,194283,Blocked Overdrive,Lua/Buff.lua(01579),,,,,,,,封鎖超能,,OK,,
@@ -1695,7 +1695,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 181,194283,The Guardian,Lua/DestinyCard.lua(01019),,,,,,,,守護者,,OK,,
 182,194283,The Divine Guardian,Lua/DestinyCard.lua(01020),,,,,,,,神聖守護者,,OK,,
 183,194283,The Wicked Guardian,Lua/DestinyCard.lua(01021),,,,,,,,邪惡守護者,,OK,,
-184,198395,"Release an explosion when hit in melee (<lightgreen><damage></lightgreen> damage, <lightgreen><chance>%</lightgreen> chance) that ignores armor. The explosion has a chance to Electrocute foes",Lua/DestinyCard.lua(01033),,,,,,,,近戰擊中時引發無視防禦的爆炸（<lightgreen><damage></lightgreen>傷害，<lightgreen><chance>%</lightgreen>機率）。 爆炸有機率會使敵人觸電。,,OK,,
+184,198395,"Release an explosion when hit in melee (<lightgreen><damage></lightgreen> damage, <lightgreen><chance>%</lightgreen> chance) that ignores armor. The explosion has a chance to Electrocute foes",Lua/DestinyCard.lua(01033),,,,,,,,近戰擊中時引發無視防禦的爆炸（<lightgreen><damage></lightgreen>傷害，<lightgreen><chance>%</lightgreen>機率 ）。<red></red>爆炸有機率會使敵人觸電。,,OK,,
 185,194283,The Runner,Lua/DestinyCard.lua(01066),,,,,,,,跑者,,OK,,
 186,194283,The Divine Runner,Lua/DestinyCard.lua(01067),,,,,,,,神聖跑者,,OK,,
 187,194283,The Wicked Runner,Lua/DestinyCard.lua(01068),,,,,,,,邪惡跑者,,OK,,
@@ -1720,11 +1720,11 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 206,194283,The Moon,Lua/DestinyCard.lua(01174),,,,,,,,月亮,,OK,,
 207,194283,The Divine Moon,Lua/DestinyCard.lua(01175),,,,,,,,神聖月亮,,OK,,
 208,194283,The Wicked Moon,Lua/DestinyCard.lua(01176),,,,,,,,邪惡月亮,,OK,,
-209,198395,"Cause a frost explosion on crit (<lightgreen><damage></lightgreen> damage, <cooldown> sec. cooldown) that ignores armor. All targets gain the <lightgreen2><condition_name></lightgreen2> condition.<condition_description>",Lua/DestinyCard.lua(01190),,,,,,,,暴擊時引發無視防禦的冰霜爆炸（<lightgreen><damage></lightgreen>傷害，冷卻時間<cooldown>秒）。 所有目標附加<lightgreen2><condition_name></lightgreen2>狀態。<condition_description>,,OK,,
+209,198395,"Cause a frost explosion on crit (<lightgreen><damage></lightgreen> damage, <cooldown> sec. cooldown) that ignores armor. All targets gain the <lightgreen2><condition_name></lightgreen2> condition.<condition_description>",Lua/DestinyCard.lua(01190),,,,,,,,暴擊時引發無視防禦的冰霜爆炸（<lightgreen><damage></lightgreen>傷害，冷卻時間<red></red><cooldown>秒）。<red></red>所有目標附加<lightgreen2><condition_name></lightgreen2>狀態。<condition_description>,,OK,,
 210,194283,The Sun,Lua/DestinyCard.lua(01229),,,,,,,,太陽,,OK,,
 211,194283,The Divine Sun,Lua/DestinyCard.lua(01230),,,,,,,,神聖太陽,,OK,,
 212,194283,The Wicked Sun,Lua/DestinyCard.lua(01231),,,,,,,,邪惡太陽,,OK,,
-213,198395,"Cause an explosion on overkill (<lightgreen><damage></lightgreen> damage, <cooldown> sec. cooldown) that ignores armor",Lua/DestinyCard.lua(01245),,,,,,,,絕殺時引發無視防禦的爆炸（<lightgreen><damage></lightgreen>傷害，冷卻時間<cooldown>秒）。,,OK,,
+213,198395,"Cause an explosion on overkill (<lightgreen><damage></lightgreen> damage, <cooldown> sec. cooldown) that ignores armor",Lua/DestinyCard.lua(01245),,,,,,,,絕殺時引發無視防禦的爆炸（<lightgreen><damage></lightgreen>傷害，冷卻時間<cooldown>秒<red></red>）。,,OK,,
 214,194283,Justice,Lua/DestinyCard.lua(01276),,,,,,,,正義,,OK,,
 215,194283,Divine Justice,Lua/DestinyCard.lua(01277),,,,,,,,神聖正義,,OK,,
 216,194283,Wicked Justice,Lua/DestinyCard.lua(01278),,,,,,,,邪惡正義,,OK,,
@@ -1892,7 +1892,7 @@ None - they are always stoned!",Lua/DestinyCard.lua(01378),,,,,,,,"換一個燈�
 351,194814,Gain <lightgreen2><condition_name></lightgreen2> for <duration> sec. when your health falls below <lightgreen><number>%</lightgreen> health (<cooldown> sec. cooldown).<condition_description>,Lua/Effects.lua(00746),,,,,,,,生命低於<lightgreen><number>%</lightgreen>時獲得<lightgreen2><condition_name></lightgreen2>，持續<duration>秒（冷卻時間<cooldown>秒）。<condition_description>,,OK,,
 352,194283,Gain <lightgreen2><condition_name></lightgreen2> for <duration> sec. when your health falls below <number>% health (<cooldown> sec. cooldown).<condition_description>,Lua/Effects.lua(00772),,,,,,,,生命低於<number>%時獲得<lightgreen2><condition_name></lightgreen2>，持續<duration>秒（冷卻時間<cooldown>秒）。<condition_description>,,OK,,
 353,194283,Gain <lightgreen2><condition_name></lightgreen2> for <duration> sec. when your health falls below <number>% health.<condition_description>,Lua/Effects.lua(00798),,,,,,,,生命低於<number>%時獲得<lightgreen2><condition_name></lightgreen2>，持續<duration>秒。<condition_description>,,OK,,
-354,194283,Gain <lightgreen2><condition_name></lightgreen2> for <lightgreen><duration></lightgreen> sec. when you lose more than <number>% health in a single hit (<cooldown> sec. cooldown).<condition_description>,Lua/Effects.lua(00823),,,,,,,,受到一擊超過<number>%生命的傷害時獲得<lightgreen2><condition_name></lightgreen2>，持續<lightgreen><duration></lightgreen>秒（冷卻 時間<cooldown>秒）。<condition_description>,,OK,,
+354,194283,Gain <lightgreen2><condition_name></lightgreen2> for <lightgreen><duration></lightgreen> sec. when you lose more than <number>% health in a single hit (<cooldown> sec. cooldown).<condition_description>,Lua/Effects.lua(00823),,,,,,,,受到一擊超過<number>%生命的傷害時獲得<lightgreen2><condition_name></lightgreen2>，持續<lightgreen><duration></lightgreen>秒<red></red>（冷卻<red></red>時間<cooldown>秒）。<condition_description>,,OK,,
 355,194283,Remove a debuff when you overkill an enemy (<cooldown> sec. cooldown),Lua/Effects.lua(00845),,,,,,,,絕殺時消除一項負面狀態（冷卻時間<cooldown>秒）。,,OK,,
 356,194283,Removes all curses and debuffs from the hero,Lua/Effects.lua(00859),,,,,,,,消除身上所有詛咒和負面狀態。,,OK,,
 357,194283,Lowers all cooldowns by <duration>%,Lua/Effects.lua(00868),,,,,,,,所有冷卻時間縮短<duration>%。,,OK,,
@@ -2776,15 +2776,15 @@ Reduces weapon cooldowns by <cooldown_reduction>%",Lua/Outfit.lua(00446),,,,,,,,
 898,194283,+<gold> Gold,Lua/PlayerProfile.lua(01131),,,,,,,,+<gold>金幣,,OK,,
 899,194283,Healing Potion,Lua/Potion.lua(00073),,,,,,,,治療藥水,,OK,,
 900,194283,Ambrosia,Lua/Potion.lua(00094),,,,,,,,瓊漿玉露,,OK,,
-901,196259,Restores 100% health and refreshes the cooldowns of all attacks and Demon Powers,Lua/Potion.lua(00120),,,,,,,,恢復100%生命並重置所有攻擊 和 惡 魔 之 力 的 冷 卻 時 間。,,OK,,
+901,196259,Restores 100% health and refreshes the cooldowns of all attacks and Demon Powers,Lua/Potion.lua(00120),,,,,,,,恢復100%生命並重置所有攻擊和惡魔之力的<red></red>冷卻時間。,,OK,,
 902,194283,Med Kit,Lua/Potion.lua(00145),,,,,,,,醫療包,,OK,,
-903,194283,Unlimited use. Restores <number> health and removes one negative effect. Heals extra <number2> health if an effect is removed.,Lua/Potion.lua(00153),,,,,,,,無限使用。恢復<number>生命並消除 一 項 負 面 狀 態。 如 果 消 除 了 一 項 狀 態 再 額 外 恢 復 <number2>生 命。,,OK,,
+903,194283,Unlimited use. Restores <number> health and removes one negative effect. Heals extra <number2> health if an effect is removed.,Lua/Potion.lua(00153),,,,,,,,無限使用。恢復<number>生命並消除一項負面狀<red></red>態。如果消除<red></red>了一<red></red>項狀態再額外恢復 <number2>生<red></red>命。,,OK,,
 4050,195942,Greater Med Kit,Lua/Potion.lua(00179),,,,,,,,大醫療包,,OK,,
 4199,196416,Superior Med Kit,Lua/Potion.lua(00193),,,,,,,,超級醫療包,,OK,,
 904,194283,Vampire Blood,Lua/Potion.lua(00208),,,,,,,,吸血鬼之血,,OK,,
 905,194283,Gain <number>% Life Steal for <duration> sec,Lua/Potion.lua(00220),,,,,,,,獲得<number>%生命竊取，持續<duration>秒。,,OK,,
 906,194283,Barkskin Potion,Lua/Potion.lua(00230),,,,,,,,樹皮藥水,,OK,,
-907,194283,"Gain <number> armor and immunity to daze, interrupts and push effects for <duration> sec",Lua/Potion.lua(00243),,,,,,,,獲得<number>防禦並對 暈 眩、 中 斷 和 震 退 效 果 免 疫 <duration>秒。,,OK,,
+907,194283,"Gain <number> armor and immunity to daze, interrupts and push effects for <duration> sec",Lua/Potion.lua(00243),,,,,,,,獲得<number>防禦並對暈眩、中斷和震退效果免疫<red></red><duration>秒。,,OK,,
 908,194283,Adrenaline Shot,Lua/Potion.lua(00259),,,,,,,,腎上腺素,,OK,,
 909,194283,Liquid Madness,Lua/Potion.lua(00281),,,,,,,,瘋狂之液,,OK,,
 910,194283,Lucky Rabbit's Foot,Lua/Potion.lua(00303),,,,,,,,幸運兔腳,,OK,,
@@ -2981,7 +2981,7 @@ Reduces weapon cooldowns by <cooldown_reduction>%",Lua/Outfit.lua(00446),,,,,,,,
 1036,195390,"Teleport next to the target dealing damage and applying the <lightgreen2><condition_name></lightgreen2> condition to it. Also, gain speed for several seconds.
 
 Damage: <lightgreen><min_damage> - <max_damage></lightgreen>
-Accelerated speed: <lightgreen2><buff_duration_s>.<buff_duration_d></lightgreen2> sec<condition_description>",Lua/RuneTypes.lua(00011),,,,,,,,"瞬移到目標身邊造成傷害，並給目標附加<lightgreen2><condition_name></lightgreen2>狀 態。 同 時 獲 得 加 速， 持 續 數 秒。
+Accelerated speed: <lightgreen2><buff_duration_s>.<buff_duration_d></lightgreen2> sec<condition_description>",Lua/RuneTypes.lua(00011),,,,,,,,"瞬移到目標身邊造成傷害，並給目標附加<lightgreen2><condition_name></lightgreen2>狀態。同時<red></red>獲得<red></red>加速，持續數秒。
 
 傷害：<lightgreen><min_damage>-<max_damage></lightgreen>。
 加速：<lightgreen2><buff_duration_s>.<buff_duration_d></lightgreen2>秒。<condition_description>",,OK,,
@@ -2998,7 +2998,7 @@ Chance to Reflect Projectiles: <lightgreen><deflect_chance>%</lightgreen>",Lua/R
 
 Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec
 Allies: +<lightgreen><ally_damage>%</lightgreen> more damage
-Enemies: +<lightgreen><enemy_damage>%</lightgreen> more damage<condition_description>",Lua/RuneTypes.lua(00241),,,,,,,,"產生一圈氣場，提升範圍內所有敵人和戰友的輸出傷害。獲得<lightgreen2><condition_name></lightgreen2>， 持 續<lightgreen><duration_s>.<duration_d></lightgreen>秒。此 惡 魔 之 力 作 用 時 不 會 凝 聚 超 能。
+Enemies: +<lightgreen><enemy_damage>%</lightgreen> more damage<condition_description>",Lua/RuneTypes.lua(00241),,,,,,,,"產生一圈氣場，提升範圍內所有敵人和戰友的輸出傷害。獲得<lightgreen2><condition_name></lightgreen2>，持續<lightgreen><duration_s>.<duration_d></lightgreen>秒。此惡魔之<red></red>力作用時不會凝聚超<red></red>能。
 
 持續時間：<lightgreen><duration_s>.<duration_d></lightgreen>秒。
 戰友：提升<lightgreen><ally_damage>%</lightgreen>傷害。
@@ -3015,7 +3015,7 @@ Boomerang Radius: <lightgreen><radius_m>.<radius_cm></lightgreen> m",Lua/RuneTyp
 1044,195716,"Call for a number of meteors to strike an area ahead of you. Each meteor deals damage to all enemies in <radius_m>.<radius_cm> m radius.
 
 Damage per Meteor: <lightgreen><min_damage> - <max_damage></lightgreen>
-Number of Meteors: <lightgreen><num_projectiles></lightgreen>",Lua/RuneTypes.lua(00517),,,,,,,,"召喚數顆隕石攻擊指定區域。每顆隕石會對 <radius_m>.<radius_cm>公 尺 半 徑 內 的 所 有 敵 人 造 成 傷 害。
+Number of Meteors: <lightgreen><num_projectiles></lightgreen>",Lua/RuneTypes.lua(00517),,,,,,,,"召喚數顆隕石攻擊指定區域。每顆隕石會對<red></red><radius_m>.<radius_cm>公尺半徑<red></red>內的<red></red>所有敵人造成傷害。
 
 每顆隕石傷害：<lightgreen><min_damage>-<max_damage></lightgreen>。
 隕石數量：<lightgreen><num_projectiles></lightgreen>。",,OK,,
@@ -3023,7 +3023,7 @@ Number of Meteors: <lightgreen><num_projectiles></lightgreen>",Lua/RuneTypes.lua
 1046,196645,"Unleash 3 consecutive shockwaves that push back all enemies dealing damage and <lightgreen2>Crippling</lightgreen2> them for <buff_duration> seconds.
 
 Damage per Shockwave: <lightgreen><min_damage> - <max_damage></lightgreen>
-Shockwave Radius: <lightgreen><radius_m>.<radius_cm></lightgreen> m<condition_description>",Lua/RuneTypes.lua(00620),,,,,,,,"釋放三道連續的衝擊波震退敵人，造成傷害並導致敵人<lightgreen2>癱 瘓</lightgreen2>， 持 續 <buff_duration>秒。
+Shockwave Radius: <lightgreen><radius_m>.<radius_cm></lightgreen> m<condition_description>",Lua/RuneTypes.lua(00620),,,,,,,,"釋放三道連續的衝擊波震退敵人，造成傷害並導致敵人<lightgreen2>癱<red></red>瘓</lightgreen2>，<red></red>持續<buff_duration>秒。
 
 每道衝擊波傷害：<lightgreen><min_damage>-<max_damage></lightgreen>。
 衝擊波半徑：<lightgreen><radius_m>.<radius_cm></lightgreen>公尺。<condition_description>",,OK,,
@@ -3031,7 +3031,7 @@ Shockwave Radius: <lightgreen><radius_m>.<radius_cm></lightgreen> m<condition_de
 1048,196259,"Initiate a time dilation bubble that slows all enemies and projectiles inside with <speed_mul>% of their base speed.
 
 Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec
-Time Bubble Radius: <lightgreen><radius_m>.<radius_cm></lightgreen> m",Lua/RuneTypes.lua(00753),,,,,,,,"創造一顆時間膨脹氣泡，降低範圍內所有敵人和投射物的<speed_mul>%速度。
+Time Bubble Radius: <lightgreen><radius_m>.<radius_cm></lightgreen> m",Lua/RuneTypes.lua(00753),,,,,,,,"創造一顆時間膨脹氣泡，降低範圍內所有敵人和投射物的<red></red><speed_mul>%速度。
 
 持續時間：<lightgreen><duration_s>.<duration_d></lightgreen>秒。
 緩速氣泡半徑：<lightgreen><radius_m>.<radius_cm></lightgreen>公尺。",,OK,,
@@ -3056,7 +3056,7 @@ Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec",Lua/RuneTypes.
 1055,196259,"Create a healing aura around you and gain <lightgreen2><condition_name></lightgreen2> for <lightgreen><duration_s>.<duration_d></lightgreen> sec. The aura restores health to you and every ally below 50% health inside the aura. You don't gain Overdrive while this Demon Power is active.
 
 Duration: <lightgreen><duration_s>.<duration_d></lightgreen> sec
-Health per Second: <lightgreen><hps>%</lightgreen><condition_description>",Lua/RuneTypes.lua(01206),,,,,,,,"產生一個圍繞自己的治療氣場，獲得<lightgreen2><condition_name></lightgreen2>，持 續<lightgreen><duration_s>.<duration_d></lightgreen>秒。 氣 場 會 治 療 你 和 範 圍 內 所 有 生 命 低 於 50% 的 戰 友。 此 惡 魔 之 力 作 用 時 不 會 凝 聚 超 能。
+Health per Second: <lightgreen><hps>%</lightgreen><condition_description>",Lua/RuneTypes.lua(01206),,,,,,,,"產生一個圍繞自己的治療氣場，獲得<lightgreen2><condition_name></lightgreen2>，持<red></red>續<lightgreen><duration_s>.<duration_d></lightgreen>秒。<red></red>氣場<red></red>會治療你和範圍內所有生命低<red></red>於50%的戰友。此惡魔<red></red>之力作用<red></red>時不會凝聚超<red></red>能。
 
 持續時間：<lightgreen><duration_s>.<duration_d></lightgreen>秒。
 每秒恢復生命：<lightgreen><hps>%</lightgreen>。<condition_description>",,OK,,
@@ -3072,7 +3072,7 @@ Seeking Projectiles: <lightgreen><num_projectiles></lightgreen><condition_descri
 1061,195716,"Turn into a cloud of poisonous dark mist dealing damage to all enemies inside. Affected enemies take <lightgreen2><condition_name></lightgreen2> for <buff_duration> sec. You don't gain Overdrive and can't use skills while this Demon Power is active.
 
 Damage per Second: <lightgreen><min_damage> - <max_damage></lightgreen>
-Rune Duration: <lightgreen><rune_duration_s>.<rune_duration_d></lightgreen> sec<condition_description>",Lua/RuneTypes.lua(01461),,,,,,,,"化成一團黑色毒霧對範圍內的所有敵人造成傷害。使敵人<lightgreen2><condition_name></lightgreen2>， 持 續<buff_duration>秒。 此 惡 魔 之 力 作 用 時 不 會 凝 聚 超 能， 也 無 法 使 用 其 它 攻 擊。
+Rune Duration: <lightgreen><rune_duration_s>.<rune_duration_d></lightgreen> sec<condition_description>",Lua/RuneTypes.lua(01461),,,,,,,,"化成一團黑色毒霧對範圍內的所有敵人造成傷害。使敵人<red></red><lightgreen2><condition_name></lightgreen2>，持續<buff_duration>秒。此惡魔之力作用<red></red>時不會凝聚超能，也無<red></red>法使用其<red></red>它攻擊。
 
 每秒傷害：<lightgreen><min_damage>-<max_damage></lightgreen>。
 持續時間：<lightgreen><rune_duration_s>.<rune_duration_d></lightgreen>秒。<condition_description>",,OK,,
