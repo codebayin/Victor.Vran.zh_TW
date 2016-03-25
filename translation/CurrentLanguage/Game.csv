@@ -363,8 +363,8 @@ ID,Revision,Text,Location,Section,Context,Actor,Voice Actor,Old Revision,Old Tex
 1000363,194283,"GnuolaneRg, 20, bold",CommonLua/UI/FontStyles.lua(00044),,,,,,,,"GnuolaneRg, 20, bold",,OK,,
 1000364,194283,"GnuolaneRg, 22",CommonLua/UI/FontStyles.lua(00046),,,,,,,,"GnuolaneRg, 22",,OK,,
 1000365,194283,"GnuolaneRg, 30, bold",CommonLua/UI/FontStyles.lua(00047),,,,,,,,"GnuolaneRg, 30, bold",,OK,,
-1063,194283,<B> Skip,CommonLua/UI/FullscreenMovieDlg.lua(00106),,,,,,,,<B> 跳過,,OK,,
-1064,194283,<imagescale 50><image UI/Icons/action_esc.tga> Skip,CommonLua/UI/FullscreenMovieDlg.lua(00108),,,,,,,,<imagescale 50><image UI/Icons/action_esc.tga> 跳過,,OK,,
+1063,194283,<B> Skip,CommonLua/UI/FullscreenMovieDlg.lua(00106),,,,,,,,<B>跳過,,OK,,
+1064,194283,<imagescale 50><image UI/Icons/action_esc.tga> Skip,CommonLua/UI/FullscreenMovieDlg.lua(00108),,,,,,,,<imagescale 50><image UI/Icons/action_esc.tga>跳過,,OK,,
 1000376,194283,OK,CommonLua/UI/MessageQuestionBox.lua(00069),,,,,,,,確定,,OK,,
 1000377,194283,OK,CommonLua/UI/MessageQuestionBox.lua(00143),,,,,,,,確定,,OK,,
 1000378,194283,Cancel,CommonLua/UI/MessageQuestionBox.lua(00144),,,,,,,,取消,,OK,,
@@ -508,11 +508,11 @@ ID,Revision,Text,Location,Section,Context,Actor,Voice Actor,Old Revision,Old Tex
 1998,194283,Made 15000 kills with 5 active Hexes,Data/Achievement.lua(00079),,Achievement Serious Vran description,,,,,,"已在啟用5個禁咒的情況下達成15,000擊殺數。",,OK,,
 1999,194283,Make 15000 kills with 5 active Hexes,Data/Achievement.lua(00080),,Achievement Serious Vran how_to,,,,,,"在啟用5個禁咒的情況下達成15,000擊殺數。",,OK,,
 2000,194283,Tactical Vran,Data/Achievement.lua(00089),,Achievement Tactical Vran display_name,,,,,,戰術高手,,OK,,
-2001,194283,Killed 25 enemies with a single attack,Data/Achievement.lua(00090),,Achievement Tactical Vran description,,,,,,已使用一招殺死25個敵人。,,OK,,
-2002,194283,Kill 25 enemies with a single attack,Data/Achievement.lua(00091),,Achievement Tactical Vran how_to,,,,,,使用一招殺死25個敵人。,,OK,,
+2001,194283,Killed 25 enemies with a single attack,Data/Achievement.lua(00090),,Achievement Tactical Vran description,,,,,,已只用一招殺死25個敵人。,,OK,,
+2002,194283,Kill 25 enemies with a single attack,Data/Achievement.lua(00091),,Achievement Tactical Vran how_to,,,,,,只用一招殺死25個敵人。,,OK,,
 2003,194283,Demonomicon,Data/Achievement.lua(00099),,Achievement Demonomicon display_name,,,,,,惡魔全書,,OK,,
-2004,194283,Killed 50 enemies with a single demon power,Data/Achievement.lua(00100),,Achievement Demonomicon description,,,,,,已使用一發惡魔之力殺死50個敵人。,,OK,,
-2005,194283,Kill 50 enemies with a single demon power,Data/Achievement.lua(00101),,Achievement Demonomicon how_to,,,,,,使用一發惡魔之力殺死50個敵人。,,OK,,
+2004,194283,Killed 50 enemies with a single demon power,Data/Achievement.lua(00100),,Achievement Demonomicon description,,,,,,已只用一發惡魔之力殺死50個敵人。,,OK,,
+2005,194283,Kill 50 enemies with a single demon power,Data/Achievement.lua(00101),,Achievement Demonomicon how_to,,,,,,只用一發惡魔之力殺死50個敵人。,,OK,,
 2006,194283,Abstinence Kills,Data/Achievement.lua(00109),,Achievement Abstinence Kills display_name,,,,,,節儉殺手,,OK,,
 2007,194283,Killed 500 enemies without using consumables,Data/Achievement.lua(00110),,Achievement Abstinence Kills description,,,,,,已不使用消耗品殺死500個敵人。,,OK,,
 2008,194283,Kill 500 enemies without using consumables,Data/Achievement.lua(00111),,Achievement Abstinence Kills how_to,,,,,,不使用消耗品殺死500個敵人。,,OK,,
@@ -595,8 +595,8 @@ ID,Revision,Text,Location,Section,Context,Actor,Voice Actor,Old Revision,Old Tex
 2079,194283,Collected 25 different Destiny Cards,Data/Achievement.lua(00370),,Achievement Zagore Hold'em description,,,,,,已蒐集25張不同的命運牌。,,OK,,
 2080,194283,Collect 25 different Destiny Cards,Data/Achievement.lua(00371),,Achievement Zagore Hold'em how_to,,,,,,蒐集25張不同的命運牌。,,OK,,
 2081,194283,Tzar Bomba,Data/Achievement.lua(00379),,Achievement Tzar Bomba display_name,,,,,,沙皇炸彈,,OK,,
-2082,194283,Inflicted 2500 damage with a single hit,Data/Achievement.lua(00380),,Achievement Tzar Bomba description,,,,,,已使用一招造成2500傷害。,,OK,,
-2083,194283,Inflict 2500 damage with a single hit,Data/Achievement.lua(00381),,Achievement Tzar Bomba how_to,,,,,,使用一招造成2500傷害。,,OK,,
+2082,194283,Inflicted 2500 damage with a single hit,Data/Achievement.lua(00380),,Achievement Tzar Bomba description,,,,,,已只用一招造成2500傷害。,,OK,,
+2083,194283,Inflict 2500 damage with a single hit,Data/Achievement.lua(00381),,Achievement Tzar Bomba how_to,,,,,,只用一招造成2500傷害。,,OK,,
 2084,194283,Steady Hand Vic,Data/Achievement.lua(00389),,Achievement Steady Hand Vic display_name,,,,,,穩定快手,,OK,,
 2085,195942,Had 25 consecutive split-timed attacks,Data/Achievement.lua(00390),,Achievement Steady Hand Vic description,,,,,,已連續施展25次間段攻擊。,,OK,,
 2086,195942,Have 25 consecutive split-timed attacks,Data/Achievement.lua(00391),,Achievement Steady Hand Vic how_to,,,,,,連續施展25次間段攻擊。,,OK,,
@@ -640,29 +640,29 @@ Victor Vran will execute attacks in the direction of the mouse cursor and will t
 
 Level 4 unlocks a second weapon slot. You can switch between your weapons with <SwitchWeapon>.
 
-Each weapon offers a different play style to master. To learn more about the specific weapons and their attacks, check out the Weapons category in the Codex.",Data/CodexEntry.lua(00006),,CodexEntry Hint_Attacking Description,,,,,,"裝備的武器決定了你可以進行的攻擊方式。每種武器都有一個基本攻擊（<Attack1>）和兩個招式（<Attack2> 和 <Attack3>）。招式的威力更強，但需要短暫的冷卻。
+Each weapon offers a different play style to master. To learn more about the specific weapons and their attacks, check out the Weapons category in the Codex.",Data/CodexEntry.lua(00006),,CodexEntry Hint_Attacking Description,,,,,,"裝備的武器決定了你可以進行的攻擊方式。每種武器都有一個基本攻擊（<Attack1>）和兩個招式（<Attack2>和<Attack3>）。招式的威力更強，但需要短暫的冷卻。
 
 維克多．弗蘭會向游標方向進行攻擊，並會將游標指著的敵人作為目標。
 
-等級4時會解鎖第二欄武器。你可以按 <SwitchWeapon> 切換武器。
+等級4時會解鎖第二欄武器。你可以按<SwitchWeapon>切換武器。
 
 每種武器都能帶來不同的玩法。想深入了解特定武器和攻擊方式，請查閱百科全書中的武器章節。",,OK,,
 2134,198395,"Equipped weapons determine your available attacks. Each weapon has a basic attack (<Attack1>) and two special attacks (<Attack2> and <Attack3>). Special attacks are powerful but have short cooldowns. Hold <ForceAttack> to attack at your current position.
 
 Level 4 unlocks a second weapon slot. You can switch between your weapons with <SwitchWeapon>.
 
-Each weapon offers a different play style to master. To learn more about the specific weapons and their attacks, check out the Weapons category in the Codex.",Data/CodexEntry.lua(00007),,CodexEntry Hint_Attacking MouseDescription,,,,,,"裝備的武器決定了你可以進行的攻擊方式。每種武器都有一個基本攻擊（<Attack1>）和兩個招式（<Attack2> 和 <Attack3>）。招式的威力更強，但需要短暫的冷卻。按住 <ForceAttack> 可在原地進行攻擊。
+Each weapon offers a different play style to master. To learn more about the specific weapons and their attacks, check out the Weapons category in the Codex.",Data/CodexEntry.lua(00007),,CodexEntry Hint_Attacking MouseDescription,,,,,,"裝備的武器決定了你可以進行的攻擊方式。每種武器都有一個基本攻擊（<Attack1>）和兩個招式（<Attack2>和<Attack3>）。招式的威力更強，但需要短暫的冷卻。按住<ForceAttack>可在原地進行攻擊。
 
-等級4時會解鎖第二欄武器。你可以按 <SwitchWeapon> 切換武器。
+等級4時會解鎖第二欄武器。你可以按<SwitchWeapon>切換武器。
 
 每種武器都能帶來不同的玩法。想深入了解特定武器和攻擊方式，請查閱百科全書中的武器章節。",,OK,,
 2135,198395,"Equipped weapons determine your available attacks. Each weapon has a basic attack (<X>) and two special attacks (<Y> and <B>). Special attacks are powerful but have short cooldowns.
 
 Level 4 unlocks a second weapon slot. You can switch between your weapons with <RB>.
 
-Each weapon offers a different play style to master. To learn more about the specific weapons and their attacks, check out the Weapons category in the Codex.",Data/CodexEntry.lua(00008),,CodexEntry Hint_Attacking GamepadDescription,,,,,,"裝備的武器決定了你可以進行的攻擊方式。每種武器都有一個基本攻擊（<X>）和兩個招式（<Y> 和 <B>）。招式的威力更強，但需要短暫的冷卻。
+Each weapon offers a different play style to master. To learn more about the specific weapons and their attacks, check out the Weapons category in the Codex.",Data/CodexEntry.lua(00008),,CodexEntry Hint_Attacking GamepadDescription,,,,,,"裝備的武器決定了你可以進行的攻擊方式。每種武器都有一個基本攻擊（<X>）和兩個招式（<Y>和<B>）。招式的威力更強，但需要短暫的冷卻。
 
-等級4時會解鎖第二欄武器。你可以按 <RB> 切換武器。
+等級4時會解鎖第二欄武器。你可以按<RB>切換武器。
 
 每種武器都能帶來不同的玩法。想深入了解特定武器和攻擊方式，請查閱百科全書中的武器章節。",,OK,,
 2136,194283,Legendary Weapons,Data/CodexEntry.lua(00013),,CodexEntry Hint_LegendaryWeapons DisplayName,,,,,,傳奇武器,,OK,,
@@ -674,17 +674,17 @@ The damage of all Legendary weapons scales as you level up.",Data/CodexEntry.lua
 2138,194283,Consumables,Data/CodexEntry.lua(00019),,CodexEntry Hint_Potions DisplayName,,,,,,消耗品,,OK,,
 2139,194283,"You can equip two stacks of Consumables that can be activated with <UseConsumable1> and <UseConsumable2>.
 
-Potions heal and grant beneficial effects. Bombs deal damage and apply different effects to all foes in a large area around the hero. Bombs have long cooldowns, so use them wisely.",Data/CodexEntry.lua(00020),,CodexEntry Hint_Potions Description,,,,,,"你可以裝備兩組消耗品，分別按 <UseConsumable1> 和 <UseConsumable2> 使用。
+Potions heal and grant beneficial effects. Bombs deal damage and apply different effects to all foes in a large area around the hero. Bombs have long cooldowns, so use them wisely.",Data/CodexEntry.lua(00020),,CodexEntry Hint_Potions Description,,,,,,"你可以裝備兩組消耗品，分別按<UseConsumable1>和<UseConsumable2>使用。
 
 藥劑可以治癒傷勢、強化能力。炸彈可以對玩家周圍大範圍的敵人造成傷害以及施加不同效果。炸彈的冷卻時間很長，請謹慎使用。",,OK,,
 2140,194283,"You can equip two stacks of Consumables that can be activated with <UseConsumable1> and <UseConsumable2>.
 
-Potions heal and grant beneficial effects. Bombs deal damage and apply different effects to all foes in a large area around the hero. Bombs have long cooldowns, so use them wisely.",Data/CodexEntry.lua(00021),,CodexEntry Hint_Potions MouseDescription,,,,,,"你可以裝備兩組消耗品，分別按 <UseConsumable1> 和 <UseConsumable2> 使用。
+Potions heal and grant beneficial effects. Bombs deal damage and apply different effects to all foes in a large area around the hero. Bombs have long cooldowns, so use them wisely.",Data/CodexEntry.lua(00021),,CodexEntry Hint_Potions MouseDescription,,,,,,"你可以裝備兩組消耗品，分別按<UseConsumable1>和<UseConsumable2>使用。
 
 藥劑可以治癒傷勢、強化能力。炸彈可以對玩家周圍大範圍的敵人造成傷害以及施加不同效果。炸彈的冷卻時間很長，請謹慎使用。",,OK,,
 2141,194283,"You can equip two stacks of Consumables that can be activated with <DPadLeft> and <DPadRight>.
 
-Potions heal and grant beneficial effects. Bombs deal damage and apply different effects to all foes in a large area around the hero. Bombs have long cooldowns, so use them wisely.",Data/CodexEntry.lua(00022),,CodexEntry Hint_Potions GamepadDescription,,,,,,"你可以裝備兩組消耗品，分別按 <DPadLeft> 和 <DPadRight> 使用。
+Potions heal and grant beneficial effects. Bombs deal damage and apply different effects to all foes in a large area around the hero. Bombs have long cooldowns, so use them wisely.",Data/CodexEntry.lua(00022),,CodexEntry Hint_Potions GamepadDescription,,,,,,"你可以裝備兩組消耗品，分別按<DPadLeft>和<DPadRight>使用。
 
 藥劑可以治癒傷勢、強化能力。炸彈可以對玩家周圍大範圍的敵人造成傷害以及施加不同效果。炸彈的冷卻時間很長，請謹慎使用。",,OK,,
 2142,194283,Overdrive,Data/CodexEntry.lua(00027),,CodexEntry Hint_Overdrive DisplayName,,,,,,超能,,OK,,
@@ -694,7 +694,7 @@ Overdrive is spent to activate supernatural attacks called Demon Powers (<UseRun
 
 Outfits modify the way Victor Vran gains or spends Overdrive. For example the starting Hunter's Outfit provides additional Overdrive when you take damage.",Data/CodexEntry.lua(00028),,CodexEntry Hint_Overdrive Description,,,,,,"你在攻擊和殺死怪物時會凝聚超能。超能以黃色條顯示在生命的右邊。攻擊造成的傷害越高，凝聚的超能越多。
 
-超能可以用來施展惡魔之力（<UseRune1> 和 <UseRune2>）。按住按鍵可以精確瞄準攻擊位置。
+超能可以用來施展惡魔之力（<UseRune1>和<UseRune2>）。按住按鍵可以精確瞄準攻擊位置。
 
 服裝也會改變維克多．弗蘭凝聚或使用超能的方式。例如：初始的獵人服裝能使你在受到傷害時凝聚額外的超能。",,OK,,
 2144,194283,"You gain Overdrive when attacking and killing monsters. Overdrive is indicated by the yellow bar next to your health. The more damage an attack makes, the more Overdrive it provides.
@@ -703,7 +703,7 @@ Overdrive is spent to activate supernatural attacks called Demon Powers (<LT> an
 
 Outfits modify the way Victor Vran gains or spends Overdrive. For example the starting Hunter's Outfit provides additional Overdrive when you take damage.",Data/CodexEntry.lua(00029),,CodexEntry Hint_Overdrive GamepadDescription,,,,,,"你在攻擊和殺死怪物時會凝聚超能。超能以黃色條顯示在生命的右邊。攻擊造成的傷害越高，凝聚的超能越多。
 
-超能可以用來施展惡魔之力（<LT> 和 <RT>）。按住按鈕可以精確瞄準攻擊位置。
+超能可以用來施展惡魔之力（<LT>和<RT>）。按住按鈕可以精確瞄準攻擊位置。
 
 服裝也會改變維克多．弗蘭凝聚或使用超能的方式。例如：初始的獵人服裝能使你在受到傷害時凝聚額外的超能。",,OK,,
 2145,194283,Champions,Data/CodexEntry.lua(00034),,CodexEntry Hint_Champions DisplayName,,,,,,悍將,,OK,,
@@ -733,35 +733,35 @@ You will gain a 10% bonus to XP and you will find 5% more items for each active 
 2153,194283,Movement & Dodging,Data/CodexEntry.lua(00058),,CodexEntry Hint_Movement DisplayName,,,,,,移動與翻滾,,OK,,
 2154,194283,"Use the <Move_CameraForward>, <Move_CameraLeft>, <Move_CameraBackward>, <Move_CameraRight> keys to move.
 
-Double tap a direction key or press <Dodge> while moving to dodge away from attacks. You can disable double tap to dodge from the Options (Gameplay).",Data/CodexEntry.lua(00059),,CodexEntry Hint_Movement Description,,,,,,"按 <Move_CameraForward>、<Move_CameraLeft>、<Move_CameraBackward>、<Move_CameraRight> 移動。
+Double tap a direction key or press <Dodge> while moving to dodge away from attacks. You can disable double tap to dodge from the Options (Gameplay).",Data/CodexEntry.lua(00059),,CodexEntry Hint_Movement Description,,,,,,"按<Move_CameraForward>、<Move_CameraLeft>、<Move_CameraBackward>、<Move_CameraRight>移動。
 
-雙擊方向鍵或在移動時按 <Dodge> 以翻滾來閃避攻擊。你可以在選項（操作）中關閉雙擊翻滾。",,OK,,
+雙擊方向鍵或在移動時按<Dodge>以翻滾來閃避攻擊。你可以在選項（操作）中關閉雙擊翻滾。",,OK,,
 2155,195716,"Point and press <Attack1> to move to that point. Use <Goto> to force the character to move to a point even if there's a monster there.
 
-Use <Dodge_CursorForward> to dodge to pointer. Use <Dodge_CameraForward> to dodge forward (camera relative). Use <Dodge_CameraBackward> to dodge back (camera relative). Use dodge to avoid enemy attacks.",Data/CodexEntry.lua(00060),,CodexEntry Hint_Movement MouseDescription,,,,,,"指向某點並按 <Attack1> 移動到該處。使用 <Goto> 強制讓角色移動到某點，即使那裡有怪物。
+Use <Dodge_CursorForward> to dodge to pointer. Use <Dodge_CameraForward> to dodge forward (camera relative). Use <Dodge_CameraBackward> to dodge back (camera relative). Use dodge to avoid enemy attacks.",Data/CodexEntry.lua(00060),,CodexEntry Hint_Movement MouseDescription,,,,,,"指向某點並按<Attack1>移動到該處。使用<Goto>強制讓角色移動到某點，即使那裡有怪物。
 
-使用 <Dodge_CursorForward> 向游標方向翻滾。使用 <Dodge_CameraForward> 向前翻滾（相對於鏡頭）。使用 <Dodge_CameraBackward> 向後翻滾（相對於鏡頭）。利用翻滾來避開敵人的攻擊吧。",,OK,,
+使用<Dodge_CursorForward>向游標方向翻滾。使用<Dodge_CameraForward>向前翻滾（相對於鏡頭）。使用<Dodge_CameraBackward>向後翻滾（相對於鏡頭）。利用翻滾來避開敵人的攻擊吧。",,OK,,
 2156,194283,"Use <LS> to move.
 
-Press <LB> while moving to dodge and avoid attacks.",Data/CodexEntry.lua(00061),,CodexEntry Hint_Movement GamepadDescription,,,,,,"使用 <LS> 移動。
+Press <LB> while moving to dodge and avoid attacks.",Data/CodexEntry.lua(00061),,CodexEntry Hint_Movement GamepadDescription,,,,,,"使用<LS>移動。
 
-移動時按 <LB> 以翻滾來閃避攻擊。",,OK,,
+移動時按<LB>以翻滾來閃避攻擊。",,OK,,
 2157,194283,Jumping,Data/CodexEntry.lua(00066),,CodexEntry Hint_Jump DisplayName,,,,,,跳躍,,OK,,
 2158,194323,"Press <Jump> to jump.
 
-You can rebound off a wall by pressing <Jump> again. You can perform up to two wall jumps. Use wall jumping to climb up obstacles and discover hidden paths and secrets.",Data/CodexEntry.lua(00067),,CodexEntry Hint_Jump Description,,,,,,"按 <Jump> 跳躍。
+You can rebound off a wall by pressing <Jump> again. You can perform up to two wall jumps. Use wall jumping to climb up obstacles and discover hidden paths and secrets.",Data/CodexEntry.lua(00067),,CodexEntry Hint_Jump Description,,,,,,"按<Jump>跳躍。
 
-你可以再按一次 <Jump> 進行蹬牆跳，最多能進行兩次。利用蹬牆跳來翻越障礙、找出隱藏的小路和祕密吧。",,OK,,
+你可以再按一次<Jump>進行蹬牆跳，最多能進行兩次。利用蹬牆跳來翻越障礙、找出隱藏的小路和祕密吧。",,OK,,
 2159,195716,"Press <JumpCursor> to jump towards the mouse pointer. Use <Attack1> to move in mid-air.
 
-You can rebound off a wall by pressing <JumpCursor> again. You can perform up to two wall jumps. Use wall jumping to climb up obstacles and discover hidden paths and secrets.",Data/CodexEntry.lua(00068),,CodexEntry Hint_Jump MouseDescription,,,,,,"按 <JumpCursor> 向游標方向跳躍。使用 <Attack1> 在空中移動。
+You can rebound off a wall by pressing <JumpCursor> again. You can perform up to two wall jumps. Use wall jumping to climb up obstacles and discover hidden paths and secrets.",Data/CodexEntry.lua(00068),,CodexEntry Hint_Jump MouseDescription,,,,,,"按<JumpCursor>向游標方向跳躍。使用<Attack1>在空中移動。
 
-你可以再按一次 <JumpCursor> 進行蹬牆跳，最多能進行兩次。利用蹬牆跳來翻越障礙、找出隱藏的小路和祕密吧。",,OK,,
+你可以再按一次<JumpCursor>進行蹬牆跳，最多能進行兩次。利用蹬牆跳來翻越障礙、找出隱藏的小路和祕密吧。",,OK,,
 2160,194323,"Press <A>  to jump.
 
-You can rebound off a wall by pressing <A> again. You can perform up to two wall jumps. Use wall jumping to climb up obstacles and discover hidden paths and secrets.",Data/CodexEntry.lua(00069),,CodexEntry Hint_Jump GamepadDescription,,,,,,"按 <A> 跳躍。
+You can rebound off a wall by pressing <A> again. You can perform up to two wall jumps. Use wall jumping to climb up obstacles and discover hidden paths and secrets.",Data/CodexEntry.lua(00069),,CodexEntry Hint_Jump GamepadDescription,,,,,,"按<A>跳躍。
 
-你可以再按一次 <A> 進行蹬牆跳，最多能進行兩次。利用蹬牆跳來翻越障礙、找出隱藏的小路和祕密吧。",,OK,,
+你可以再按一次<A>進行蹬牆跳，最多能進行兩次。利用蹬牆跳來翻越障礙、找出隱藏的小路和祕密吧。",,OK,,
 2161,194283,Checkpoints,Data/CodexEntry.lua(00074),,CodexEntry Hint_Checkpoints DisplayName,,,,,,紀錄點,,OK,,
 2162,194283,"Checkpoints preserve your progress for the current play session. If you die, you will be able to revive at the last activated checkpoint or at the start of the zone if you haven't activated a Checkpoint yet.
 
@@ -891,7 +891,7 @@ But Gabriel had to answer for one more crime. He was the one who pushed me towar
 
 It is ironic that Gabriel made me become what he fears the most. Calling me into the city was a mistake that was going to cost him.",Data/CodexEntry.lua(00160),,CodexEntry Journal_Entry8 Description,,,,,,"加百列必須死。
 
-惡意誘騙年輕、垂死的卡特蓮娜簽訂了黑暗契約，並承諾用屏障法術讓她躲過代價索求。但讓黑暗契約無法履行也是他計畫中的一環。這讓惡魔得以入侵扎古拉維亞，以尋找被承諾屬於牠們的生命。為了確保這龐大的計畫成功，加百列拿自己的靈魂作為交易，將一切握在掌中，他建立了一個巨大複雜的陷阱，唯一的目的就是殺掉所有冒險進入的獵人。不幸的是，太多我的兄弟回應了絕望的女王為憂心王國安危而發出的號召。
+惡意誘騙年輕、垂死的卡特蓮娜簽訂了黑暗契約，並承諾用屏障法術讓她躲過代價索求。但讓黑暗契約無法履行也是他計畫中的一環。這讓惡魔得以入侵扎古拉維亞，以尋找被承諾屬於牠們的生命。為了確保這龐大的計畫成功，加百列拿自己的靈髓作為交易，將一切握在掌中，他建立了一個巨大複雜的陷阱，唯一的目的就是殺掉所有冒險進入的獵人。不幸的是，太多我的兄弟回應了絕望的女王為憂心王國安危而發出的號召。
 
 但加百列還得對另一樁罪行付出代價。他也是誘惑我接受惡魔之力作為禮物的人，給我摯愛的家人帶來了死亡。我的父親一直在援助獵魔組織，所以這個吸血鬼一直視他為眼中釘。我打賭，在我親眼看著父親死去而哭喊時，加百列一定笑的很開心。
 
@@ -925,13 +925,13 @@ She was not the only one who has to rebuild. Even in death, Gabriel accomplished
 
 I knew the right hunter for the job, but this is a different story...",Data/CodexEntry.lua(00177),,CodexEntry Journal_Entry10 Description,,,,,,"邪惡能被徹底打敗嗎？或者它是永恆的，就像一顆黑暗的種子，總能找到新的土壤發芽，然後腐化這個世界？
 
-這個古老吸血鬼的靈魂現在屬於誘魂者的了，被自己不淨之血所簽訂的契約束縛。最終，他淪為了自己計畫的犧牲品。是惡有惡報嗎？也算是某種報應吧。
+這個古老吸血鬼的靈髓現在屬於誘魂者的了，被自己不淨之血所簽訂的契約束縛。最終，他淪為了自己計畫的犧牲品。是惡有惡報嗎？也算是某種報應吧。
 
 卡特蓮娜女王的契約在決戰中被摧毀了。她面臨一項艱巨的任務──重建扎古拉維亞，設法彌補她過去的決定所帶來的後果。
 
 她並不是唯一一個必須去重建的人。即使死了，加百列還是完成了他的目標，把世界力量的平衡向不好的方向傾斜。我們的家、獵魔組織被擊垮了。背負詛咒的我，並不是適合去恢復組織的人。
 
-我知道適合這份工作的獵人，但這是另一個故事了……",,OK,,
+我知道適合這份工作的獵人，但這又是另一個故事了……",,OK,,
 3884,195189,Weapons,Data/CodexEntry.lua(00185),,CodexEntry Recipes_Weapons DisplayName,,,,,,武器,,OK,,
 3885,196097,"Increase Damage - Combine a weapon with 3 Weapons of the same or better rarity.
 
@@ -1066,7 +1066,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 3898,195189,Slay the Magnificent Miners without dying with 5 active Hexes,Data/MapChallenges.lua(02832),,,,,,,,在沒有死亡的情況下，<red></red>殺死傑出礦工，<red></red>同時啟用5個禁咒,,OK,,
 2409,195189,Reach the end of the corridor within <timer> seconds without taking damage and using Demon Powers,Data/MapChallenges.lua(02852),,,,,,,,在沒有受傷的情況下，<red></red>不使用惡魔之力，<red></red>在<timer>秒內抵達走廊底端,,OK,,
 2411,194799,"Slay Cadavros without using Potions, Shrines and Demon Powers",Data/MapChallenges.lua(02863),,,,,,,,不使用藥劑、<red></red>祭壇和惡魔之力，<red></red>殺死坎迪瓦斯,,OK,,
-3899,199653,Slay Whispering Bones with a single hit without dying with 3 active Hexes,Data/MapChallenges.lua(02908),,,,,195189,,,在沒有死亡的情況下，<red></red>使用一招殺死低語之骨，<red></red>同時啟用3個禁咒,,changed,,
+3899,199653,Slay Whispering Bones with a single hit without dying with 3 active Hexes,Data/MapChallenges.lua(02908),,,,,195189,,,在沒有死亡的情況下，<red></red>只用一招殺死低語之骨，<red></red>同時啟用3個禁咒,,changed,,
 3900,195189,Slay Cadavros affected by Brutality While Above 80% health,Data/MapChallenges.lua(02944),,,,,,,,生命高於80%時，<red></red>殺死殘暴狀態的坎迪瓦斯,,OK,,
 3901,195189,Slay Cadavros While Above 80% health with 4 active Hexes,Data/MapChallenges.lua(02958),,,,,,,,生命高於80%時，<red></red>殺死坎迪瓦斯，<red></red>同時啟用4個禁咒,,OK,,
 4303,197934,Slay Mordra The Broodmother with 5 active Hexes,Data/MapChallenges.lua(03280),,,,,,,,殺死蛛后．莫卓，<red></red>同時啟用5個禁咒,,OK,,
@@ -1088,7 +1088,7 @@ Only one Power Stone can be used per transmutation.",Data/CodexEntry.lua(00221),
 4312,197934,Slay Lord Gabriel with 3 active Hexes,Data/MapChallenges.lua(04412),,,,,,,,殺死加百列領主，<red></red>同時啟用3個禁咒,,OK,,
 4313,197934,Slay Lord Gabriel without dying and without using Shrines,Data/MapChallenges.lua(04424),,,,,,,,在沒有死亡的情況下，<red></red>不使用祭壇，<red></red>殺死加百列領主,,OK,,
 3905,195189,Slay Miscreations without dying with 5 active Hexes,Data/MapChallenges.lua(04437),,,,,,,,在沒有死亡的情況下，<red></red>殺死妄造之物，<red></red>同時啟用5個禁咒,,OK,,
-3906,195189,Slay Lord Gabriel in Stage 1 withing 240 seconds without dying,Data/MapChallenges.lua(04450),,,,,,,,在沒有死亡的情況下，<red></red>在240秒內殺死第一階段的加百列領主,,OK,,
+3906,195189,Slay Lord Gabriel in Stage 1 withing 240 seconds without dying,Data/MapChallenges.lua(04450),,,,,,,,在沒有死亡的情況下，<red></red>在240秒內<red></red>殺死第一階段的加百列領主,,OK,,
 3907,195189,Slay Lord Gabriel in Stage 2 While Above 50% health without using Shrines,Data/MapChallenges.lua(04462),,,,,,,,不使用祭壇，<red></red>生命高於50%時，<red></red>殺死第二階段的加百列領主,,OK,,
 3908,195189,Slay Lord Gabriel in Stage 3 while he is affected by Brutality,Data/MapChallenges.lua(04474),,,,,,,,殺死第三階段殘暴狀態的加百列領主,,OK,,
 3909,195189,Slay Lord Gabriel in Stage 3 without dying with 5 active Hexes,Data/MapChallenges.lua(04488),,,,,,,,在沒有死亡的情況下，<red></red>殺死第三階段的加百列領主，<red></red>同時啟用5個禁咒,,OK,,
@@ -1913,20 +1913,20 @@ None - they are always stoned!",Lua/DestinyCard.lua(01378),,,,,,,,"換一個燈�
 372,194283,"Kelvingrove, 10, aa",Lua/FontStyles.lua(00004),,HUDTargetPlayerName,,,,,,"CodeBay.in_Title, 10, aa",,OK,,
 373,194283,"Kelvingrove, 12, aa",Lua/FontStyles.lua(00005),,HUDCampionName,,,,,,"CodeBay.in_Title, 12, aa",,OK,,
 374,194283,"Kelvingrove, 14, aa",Lua/FontStyles.lua(00006),,HUDBossName,,,,,,"CodeBay.in_Title, 14, aa",,OK,,
-375,195390,"SchemeBk, 15, aa",Lua/FontStyles.lua(00007),,HUDInteractionHint,,,,,,"CodeBay.in_Text1, 15, aa",,OK,,
-376,195390,"SchemeBk, 11, aa",Lua/FontStyles.lua(00008),,HUDFollowerName,,,,,,"CodeBay.in_Text2, 11, aa",,OK,,
-377,195390,"SchemeBk, 11, aa",Lua/FontStyles.lua(00009),,HUDMeter,,,,,,"CodeBay.in_Text1, 11, aa",,OK,,
-378,195390,"SchemeBk, 11, aa",Lua/FontStyles.lua(00010),,HUDArmor,,,,,,"CodeBay.in_Text1, 11, aa",,OK,,
-379,195390,"SchemeBk, 10, aa",Lua/FontStyles.lua(00011),,HUDKeywords,,,,,,"CodeBay.in_Text1, 10, aa",,OK,,
-380,195390,"SchemeBk, 11, aa",Lua/FontStyles.lua(00012),,HUDHelpTitle,,,,,,"CodeBay.in_Text1, 11, aa",,OK,,
-381,195390,"SchemeBk, 11, aa",Lua/FontStyles.lua(00013),,HUDHelpText,,,,,,"CodeBay.in_Text1, 11, aa",,OK,,
-382,195390,"SchemeBk, 11, aa",Lua/FontStyles.lua(00014),,HUDNotification,,,,,,"CodeBay.in_Text1, 11, aa",,OK,,
-383,195390,"SchemeBk, 11, aa",Lua/FontStyles.lua(00015),,HUDConsumableCount,,,,,,"CodeBay.in_Text1, 11, aa",,OK,,
-384,195390,"SchemeBk, 11, aa",Lua/FontStyles.lua(00016),,HUDCooldown,,,,,,"CodeBay.in_Text1, 11, aa",,OK,,
-385,195390,"SchemeBk, 10	, aa",Lua/FontStyles.lua(00017),,HUDBuffStack,,,,,,"CodeBay.in_Text1, 10	, aa",,OK,,
-3943,195716,"SchemeBk, 9, aa",Lua/FontStyles.lua(00018),,HUDPartyName,,,,,,"CodeBay.in_Text2, 9, aa",,OK,,
-3944,195942,"SchemeBk, 7, aa",Lua/FontStyles.lua(00019),,HUDPartyKills,,,,,,"CodeBay.in_Text2, 7, aa",,OK,,
-3945,195716,"SchemeBk, 7, aa",Lua/FontStyles.lua(00020),,HUDPartyMap,,,,,,"CodeBay.in_Text2, 7, aa",,OK,,
+375,195390,"SchemeBk, 15, aa",Lua/FontStyles.lua(00007),,HUDInteractionHint,,,,,,"CodeBay.in_Text, 15, aa",,OK,,
+376,195390,"SchemeBk, 11, aa",Lua/FontStyles.lua(00008),,HUDFollowerName,,,,,,"CodeBay.in_Text, 11, aa",,OK,,
+377,195390,"SchemeBk, 11, aa",Lua/FontStyles.lua(00009),,HUDMeter,,,,,,"CodeBay.in_Text, 11, aa",,OK,,
+378,195390,"SchemeBk, 11, aa",Lua/FontStyles.lua(00010),,HUDArmor,,,,,,"CodeBay.in_Text, 11, aa",,OK,,
+379,195390,"SchemeBk, 10, aa",Lua/FontStyles.lua(00011),,HUDKeywords,,,,,,"CodeBay.in_Text, 10, aa",,OK,,
+380,195390,"SchemeBk, 11, aa",Lua/FontStyles.lua(00012),,HUDHelpTitle,,,,,,"CodeBay.in_Text, 11, aa",,OK,,
+381,195390,"SchemeBk, 11, aa",Lua/FontStyles.lua(00013),,HUDHelpText,,,,,,"CodeBay.in_Text, 11, aa",,OK,,
+382,195390,"SchemeBk, 11, aa",Lua/FontStyles.lua(00014),,HUDNotification,,,,,,"CodeBay.in_Text, 11, aa",,OK,,
+383,195390,"SchemeBk, 11, aa",Lua/FontStyles.lua(00015),,HUDConsumableCount,,,,,,"CodeBay.in_Text, 11, aa",,OK,,
+384,195390,"SchemeBk, 11, aa",Lua/FontStyles.lua(00016),,HUDCooldown,,,,,,"CodeBay.in_Text, 11, aa",,OK,,
+385,195390,"SchemeBk, 10	, aa",Lua/FontStyles.lua(00017),,HUDBuffStack,,,,,,"CodeBay.in_Text, 10	, aa",,OK,,
+3943,195716,"SchemeBk, 9, aa",Lua/FontStyles.lua(00018),,HUDPartyName,,,,,,"CodeBay.in_Text, 9, aa",,OK,,
+3944,195942,"SchemeBk, 7, aa",Lua/FontStyles.lua(00019),,HUDPartyKills,,,,,,"CodeBay.in_Text, 7, aa",,OK,,
+3945,195716,"SchemeBk, 7, aa",Lua/FontStyles.lua(00020),,HUDPartyMap,,,,,,"CodeBay.in_Text, 7, aa",,OK,,
 386,194283,"Kelvingrove, 10, aa",Lua/FontStyles.lua(00022),,HUDQuestTrack,,,,,,"CodeBay.in_Title, 10, aa",,OK,,
 387,194283,"Kelvingrove, 10, aa",Lua/FontStyles.lua(00023),,HUDQuestTrackGlow,,,,,,"CodeBay.in_Title, 10, aa",,OK,,
 388,194283,"Kelvingrove, 10, aa",Lua/FontStyles.lua(00024),,HUDHint,,,,,,"CodeBay.in_Title, 10, aa",,OK,,
@@ -1940,66 +1940,66 @@ None - they are always stoned!",Lua/DestinyCard.lua(01378),,,,,,,,"換一個燈�
 394,194283,"Kelvingrove, 14, aa",Lua/FontStyles.lua(00034),,MenuOptionsKeybind,,,,,,"CodeBay.in_Title, 14, aa",,OK,,
 395,194283,"Kelvingrove, 8, aa",Lua/FontStyles.lua(00035),,MenuOptionsKeybindSmall,,,,,,"CodeBay.in_Title, 8, aa",,OK,,
 396,194283,"Kelvingrove, 14, aa",Lua/FontStyles.lua(00036),,MenuWorldTitle,,,,,,"CodeBay.in_Title, 14, aa",,OK,,
-397,195390,"SchemeBk, 17, aa",Lua/FontStyles.lua(00037),,MenuWorldDescription,,,,,,"CodeBay.in_Text1, 17, aa",,OK,,
-4025,195942,"SchemeBk, 16, aa",Lua/FontStyles.lua(00038),,GamepadLayout,,,,,,"CodeBay.in_Text1, 16, aa",,OK,,
+397,195390,"SchemeBk, 17, aa",Lua/FontStyles.lua(00037),,MenuWorldDescription,,,,,,"CodeBay.in_Text, 17, aa",,OK,,
+4025,195942,"SchemeBk, 16, aa",Lua/FontStyles.lua(00038),,GamepadLayout,,,,,,"CodeBay.in_Text, 16, aa",,OK,,
 3494,194585,"Kelvingrove, 14, aa",Lua/FontStyles.lua(00042),,QuestProgressSmall,,,,,,"CodeBay.in_Title, 14, aa",,OK,,
 398,194585,"Kelvingrove, 16, aa",Lua/FontStyles.lua(00043),,MapTitle,,,,,,"CodeBay.in_Title, 16, aa",,OK,,
 399,194283,"Kelvingrove, 16, aa",Lua/FontStyles.lua(00044),,MapLockedReason,,,,,,"CodeBay.in_Title, 16, aa",,OK,,
 400,194283,"Kelvingrove, 16, aa",Lua/FontStyles.lua(00045),,ActionBarKey,,,,,,"CodeBay.in_Title, 16, aa",,OK,,
 401,194283,"Kelvingrove, 12, aa",Lua/FontStyles.lua(00046),,ActionBarKeySmall,,,,,,"CodeBay.in_Title, 12, aa",,OK,,
 402,194283,"Kelvingrove, 16, aa",Lua/FontStyles.lua(00047),,ActionBarText,,,,,,"CodeBay.in_Title, 16, aa",,OK,,
-403,195390,"SchemeBk, 15, aa",Lua/FontStyles.lua(00048),,MapHint,,,,,,"CodeBay.in_Text1, 15, aa",,OK,,
-404,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00049),,MapDescription,,,,,,"CodeBay.in_Text1, 13, aa",,OK,,
+403,195390,"SchemeBk, 15, aa",Lua/FontStyles.lua(00048),,MapHint,,,,,,"CodeBay.in_Text, 15, aa",,OK,,
+404,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00049),,MapDescription,,,,,,"CodeBay.in_Text, 13, aa",,OK,,
 405,194283,"Kelvingrove, 18, aa",Lua/FontStyles.lua(00052),,MessageTitle,,,,,,"CodeBay.in_Title, 18, aa",,OK,,
-406,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00053),,MessageDescr,,,,,,"CodeBay.in_Text1, 15, aa",,OK,,
+406,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00053),,MessageDescr,,,,,,"CodeBay.in_Text, 15, aa",,OK,,
 407,194283,"Kelvingrove, 16, aa",Lua/FontStyles.lua(00056),,LevelUpTitle,,,,,,"CodeBay.in_Title, 16, aa",,OK,,
 408,194283,"Kelvingrove, 40, aa",Lua/FontStyles.lua(00057),,LevelUpBigTitle,,,,,,"CodeBay.in_Title, 40, aa",,OK,,
-409,195390,"SchemeBk, 15, aa",Lua/FontStyles.lua(00058),,LevelUpDescr,,,,,,"CodeBay.in_Text1, 15, aa",,OK,,
+409,195390,"SchemeBk, 15, aa",Lua/FontStyles.lua(00058),,LevelUpDescr,,,,,,"CodeBay.in_Text, 15, aa",,OK,,
 410,194283,"Kelvingrove, 14, aa",Lua/FontStyles.lua(00059),,LevelUpNextLevel,,,,,,"CodeBay.in_Title, 14, aa",,OK,,
 411,194283,"Kelvingrove, 18, aa",Lua/FontStyles.lua(00060),,LevelUpItemCount,,,,,,"CodeBay.in_Title, 18, aa",,OK,,
 412,194283,"Kelvingrove, 16, aa",Lua/FontStyles.lua(00061),,ChooseRewardTitle,,,,,,"CodeBay.in_Title, 16, aa",,OK,,
 413,194283,"Kelvingrove, 16, aa",Lua/FontStyles.lua(00064),,CodexListTitle,,,,,,"CodeBay.in_Title, 16, aa",,OK,,
 414,194283,"Kelvingrove, 16, aa",Lua/FontStyles.lua(00065),,CodexDescrTitle,,,,,,"CodeBay.in_Title, 16, aa",,OK,,
 415,194283,"Kelvingrove, 14, aa",Lua/FontStyles.lua(00066),,CodexStats,,,,,,"CodeBay.in_Title, 14, aa",,OK,,
-416,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00067),,CodexDescr,,,,,,"CodeBay.in_Text1, 13, aa",,OK,,
-417,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00068),,CodexMonsterKeywords,,,,,,"CodeBay.in_Text1, 13, aa",,OK,,
+416,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00067),,CodexDescr,,,,,,"CodeBay.in_Text, 13, aa",,OK,,
+417,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00068),,CodexMonsterKeywords,,,,,,"CodeBay.in_Text, 13, aa",,OK,,
 3946,195716,"Kelvingrove, 16, aa",Lua/FontStyles.lua(00069),,CodexMenuEntry,,,,,,"CodeBay.in_Title, 16, aa",,OK,,
 419,194283,"Kelvingrove, 14, aa",Lua/FontStyles.lua(00072),,DestinyCardCost,,,,,,"CodeBay.in_Title, 14, aa",,OK,,
 420,194283,"Kelvingrove, 9, aa",Lua/FontStyles.lua(00073),,DestinyCardCostSmall,,,,,,"CodeBay.in_Title, 9, aa",,OK,,
-421,195390,"SchemeBk, 17, aa",Lua/FontStyles.lua(00075),,InventorySmall,,,,,,"CodeBay.in_Text1, 17, aa",,OK,,
+421,195390,"SchemeBk, 17, aa",Lua/FontStyles.lua(00075),,InventorySmall,,,,,,"CodeBay.in_Text, 17, aa",,OK,,
 422,194283,"Kelvingrove, 21, aa",Lua/FontStyles.lua(00076),,InventoryLevel,,,,,,"CodeBay.in_Title, 21, aa",,OK,,
 423,194283,"Kelvingrove, 14, aa",Lua/FontStyles.lua(00077),,InventoryTitleSmall,,,,,,"CodeBay.in_Title, 14, aa",,OK,,
 424,194283,"Kelvingrove, 12, aa",Lua/FontStyles.lua(00078),,InventoryTitleSmallest,,,,,,"CodeBay.in_Title, 12, aa",,OK,,
-425,196977,"SchemeBk, 13, aa",Lua/FontStyles.lua(00079),,InventorySubTitle,,,,,,"CodeBay.in_Text1, 13, aa",,OK,,
+425,196977,"SchemeBk, 13, aa",Lua/FontStyles.lua(00079),,InventorySubTitle,,,,,,"CodeBay.in_Text, 13, aa",,OK,,
 426,194283,"Kelvingrove, 10, aa",Lua/FontStyles.lua(00080),,InventoryTitleTiny,,,,,,"CodeBay.in_Title, 10, aa",,OK,,
 427,194283,"Kelvingrove, 14, aa",Lua/FontStyles.lua(00081),,InventoryProps,,,,,,"CodeBay.in_Title, 14, aa",,OK,,
-430,199130,"SchemeBk, 11, aa",Lua/FontStyles.lua(00084),,InventoryROHint,,,,,,"CodeBay.in_Text2, 11, aa",,OK,,
+430,199130,"SchemeBk, 11, aa",Lua/FontStyles.lua(00084),,InventoryROHint,,,,,,"CodeBay.in_Text, 11, aa",,OK,,
 431,194283,"Kelvingrove, 14, aa",Lua/FontStyles.lua(00085),,InventoryROItem,,,,,,"CodeBay.in_Title, 14, aa",,OK,,
 432,194283,"Kelvingrove, 16, aa",Lua/FontStyles.lua(00086),,InventoryROItemGold,,,,,,"CodeBay.in_Title, 16, aa",,OK,,
-433,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00087),,InventoryRODP,,,,,,"CodeBay.in_Text1, 13, aa",,OK,,
+433,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00087),,InventoryRODP,,,,,,"CodeBay.in_Text, 13, aa",,OK,,
 435,194283,"Kelvingrove, 18, aa",Lua/FontStyles.lua(00089),,InventoryItemCount,,,,,,"CodeBay.in_Title, 18, aa",,OK,,
 418,195716,"Kelvingrove, 18, aa",Lua/FontStyles.lua(00091),,InventorySubMenuEntry,,,,,,"CodeBay.in_Title, 18, aa",,OK,,
-436,195390,"SchemeBk, 15, aa",Lua/FontStyles.lua(00094),,TransmuteHint,,,,,,"CodeBay.in_Text1, 15, aa",,OK,,
+436,195390,"SchemeBk, 15, aa",Lua/FontStyles.lua(00094),,TransmuteHint,,,,,,"CodeBay.in_Text, 15, aa",,OK,,
 428,194283,"Kelvingrove, 14, aa",Lua/FontStyles.lua(00096),,AchievementTitle,,,,,,"CodeBay.in_Title, 14, aa",,OK,,
-429,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00097),,AchievementDescr,,,,,,"CodeBay.in_Text1, 13, aa",,OK,,
-434,195390,"SchemeBk, 15, aa",Lua/FontStyles.lua(00098),,AchievementPages,,,,,,"CodeBay.in_Text1, 15, aa",,OK,,
+429,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00097),,AchievementDescr,,,,,,"CodeBay.in_Text, 13, aa",,OK,,
+434,195390,"SchemeBk, 15, aa",Lua/FontStyles.lua(00098),,AchievementPages,,,,,,"CodeBay.in_Text, 15, aa",,OK,,
 437,194283,"Kelvingrove, 16, aa",Lua/FontStyles.lua(00101),,OptionsMenuEntry,,,,,,"CodeBay.in_Title, 16, aa",,OK,,
-438,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00103),,Version,,,,,,"CodeBay.in_Text1, 13, aa",,OK,,
-439,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00104),,NewsText,,,,,,"CodeBay.in_Text2, 13, aa",,OK,,
+438,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00103),,Version,,,,,,"CodeBay.in_Text, 13, aa",,OK,,
+439,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00104),,NewsText,,,,,,"CodeBay.in_Text, 13, aa",,OK,,
 440,194283,"Kelvingrove, 13, aa",Lua/FontStyles.lua(00105),,NewsTitle,,,,,,"CodeBay.in_Title, 13, aa",,OK,,
-441,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00106),,FeedBackTips,,,,,,"CodeBay.in_Text2, 13, aa",,OK,,
-442,195390,"SchemeBk, 17, aa",Lua/FontStyles.lua(00107),,FeedBackComment,,,,,,"CodeBay.in_Text2, 17, aa",,OK,,
-443,195390,"SchemeBk, 11, aa",Lua/FontStyles.lua(00108),,BugReportHint,,,,,,"CodeBay.in_Text1, 11, aa",,OK,,
-444,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00109),,BugReportLabel,,,,,,"CodeBay.in_Text1, 13, aa",,OK,,
+441,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00106),,FeedBackTips,,,,,,"CodeBay.in_Text, 13, aa",,OK,,
+442,195390,"SchemeBk, 17, aa",Lua/FontStyles.lua(00107),,FeedBackComment,,,,,,"CodeBay.in_Text, 17, aa",,OK,,
+443,195390,"SchemeBk, 11, aa",Lua/FontStyles.lua(00108),,BugReportHint,,,,,,"CodeBay.in_Text, 11, aa",,OK,,
+444,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00109),,BugReportLabel,,,,,,"CodeBay.in_Text, 13, aa",,OK,,
 445,194283,"Kelvingrove, 16, aa",Lua/FontStyles.lua(00112),,ChatTab,,,,,,"CodeBay.in_Title, 16, aa",,OK,,
-446,195390,"SchemeBk, 12, aa",Lua/FontStyles.lua(00113),,ChatEditSz1,,,,,,"CodeBay.in_Text2, 12, aa",,OK,,
-447,195390,"SchemeBk, 15, aa",Lua/FontStyles.lua(00114),,ChatEditSz2,,,,,,"CodeBay.in_Text2, 15, aa",,OK,,
-448,195390,"SchemeBk, 17, aa",Lua/FontStyles.lua(00115),,ChatEditSz3,,,,,,"CodeBay.in_Text2, 17, aa",,OK,,
-449,195390,"SchemeBk, 12, aa",Lua/FontStyles.lua(00116),,ChatLogSz1,,,,,,"CodeBay.in_Text2, 12, aa",,OK,,
-450,195390,"SchemeBk, 15, aa",Lua/FontStyles.lua(00117),,ChatLogSz2,,,,,,"CodeBay.in_Text2, 15, aa",,OK,,
-451,195390,"SchemeBk, 17, aa",Lua/FontStyles.lua(00118),,ChatLogSz3,,,,,,"CodeBay.in_Text2, 17, aa",,OK,,
-452,195390,"SchemeBk, 8, aa",Lua/FontStyles.lua(00121),,Shortcut,,,,,,"CodeBay.in_Text1, 8, aa",,OK,,
-453,195390,"SchemeBk, 17, aa",Lua/FontStyles.lua(00122),,Conversation,,,,,,"CodeBay.in_Text2, 17, aa",,OK,,
+446,195390,"SchemeBk, 12, aa",Lua/FontStyles.lua(00113),,ChatEditSz1,,,,,,"CodeBay.in_Text, 12, aa",,OK,,
+447,195390,"SchemeBk, 15, aa",Lua/FontStyles.lua(00114),,ChatEditSz2,,,,,,"CodeBay.in_Text, 15, aa",,OK,,
+448,195390,"SchemeBk, 17, aa",Lua/FontStyles.lua(00115),,ChatEditSz3,,,,,,"CodeBay.in_Text, 17, aa",,OK,,
+449,195390,"SchemeBk, 12, aa",Lua/FontStyles.lua(00116),,ChatLogSz1,,,,,,"CodeBay.in_Text, 12, aa",,OK,,
+450,195390,"SchemeBk, 15, aa",Lua/FontStyles.lua(00117),,ChatLogSz2,,,,,,"CodeBay.in_Text, 15, aa",,OK,,
+451,195390,"SchemeBk, 17, aa",Lua/FontStyles.lua(00118),,ChatLogSz3,,,,,,"CodeBay.in_Text, 17, aa",,OK,,
+452,195390,"SchemeBk, 8, aa",Lua/FontStyles.lua(00121),,Shortcut,,,,,,"CodeBay.in_Text, 8, aa",,OK,,
+453,195390,"SchemeBk, 17, aa",Lua/FontStyles.lua(00122),,Conversation,,,,,,"CodeBay.in_Text, 17, aa",,OK,,
 454,194283,"Kelvingrove, 18, aa",Lua/FontStyles.lua(00123),,ConversationName,,,,,,"CodeBay.in_Title, 18, aa",,OK,,
 455,194283,"Hackensack-Regular, 64, aa",Lua/FontStyles.lua(00125),,DamageFloating,,,,,,"CodeBay.in_Title, 64, aa",,OK,,
 456,194283,"Hackensack-Regular, 96, aa",Lua/FontStyles.lua(00126),,DamageFloatingCritical,,,,,,"CodeBay.in_Title, 96, aa",,OK,,
@@ -2007,18 +2007,18 @@ None - they are always stoned!",Lua/DestinyCard.lua(01378),,,,,,,,"換一個燈�
 458,194283,"Hackensack-Regular, 96, aa",Lua/FontStyles.lua(00128),,HeroDamageFloatingCrit,,,,,,"CodeBay.in_Title, 96, aa",,OK,,
 459,194283,"Hackensack-Regular, 56, aa",Lua/FontStyles.lua(00129),,TextFloating,,,,,,"CodeBay.in_Title, 56, aa",,OK,,
 460,194283,"Hackensack-Regular, 56, aa",Lua/FontStyles.lua(00130),,HeroNameFloating,,,,,,"CodeBay.in_Title, 56, aa",,OK,,
-461,195390,"SchemeBk, 15, aa",Lua/FontStyles.lua(00131),,Rollover,,,,,,"CodeBay.in_Text1, 15, aa",,OK,,
+461,195390,"SchemeBk, 15, aa",Lua/FontStyles.lua(00131),,Rollover,,,,,,"CodeBay.in_Text, 15, aa",,OK,,
 462,194283,"Hackensack-Regular, 48, aa",Lua/FontStyles.lua(00132),,GoldPickup,,,,,,"CodeBay.in_Title, 48, aa",,OK,,
 463,194283,"Hackensack-Regular, 48, aa",Lua/FontStyles.lua(00133),,XPPickup,,,,,,"CodeBay.in_Title, 48, aa",,OK,,
 464,194283,"Kelvingrove, 22, aa",Lua/FontStyles.lua(00135),,Pause,,,,,,"CodeBay.in_Title, 22, aa",,OK,,
-3457,195390,"SchemeBk, 11, aa",Lua/FontStyles.lua(00136),,Subtitles,,,,,,"CodeBay.in_Text2, 11, aa",,OK,,
-465,195390,"SchemeBk, 15, aa",Lua/FontStyles.lua(00139),,OnlineConnecting,,,,,,"CodeBay.in_Text2, 15, aa",,OK,,
+3457,195390,"SchemeBk, 11, aa",Lua/FontStyles.lua(00136),,Subtitles,,,,,,"CodeBay.in_Text, 11, aa",,OK,,
+465,195390,"SchemeBk, 15, aa",Lua/FontStyles.lua(00139),,OnlineConnecting,,,,,,"CodeBay.in_Text, 15, aa",,OK,,
 466,194283,"Kelvingrove, 16, aa",Lua/FontStyles.lua(00140),,OnlineListTitle,,,,,,"CodeBay.in_Title, 16, aa",,OK,,
 467,194283,"Kelvingrove, 16, aa",Lua/FontStyles.lua(00141),,OnlineListTitleInput,,,,,,"CodeBay.in_Title, 16, aa",,OK,,
 468,194283,"Kelvingrove, 16, aa",Lua/FontStyles.lua(00142),,OnlineListItem,,,,,,"CodeBay.in_Title, 16, aa",,OK,,
 469,194283,"Kelvingrove, 16, aa",Lua/FontStyles.lua(00143),,OnlineListItemInput,,,,,,"CodeBay.in_Title, 16, aa",,OK,,
-470,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00144),,NetPlayersDescr,,,,,,"CodeBay.in_Text2, 13, aa",,OK,,
-471,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00145),,PlayerNameInDescr,,,,,,"CodeBay.in_Text2, 13, aa",,OK,,
+470,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00144),,NetPlayersDescr,,,,,,"CodeBay.in_Text, 13, aa",,OK,,
+471,195390,"SchemeBk, 13, aa",Lua/FontStyles.lua(00145),,PlayerNameInDescr,,,,,,"CodeBay.in_Text, 13, aa",,OK,,
 472,194283,"Kelvingrove, 14, aa",Lua/FontStyles.lua(00146),,NetPlayersTitle,,,,,,"CodeBay.in_Title, 14, aa",,OK,,
 473,194283,"Kelvingrove, 14, aa",Lua/FontStyles.lua(00147),,PlayerNameInTitle,,,,,,"CodeBay.in_Title, 14, aa",,OK,,
 474,199130,"Kelvingrove, 28, aa",Lua/FontStyles.lua(00150),,HeroRespawnOption,,,,,,"CodeBay.in_Title, 28, aa",,OK,,
@@ -2189,7 +2189,7 @@ Combine with other Gift Boxes in Transmutation to get better items",Lua/Item.lua
 4029,195942,You can use transmutation to upgrade your equipment once you reach level <number>,Lua/LoadingTips.lua(00072),,,,,,,,當等級達到<number>級，你就可以使用合成來升級裝備。,,OK,,
 4030,195942,Use dyes in transmutation to change the color of your outfit,Lua/LoadingTips.lua(00073),,,,,,,,在合成中使用染料可改變服裝顏色。,,OK,,
 3656,195030,Directional (Default),Lua/LocalizationTexts.lua(00003),,,,,,,,指向（預設）,,OK,,
-4456,198919,No one hears you,Lua/LocalizationTexts.lua(00011),,,,,,,,沒人聽到,,OK,,
+4456,198919,No one hears you,Lua/LocalizationTexts.lua(00011),,,,,,,,沒有人聽到,,OK,,
 3951,195716,Show chat messages: <show_chat>,Lua/LocalizationTexts.lua(00015),,,,,,,,顯示聊天訊息：<show_chat>,,OK,,
 3952,195716,Large chat messages: <large_chat>,Lua/LocalizationTexts.lua(00016),,,,,,,,大型聊天訊息：<large_chat>,,OK,,
 4147,196097,Unable to redeem treasure key. Error code: <error>,Lua/LocalizationTexts.lua(00028),,,,,,,,無法兌換密碼。錯誤代碼：<error>,,OK,,
@@ -2896,8 +2896,8 @@ Reduces weapon cooldowns by <cooldown_reduction>%",Lua/Outfit.lua(00446),,,,,,,,
 953,194283,<text> without using Shrines and Demon Powers,Lua/Quest.lua(01178),,,,,,,,不使用祭壇和惡魔之力，<red></red><text>,,OK,,
 954,194283,<text> without using Shrines,Lua/Quest.lua(01179),,,,,,,,不使用祭壇，<red></red><text>,,OK,,
 955,194283,<text> without using Demon Powers,Lua/Quest.lua(01180),,,,,,,,不使用惡魔之力，<red></red><text>,,OK,,
-956,194799,<text> within <time> seconds,Lua/Quest.lua(01186),,,,,,,,在<time>秒內<text>,,OK,,
-957,194283,<text> within a window of <time> seconds,Lua/Quest.lua(01190),,,,,,,,在<time>秒內<text>,,OK,,
+956,194799,<text> within <time> seconds,Lua/Quest.lua(01186),,,,,,,,在<time>秒內<red></red><text>,,OK,,
+957,194283,<text> within a window of <time> seconds,Lua/Quest.lua(01190),,,,,,,,在<time>秒內<red></red><text>,,OK,,
 958,194283,<text> with <count> active Hexes,Lua/Quest.lua(01207),,,,,,,,<text>，<red></red>同時啟用<count>個禁咒,,OK,,
 959,194283,<text> with <hex>,Lua/Quest.lua(01212),,,,,,,,<text>，<red></red>同時啟用<red></red><hex>,,OK,,
 960,194283,<text> with <hex>,Lua/Quest.lua(01214),,,,,,,,<text>，<red></red>同時啟用<red></red><hex>,,OK,,
@@ -2924,7 +2924,7 @@ Reduces weapon cooldowns by <cooldown_reduction>%",Lua/Outfit.lua(00446),,,,,,,,
 977,195189,Overkill <monster><buff>,Lua/QuestTypes.lua(00200),,,,,,,,絕殺<buff><monster>,,OK,,
 978,195189,Overkill <number> <monsters><buff> with <weapon>,Lua/QuestTypes.lua(00204),,,,,,,,使用<weapon>絕殺<number>隻<buff><monsters>,,OK,,
 979,195189,Overkill <number> <monsters><buff>,Lua/QuestTypes.lua(00206),,,,,,,,絕殺<number>隻<buff><monsters>,,OK,,
-980,199653,<text> with a single hit,Lua/QuestTypes.lua(00212),,,,,,,,使用一招<text>,,changed,,
+980,199653,<text> with a single hit,Lua/QuestTypes.lua(00212),,,,,,,,只用一招<text>,,changed,,
 981,194283,<text> with Demon Powers,Lua/QuestTypes.lua(00215),,,,,,,,使用惡魔之力<text>,,OK,,
 982,194283,<text> with Bombs,Lua/QuestTypes.lua(00218),,,,,,,,使用炸彈<text>,,OK,,
 983,194283,<text> with Lava Creeper's death-blast,Lua/QuestTypes.lua(00222),,,,,,,,利用熔岩爬蛛的死亡爆炸<text>,,OK,,
@@ -2962,7 +2962,7 @@ Reduces weapon cooldowns by <cooldown_reduction>%",Lua/Outfit.lua(00446),,,,,,,,
 1016,194283,Ranged,Lua/QuestTypes.lua(01026),,,,,,,,遠程,,OK,,
 1017,194283,Melee,Lua/QuestTypes.lua(01026),,,,,,,,近戰,,OK,,
 1018,194283,Slay <kills> Monsters with <attack> attacks,Lua/QuestTypes.lua(01026),,,,,,,,使用<attack>殺死<kills>隻怪物,,OK,,
-1019,194283,Slay <kills> <monsters> with a single Attack or Demon Power,Lua/QuestTypes.lua(01071),,,,,,,,使用一招或一發惡魔之力殺死<kills>隻<monsters>,,OK,,
+1019,194283,Slay <kills> <monsters> with a single Attack or Demon Power,Lua/QuestTypes.lua(01071),,,,,,,,只用一招或一發惡魔之力殺死<kills>隻<monsters>,,OK,,
 1020,194283,Use <count> <interact>,Lua/QuestTypes.lua(01167),,,,,,,,使用<count>次<interact>,,OK,,
 1021,194283,Daze <count> Monsters,Lua/QuestTypes.lua(01248),,,,,,,,暈眩<count>隻怪物,,OK,,
 1022,194283,Interrupt <count> Monsters with a Jump-Smash,Lua/QuestTypes.lua(01250),,,,,,,,使用粉碎擊中斷<count>隻怪物,,OK,,
@@ -3535,7 +3535,7 @@ Note: Playing in Hard Mode is not recommended for your first character.",Lua/UI/
 1226,194283,News,Lua/UI/InGameMainMenu.lua(00268),,,,,,,,新消息,,OK,,
 1227,194283,Codex,Lua/UI/InGameMainMenu.lua(00348),,,,,,,,百科全書,,OK,,
 3860,198395,Deactivate,Lua/UI/InGameMainMenu.lua(00364),,,,,,,,解除,,OK,,
-3606,194959,This will deactivate Hard Mode and turn off your Hexes. You will not be able to activate Hard Mode again on this character. Are you sure you want to turn it off forever?,Lua/UI/InGameMainMenu.lua(00365),,,,,,,,這將會解除困難模式並停用你的禁咒。你將會無法用這個角色再次啟動困難模式。你確定要永遠解除嗎？,,OK,,
+3606,194959,This will deactivate Hard Mode and turn off your Hexes. You will not be able to activate Hard Mode again on this character. Are you sure you want to turn it off forever?,Lua/UI/InGameMainMenu.lua(00365),,,,,,,,"這將會解除困難模式並停用你的禁咒。你將會無法用這個角色再次啟動困難模式。<red></red>你確定要永遠解除嗎？",,OK,,
 4486,198919,Are you sure you want to switch to <game_mode>? You can freely switch between Casual Mode and Normal Mode.,Lua/UI/InGameMainMenu.lua(00374),,,,,,,,你確定要切換到<game_mode>嗎？你可以隨時切換普通或休閒模式。,,OK,,
 4487,198919,Loot drops are reduced in Casual mode.,Lua/UI/InGameMainMenu.lua(00376),,,,,,,,在休閒模式下物品掉落數會降低。,,OK,,
 4488,198919,Switch to <game_mode>,Lua/UI/InGameMainMenu.lua(00379),,,,,,,,切換到<game_mode>,,OK,,
@@ -3582,7 +3582,7 @@ Please, select your reward to level up!",Lua/UI/LevelUpDlg.lua(00363),,,,,,,,"�
 
 請選擇你的獎勵以繼續升級！",,OK,,
 1258,194283,Placeholder Title,Lua/UI/LevelUpDlg.lua(00381),,,,,,,,預留標題空位,,OK,,
-3950,195716,Use <LS> to select a reward,Lua/UI/LevelUpDlg.lua(00407),,,,,,,,使用 <LS> 選擇獎勵,,OK,,
+3950,195716,Use <LS> to select a reward,Lua/UI/LevelUpDlg.lua(00407),,,,,,,,使用<LS>選擇獎勵,,OK,,
 3616,194959,Connecting to server...,Lua/UI/LoginDlg.lua(00149),,,,,,,,正在連線到伺服器……,,OK,,
 3618,194959,Connecting to <host>:<port>,Lua/UI/LoginDlg.lua(00186),,,,,,,,正在連線到<host>：<port>,,OK,,
 3619,194959,Error connecting to server: <err>,Lua/UI/LoginDlg.lua(00194),,,,,,,,連線到伺服器發生錯誤：<err>,,OK,,
@@ -3890,7 +3890,7 @@ Code ""<err>""",Lua/UI/MenuOnline.lua(01379),,,,,,,,"抱歉，伺服器回傳一
 1492,196015,#<slot> Empty slot,Lua/UI/PreGameMenu.lua(00257),,,,,,,,#<slot> 空白存檔,,OK,,
 1491,196015,"#<slot> Level <level>, Time <time>",Lua/UI/PreGameMenu.lua(00259),,,,,,,,#<slot> 等級<level>，遊戲時間：<time>,,OK,,
 4237,197009,#<slot> Warning: Cannot load.,Lua/UI/PreGameMenu.lua(00261),,,,,,,,#<slot> 警告：無法讀取。,,OK,,
-1497,196015,<A> Start a new game,Lua/UI/PreGameMenu.lua(00285),,,,,,,,<A> 開始新遊戲,,OK,,
+1497,196015,<A> Start a new game,Lua/UI/PreGameMenu.lua(00285),,,,,,,,<A>開始新遊戲,,OK,,
 1498,196015,Start a new game,Lua/UI/PreGameMenu.lua(00285),,,,,,,,開始新遊戲,,OK,,
 4238,197009,The save file is corrupt or is locked by another application.,Lua/UI/PreGameMenu.lua(00287),,,,,,,,存檔已損毀，或被其它應用程式鎖住。,,OK,,
 515,194283,Renown Level <level>,Lua/UI/PreGameMenu.lua(00290),,,,,,,,聲望等級<level>,,OK,,
@@ -3905,8 +3905,8 @@ Code ""<err>""",Lua/UI/MenuOnline.lua(01379),,,,,,,,"抱歉，伺服器回傳一
 4166,196097,Quest: <main_quest>,Lua/UI/PreGameMenu.lua(00310),,,,,,,,任務：<main_quest>,,OK,,
 4167,196097,Challenges <completed>/<total>,Lua/UI/PreGameMenu.lua(00312),,,,,,,,挑戰：<completed>/<total>,,OK,,
 4168,196097,", Elite <completed>/<total>",Lua/UI/PreGameMenu.lua(00315),,,,,,,,，精英挑戰：<completed>/<total>,,OK,,
-1500,194283,Press <Y> to delete ,Lua/UI/PreGameMenu.lua(00317),,,,,,,,按 <Y> 刪除,,OK,,
-1501,194283,Press Del to delete ,Lua/UI/PreGameMenu.lua(00317),,,,,,,,按 Del 刪除,,OK,,
+1500,194283,Press <Y> to delete ,Lua/UI/PreGameMenu.lua(00317),,,,,,,,按<Y>刪除,,OK,,
+1501,194283,Press Del to delete ,Lua/UI/PreGameMenu.lua(00317),,,,,,,,按Del刪除,,OK,,
 1499,196725,Save Slot #<slot>,Lua/UI/PreGameMenu.lua(00320),,,,,,,,存檔 #<slot>,,OK,,
 1502,194283,Yes,Lua/UI/PreGameMenu.lua(00337),,,,,,,,是,,OK,,
 1503,194283,No,Lua/UI/PreGameMenu.lua(00338),,,,,,,,否,,OK,,
@@ -4071,8 +4071,8 @@ Check your Codex to see the standard recipes. Some recipes are secret and will n
 1572,194283,Apocalypse,Lua/Units/BansheeBoss.lua(00003),,|gender,,,,,,天啟,M,OK,,
 1573,194283,Zone of Flame - Summons Aspects - Ranged,Lua/Units/BansheeBoss.lua(00004),,,,,,,,火焰陣、召喚化身、遠程,,OK,,
 1574,194323,"As Apocalypse fell into oblivion, I realized that I survived death itself. I fought War, Conquest, Famine and Pestilence and somehow I live past that day. But I know that I shouldn't let my hubris take over me, for I have destroyed a mere shard of the essence of Apocalypse. Priests tell of the End Day when his true form would manifest and bring the end of everything. I now have the faith that if this day ever comes, humanity would be able to fight him and win.",Lua/Units/BansheeBoss.lua(00007),,,,,,,,當天啟墜落到湮沒之地後，我才發現我逃過了一劫。我對抗戰爭、征服、饑荒和死亡，我都挺過來了。但我知道不能狂妄自大，因為我消滅的僅僅是天啟的一小部分。司鐸們都提及天啟降臨之日，祂的真身將會化現並摧毀一切。我現在堅信，如果這一天真的到來，我們人類會有能力戰勝祂的。,,OK,,
-1575,194283,Slay the aspects of Apocalypse to make him vulnerable,Lua/Units/BansheeBoss.lua(00233),,,,,,,,殺死天啟的化身讓祂容易受到攻擊。,,OK,,
-1576,194283,Apocalypse is vulnerable to attacks,Lua/Units/BansheeBoss.lua(00359),,,,,,,,天啟目前對攻擊已無防備能力。,,OK,,
+1575,194283,Slay the aspects of Apocalypse to make him vulnerable,Lua/Units/BansheeBoss.lua(00233),,,,,,,,殺死天啟的化身讓祂失去行動能力。,,OK,,
+1576,194283,Apocalypse is vulnerable to attacks,Lua/Units/BansheeBoss.lua(00359),,,,,,,,天啟目前已失去行動能力。,,OK,,
 1577,194283,Ravenous Soul,Lua/Units/BansheeCharger.lua(00005),,|gender,,,,,,餓鬼,M,OK,,
 1578,194283,Ravenous Souls,Lua/Units/BansheeCharger.lua(00006),,,,,,,,餓鬼,,OK,,
 1579,194283,"The unique sinister trait of the Ravenous Souls is that they actively seek their prey. Unlike other Wraiths they do not haunt a location or a person - instead they hunt their quarry, most usually unwary travelers, quickly devouring their life force and then rushing to find another victim.",Lua/Units/BansheeCharger.lua(00007),,,,,,,,餓鬼唯一的邪惡之處就是會主動地尋找獵物。不同於其它怨靈，祂們並不會死守一地或死纏一人，祂們獵食的，反倒通常是粗心的過路者，迅速吞噬他們的生命後立即尋找下一位受害者。,,OK,,
@@ -4147,7 +4147,7 @@ Check your Codex to see the standard recipes. Some recipes are secret and will n
 1627,194283,Essences,Lua/Units/EssenceBase.lua(00004),,,,,,,,原質,,OK,,
 1629,194283,Chromatic Essence,Lua/Units/EssenceChromatic.lua(00005),,|gender,,,,,,五彩原質,M,OK,,
 1630,194283,Chromatic Essences,Lua/Units/EssenceChromatic.lua(00006),,,,,,,,五彩原質,,OK,,
-1631,194323,"A living anomaly, the Chromatic Essence was a tough and unpredictable opponent that almost caught me off-guard. I had to summon all of my cunning and reflexes to defeat all the aspects of the ever-changing elemental vortex. The destruction of one would bring forth three others until either you or it yields.",Lua/Units/EssenceChromatic.lua(00010),,,,,,,,一種活生生的異常之物，五彩原質是非常頑強和變化莫測的對手，幾乎讓我措手不及。我必須絞盡腦汁使出我的渾身解數，才能擊敗所有千變萬化的原質分身。一個分身被毀還會分裂成三、四個，直到你死或者它亡為止。,,OK,,
+1631,194323,"A living anomaly, the Chromatic Essence was a tough and unpredictable opponent that almost caught me off-guard. I had to summon all of my cunning and reflexes to defeat all the aspects of the ever-changing elemental vortex. The destruction of one would bring forth three others until either you or it yields.",Lua/Units/EssenceChromatic.lua(00010),,,,,,,,一種活生生的異常之物，五彩原質是非常頑強和變化莫測的對手，幾乎讓我措手不及。我必須絞盡腦汁使出渾身解數，才能擊敗所有千變萬化的原質分身。<red></red>一個分身被毀還會分裂成三、四個，直到你死或者它亡為止。,,OK,,
 1632,194283,Splits into Random Essences,Lua/Units/EssenceChromatic.lua(00011),,,,,,,,分裂成隨機原質,,OK,,
 1633,194283,Earth,Lua/Units/EssenceChromatic.lua(00029),,,,,,,,地,,OK,,
 1634,194283,Air,Lua/Units/EssenceChromatic.lua(00030),,,,,,,,氣,,OK,,
@@ -4231,7 +4231,7 @@ Check your Codex to see the standard recipes. Some recipes are secret and will n
 1720,194283,Ranged - Stone Form,Lua/Units/GargoyleWave.lua(00009),,,,,,,,遠程、石頭形態,,OK,,
 1721,194283,Grotesque seem to be imbued with a bit more of demon power than the lesser Gargoyles. These monsters are capable of emitting a wave of demonic energy from a distance which could prove quite dangerous should I find myself cornered. I've found out that the reverberating energies held inside of their stony bodies make them a tad more fragile than the rest of their accursed kin.,Lua/Units/GargoyleWave.lua(00010),,,,,,,,怪誕魔似乎比一般的石像鬼擁有更強大的惡魔之力。這些怪物能夠從遠距離釋放惡魔能量波，把我逼至絕境，相當危險。不過我也發現這股在它們體內迴盪的能量，卻也導致它們比一般的石像鬼更加脆弱。,,OK,,
 1722,194283,Vail The Immortal,Lua/Units/Lich.lua(00010),,|gender,,,,,,不朽者．汎爾,M,OK,,
-1723,194283,"Only a fool would think that defeating Vail the Immortal could banish a creature of such power forever. The world has not seen a true Lich for thousands of years and I should deem myself extremely lucky that I survived this encounter. Truly I have destroyed his phylactery here, in Zagoravia, but the legends tell that Liches used to have hundreds of phylacteries scattered across the world inside long-forgotten places of power. Vail would make no difference - sooner or later he will command his undead minions to drag the new phylactery back to his Mausoleum and he will continue to haunt this cursed land.",Lua/Units/Lich.lua(00015),,,,,,,,只有傻子才相信擊敗了不朽者．汎爾就代表永遠消滅了如此強大的怪物。這個世界已經數千年沒見過巫妖了，我真是走運竟然能遇到，還能活下來。雖然我摧毀了祂在扎古拉維亞的命匣，但是傳說中巫妖通常擁有數百個命匣，散布在世界各處被遺忘的力量之地。汎爾當然也不例外──祂早晚會叫自己的不死爪牙拖個新的命匣到陵墓，好讓祂繼續在這個詛咒之地興風作浪。,,OK,,
+1723,194283,"Only a fool would think that defeating Vail the Immortal could banish a creature of such power forever. The world has not seen a true Lich for thousands of years and I should deem myself extremely lucky that I survived this encounter. Truly I have destroyed his phylactery here, in Zagoravia, but the legends tell that Liches used to have hundreds of phylacteries scattered across the world inside long-forgotten places of power. Vail would make no difference - sooner or later he will command his undead minions to drag the new phylactery back to his Mausoleum and he will continue to haunt this cursed land.",Lua/Units/Lich.lua(00015),,,,,,,,只有傻子才相信擊敗了不朽者．汎爾就代表永遠消滅了如此強大的怪物。這個世界已經數千年沒見過巫妖了，我真是走運，居然遇到了還能活下來。雖然我<red></red>摧毀了祂在扎古拉維亞的命匣，但是傳說中巫妖通常擁有數百個命匣，散布在世界各處被遺忘的力量之地。汎爾當然也不例外──祂早晚會叫自己的不死爪<red></red>牙拖個新的命匣到陵墓，好讓祂繼續在這個詛咒之地興風作浪。,,OK,,
 1724,194283,Revives - Seeking Projectiles - Exploding Projectiles,Lua/Units/Lich.lua(00016),,,,,,,,復活、追蹤彈、爆裂彈,,OK,,
 1725,194283,Slay the Lich and follow his soul to the Phylactery,Lua/Units/Lich.lua(00088),,,,,,,,殺死巫妖並跟蹤祂的魂魄以找到命匣。,,OK,,
 1726,194283,Follow the Soul of the Lich to find his Phylactery,Lua/Units/Lich.lua(00269),,,,,,,,跟蹤巫妖的魂魄以找到祂的命匣。,,OK,,
@@ -4240,7 +4240,7 @@ Check your Codex to see the standard recipes. Some recipes are secret and will n
 1730,194283,Kill the Lich one last time to defeat him forever,Lua/Units/Lich.lua(00750),,,,,,,,最後一次殺死巫妖以永久消滅祂。,,OK,,
 1731,194323,Lord Gabriel,Lua/Units/LordGabriel.lua(00009),,|gender,,,,,,加百列領主,M,OK,,
 3883,195189,Seeking Projectiles Cause Frailty - Vampiric Totems,Lua/Units/LordGabriel.lua(00011),,,,,,,,虛弱追蹤彈、吸血圖騰,,OK,,
-1732,194323,"It is said that the first vampires have somehow conjured the vampirism curse in their greed for power and immortality. It was part of his grand plan to trick Katarina into dooming her own people and to create an elaborate trap for hunters, who are the only ones who could harm him. He played dirty tricks with the minds of everybody in the city, goading them to their own deaths. In the end, Gabriel fell victim to his own plot, his immortal essence now belonging to the demon called the Solicitor. It might sound strange, but I am grateful of this lesson of power and fate.",Lua/Units/LordGabriel.lua(00012),,,,,,,,傳說中，吸血鬼真祖為了追求永生和力量，以某種方式創造出了吸血鬼詛咒。他計畫的一部分就是欺騙卡特蓮娜使她害死自己的子民，並且佈下複雜的陷阱來對付唯一有能力傷害他的獵人們。他玩弄整座城市的人，讓他們一步步邁向死亡。最終，加百列自食惡果，他不朽的靈髓落到了一個被稱為誘魂者的惡魔手上。聽起來或許有點奇怪，但我還是很開心上了這權力與命運的一課。,,OK,,
+1732,194323,"It is said that the first vampires have somehow conjured the vampirism curse in their greed for power and immortality. It was part of his grand plan to trick Katarina into dooming her own people and to create an elaborate trap for hunters, who are the only ones who could harm him. He played dirty tricks with the minds of everybody in the city, goading them to their own deaths. In the end, Gabriel fell victim to his own plot, his immortal essence now belonging to the demon called the Solicitor. It might sound strange, but I am grateful of this lesson of power and fate.",Lua/Units/LordGabriel.lua(00012),,,,,,,,傳說中，吸血鬼真祖為了追求永生和力量，以某種方式創造出了吸血鬼詛咒。他計畫的一部分就是欺騙卡特蓮娜使她害死自己的子民，並佈下複雜的陷阱來對付唯一有能力傷害他的獵人們。他玩弄整座城市的人，讓他們一步步邁向死亡。最終，加百列自食惡果，他不朽的靈髓落到了一個被稱為誘魂者的惡魔手上。這樣說或許有點奇怪，但我還是很開心上了這權力與命運的一課。,,OK,,
 3939,195390,Aether Trap,Lua/Units/LordGabriel.lua(00956),,,,,,,,以太聚能器,,OK,,
 4606,199130,The Pumpking,Lua/Units/PumpKing.lua(00003),,|gender,,,,,,南瓜王,M,OK,,
 4607,199130,Pumpkings,Lua/Units/PumpKing.lua(00004),,,,,,,,南瓜王,,OK,,
@@ -4408,7 +4408,7 @@ Check your Codex to see the standard recipes. Some recipes are secret and will n
 1891,194283,Crush,Lua/Weapons/Hammer.lua(00203),,,,,,,,蓄力擊,,OK,,
 1892,197294,"Deals high damage and applies the <lightgreen2><condition></lightgreen2> condition in an area. Hold the button to increase the damage dealt by the attack. Gains Armor Penetration when fully channeled.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Hammer.lua(00204),,,,,,,,"造成極高傷害，並在範圍內施放<lightgreen2><condition></lightgreen2>狀 態。 按 住 按 鍵 可 提 升 攻 擊 造 成 的 傷 害。 完 全 蓄 力 後 可 獲 得 護 甲 穿 透 效 果。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Hammer.lua(00204),,,,,,,,"造成極高傷害，並在範圍內施放<lightgreen2><condition></lightgreen2>狀態。<red></red>按住按鍵可提升攻擊造成的傷害。完全蓄力<red></red>後可獲得護甲穿透效果。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1893,194283,Smash,Lua/Weapons/Hammer.lua(00336),,,,,,,,粉碎擊,,OK,,
@@ -4421,11 +4421,11 @@ Check your Codex to see the standard recipes. Some recipes are secret and will n
 1896,194283,"The Hand Mortar is a slow but powerful ranged weapon. It shoots bouncing, exploding grenades",Lua/Weapons/HandMortar.lua(00011),,,,,,,,迫擊炮是一種非常緩慢但威力強大的遠程武器。它能射出會彈跳的爆炸榴彈。,,OK,,
 1897,194283,Combine the Explosive Jump attack with Fire Lake to push back your enemies delivering high damage and slowing down their advances,Lua/Weapons/HandMortar.lua(00012),,,,,,,,結合爆炸跳和火海彈可震退敵人，造成極高傷害並使他們寸步難行。,,OK,,
 1898,194283,Bouncing Betty,Lua/Weapons/HandMortar.lua(00151),,,,,,,,彈跳彈,,OK,,
-1899,195716,Fires a grenade that bounces off the ground and deals AoE damage. Holding down the attack button increases the lenght of the intial trajectory.,Lua/Weapons/HandMortar.lua(00152),,,,,,,,射出一枚可在地面彈跳的榴彈並造成範圍傷 害。按住攻擊鍵可增長初始彈道射程。,,OK,,
+1899,195716,Fires a grenade that bounces off the ground and deals AoE damage. Holding down the attack button increases the lenght of the intial trajectory.,Lua/Weapons/HandMortar.lua(00152),,,,,,,,射出一枚可在地面彈跳的榴彈並造成範圍傷<red></red>害。按住攻擊鍵可增長初始彈道射程。,,OK,,
 1900,194283,Fire Lake,Lua/Weapons/HandMortar.lua(00231),,,,,,,,火海彈,,OK,,
 1901,194283,"Fires a grenade that creates an area of liquid fire that damages enemies inside it. Lasts <number1> sec and has a radius of <number2>m. Units caught in the initial blast get the <lightgreen2><condition></lightgreen2> condition.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/HandMortar.lua(00232),,,,,,,,"射出一枚可產生一灘液態火焰的榴彈，對範圍內的敵人造成傷害。持續時間<number1>秒，半徑範圍<number2>公尺。 受到初始爆炸衝擊的敵人會造成<lightgreen2><condition></lightgreen2>。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/HandMortar.lua(00232),,,,,,,,"射出一枚可產生一灘液態火焰的榴彈，對範圍內的敵人造成傷害。持續時間<number1>秒，半徑範圍<number2>公尺。<red></red>受到初始爆炸衝擊的敵人會造成<lightgreen2><condition></lightgreen2>。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1902,194283,Explosive Jump,Lua/Weapons/HandMortar.lua(00316),,,,,,,,爆炸跳,,OK,,
@@ -4446,7 +4446,7 @@ Recharge <number> sec.",Lua/Weapons/HandMortar.lua(00478),,,,,,,,"射出一枚�
 4129,195942,Oil Spill,Lua/Weapons/HandMortar.lua(00628),,,,,,,,潑油彈,,OK,,
 4019,195942,"Fires a grenade that creates a pool of oil that that Cripples enemies inside it and can be ignited by other mortar attacks. The area lasts for <number1> sec. Units caught in the initial blast are affected by <lightgreen2><condition></lightgreen2>.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/HandMortar.lua(00629),,,,,,,,"射出一枚可產生一灘汽油的榴彈，汽油可使範圍內的敵人癱瘓，也可被其它炮擊點燃。汽油持續時間<number1>秒。 受 到 初 始 爆 炸 衝 擊 的 敵 人 會 造 成 <lightgreen2><condition></lightgreen2> 。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/HandMortar.lua(00629),,,,,,,,"射出一枚可產生一灘汽油的榴彈，汽油可使範圍內的敵人癱瘓，也可被其它炮擊點燃。汽油持續時間<number1>秒。受到初始爆炸衝擊的敵人會造<red></red>成<lightgreen2><condition></lightgreen2>。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1908,194283,Lightning Gun,Lua/Weapons/LightningGun.lua(00003),,|gender,,,,,,閃電槍,M,OK,,
@@ -4455,15 +4455,15 @@ Recharge <number> sec.",Lua/Weapons/HandMortar.lua(00478),,,,,,,,"射出一枚�
 1911,194283,Shock,Lua/Weapons/LightningGun.lua(00061),,,,,,,,電擊,,OK,,
 4130,195942,"Single target. Hold the attack button to continue attacking. Enemies hit by this attack become <lightgreen2><condition></lightgreen2>. The attack chains to other <lightgreen2><condition></lightgreen2> enemies. In its last phase the attack deals additional damage.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/LightningGun.lua(00062),,,,,,,,"單一目標。按住攻擊鍵以持續進行電擊。受到電擊的敵人會造成<lightgreen2><condition></lightgreen2>。 電擊會傳導給其他<lightgreen2><condition></lightgreen2>的 敵 人。 電 擊 的 最 後 階 段 會 造 成 更 大 傷 害。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/LightningGun.lua(00062),,,,,,,,"單一目標。按住攻擊鍵以持續進行電擊。受到電擊的敵人會造成<lightgreen2><condition></lightgreen2>。電擊會傳導給其他<lightgreen2><condition></lightgreen2>的敵人。電擊的最後階段會造成更大傷<red></red>害。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1913,194283,Ball Lightning,Lua/Weapons/LightningGun.lua(00434),,,,,,,,電光球,,OK,,
-1914,194283,Fire a tracking ball lighting that bounces between <lightgreen2><condition></lightgreen2> targets. This attack can hit you and your allies.,Lua/Weapons/LightningGun.lua(00435),,,,,,,,射出一顆會追蹤的電光球，這 顆 球 會 在<lightgreen2><condition></lightgreen2>的 目 標 之 間 來 回 反 彈。 此 招 也 會 對 自 己 和 隊 友 造 成 傷 害。,,OK,,
+1914,194283,Fire a tracking ball lighting that bounces between <lightgreen2><condition></lightgreen2> targets. This attack can hit you and your allies.,Lua/Weapons/LightningGun.lua(00435),,,,,,,,射出一顆會追蹤的電光球，這顆球會在<lightgreen2><condition></lightgreen2>的目標之間來回反彈。此招也會對自己和隊友造成傷害。,,OK,,
 1915,194283,Lightning Trap,Lua/Weapons/LightningGun.lua(00467),,,,,,,,雷電網,,OK,,
 4131,198395,"Fire a slow ball lightning that transforms into a Lighting Trap in several seconds. The Lightning Trap deals damage and inflicts <lightgreen2><condition></lightgreen2> to all enemies in its radius every <number>.<number2> seconds, then explodes. Hold the button to increase the ball's initial speed. The explosion can hit you.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/LightningGun.lua(00468),,,,,,,,"射出一顆慢速電光球並在幾秒後變成雷電網。 雷 電 網 每<number>.<number2>秒會對範圍內 的 所 有 敵 人 造 成 傷 害 並 使 其<lightgreen2><condition></lightgreen2>， 最 後 還 會 爆 炸。 按 住 按 鍵 可 提 升 電 光 球 的 初 始 速 度。 爆 炸 也 會 對 自 己 造 成 傷 害。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/LightningGun.lua(00468),,,,,,,,"射出一顆慢速電光球並在幾秒後變成雷電網。雷電網每<number>.<number2>秒會對範圍內的所有敵人造成傷<red></red>害並使其<lightgreen2><condition></lightgreen2>，最後還會爆炸。按住按鍵<red></red>可提<red></red>升電光球的初始速度。爆炸也會對自己造成傷<red></red>害。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 4020,195716,"Single target. Hold the attack button to create a beautiful rainbow that damages everyone that it passes through. Enemies hit by this attack become <lightgreen2><condition></lightgreen2>.
@@ -4473,12 +4473,12 @@ Recharge <number> sec.",Lua/Weapons/HandMortar.lua(00478),,,,,,,,"射出一枚�
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1912,195942,"Single target. Hold the attack button to continue attacking and periodically pull the targeted enemy towards you. Enemies hit by this attack become <lightgreen2><condition></lightgreen2>. The attack chains to other <lightgreen2><condition></lightgreen2> enemies. In its last phase the attack deals additional damage.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/LightningGun.lua(01107),,,,,,,,"單一目標。按住攻擊鍵以持續進行電擊並把目標敵人拉近。受到電擊的敵人會造成<lightgreen2><condition></lightgreen2>。 電 擊 會 傳 導 給 其 他<lightgreen2><condition></lightgreen2>的 敵 人。 電 擊 的 最 後 階 段 會 造 成 更 大 傷 害。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/LightningGun.lua(01107),,,,,,,,"單一目標。按住攻擊鍵以持續進行電擊並把目標敵人拉近。受到電擊的敵人會造成<lightgreen2><condition></lightgreen2>。電<red></red>擊會傳導給其他<lightgreen2><condition></lightgreen2>的敵人。電擊的最後階段<red></red>會造成更大傷害。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1916,195942,"Fire a slow ball lightning that explodes shortly after fired pulling all nearby enemies to its epicenter. All targets in its blast area get damage and become <lightgreen2><condition></lightgreen2>. Hold the button to increase its initial speed. This attack can hit you.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/LightningGun.lua(01141),,,,,,,,"射出一顆短時間內會爆炸，並將附近所有敵人拉至爆炸中心的電光球。所有在爆炸範圍內的目標都會受到傷害並造成<lightgreen2><condition></lightgreen2>。 按 住 按 鈕 可 提 升 其 初 始 速 度。 此 招 也 會 對 自 己 造 成 傷 害。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/LightningGun.lua(01141),,,,,,,,"射出一顆短時間內會爆炸，並將附近所有敵人拉至爆炸中心的電光球。所有在爆炸範圍內的目標都會受到傷害並造成<lightgreen2><condition></lightgreen2>。按住按鈕可提<red></red>升其初始速度。此招也會對自己造成傷害。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1917,194283,Rapier,Lua/Weapons/Rapier.lua(00003),,|gender,,,,,,細劍,M,OK,,
@@ -4495,7 +4495,7 @@ Recharge <number> sec.",Lua/Weapons/HandMortar.lua(00478),,,,,,,,"射出一枚�
 1924,194283,Coup De Grace,Lua/Weapons/Rapier.lua(00223),,,,,,,,致命恩刺,,OK,,
 1925,194283,"Single target high damage melee attack that causes <lightgreen2><condition></lightgreen2>. On kill this attack resets the cooldown of the Rapier Charge ability.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Rapier.lua(00224),,,,,,,,"可造成<lightgreen2><condition></lightgreen2>的單一 目 標 高 傷 害 近 戰 攻 擊。 擊 殺 時 會 重 置 衝 鋒 刺 的 冷 卻 時 間。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Rapier.lua(00224),,,,,,,,"可造成<lightgreen2><condition></lightgreen2>的單一目標高傷害近戰攻擊。擊殺<red></red>時會重置衝鋒刺的冷卻時間。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1926,194283,Scythe,Lua/Weapons/Scythe.lua(00003),,|gender,,,,,,巨鐮,M,OK,,
@@ -4505,7 +4505,7 @@ Recharge <number> sec.",Lua/Weapons/HandMortar.lua(00478),,,,,,,,"射出一枚�
 1930,198395,"A basic set of attacks that damage multiple enemies. Gain a <lightgreen2><condition></lightgreen2> for each opponent you hit (max 10). Time the attacks correctly to inflict the <lightgreen2><condition2></lightgreen2> condition to the target.
 
 <lightgreen2><condition></lightgreen2>: <description>
-<lightgreen2><condition2></lightgreen2>: <description2>",Lua/Weapons/Scythe.lua(00102),,,,,,,,"一連串可傷害多個敵人的攻擊。每攻擊一名敵人會獲得一片<lightgreen2><condition></lightgreen2>（最多10片）。 抓 準 攻 擊 節 奏 可 對 目 標 造 成<lightgreen2><condition2></lightgreen2>。
+<lightgreen2><condition2></lightgreen2>: <description2>",Lua/Weapons/Scythe.lua(00102),,,,,,,,"一連串可傷害多個敵人的攻擊。每攻擊一名敵人會獲得一片<lightgreen2><condition></lightgreen2>（最多10片）。抓準攻<red></red>擊節奏可對目標造成<lightgreen2><condition2></lightgreen2>。
 
 <lightgreen2><condition></lightgreen2>：<description>
 <lightgreen2><condition2></lightgreen2>：<description2>",,OK,,
@@ -4513,16 +4513,16 @@ Recharge <number> sec.",Lua/Weapons/HandMortar.lua(00478),,,,,,,,"射出一枚�
 1932,198395,"Send out a wave of force that inflicts the <lightgreen2><condition></lightgreen2> condition but doesn't deal any damage. This attack spends all Soul Shards. <lightgreen2><condition></lightgreen2> duration is increased based on the number of Soul Shards spent.
 Cleave - hit 5 or more enemies with this attack to reduce Shockwave's cooldown
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Scythe.lua(00185),,,,,,,,"釋放一股會造成<lightgreen2><condition></lightgreen2>的 衝 擊 波， 但 不 會 造 成 任 何 傷 害。 此 攻 擊 會 消 耗 所 有 靈 魂 碎 片。<lightgreen2><condition></lightgreen2>的 持 續 時 間 會 依 據 消 耗 的 靈 魂 碎 片 數 而 延 長。
-順勢斬──擊中最少5個敵人可縮短衝擊波的 冷 卻 時 間。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Scythe.lua(00185),,,,,,,,"釋放一股會造成<lightgreen2><condition></lightgreen2>的衝擊波，但不會造成任<red></red>何傷害。此攻擊會消耗所有靈魂碎片。<lightgreen2><condition></lightgreen2>的<red></red>持續時間會依據消耗的靈魂碎片數而延<red></red>長。
+順勢斬──擊中最少5個敵人可縮短衝擊波的<red></red>冷卻時間。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1933,194283,Whirlwind,Lua/Weapons/Scythe.lua(00249),,,,,,,,旋風斬,,OK,,
 1934,198395,"Begin to spin, gaining <lightgreen2><condition></lightgreen2> and damaging all enemies near you. You can move the Whirlwind via the movement buttons. This attack spends all Soul Shards. Duration of the Whirlwild is increased based on the number of Soul Shards spent.
 Cleave - hit 5 or more enemies with this attack to reduce Whirlwind's cooldown
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Scythe.lua(00250),,,,,,,,"開始旋轉，獲得<lightgreen2><condition></lightgreen2>加 持 並 對 周 圍 的 敵 人 造 成 傷 害。 你 可 以 控 制 旋 風 斬 的 移 動 方 向。 此 攻 擊 會 消 耗 所 有 靈 魂 碎 片。 旋 風 斬 的 持 續 時 間 會 依 據 消 耗 的 靈 魂 碎 片 數 而 延 長。
-順勢斬──擊中最少5個敵人可縮短旋風斬的 冷 卻 時 間。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Scythe.lua(00250),,,,,,,,"開始旋轉，獲得<lightgreen2><condition></lightgreen2>加持並對周圍的敵人造成<red></red>傷害。你可以控制旋風斬的移動方向。此攻擊<red></red>會消耗所有靈魂碎片。旋風斬的持續時<red></red>間會依<red></red>據消耗的靈魂碎片數而延長。
+順勢斬──擊中最少5個敵人可縮短旋風斬的<red></red>冷卻時間。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 4132,198395,"Begin to spin, gaining <lightgreen2><condition></lightgreen2> and damaging all enemies near you while shooting fast moving, low damage projectiles. You can move the Whirlwind via the movement buttons.
@@ -4530,10 +4530,10 @@ Cleave - hit 5 or more enemies with this attack to reduce Whirlwind's cooldown
 This attack spends all Soul Shards. Duration of the Whirlwind is increased based on the number of Soul Shards spent.
 Cleave - hit 5 or more enemies with this attack to reduce Whirlwind's cooldown
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Scythe.lua(00560),,,,,,,,"開始旋轉，獲得<lightgreen2><condition></lightgreen2>加持並對周圍的敵人 造 成 傷 害， 同 時 射 出 快 速、 低 傷 害 的 投 射 物。 你 可 以 控 制 旋 風 斬 的 移 動 方 向。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Scythe.lua(00560),,,,,,,,"開始旋轉，獲得<lightgreen2><condition></lightgreen2>加持並對周圍的敵人造成<red></red>傷害，同時射出快速、低傷害的投射物。你可以控制旋風斬的移動方向。
 
 此攻擊會消耗所有靈魂碎片。旋風斬的持續時間會依據消耗的靈魂碎片數而延長。
-順勢斬──擊中最少5個敵人可縮短旋風斬的 冷 卻 時 間。
+順勢斬──擊中最少5個敵人可縮短旋風斬的<red></red>冷卻時間。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 4133,198395,"Send out a circular wave of force that inflicts <lightgreen2><condition></lightgreen2> and <lightgreen2><condition2></lightgreen2> but doesn't deal any damage.
@@ -4542,10 +4542,10 @@ This attack spends all Soul Shards. The duration of both conditions is increased
 Cleave - hit 5 or more enemies with this attack to reduce Shockwave's cooldown
 
 <lightgreen2><condition></lightgreen2>: <description>
-<lightgreen2><condition2></lightgreen2>: <description2>",Lua/Weapons/Scythe.lua(00613),,,,,,,,"釋放一圈會造成<lightgreen2><condition></lightgreen2>和<lightgreen2><condition2></lightgreen2>的 衝 擊 波， 但 不 會 造 成 任 何 傷 害。
+<lightgreen2><condition2></lightgreen2>: <description2>",Lua/Weapons/Scythe.lua(00613),,,,,,,,"釋放一圈會造成<lightgreen2><condition></lightgreen2>和<lightgreen2><condition2></lightgreen2>的衝擊波，但<red></red>不會<red></red>造成任何傷害。
 
 此攻擊會消耗所有靈魂碎片。兩種狀態的持續時間會依據消耗的靈魂碎片數而延長。
-順勢斬──擊中最少5個敵人可縮短衝擊波的 冷 卻 時 間。
+順勢斬──擊中最少5個敵人可縮短衝擊波的<red></red>冷卻時間。
 
 <lightgreen2><condition></lightgreen2>：<description>
 <lightgreen2><condition2></lightgreen2>：<description2>",,OK,,
@@ -4573,7 +4573,7 @@ Cleave - hit 5 or more enemies with this attack to reduce Shockwave's cooldown
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 4022,195942,"Single target attack that inflicts <lightgreen2><condition></lightgreen2>. Recharges whenever an enemy is killed with the Shotgun.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Shotgun.lua(00428),,,,,,,,"可造成<lightgreen2><condition></lightgreen2>的單一目標射擊。以霰彈槍射殺 敵 人 時 會 立 即 冷 卻。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Shotgun.lua(00428),,,,,,,,"可造成<lightgreen2><condition></lightgreen2>的單一目標射擊。以霰彈槍射殺敵<red></red>人時會立即冷卻。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 4023,195716,"A basic attack that pierces targets, hitting all enemis in a line. Time the attacks correctly to inflict the <lightgreen2><condition></lightgreen2> condition to the target.
@@ -4598,23 +4598,23 @@ Cleave - hit 5 or more enemies with this attack to reduce Shockwave's cooldown
 1953,194283,Dash,Lua/Weapons/Sword.lua(00263),,,,,,,,直劈,,OK,,
 4135,195942,"Single target attack that inflicts <lightgreen2><condition></lightgreen2> to your opponent. Whenever you score a critical hit all nearby enemies will get the <lightgreen2><condition></color> condition as well.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Sword.lua(00264),,,,,,,,"可對敵人造成<lightgreen2><condition></lightgreen2>的單一目標攻擊。 暴 擊 時 附 近 所 有 敵 人 也 都 會 陷 入<lightgreen2><condition></color>。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Sword.lua(00264),,,,,,,,"可對敵人造成<lightgreen2><condition></lightgreen2>的單一目標攻擊。暴擊時附<red></red>近所有敵人也都會陷入<lightgreen2><condition></color>。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 4136,195942,"Single target attack that inflicts <lightgreen2><condition></lightgreen2> to your opponent. Deals damage and inflicts the <lightgreen2><condition></color> condition to all nearby enemies on critical hit.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Sword.lua(00299),,,,,,,,"可對敵人造成<lightgreen2><condition></lightgreen2>的單一目標攻擊。 暴 擊 時 會 對 附 近 所 有 敵 人 造 成 傷 害 並 使 其<lightgreen2><condition></color>。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Sword.lua(00299),,,,,,,,"可對敵人造成<lightgreen2><condition></lightgreen2>的單一目標攻擊。暴擊時會<red></red>對附近所有敵人造成傷害並使其<lightgreen2><condition></color>。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1950,195942,"Knocks back a single enemy. Unleashes a slow-moving projectile that inflicts the <lightgreen2><condition></lightgreen2> condition to all enemies on its path. Will automatically recharge when you crit an enemy.
 
-<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Sword.lua(00346),,,,,,,,"震退單一敵人。釋放一個慢速投射物，對路徑上的所有敵人造成<lightgreen2><condition></lightgreen2>。 當 暴 擊 敵 人 時 會 立 即 冷 卻。
+<lightgreen2><condition></lightgreen2>: <description>",Lua/Weapons/Sword.lua(00346),,,,,,,,"震退單一敵人。釋放一個慢速投射物，對路徑上的所有敵人造成<lightgreen2><condition></lightgreen2>。當暴擊敵人時會立即<red></red>冷卻。
 
 <lightgreen2><condition></lightgreen2>：<description>",,OK,,
 1954,195942,"Single target attack that inflicts <lightgreen2><condition></lightgreen2> to your opponent. Unleashes a slow-moving projectile that inflicts the <lightgreen2><condition2></lightgreen2> condition to all enemies on its path. Whenever you score a critical hit all nearby enemies will get the <lightgreen2><condition></lightgreen2> condition as well.
 
 <lightgreen2><condition></lightgreen2>: <description>
-<lightgreen2><condition2></lightgreen2>: <description2>",Lua/Weapons/Sword.lua(00354),,,,,,,,"可對敵人造成<lightgreen2><condition></lightgreen2>的 單 一 目 標 攻 擊。 釋 放 一 個 慢 速 投 射 物， 對 路 徑 上 的 所 有 敵 人 造 成<lightgreen2><condition2></lightgreen2>。 暴 擊 時 附 近 所 有 敵 人 也 都 會 陷 入<lightgreen2><condition></lightgreen2>。
+<lightgreen2><condition2></lightgreen2>: <description2>",Lua/Weapons/Sword.lua(00354),,,,,,,,"可對敵人造成<lightgreen2><condition></lightgreen2>的單一目標攻擊。釋放一個<red></red>慢速投射物，對路徑上的所有敵人造成<lightgreen2><condition2></lightgreen2>。<red></red>暴擊時附近所有敵人也都會陷入<lightgreen2><condition></lightgreen2>。
 
 <lightgreen2><condition></lightgreen2>：<description>
 <lightgreen2><condition2></lightgreen2>：<description2>",,OK,,
@@ -4626,7 +4626,7 @@ Cleave - hit 5 or more enemies with this attack to reduce Shockwave's cooldown
 
 Magical missiles may drop <lightgreen2><condition_name></lightgreen2> orbs on hit.
 
-<lightgreen2><condition_name></lightgreen2>: <condition_description>",Lua/Weapons/TomeOfSouls.lua(00068),,,,,,,,"射出可穿透目標並造成傷害的短距離魔法飛 彈。按住按鍵可提升射速。
+<lightgreen2><condition_name></lightgreen2>: <condition_description>",Lua/Weapons/TomeOfSouls.lua(00068),,,,,,,,"射出可穿透目標並造成傷害的短距離魔法飛<red></red>彈。按住按鍵可提升射速。
 
 魔法飛彈擊中時有機率會掉落<lightgreen2><condition_name></lightgreen2>寶珠。
 
@@ -4635,7 +4635,7 @@ Magical missiles may drop <lightgreen2><condition_name></lightgreen2> orbs on hi
 3514,198395,"Transform into a wave of arcane energy that travels fast and inflicts the <lightgreen2><condition_name></lightgreen2> condition to all enemies on its path. Pick up all arcane orbs in its radius at the end of the attack.
 Consumes one Arcane Power orb to recharge instantly
 
-<lightgreen2><condition_name></lightgreen2>: <condition_description>",Lua/Weapons/TomeOfSouls.lua(00169),,,,,,,,"化成一股祕能波，快速穿過路徑上的所有敵人 並 造 成<lightgreen2><condition_name></lightgreen2>。 攻 擊 結 束 後 會 拾 取 半 徑 範 圍 內 的 所 有 祕 能 寶 珠。
+<lightgreen2><condition_name></lightgreen2>: <condition_description>",Lua/Weapons/TomeOfSouls.lua(00169),,,,,,,,"化成一股祕能波，快速穿過路徑上的所有敵人並造成<lightgreen2><condition_name></lightgreen2>。攻擊結束後會拾取半徑範圍內的<red></red>所有祕能寶珠。
 消耗一顆祕能寶珠可立即冷卻。
 
 <lightgreen2><condition_name></lightgreen2>：<condition_description>",,OK,,
@@ -4663,7 +4663,7 @@ Casting a demon power while wielding a Tome grants <condition_name>.<condition_d
 1970,194283,Wraiths,Lua/_const.lua(00268),,,,,,,,怨靈,,OK,,
 1971,197934,"The ordinary folk wrongly deem the Wraiths for being the ghosts of the departed. These spectral apparitions are shards of living essence that wander seamlessly between the worlds in the same fashion as parasites in a search of a host. Should a Wraith find a place of power or a mortal soul to haunt, it would anchor itself towards it until it devours its life force. Should the sinister activities of the Wraith be disturbed it would unleash all sorts of arcane mayhem upon its opponent, among which are areas of spectral taint that sap the strength of mortals.",Lua/_const.lua(00268),,,,,,,,一般人都錯誤的認為怨靈只是亡者的鬼魂。其實這些鬼魅幻影是在世間徘徊的生命精華碎片，以同樣的方式不斷尋找宿主的寄生蟲。如果怨靈鎖定了力量之地或人類靈魂，祂們就會一直糾纏不休，直到將其生命之力完全吞噬。萬一怨靈的奸險行動受到了妨礙，祂們就會施展各種祕法攻擊對手，尤其是以鬼魅污穢之陣削弱人類的力量。,,OK,,
 1972,194283,Undead,Lua/_const.lua(00269),,,,,,,,不死生物,,OK,,
-1973,196259,The only fate worse than death is to become an Undead - a creature bound in the grey fringe between two worlds by dark magic. Anyone without a vast knowledge of the supernatural could only be blessed with the lack of awareness that Undead are no animated puppets or mere constructs of bone bound by their vile masters; the twisted frame of each one of them is sustained into unlife by the imprisonment of the soul of the deceased person. I fail to imagine the tortures upon which the imprisoned soul is condemned. A well-placed blow can destroy their bony case and release the soul for good.,Lua/_const.lua(00269),,,,,,,,比死亡還悲慘的命運就是變成不死生物，一種被黑魔法束縛於生死之間的怪物。沒有超自然知識的人們只能慶幸他們的無知：不死生物並不是會動的傀儡也不單單是被卑鄙主人束縛的骨架，每一個扭曲的骨架中都是被囚禁的亡者靈魂。我無法想像這些被囚禁的靈魂究竟遭受了怎樣的折磨。徹底粉碎它們的骨身才能永遠釋放其內的靈魂。,,OK,,
+1973,196259,The only fate worse than death is to become an Undead - a creature bound in the grey fringe between two worlds by dark magic. Anyone without a vast knowledge of the supernatural could only be blessed with the lack of awareness that Undead are no animated puppets or mere constructs of bone bound by their vile masters; the twisted frame of each one of them is sustained into unlife by the imprisonment of the soul of the deceased person. I fail to imagine the tortures upon which the imprisoned soul is condemned. A well-placed blow can destroy their bony case and release the soul for good.,Lua/_const.lua(00269),,,,,,,,比死亡還悲慘的命運就是變成不死生物，一種被黑魔法束縛於生死之間的怪物。沒有超自然知識的人們只能慶幸他們的無知：不死生物並不是會動的傀儡，也不單單是被卑鄙主人束縛的骨架，每一個扭曲的骨架中都是被囚禁的亡者靈魂。我無法想像這些被囚禁的靈魂究竟遭受了怎樣的折磨。徹底粉碎它們的骸骨之驅才能永遠釋放其內的靈魂。,,OK,,
 1974,194283,Essences,Lua/_const.lua(00270),,,,,,,,原質,,OK,,
 1975,194283,"Legends tell of a distant past when the mighty Elemental Forces roamed unbound and in their constant struggle shaped the forms of the world as we see it today. The Essences I found in Zagoravia are nothing more than fragments of these forces, enslaved by the demon forces and used as self-aware weapons that manifest to sow destruction upon the world they once created. But the core of elemental force is not even the final form of the Essence - after destroying them they would break apart in lesser shards which would continue to follow their unrelenting path of destruction.",Lua/_const.lua(00270),,,,,,,,傳說在遙遠的過去，浩瀚的元素之力隨處漫遊，而在它們不斷地努力下，形成了現今我們所見的世界。我在扎古拉維亞發現的原質只不過是那些力量的碎片，現被惡魔之力控制，作為有意識的武器，在這個它們曾經所創造的世界散播毀滅。但元素之力的核心甚至並非原質的最終形態──在破壞之後，它們會分裂成更小的碎片，持續不斷地散播毀滅。,,OK,,
 1976,194283,Gargoyles,Lua/_const.lua(00271),,,,,,,,石像鬼,,OK,,
@@ -5963,50 +5963,50 @@ Casting a demon power while wielding a Tome grants <condition_name>.<condition_d
 101135,32747,The Void Walkers,maps/TheBastille/scenario.lua(03174),,Scenario TheBastille Text,,,,,,虛空行者,,OK,,
 101136,32747,The Cult of Cosmic Hatred,maps/TheBastille/scenario.lua(03206),,Scenario TheBastille Text,,,,,,恨世教團,,OK,,
 101137,32747,Starless Hell,maps/TheBastille/scenario.lua(03224),,Scenario TheBastille Text,,,,,,無星地獄,,OK,,
-100308,28897,"Use the <Move_CameraForward>, <Move_CameraLeft>, <Move_CameraBackward>, <Move_CameraRight> keys to move",maps/Tutorial/objects.lua(07359),,,,,,,,使用 <Move_CameraForward>、<Move_CameraLeft>、<Move_CameraBackward>、<Move_CameraRight> 移動。,,OK,,
-100309,28897,Point and press <Attack1> to move to that point,maps/Tutorial/objects.lua(07360),,,,,,,,指向某點並按 <Attack1> 移動到該處。,,OK,,
-100310,28897,Use <LS> to move,maps/Tutorial/objects.lua(07361),,,,,,,,使用 <LS> 移動。,,OK,,
-100311,28897,Press or Hold <Attack1> to attack in the direction of the mouse pointer,maps/Tutorial/objects.lua(11442),,,,,,,,按或按住 <Attack1> 向游標方向進行攻擊。,,OK,,
-100312,28897,Click on a monster with <Attack1> to approach it and attack. Hold <ForceAttack> to attack at your current position,maps/Tutorial/objects.lua(11443),,,,,,,,使用 <Attack1> 點擊怪物以接近並進行攻擊。按住 <ForceAttack> 可在原地進行攻擊。,,OK,,
-100313,28897,Press or Hold <X> to attack,maps/Tutorial/objects.lua(11444),,,,,,,,按或按住 <X> 攻擊。,,OK,,
-100314,28897,Hold <CameraRotate_Mouse> and move the mouse to rotate the camera,maps/Tutorial/objects.lua(12974),,,,,,,,按住 <CameraRotate_Mouse> 並移動滑鼠以旋轉鏡頭。,,OK,,
-100315,28897,Hold <CameraRotate_Mouse> and move the mouse to rotate the camera,maps/Tutorial/objects.lua(12975),,,,,,,,按住 <CameraRotate_Mouse> 並移動滑鼠以旋轉鏡頭。,,OK,,
-100316,28897,Use <RS> to rotate the camera,maps/Tutorial/objects.lua(12976),,,,,,,,使用 <RS> 旋轉鏡頭。,,OK,,
-100317,28897,Press <MapProgress> or click on the <color 119 230 30>Maps & Challenges</color> button in the menu to view a map of the area,maps/Tutorial/objects.lua(21145),,,,,,,,按 <MapProgress> 或點擊選單中的<color 119 230 30>地圖與挑戰</color>以查看區域地圖。,,OK,,
-100318,28897,Press <MapProgress> or click on the <color 119 230 30>Maps & Challenges</color> button in the menu to view a map of the area,maps/Tutorial/objects.lua(21146),,,,,,,,按 <MapProgress> 或點擊選單中的<color 119 230 30>地圖與挑戰</color>以查看區域地圖。,,OK,,
-100319,28897,Press <RS>  or use the <color 119 230 30>Maps & Challenges</color> option in the menu to view a map of the area,maps/Tutorial/objects.lua(21147),,,,,,,,按 <RS> 或使用選單中的<color 119 230 30>地圖與挑戰</color>以查看區域地圖。,,OK,,
-100320,28897,Press <Jump> and jump down to the street,maps/Tutorial/objects.lua(21419),,,,,,,,按 <Jump> 跳下至街道。,,OK,,
-100321,28897,Use <JumpCursor> and jump down to the street,maps/Tutorial/objects.lua(21420),,,,,,,,使用 <JumpCursor> 跳下至街道。,,OK,,
-100322,28897,Press <A> and jump down to the street,maps/Tutorial/objects.lua(21421),,,,,,,,按 <A> 跳下至街道。,,OK,,
+100308,28897,"Use the <Move_CameraForward>, <Move_CameraLeft>, <Move_CameraBackward>, <Move_CameraRight> keys to move",maps/Tutorial/objects.lua(07359),,,,,,,,使用<Move_CameraForward>、<Move_CameraLeft>、<Move_CameraBackward>、<Move_CameraRight>移動。,,OK,,
+100309,28897,Point and press <Attack1> to move to that point,maps/Tutorial/objects.lua(07360),,,,,,,,指向某點並按<Attack1>移動到該處。,,OK,,
+100310,28897,Use <LS> to move,maps/Tutorial/objects.lua(07361),,,,,,,,使用<LS>移動。,,OK,,
+100311,28897,Press or Hold <Attack1> to attack in the direction of the mouse pointer,maps/Tutorial/objects.lua(11442),,,,,,,,按或按住<Attack1>向游標方向進行攻擊。,,OK,,
+100312,28897,Click on a monster with <Attack1> to approach it and attack. Hold <ForceAttack> to attack at your current position,maps/Tutorial/objects.lua(11443),,,,,,,,使用<Attack1>點擊怪物以接近並進行攻擊。按住<ForceAttack>可在原地進行攻擊。,,OK,,
+100313,28897,Press or Hold <X> to attack,maps/Tutorial/objects.lua(11444),,,,,,,,按或按住<X>攻擊。,,OK,,
+100314,28897,Hold <CameraRotate_Mouse> and move the mouse to rotate the camera,maps/Tutorial/objects.lua(12974),,,,,,,,按住<CameraRotate_Mouse>並移動滑鼠以旋轉鏡頭。,,OK,,
+100315,28897,Hold <CameraRotate_Mouse> and move the mouse to rotate the camera,maps/Tutorial/objects.lua(12975),,,,,,,,按住<CameraRotate_Mouse>並移動滑鼠以旋轉鏡頭。,,OK,,
+100316,28897,Use <RS> to rotate the camera,maps/Tutorial/objects.lua(12976),,,,,,,,使用<RS>旋轉鏡頭。,,OK,,
+100317,28897,Press <MapProgress> or click on the <color 119 230 30>Maps & Challenges</color> button in the menu to view a map of the area,maps/Tutorial/objects.lua(21145),,,,,,,,按<MapProgress>或點擊選單中的<color 119 230 30>地圖與挑戰</color>以查看區域地圖。,,OK,,
+100318,28897,Press <MapProgress> or click on the <color 119 230 30>Maps & Challenges</color> button in the menu to view a map of the area,maps/Tutorial/objects.lua(21146),,,,,,,,按<MapProgress>或點擊選單中的<color 119 230 30>地圖與挑戰</color>以查看區域地圖。,,OK,,
+100319,28897,Press <RS>  or use the <color 119 230 30>Maps & Challenges</color> option in the menu to view a map of the area,maps/Tutorial/objects.lua(21147),,,,,,,,按<RS>或使用選單中的<color 119 230 30>地圖與挑戰</color>以查看區域地圖。,,OK,,
+100320,28897,Press <Jump> and jump down to the street,maps/Tutorial/objects.lua(21419),,,,,,,,按<Jump>跳下至街道。,,OK,,
+100321,28897,Use <JumpCursor> and jump down to the street,maps/Tutorial/objects.lua(21420),,,,,,,,使用<JumpCursor>跳下至街道。,,OK,,
+100322,28897,Press <A> and jump down to the street,maps/Tutorial/objects.lua(21421),,,,,,,,按<A>跳下至街道。,,OK,,
 100323,28897,Checkpoint Activated. If you die you will be returned to this point.,maps/Tutorial/objects.lua(21887),,,,,,,,紀錄點已啟動。如果你死了將會回到這裡。,,OK,,
 100324,28897,Tower Basement,maps/Tutorial/objects.lua(26172),,,,,,,,塔樓地下室,,OK,,
-100325,28897,Press <Dodge> while moving or <color 119 230 30>double tap</color> a direction key to dodge and avoid attacks,maps/Tutorial/objects.lua(27194),,,,,,,,在移動時按 <Dodge> 或<color 119 230 30>雙擊</color>方向鍵以翻滾來閃避攻擊。,,OK,,
-100326,30149,Use <Dodge_CameraForward> to dodge forward (camera relative). Use <Dodge_CameraBackward> to dodge back (camera relative). Use <Dodge_CursorForward> to dodge to pointer.,maps/Tutorial/objects.lua(27195),,,,,,,,使用 <Dodge_CameraForward> 向前翻滾（相對於鏡頭）。使用 <Dodge_CameraBackward> 向後翻滾（相對於鏡頭）。使用 <Dodge_CursorForward> 向游標方向翻滾。,,OK,,
-100327,28897,Use <LB> + <LS> to dodge and avoid attacks,maps/Tutorial/objects.lua(27196),,,,,,,,使用 <LB> + <LS> 以翻滾來閃避攻擊。,,OK,,
+100325,28897,Press <Dodge> while moving or <color 119 230 30>double tap</color> a direction key to dodge and avoid attacks,maps/Tutorial/objects.lua(27194),,,,,,,,在移動時按<Dodge>或<color 119 230 30>雙擊</color>方向鍵以翻滾來閃避攻擊。,,OK,,
+100326,30149,Use <Dodge_CameraForward> to dodge forward (camera relative). Use <Dodge_CameraBackward> to dodge back (camera relative). Use <Dodge_CursorForward> to dodge to pointer.,maps/Tutorial/objects.lua(27195),,,,,,,,使用<Dodge_CameraForward>向前翻滾（相對於鏡頭）。使用<Dodge_CameraBackward>向後翻滾（相對於鏡頭）。使用<Dodge_CursorForward>向游標方向翻滾。,,OK,,
+100327,28897,Use <LB> + <LS> to dodge and avoid attacks,maps/Tutorial/objects.lua(27196),,,,,,,,使用<LB> + <LS>以翻滾來閃避攻擊。,,OK,,
 100328,28897,Castle Gates,maps/Tutorial/objects.lua(27739),,,,,,,,城門,,OK,,
 100329,28897,Castle Zagore,maps/Tutorial/objects.lua(29552),,,,,,,,扎古爾城,,OK,,
 100330,28897,Castle Zagore,maps/Tutorial/objects.lua(29574),,,,,,,,扎古爾城,,OK,,
-100331,28897,Press <Jump> to jump,maps/Tutorial/scenario.lua(00031),,Scenario Tutorial Text,,,,,,按 <Jump> 跳躍。,,OK,,
-100332,28897,Press <JumpCursor> to jump towards the mouse pointer,maps/Tutorial/scenario.lua(00032),,Scenario Tutorial MouseText,,,,,,按 <JumpCursor> 向游標方向跳躍。,,OK,,
-100333,28897,Press <A> to jump,maps/Tutorial/scenario.lua(00033),,Scenario Tutorial GamepadText,,,,,,按 <A> 跳躍。,,OK,,
-100334,28897,"<color 119 230 30>Jump</color>, then press <Jump> again when close to a wall to do a wall jump and climb up",maps/Tutorial/scenario.lua(00062),,Scenario Tutorial Text,,,,,,靠近牆壁跳起，再按 <Jump> 以使出蹬牆跳來翻越高牆。,,OK,,
-100335,28897,"<color 119 230 30>Jump</color>, then press <JumpCursor> again when close to a wall to do a wall jump and climb up",maps/Tutorial/scenario.lua(00063),,Scenario Tutorial MouseText,,,,,,靠近牆壁跳起，再按 <JumpCursor> 以使出蹬牆跳來翻越高牆。,,OK,,
-100336,28897,"Jump, then press <A> again when close to a wall to do a wall jump and climb up",maps/Tutorial/scenario.lua(00064),,Scenario Tutorial GamepadText,,,,,,靠近牆壁跳起，再按 <A> 以使出蹬牆跳來翻越高牆。,,OK,,
+100331,28897,Press <Jump> to jump,maps/Tutorial/scenario.lua(00031),,Scenario Tutorial Text,,,,,,按<Jump>跳躍。,,OK,,
+100332,28897,Press <JumpCursor> to jump towards the mouse pointer,maps/Tutorial/scenario.lua(00032),,Scenario Tutorial MouseText,,,,,,按<JumpCursor>向游標方向跳躍。,,OK,,
+100333,28897,Press <A> to jump,maps/Tutorial/scenario.lua(00033),,Scenario Tutorial GamepadText,,,,,,按<A>跳躍。,,OK,,
+100334,28897,"<color 119 230 30>Jump</color>, then press <Jump> again when close to a wall to do a wall jump and climb up",maps/Tutorial/scenario.lua(00062),,Scenario Tutorial Text,,,,,,靠近牆壁跳起，再按<Jump>以使出蹬牆跳來翻越高牆。,,OK,,
+100335,28897,"<color 119 230 30>Jump</color>, then press <JumpCursor> again when close to a wall to do a wall jump and climb up",maps/Tutorial/scenario.lua(00063),,Scenario Tutorial MouseText,,,,,,靠近牆壁跳起，再按<JumpCursor>以使出蹬牆跳來翻越高牆。,,OK,,
+100336,28897,"Jump, then press <A> again when close to a wall to do a wall jump and climb up",maps/Tutorial/scenario.lua(00064),,Scenario Tutorial GamepadText,,,,,,靠近牆壁跳起，再按<A>以使出蹬牆跳來翻越高牆。,,OK,,
 100337,28897,Training Room,maps/Tutorial_Dungeon/objects.lua(01079),,,,,,,,訓練室,,OK,,
 100338,28897,Mess Hall,maps/Tutorial_Dungeon/objects.lua(01619),,,,,,,,食堂,,OK,,
 100339,28897,Mess Hall,maps/Tutorial_Dungeon/objects.lua(02142),,,,,,,,食堂,,OK,,
 100340,28897,Castle Courtyard,maps/Tutorial_Dungeon/objects.lua(04447),,,,,,,,城堡庭院,,OK,,
-100341,28897,Attack the dummies using your weapon's special attacks (<Attack2> and <Attack3>). Each weapon has a basic attack and two powerful special attacks with short cooldowns,maps/Tutorial_Dungeon/scenario.lua(00019),,Scenario Tutorial_Dungeon Text,,,,,,使用武器的招式（<Attack2> 和 <Attack3>）攻擊假人。<red></red>每種武器都有一個基本攻擊和兩個強力但需要短暫冷卻的招式。,,OK,,
-100342,28897,Attack the dummies using your weapon's special attacks (<Y> or <B>). Each weapon has a basic attack and two powerful special attacks with short cooldowns,maps/Tutorial_Dungeon/scenario.lua(00020),,Scenario Tutorial_Dungeon GamepadText,,,,,,使用武器的招式（<Y> 和 <B>）攻擊假人。<red></red>每種武器都有一個基本攻擊和兩個強力但需要短暫冷卻的招式。,,OK,,
-100343,28897,Looks like you took some damage. Press <UseConsumable1> to use a healing potion,maps/Tutorial_Dungeon/scenario.lua(00039),,Scenario Tutorial_Dungeon Text,,,,,,你似乎受了點傷。按 <UseConsumable1> 使用治療藥水。,,OK,,
-100344,28897,Looks like you took some damage. Press <DPadLeft> to use a healing potion,maps/Tutorial_Dungeon/scenario.lua(00040),,Scenario Tutorial_Dungeon GamepadText,,,,,,你似乎受了點傷。按 <DPadLeft> 使用治療藥水。,,OK,,
+100341,28897,Attack the dummies using your weapon's special attacks (<Attack2> and <Attack3>). Each weapon has a basic attack and two powerful special attacks with short cooldowns,maps/Tutorial_Dungeon/scenario.lua(00019),,Scenario Tutorial_Dungeon Text,,,,,,使用武器的招式（<Attack2>和<Attack3>）攻擊假人。<red></red>每種武器都有一個基本攻擊和兩個強力但需要短暫冷卻的招式。,,OK,,
+100342,28897,Attack the dummies using your weapon's special attacks (<Y> or <B>). Each weapon has a basic attack and two powerful special attacks with short cooldowns,maps/Tutorial_Dungeon/scenario.lua(00020),,Scenario Tutorial_Dungeon GamepadText,,,,,,使用武器的招式（<Y>和<B>）攻擊假人。<red></red>每種武器都有一個基本攻擊和兩個強力但需要短暫冷卻的招式。,,OK,,
+100343,28897,Looks like you took some damage. Press <UseConsumable1> to use a healing potion,maps/Tutorial_Dungeon/scenario.lua(00039),,Scenario Tutorial_Dungeon Text,,,,,,你似乎受了點傷。按<UseConsumable1>使用治療藥水。,,OK,,
+100344,28897,Looks like you took some damage. Press <DPadLeft> to use a healing potion,maps/Tutorial_Dungeon/scenario.lua(00040),,Scenario Tutorial_Dungeon GamepadText,,,,,,你似乎受了點傷。按<DPadLeft>使用治療藥水。,,OK,,
 100345,28897,Collect your reward,maps/Tutorial_Dungeon/scenario.lua(00117),,Scenario Tutorial_Dungeon Text,,,,,,領取你的獎勵！,,OK,,
-100346,28897,Press <InventoryPC> to open your inventory and equip your new shotgun,maps/Tutorial_Dungeon/scenario.lua(00128),,Scenario Tutorial_Dungeon Text,,,,,,按 <InventoryPC> 打開物品欄並裝備新的霰彈槍。,,OK,,
-100347,28897,Press <Back> to open your inventory and equip your new shotgun,maps/Tutorial_Dungeon/scenario.lua(00129),,Scenario Tutorial_Dungeon GamepadText,,,,,,按 <Back> 打開物品欄並裝備新的霰彈槍。,,OK,,
+100346,28897,Press <InventoryPC> to open your inventory and equip your new shotgun,maps/Tutorial_Dungeon/scenario.lua(00128),,Scenario Tutorial_Dungeon Text,,,,,,按<InventoryPC>打開物品欄並裝備新的霰彈槍。,,OK,,
+100347,28897,Press <Back> to open your inventory and equip your new shotgun,maps/Tutorial_Dungeon/scenario.lua(00129),,Scenario Tutorial_Dungeon GamepadText,,,,,,按<Back>打開物品欄並裝備新的霰彈槍。,,OK,,
 100348,28897,Test your new shotgun and its special attacks on the dummies,maps/Tutorial_Dungeon/scenario.lua(00145),,Scenario Tutorial_Dungeon Text,,,,,,用假人測試你的霰彈槍和招式。,,OK,,
 100349,28897,The yellow bar next to your health bar is called Overdrive. Attack the dummies to build up Overdrive!,maps/Tutorial_Dungeon/scenario.lua(00167),,Scenario Tutorial_Dungeon Text,,,,,,生命右邊的那條黃色就是超能。攻擊假人來凝聚超能吧！,,OK,,
-100350,28897,Press <UseRune1> to activate a Demon Power. You can hold <UseRune1> to aim the demon power,maps/Tutorial_Dungeon/scenario.lua(00174),,Scenario Tutorial_Dungeon Text,,,,,,按 <UseRune1> 施展惡魔之力。按住 <UseRune1> 可以進行瞄準。,,OK,,
-100351,28897,Press <LT> to activate a Demon Power. You can hold <LT> to aim the demon power,maps/Tutorial_Dungeon/scenario.lua(00175),,Scenario Tutorial_Dungeon GamepadText,,,,,,按 <LT> 施展惡魔之力。按住 <LT> 可以進行瞄準。,,OK,,
+100350,28897,Press <UseRune1> to activate a Demon Power. You can hold <UseRune1> to aim the demon power,maps/Tutorial_Dungeon/scenario.lua(00174),,Scenario Tutorial_Dungeon Text,,,,,,按<UseRune1>施展惡魔之力。按住<UseRune1>可以進行瞄準。,,OK,,
+100351,28897,Press <LT> to activate a Demon Power. You can hold <LT> to aim the demon power,maps/Tutorial_Dungeon/scenario.lua(00175),,Scenario Tutorial_Dungeon GamepadText,,,,,,按<LT>施展惡魔之力。按住<LT>可以進行瞄準。,,OK,,
 100460,30340,Destroy the box!,maps/Tutorial_Dungeon/scenario.lua(00319),,Scenario Tutorial_Dungeon Text,,,,,,破壞箱子！,,OK,,
 3365,194283,"Zagoravia, the Fallen City. The land of no return.",Data/Scenario/Cutscene_texts.lua(00013),Act0 00 Cutscene 1: Intro ,,Victor Vran,Victor Vran,,,,淪陷之城，扎古拉維亞。一個不歸之地。,,OK,,
 3366,194283,Where darkness won and we demon hunters lost.,Data/Scenario/Cutscene_texts.lua(00017),Act0 00 Cutscene 1: Intro ,,Victor Vran,Victor Vran,,,,在那裡，黑暗猖獗，獵魔人衰敗。,,OK,,
@@ -6700,7 +6700,7 @@ Go now! Descend into the Well of Worlds and travel to the Demon World. Find the 
 
 去吧！下去異界之井並前往魔界。找到束縛卡特蓮娜的黑暗契約並摧毀它！",,OK,,
 2231,196015,"You're a resourceful man Victor, but you wouldn't last five minutes in the world of demons. Let me come with you.",Data/Conversations/Nadezhda.lua(00212),Act2 291 Irene Wants To Go To The Well Of Worlds,,Irene,Irene,,,,你是個足智多謀的人，維克多，但你在魔界撐不了五分鐘的。讓我陪你一起去。,,OK,,
-2232,194283,No. I've had enough people suffer the consequences of my decisions. I must do this alone.,Data/Conversations/Nadezhda.lua(00216),Act2 291 Irene Wants To Go To The Well Of Worlds,,Victor Vran,Victor Vran,,,,不行，我已經害夠多的人因我的決定而受苦了。這件事我必須獨自去做。,,OK,,
+2232,194283,No. I've had enough people suffer the consequences of my decisions. I must do this alone.,Data/Conversations/Nadezhda.lua(00216),Act2 291 Irene Wants To Go To The Well Of Worlds,,Victor Vran,Victor Vran,,,,不，我已經害夠多的人因我的決定而受苦了。這件事我必須獨自去做。,,OK,,
 3201,194283,"Why are you doing this, Victor? Why would you risk your life for something that is not your cause?",Data/Scenario/Banters_RoyalBridges.lua(00015),Act2 30 Banters_RoyalBridges,,Voice,Voice,,,,為什麼你要這樣做，維克多？為什麼要為與你無關的事拼命？,,OK,,
 3202,194283,"Oh, I see. You are looking for answers, for purpose. You believe that whatever lies in here would help you ease your guilt and self-disgust.",Data/Scenario/Banters_RoyalBridges.lua(00019),Act2 30 Banters_RoyalBridges,,Voice,Voice,,,,哦，我知道了。你在尋找答案、尋找使命。你相信這裡的東西能幫你減輕你的內疚和自我厭惡。,,OK,,
 3203,194283,Mortals are so amusing.,Data/Scenario/Banters_RoyalBridges.lua(00023),Act2 30 Banters_RoyalBridges,,Voice,Voice,,,,凡人真是有趣。,,OK,,
@@ -6835,7 +6835,7 @@ Find Gabriel in his mansion beyond the industrial quarter, hunter. He has always
 3438,194283,Can evil ever be truly defeated?,Data/Scenario/Cutscene_texts.lua(00330),Act3 05 Cutscene 6: The End,,Victor Vran,Victor Vran,,,,邪惡能被徹底打敗嗎？,,OK,,
 3439,194283,"Or is it eternal, like a dark seed, always finding new ways to sprout and corrupt the world?",Data/Scenario/Cutscene_texts.lua(00334),Act3 05 Cutscene 6: The End,,Victor Vran,Victor Vran,,,,或者它是永恆的，就像一顆黑暗的種子，總能找到新的土壤發芽，然後腐化這個世界？,,OK,,
 3440,194283,I don't know.,Data/Scenario/Cutscene_texts.lua(00338),Act3 05 Cutscene 6: The End,,Victor Vran,Victor Vran,,,,我不知道。,,OK,,
-3441,194283,"What I do know is the soul of the elder vampire now belongs to the Solicitor, bound by the pact signed with his own unholy blood.",Data/Scenario/Cutscene_texts.lua(00342),Act3 05 Cutscene 6: The End,,Victor Vran,Victor Vran,,,,我只知道這個古老吸血鬼的靈魂現在屬於誘魂者的了，被自己不淨之血所簽訂的契約束縛。,,OK,,
+3441,194283,"What I do know is the soul of the elder vampire now belongs to the Solicitor, bound by the pact signed with his own unholy blood.",Data/Scenario/Cutscene_texts.lua(00342),Act3 05 Cutscene 6: The End,,Victor Vran,Victor Vran,,,,我只知道這個古老吸血鬼的靈髓現在屬於誘魂者的了，被自己不淨之血所簽訂的契約束縛。,,OK,,
 3442,194283,"In the end, he fell victim to his own plot.",Data/Scenario/Cutscene_texts.lua(00346),Act3 05 Cutscene 6: The End,,Victor Vran,Victor Vran,,,,最終，他淪為了自己計畫的犧牲品。,,OK,,
 3443,194283,"Poetic justice, maybe?",Data/Scenario/Cutscene_texts.lua(00350),Act3 05 Cutscene 6: The End,,Victor Vran,Victor Vran,,,,是惡有惡報嗎？,,OK,,
 3444,194283,"Some kind of justice, to be sure.",Data/Scenario/Cutscene_texts.lua(00354),Act3 05 Cutscene 6: The End,,Victor Vran,Victor Vran,,,,也算是某種報應吧。,,OK,,
