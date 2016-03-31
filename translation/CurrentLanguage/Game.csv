@@ -711,7 +711,7 @@ Outfits modify the way Victor Vran gains or spends Overdrive. For example the st
 2147,194283,Outfits,Data/CodexEntry.lua(00040),,CodexEntry Hint_Outfits DisplayName,,,,,,服裝,,OK,,
 2148,195189,"Outfits are items that change your outlook and the way you use Demon Powers and Overdrive. Some Outfits provide Armor and other bonuses.
 
-You may customize the color of your Outfit by transmuting it together with Dyes.",Data/CodexEntry.lua(00041),,CodexEntry Hint_Outfits Description,,,,,,"服裝是能改變你的外觀和使用惡魔之力與超能的物品。有些服裝會提供防禦和其它加成。
+You may customize the color of your Outfit by transmuting it together with Dyes.",Data/CodexEntry.lua(00041),,CodexEntry Hint_Outfits Description,,,,,,"服裝是能改變你的外觀和改變惡魔之力與超能運用方式的物品。有些服裝會提供防禦和其它加成。
 
 將服裝和染料一同合成，可自訂服裝的顏色。",,OK,,
 2149,194283,Destiny Cards,Data/CodexEntry.lua(00046),,CodexEntry Hint_DestinyCards DisplayName,,,,,,命運牌,,OK,,
@@ -4051,8 +4051,8 @@ Check your Codex to see the standard recipes. Some recipes are secret and will n
 4124,195942,Open Inventory,Lua/UIDesignerData/Inventory.lua(00650),,layoutsub,,,,,,打開物品欄,,OK,,
 4125,195942,Move,Lua/UIDesignerData/Inventory.lua(00664),,layoutsub,,,,,,移動,,OK,,
 4126,195942,Dodge (while moving),Lua/UIDesignerData/Inventory.lua(00678),,layoutsub,,,,,,翻滾（移動時）,,OK,,
-4127,196259,Cast Demon Power 1,Lua/UIDesignerData/Inventory.lua(00692),,layoutsub,,,,,,施展惡魔之力1,,OK,,
-4128,196259,Cast Demon Power 2,Lua/UIDesignerData/Inventory.lua(00706),,layoutsub,,,,,,施展惡魔之力2,,OK,,
+4127,196259,Cast Demon Power 1,Lua/UIDesignerData/Inventory.lua(00692),,layoutsub,,,,,,使用惡魔之力1,,OK,,
+4128,196259,Cast Demon Power 2,Lua/UIDesignerData/Inventory.lua(00706),,layoutsub,,,,,,使用惡魔之力2,,OK,,
 1560,194283,News,Lua/UIDesignerData/Inventory.lua(03412),,news,,,,,,新消息,,OK,,
 3586,195189,Information,Lua/UIDesignerData/Inventory.lua(03591),,transmute,,,,,,資訊,,OK,,
 3587,194913,Transmute,Lua/UIDesignerData/Inventory.lua(03705),,transmute_center,,,,,,合成,,OK,,
