@@ -2236,10 +2236,10 @@ Combine with other Gift Boxes in Transmutation to get better items",Lua/Item.lua
 4350,198395,Emote: Salute,Lua/LocalizationTexts.lua(00145),,,,,,,,表情：敬禮,,OK,,
 4351,198395,Emote: Threaten,Lua/LocalizationTexts.lua(00146),,,,,,,,表情：威脅,,OK,,
 4352,198395,Emote: Yes,Lua/LocalizationTexts.lua(00147),,,,,,,,表情：接受,,OK,,
-4354,199653,Once you set this as the active emote you can use it with <DPadUp>,Lua/LocalizationTexts.lua(00149),,,,,198395,,,設成常用表情時，你可以按 <DPadUp> 直接使用。,,changed,,
-4355,199653,Once you set this as the active emote you can use it with <DefaultEmote>,Lua/LocalizationTexts.lua(00151),,,,,198395,,,設成常用表情時，你可以按 <DefaultEmote> 直接使用。,,changed,"Tag <DefaultEmote> not present in translated text
+4354,199653,Once you set this as the active emote you can use it with <DPadUp>,Lua/LocalizationTexts.lua(00149),,,,,198395,,,設成預設表情時，你可以按<DPadUp>直接使用。,,changed,,
+4355,199653,Once you set this as the active emote you can use it with <DefaultEmote>,Lua/LocalizationTexts.lua(00151),,,,,198395,,,設成預設表情時，你可以按<DefaultEmote>直接使用。,,changed,"Tag <DefaultEmote> not present in translated text
 Tag <UseDefaultEmote> not present in original text",
-4357,198395,Set as Active Emote,Lua/LocalizationTexts.lua(00155),,,,,,,,設成常用表情。,,OK,,
+4357,198395,Set as Active Emote,Lua/LocalizationTexts.lua(00155),,,,,,,,設成預設表情。,,OK,,
 4358,198395,Can be used by typing /dance in the chat window.,Lua/LocalizationTexts.lua(00157),,,,,,,,可以在聊天視窗下輸入/dance使用。,,OK,,
 4359,198395,Can be used by typing /point in the chat window.,Lua/LocalizationTexts.lua(00158),,,,,,,,可以在聊天視窗下輸入/point使用。,,OK,,
 4360,198395,Can be used by typing /wave in the chat window.,Lua/LocalizationTexts.lua(00159),,,,,,,,可以在聊天視窗下輸入/wave使用。,,OK,,
