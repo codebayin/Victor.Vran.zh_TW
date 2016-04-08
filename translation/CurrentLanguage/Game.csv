@@ -5921,7 +5921,7 @@ Casting a demon power while wielding a Tome grants <condition_name>.<condition_d
 101093,32747,The Brooding Juggler...,maps/TheBastille/scenario.lua(02052),,Scenario TheBastille Text,,,,,,鬱悶雜耍人……,,OK,,
 101094,32747,"Vex, the Uninvited...",maps/TheBastille/scenario.lua(02076),,Scenario TheBastille Text,,,,,,不速之客．維克斯……,,OK,,
 101095,32747,The Creeping Chaos...,maps/TheBastille/scenario.lua(02094),,Scenario TheBastille Text,,,,,,伏行混沌……,,OK,,
-101096,32747,...and the Zagoravian Giants,maps/TheBastille/scenario.lua(02112),,Scenario TheBastille Text,,,,,,……以及扎戈拉維亞巨獸,,OK,,
+101096,32747,...and the Zagoravian Giants,maps/TheBastille/scenario.lua(02112),,Scenario TheBastille Text,,,,,,……以及扎戈拉維亞巨人隊,,OK,,
 101097,32747,...and the Longshots,maps/TheBastille/scenario.lua(02130),,Scenario TheBastille Text,,,,,,……以及遠程炮火,,OK,,
 101098,32747,...and the Woodland Haunters,maps/TheBastille/scenario.lua(02148),,Scenario TheBastille Text,,,,,,……以及林地幽魂,,OK,,
 101099,32747,...and the Wandering Faithless ,maps/TheBastille/scenario.lua(02166),,Scenario TheBastille Text,,,,,,……以及徘徊的無信者,,OK,,
