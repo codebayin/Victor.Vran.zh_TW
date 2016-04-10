@@ -3640,7 +3640,7 @@ Please keep your serial number safe. It is required to change your user name and
 1267,194283,<color_pref><name><color_suff> (Level <level>),Lua/UI/MenuOnline.lua(00244),,,,,,,,<color_pref><name><color_suff>（等級<level>）,,OK,,
 1168,194283,<cat_name> (<num>),Lua/UI/MenuOnline.lua(00248),,,,,,,,<cat_name>（<num>）,,OK,,
 1268,194283,Game: <name>,Lua/UI/MenuOnline.lua(00266),,,,,,,,遊戲：<name>,,OK,,
-4242,197203,Teleport to <name>,Lua/UI/MenuOnline.lua(00345),,,,,,,,傳送到<name>,,OK,,
+4242,197203,Teleport to <name>,Lua/UI/MenuOnline.lua(00345),,,,,,,,傳送到<name>身邊,,OK,,
 1269,194283,Online,Lua/UI/MenuOnline.lua(00364),,,,,,,,線上,,OK,,
 4417,198395,None,Lua/UI/MenuOnline.lua(00368),,,,,,,,無,,OK,,
 1270,194283,Close,Lua/UI/MenuOnline.lua(00408),,,,,,,,關閉,,OK,,
