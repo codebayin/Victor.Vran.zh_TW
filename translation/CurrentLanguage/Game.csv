@@ -3090,7 +3090,7 @@ Rune Duration: <lightgreen><rune_duration_s>.<rune_duration_d></lightgreen> sec<
 4051,196416,This bounty has been completed on <month>/<day>/<year>.,Lua/ServerSideDrop.lua(00197),,,,,,,,此懸賞令已於<year>/<month>/<day>完成。,,OK,,
 4202,196416,This bounty has expired on <month>/<day>/<year>.,Lua/ServerSideDrop.lua(00203),,,,,,,,此懸賞令已於<year>/<month>/<day>過期。,,OK,,
 3991,195716,Bounty,Lua/ServerSideDrop.lua(00207),,,,,,,,懸賞令,,OK,,
-3992,195716,Bounty <bounty_name>,Lua/ServerSideDrop.lua(00207),,,,,,,,<bounty_name>懸賞令,,OK,,
+3992,195716,Bounty <bounty_name>,Lua/ServerSideDrop.lua(00207),,,,,,,,懸賞令,,OK,,
 4052,196015,Search,Lua/ServerSideDrop.lua(00293),,,,,,,,搜索,,OK,,
 3993,197306,Seek treasure clues in the following locations:<newline>,Lua/ServerSideDrop.lua(00389),,,,,,,,找到下列地點的尋寶線索：<newline>,,OK,,
 4053,196416,This treasure hunt has been completed on <month>/<day>/<year>.,Lua/ServerSideDrop.lua(00394),,,,,,,,此尋寶圖已於<year>/<month>/<day>完成。,,OK,,
